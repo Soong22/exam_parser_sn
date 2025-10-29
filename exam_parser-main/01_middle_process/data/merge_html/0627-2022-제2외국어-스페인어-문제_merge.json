@@ -1,0 +1,3664 @@
+[
+  {
+    "type": "text",
+    "text": "제5교시",
+    "bbox": [
+      92,
+      154,
+      173,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제2외국어/한문 영역(스페인어 I)",
+    "bbox": [
+      185,
+      144,
+      708,
+      200
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      221,
+      209,
+      625,
+      239
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>성명</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>수험 번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>……</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "d51589ad7ecf2d214782e584e25c37b6c22320d0b68602c8ab0b6aa5d1e54a5a.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "1. 밑줄 친 낱말과 강세의 위치가 같은 것은?  [1점]\n",
+    "bbox": [
+      86,
+      255,
+      346,
+      272
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9,
+      "end_orig": 42,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      279,
+      266,
+      413
+    ],
+    "page_idx": 0,
+    "image_path": "1c820a054fcfa8e41a5120434560ad028786cfc51802dd7861b06050ca09972a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "①  edad\n②  actor\n③  nariz\n④  orden\n⑤  papel",
+    "bbox": [
+      290,
+      301,
+      338,
+      390
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 42,
+      "end_orig": 85,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "2. 두 낱말의 겹쳐진 부분에 공통으로 들어갈 글자는?  [1점]\n①  gua ②  gue ③  gui ④  geo ⑤  gio",
+    "bbox": [
+      85,
+      451,
+      389,
+      537
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 124,
+      "end_orig": 195,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      158,
+      475,
+      339,
+      513
+    ],
+    "page_idx": 0,
+    "image_path": "b091d23ec17b99e024b370f2e65eb4e529e38c445f27d210a14d9d23dee901eb.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "3. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      568,
+      274,
+      586
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 196,
+      "end_orig": 217,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : ¿Qué  hace  tu  profesor  para  el  hielo  en  tu clase  de  español?\n",
+    "bbox": [
+      105,
+      598,
+      398,
+      631
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.98,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 218,
+      "end_orig": 292,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Bueno,  cantamos  una  canción  al  empezar  la  clase.",
+    "bbox": [
+      105,
+      633,
+      378,
+      650
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 292,
+      "end_orig": 351,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Es  una  buena  idea.",
+    "bbox": [
+      106,
+      652,
+      223,
+      667
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 352,
+      "end_orig": 377,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": " ②  cubrir ③  romper  ④  prestar ⑤  recordar",
+    "bbox": [
+      97,
+      676,
+      403,
+      699
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9375,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 386,
+      "end_orig": 430,
+      "reason": "anchor_rescue+left_extend"
+    }
+  },
+  {
+    "type": "text",
+    "text": "4. 빈칸에 들어갈 말로 알맞은 것은?  [1점]\n",
+    "bbox": [
+      86,
+      729,
+      303,
+      747
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 431,
+      "end_orig": 459,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Me gusta la obra Las Cuatro de Vivaldi.",
+    "bbox": [
+      194,
+      762,
+      399,
+      794
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 459,
+      "end_orig": 501,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : A mí también. Entre ellas me gusta más «El Verano». ¿Y a ti? ",
+    "bbox": [
+      193,
+      796,
+      398,
+      828
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9495,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 502,
+      "end_orig": 567,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "K",
+    "bbox": [
+      101,
+      813,
+      182,
+      856
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: «El Invierno».",
+    "bbox": [
+      194,
+      830,
+      284,
+      847
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9333,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 567,
+      "end_orig": 584,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Letras ②  Semanas ③  Estaciones\n④  Ceremonias ⑤  Esperanzas",
+    "bbox": [
+      97,
+      858,
+      374,
+      896
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9792,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 585,
+      "end_orig": 647,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "5.빈간에 공통으로 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      927,
+      323,
+      946
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : ¿Puedes  darme  agua  fría,  por  favor?  Es  que hace  mucho  calor. ",
+    "bbox": [
+      105,
+      957,
+      399,
+      989
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9615,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 675,
+      "end_orig": 749,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Lo  siento,  solo  tengo  esta.  Si  no  está  fría, tampoco  está  caliente.  ¿Quieres? A ",
+    "bbox": [
+      105,
+      991,
+      399,
+      1023
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9481,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 749,
+      "end_orig": 844,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Si, gracias.",
+    "bbox": [
+      105,
+      1026,
+      183,
+      1042
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  ya ②  muy ③  tan ④  bien ⑤  poco",
+    "bbox": [
+      97,
+      1049,
+      385,
+      1071
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 860,
+      "end_orig": 895,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "6. 빈칸에 들어갈 말로 알맞은 것은?  [1점] ",
+    "bbox": [
+      434,
+      254,
+      654,
+      272
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 896,
+      "end_orig": 924,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Su  nombre,  por  favor.",
+    "bbox": [
+      454,
+      285,
+      587,
+      301
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 924,
+      "end_orig": 952,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Soy  Eunmi.",
+    "bbox": [
+      453,
+      302,
+      534,
+      318
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 953,
+      "end_orig": 968,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A:i ?",
+    "bbox": [
+      453,
+      319,
+      572,
+      337
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3975,
+      "end_orig": 3977,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : E-U-N-M-I.",
+    "bbox": [
+      453,
+      337,
+      541,
+      352
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 977,
+      "end_orig": 991,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Qué  necesita ②  Qué  prefiere\n③  Para  qué  sirve ④  Cómo  se  siente\n⑤  Cómo  se  escribe",
+    "bbox": [
+      446,
+      365,
+      700,
+      416
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 992,
+      "end_orig": 1086,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "7. 밑줄 친 부분과 바꾸어 쓸 수 있는 것은?  [1점] ",
+    "bbox": [
+      435,
+      464,
+      690,
+      482
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1087,
+      "end_orig": 1120,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      489,
+      753,
+      645
+    ],
+    "page_idx": 0,
+    "image_path": "690c2b434700987b57e0a4543652aea73bb28916404d0709ee7c5f2f9a0d17b6.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "①  Qué  tiene ②  Dónde  vive ③  Quién  habla\n④  Cómo  se  llama ⑤  A  qué  se  dedica",
+    "bbox": [
+      446,
+      648,
+      729,
+      683
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1185,
+      "end_orig": 1270,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "8. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      435,
+      730,
+      623,
+      749
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1271,
+      "end_orig": 1292,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Rafael,  ¿no  es  muy  picante  esta  comida  para  ti?\n",
+    "bbox": [
+      453,
+      762,
+      718,
+      777
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9756,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1293,
+      "end_orig": 1353,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : No,  .  En  mi  país  hay  muchas  comidas picantes  como  esta.",
+    "bbox": [
+      453,
+      778,
+      746,
+      810
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9892,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1353,
+      "end_orig": 1421,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : iDe verdad?",
+    "bbox": [
+      454,
+      814,
+      538,
+      828
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  para  nada ②  es  posible ③  con  permiso\n④  se  lo  paso ⑤  no  hay  nadie",
+    "bbox": [
+      446,
+      840,
+      730,
+      876
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.98,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1439,
+      "end_orig": 1517,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "9.빈간에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      434,
+      922,
+      624,
+      942
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Siento  mucho  llegar  tarde.",
+    "bbox": [
+      454,
+      953,
+      607,
+      969
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1540,
+      "end_orig": 1573,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : .  La  verdad  es  que  yo  también  acabo de  llegar.",
+    "bbox": [
+      453,
+      972,
+      746,
+      1005
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1574,
+      "end_orig": 1632,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Ah, isi? Menos mal.",
+    "bbox": [
+      455,
+      1006,
+      579,
+      1020
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  En  seguida ②  Desde  luego ③  Estoy  seguro\n④  Por  supuesto ⑤  No  hay  problema",
+    "bbox": [
+      446,
+      1032,
+      735,
+      1068
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1660,
+      "end_orig": 1745,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "10. 빈칸에 들어갈 말로 알맞은 것만을",
+    "bbox": [
+      87,
+      157,
+      287,
+      175
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1746,
+      "end_orig": 1768,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 7 1 > 0 1 1",
+    "bbox": [
+      288,
+      159,
+      336,
+      173
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "서 고른 것은?",
+    "bbox": [
+      337,
+      157,
+      407,
+      175
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1774,
+      "end_orig": 1782,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : ¿Cómo  te  fue  el  examen  de  hoy?\n",
+    "bbox": [
+      105,
+      187,
+      294,
+      203
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9615,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1783,
+      "end_orig": 1824,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Así,  así.  Me  queda  otro  examen  el  martes. ",
+    "bbox": [
+      104,
+      205,
+      341,
+      221
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9444,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1824,
+      "end_orig": 1877,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A:i ! Te va a salir muy bien.",
+    "bbox": [
+      104,
+      222,
+      331,
+      238
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Eso  espero.",
+    "bbox": [
+      105,
+      239,
+      185,
+      255
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1915,
+      "end_orig": 1931,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a.  Ánimo b.  Encantado\nc.  Mucha  suerte d.  Buen  viaje\n①  a,  b ②  a,  c ③  b,  c ④  b,  d ⑤  c,  d",
+    "bbox": [
+      97,
+      284,
+      384,
+      351
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9677,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1939,
+      "end_orig": 2041,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "11. 광고문을 이해한 내용으로 알맞지 않은 것은?",
+    "bbox": [
+      84,
+      402,
+      342,
+      421
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2042,
+      "end_orig": 2070,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "LIBROS  A  TU  CASA",
+    "bbox": [
+      230,
+      438,
+      351,
+      455
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2071,
+      "end_orig": 2090,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      131,
+      451,
+      209,
+      503
+    ],
+    "page_idx": 1,
+    "image_path": "60cefa86067a5c8e699f486e112fc8ecb63a0bc224bbc8a7738db73020a36ebb.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "Libros  nuevos  o  usados ¡Te  los  llevamos!\n•P",
+    "bbox": [
+      231,
+      457,
+      351,
+      487
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9429,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2091,
+      "end_orig": 2139,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "\n•Pedir  desde  300  pesos\n•No  pagar  el  servicio  por  la  compra  de más  de  600  pesos\nEnviamos  los  miércoles www.pagina11.com  Tel.  52  331  03  20\n①  첫 주문 시 배송 할인권을 준다.\n",
+    "bbox": [
+      97,
+      507,
+      360,
+      632
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.988,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2136,
+      "end_orig": 2316,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  책을 집으로 배송해 주는 서비스다.",
+    "bbox": [
+      97,
+      634,
+      288,
+      649
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2316,
+      "end_orig": 2338,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  주문한 책은 매주 수요일에 배송한다.",
+    "bbox": [
+      97,
+      651,
+      298,
+      666
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2339,
+      "end_orig": 2362,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  300페소 이상의 책을 주문해야 배송이 가능하다.\n",
+    "bbox": [
+      97,
+      669,
+      351,
+      684
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2363,
+      "end_orig": 2394,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  책 주문 금액이 600페소를 넘으면 무료로 배송한다.\n",
+    "bbox": [
+      97,
+      686,
+      367,
+      701
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2394,
+      "end_orig": 2427,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "12. 빈칸에 들어갈 말로 알맞은 것을 <보기",
+    "bbox": [
+      86,
+      756,
+      302,
+      772
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2427,
+      "end_orig": 2452,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      302,
+      759,
+      312,
+      770
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에서 찾아 순서대로 바르게 배열한 것은?",
+    "bbox": [
+      97,
+      756,
+      407,
+      792
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2453,
+      "end_orig": 2475,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Peluquería Lola. i ?",
+    "bbox": [
+      106,
+      804,
+      375,
+      820
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Hola.  Quería  pedir  una  cita  para  mañana. ",
+    "bbox": [
+      105,
+      821,
+      334,
+      838
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9722,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2503,
+      "end_orig": 2554,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Un  momento...  Lo  siento.  Mañana  estamos  todos ocupados.  ¿ ?\nB :",
+    "bbox": [
+      105,
+      839,
+      398,
+      872
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9423,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2554,
+      "end_orig": 2628,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : A  las  cuatro,  me  va  bien.",
+    "bbox": [
+      105,
+      873,
+      257,
+      889
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2625,
+      "end_orig": 2659,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Vale. i ?",
+    "bbox": [
+      105,
+      890,
+      321,
+      906
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Quiero  cortarme  el  pelo.",
+    "bbox": [
+      105,
+      907,
+      248,
+      923
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2675,
+      "end_orig": 2706,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Perfecto.",
+    "bbox": [
+      105,
+      925,
+      170,
+      940
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2707,
+      "end_orig": 2720,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보  기>",
+    "bbox": [
+      225,
+      954,
+      275,
+      970
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2721,
+      "end_orig": 2727,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a.  Qué  desea  hacerse\nb.  En  qué  puedo  servirle\nc.  Qué  le  parece  pasado  mañana",
+    "bbox": [
+      105,
+      972,
+      270,
+      1022
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2728,
+      "end_orig": 2816,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① a-b -c ② b -a -c ③ b − c −a ④ ㄷ - a −b ⑤ ㄷ - b - a",
+    "bbox": [
+      96,
+      1033,
+      361,
+      1069
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.8333,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2817,
+      "end_orig": 2881,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "13. 포스터의 빈칸 (a)에 들어갈 말로 알맞은 것은?  [1점]\n",
+    "bbox": [
+      434,
+      156,
+      728,
+      174
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2882,
+      "end_orig": 2920,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Lavarse las manos frecuentemente (a) por lo menos 30 segundos PREVENCIN DEL COVID-19",
+    "bbox": [
+      462,
+      195,
+      578,
+      360
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  tomando  el  sol\n②  andando  a  solas\n③  tocando  el  piano\n④  leyendo  una  novela\n⑤  usando  agua  y  jabón * prevención :  예방",
+    "bbox": [
+      497,
+      242,
+      734,
+      382
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9889,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2920,
+      "end_orig": 3051,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "14. 빈칸에 들어갈 말로 알맞은 것은?  [1점] ",
+    "bbox": [
+      435,
+      451,
+      660,
+      467
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3052,
+      "end_orig": 3081,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : El  25  de  este  mes  es  el  cumpleaños  de  Marta.  Voy  a dar  una  fiesta  sorpresa  en  mi  casa.",
+    "bbox": [
+      454,
+      480,
+      748,
+      513
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3081,
+      "end_orig": 3188,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : jQué bien! i ?",
+    "bbox": [
+      454,
+      515,
+      631,
+      530
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Es sbado. iVas a venir?",
+    "bbox": [
+      455,
+      533,
+      604,
+      547
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B: iClaro!",
+    "bbox": [
+      453,
+      550,
+      510,
+      564
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Cómo  va ②  Cuánto  es ③  Qué  día  es\n④  Adónde  va ⑤  Qué  tiempo  hace",
+    "bbox": [
+      446,
+      576,
+      725,
+      612
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9684,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3255,
+      "end_orig": 3331,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "15. 빈칸에 들어갈 말로 알맞은 것은?  [1점] ",
+    "bbox": [
+      435,
+      669,
+      661,
+      687
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3332,
+      "end_orig": 3361,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : ¡Mira,  está  nevando!  ¿Hacemos  un  muñeco  de  nieve?\n",
+    "bbox": [
+      455,
+      700,
+      744,
+      714
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9425,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3361,
+      "end_orig": 3422,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : ¡Genial!  Pero,  porque  todavía  no  he desayunado. ",
+    "bbox": [
+      453,
+      717,
+      747,
+      750
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9767,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3422,
+      "end_orig": 3479,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Entonces,  antes  de  salir,  ¿tomamos  algo?\nB ",
+    "bbox": [
+      454,
+      752,
+      682,
+      767
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3479,
+      "end_orig": 3531,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : De  acuerdo.",
+    "bbox": [
+      453,
+      769,
+      534,
+      784
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3529,
+      "end_orig": 3545,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  estoy  lista ②  estoy  llena ③  tengo  visita\n④  tengo  hambre ⑤  estoy  contenta",
+    "bbox": [
+      446,
+      795,
+      729,
+      831
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9916,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3546,
+      "end_orig": 3630,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "16. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      435,
+      888,
+      632,
+      906
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3631,
+      "end_orig": 3653,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Paco  no  contesta.  Ya  llevamos  una  hora  esperándolo.",
+    "bbox": [
+      455,
+      919,
+      745,
+      933
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3654,
+      "end_orig": 3716,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "No  pienso  quedar  con  él  nunca  más.",
+    "bbox": [
+      473,
+      938,
+      659,
+      951
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3717,
+      "end_orig": 3757,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : ¡Hombre,  !  A  lo  mejor  le  ha  pasado algo.  ¿Por  qué  no  esperamos  un  poco  más?\n",
+    "bbox": [
+      453,
+      953,
+      746,
+      986
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9677,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3758,
+      "end_orig": 3852,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Bueno,  ni  modo.",
+    "bbox": [
+      454,
+      988,
+      557,
+      1004
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3852,
+      "end_orig": 3873,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  quiero  verte  ②  no  es  para  tanto\n③  no  vamos  por  ti ④  te  lo  recomiendo\n⑤  me  cuesta  bailar",
+    "bbox": [
+      446,
+      1016,
+      707,
+      1066
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3874,
+      "end_orig": 3980,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "17. 이메일을 이해한 내용으로 알맞지 않은 것은?",
+    "bbox": [
+      85,
+      156,
+      343,
+      176
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3981,
+      "end_orig": 4009,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      99,
+      182,
+      399,
+      403
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td>− 미 ×</td></tr><tr><td>기 * Queridos mam y pap:</td></tr><tr><td>iMe encanta Madrid! Esta semana ha empezado el curso de cocina y alli he hecho nuevos amigos. Todos ellos son amables. Juntos hemos ido a la Gran Vía y al Museo del Prado. También hemos comido tapas. Aqu les mando una foto con ellos en la Puerta de Alcala. Esta Nochevieja espero comer doce uvas en la Puerta del Sol. iHay tantas cosas que hacer en esta ciudad!</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "2afd860a7dd9a9a52eac80fdb274ebe6cc9ae53b0a509b55190bbeb510ae779c.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "①  A  Ana  le  gusta  Madrid.",
+    "bbox": [
+      97,
+      410,
+      236,
+      425
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4473,
+      "end_orig": 4502,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  Es  un  e-mail  para  los  padres  de  Ana.",
+    "bbox": [
+      97,
+      427,
+      303,
+      444
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4503,
+      "end_orig": 4549,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  Ana  ha  comido  tapas  con  sus  amigos.",
+    "bbox": [
+      97,
+      444,
+      308,
+      461
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4550,
+      "end_orig": 4594,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  Ana  desea  comer  doce  uvas  en  la  Gran  Vía.\n",
+    "bbox": [
+      97,
+      461,
+      340,
+      478
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9706,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4595,
+      "end_orig": 4648,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  Ana  ha  hecho  nuevos  amigos  en  el  curso  de  cocina.",
+    "bbox": [
+      97,
+      479,
+      378,
+      496
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4648,
+      "end_orig": 4709,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "18. 빈간에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      531,
+      284,
+      548
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : ¡Todos  los  días  hay  que  sacar  la  basura! ",
+    "bbox": [
+      105,
+      561,
+      335,
+      577
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9429,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4733,
+      "end_orig": 4785,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "hoy?",
+    "bbox": [
+      217,
+      578,
+      249,
+      595
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4787,
+      "end_orig": 4791,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Tal  vez  a  Ignacio.  Ayer  lo  hice  yo.",
+    "bbox": [
+      104,
+      596,
+      296,
+      612
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4792,
+      "end_orig": 4838,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  A  cómo  está ②  Vas  a  nadar\n③  Va  a  descansar ④  A  quién  le  toca\n⑤  Te  vas  a  duchar",
+    "bbox": [
+      97,
+      624,
+      354,
+      676
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9831,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4839,
+      "end_orig": 4936,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "19. 빈간에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      710,
+      284,
+      728
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Tengo  tres  compañeros  extranjeros  en  mi  piso.",
+    "bbox": [
+      105,
+      741,
+      363,
+      758
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4960,
+      "end_orig": 5015,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { ~ B ~ : ~ } \\dot { \\iota }",
+    "bbox": [
+      105,
+      759,
+      132,
+      772
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "?",
+    "bbox": [
+      222,
+      760,
+      231,
+      774
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Ming  es  chino,  Julia  es  peruana  y  Alberto  es  italiano.",
+    "bbox": [
+      105,
+      776,
+      398,
+      792
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5024,
+      "end_orig": 5091,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Todos son simpticos.",
+    "bbox": [
+      126,
+      794,
+      238,
+      809
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  De  dónde  son ②  Quién  lo  llama\n③  Cómo  estamos ④  De  qué  tratamos\n⑤  Cuánto  nos  deben",
+    "bbox": [
+      97,
+      820,
+      358,
+      871
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9922,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5116,
+      "end_orig": 5213,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "20. 밑줄 친 부분과 유사한 의미로 바꾸어 쓸 수 있는 것은?",
+    "bbox": [
+      86,
+      906,
+      395,
+      924
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5214,
+      "end_orig": 5249,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Este  es  mi  primo  Jorge.",
+    "bbox": [
+      105,
+      937,
+      248,
+      953
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5250,
+      "end_orig": 5281,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : iQué edad tiene?",
+    "bbox": [
+      105,
+      954,
+      214,
+      969
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Tiene  treinta  años.  Es  dos  años  mayor  que  yo.",
+    "bbox": [
+      105,
+      971,
+      365,
+      988
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5305,
+      "end_orig": 5362,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Parece  muy  joven.",
+    "bbox": [
+      105,
+      989,
+      220,
+      1005
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5363,
+      "end_orig": 5386,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Se  tarda  dos  años ②  Me  lleva  dos  años\n③  Ha  vivido  dos  años ④  Me  quedan  dos  años\n⑤  Vuelven  en  dos  años",
+    "bbox": [
+      97,
+      1016,
+      379,
+      1067
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5387,
+      "end_orig": 5510,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "21. 빈칸에 들어갈 말로 가장 알맞은 것은?",
+    "bbox": [
+      434,
+      156,
+      659,
+      174
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5511,
+      "end_orig": 5536,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : ¡Ay,  mamá!  Tengo  un  problema. ",
+    "bbox": [
+      454,
+      188,
+      640,
+      204
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9434,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5537,
+      "end_orig": 5575,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B } : \\dot { \\omega } \\mathrm { Q u } \\acute { \\mathrm { e } }",
+    "bbox": [
+      453,
+      205,
+      501,
+      219
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "te  pasa,  hijo?",
+    "bbox": [
+      501,
+      204,
+      573,
+      221
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5585,
+      "end_orig": 5601,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Es  que  debo  presentar  un  trabajo  sobre  Cervantes  y leer  todo  este  libro.  ¡Es  mucho! B ",
+    "bbox": [
+      453,
+      221,
+      748,
+      253
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.979,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5602,
+      "end_orig": 5705,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Bueno,  .  Si  lees unas  páginas  cada  día,  puedes  hacerlo  tranquilamente.\n",
+    "bbox": [
+      453,
+      255,
+      748,
+      290
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9839,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5703,
+      "end_orig": 5787,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  las  paredes  oyen\n②  lo  barato  sale  caro\n③  poco  a  poco  se  va  lejos\n④  sobre  gustos  no  hay  nada  escrito\n⑤  ojos  que  no  ven,  corazón  que  no  siente",
+    "bbox": [
+      446,
+      303,
+      662,
+      388
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.982,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5787,
+      "end_orig": 5956,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "22. 글에서 설명하고 있는 작품은?  [1점]\n",
+    "bbox": [
+      435,
+      415,
+      645,
+      432
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5957,
+      "end_orig": 5984,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      439,
+      752,
+      579
+    ],
+    "page_idx": 2,
+    "image_path": "35eb62ca44a6d2be89b1931a7f1df16edb4ff4ca78bc54fcd39520e8035b9ca0.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "Es  una  de  las  obras  más  famosas  de  Pablo  Picasso.  El cuadro  habla  del  dolor  y  la  tragedia  que  trajo  la  Guerra Civil  española.  Podemos  verlo  en  el  Museo  Nacional Centro  de  Arte  Reina  Sofía.\n",
+    "bbox": [
+      453,
+      586,
+      747,
+      652
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9935,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5984,
+      "end_orig": 6204,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "* tragedia :  비극",
+    "bbox": [
+      671,
+      659,
+      747,
+      676
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6204,
+      "end_orig": 6220,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Guernica ②  Una  familia\n③  Diego  y  yo ④  Las  meninas\n⑤  La  maja  vestida",
+    "bbox": [
+      446,
+      685,
+      687,
+      738
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.963,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6221,
+      "end_orig": 6301,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "23. Las  Fallas에 관한 글을 이해한 내용으로 알맞지 않은 것은?",
+    "bbox": [
+      434,
+      763,
+      756,
+      784
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6302,
+      "end_orig": 6344,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      452,
+      792,
+      560,
+      877
+    ],
+    "page_idx": 2,
+    "image_path": "6c09e7dbe1c4445d07ac665c3233bd4e5e4d276b0ac53984bb7e09514843e1c5.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "Son  fiestas  muy  populares  en Valencia,  España.  Se  celebran  cada año  del  15  al  19  de  marzo.  En  estas fiestas  se  ponen  cientos  de  figuras llamadas  «fallas»  en  varias  partes  de la  ciudad  y  se  seleccionan  las  mejores  «fallas».  La  noche  del último  día  se  queman  todas  las  «fallas».  De  esta  forma  se da  la  bienvenida  a  la  primavera,  quemando  todo  lo  malo  del pasado.\n",
+    "bbox": [
+      453,
+      795,
+      747,
+      949
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9628,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6345,
+      "end_orig": 6762,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "* figura :  조형물  * seleccionar :  선정하다  * quemar :  태우다",
+    "bbox": [
+      470,
+      955,
+      747,
+      972
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6762,
+      "end_orig": 6817,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  매년 3월에 개최된다.\n",
+    "bbox": [
+      446,
+      983,
+      568,
+      998
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6818,
+      "end_orig": 6834,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  봄을 맞이하는 축제다.",
+    "bbox": [
+      446,
+      1000,
+      573,
+      1014
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6834,
+      "end_orig": 6849,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  조형물은 도시 곳곳에 전시된다.",
+    "bbox": [
+      446,
+      1017,
+      621,
+      1032
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6850,
+      "end_orig": 6870,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  매우 인기 있는 발렌시아의 축제다.",
+    "bbox": [
+      446,
+      1034,
+      636,
+      1049
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6871,
+      "end_orig": 6893,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  최고의 조형물은 전국에 순회 전시된다.",
+    "bbox": [
+      446,
+      1052,
+      657,
+      1066
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6894,
+      "end_orig": 6918,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "24. ‘cacao’에 관한 글에서 언급되지 않은 것은?",
+    "bbox": [
+      85,
+      156,
+      331,
+      175
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.92,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6919,
+      "end_orig": 6950,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      105,
+      184,
+      212,
+      269
+    ],
+    "page_idx": 3,
+    "image_path": "bb8053ebd15f67fdb7f81b15af0b3df27a12711b456be632da3c6be32192b00d.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "Es  un  producto  de  origen americano.  Según  la  RAE,  la palabra  «cacao»  viene  del  náhuatl caca´hua.  En  Mesoamérica,  lo consideraban  como  comida  de  los dioses,  y  también  se  utilizaba  como  dinero,  medicina  y bebida.  Los  españoles  lo  llevaron  a  Europ",
+    "bbox": [
+      105,
+      187,
+      399,
+      306
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8694,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6951,
+      "end_orig": 7228,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Como  la  bebida  de  cacao  tenía  un  sabor  amargo,  los españoles  pusieron  azúcar  para  hacerla  dulce.  Así  nació  el chocolate  de  hoy.\n",
+    "bbox": [
+      105,
+      309,
+      398,
+      359
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9811,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7251,
+      "end_orig": 7398,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      279,
+      368,
+      286,
+      378
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "RAE :  스페인왕립학술원 * considerar :  간주하다  * amargo :  쓴\n①  어원 ②  용도 ③  재배법\n④  원산지 ⑤  전파 시기",
+    "bbox": [
+      97,
+      367,
+      397,
+      443
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7400,
+      "end_orig": 7486,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "25. 글의 내용으로 보아 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      85,
+      479,
+      385,
+      498
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7487,
+      "end_orig": 7520,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      104,
+      507,
+      212,
+      596
+    ],
+    "page_idx": 3,
+    "image_path": "d97972cb13444222df3591e351e231389d429252f3d15b1d27a98e4993cc1166.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "Costa  Rica  es  un  país  con  una naturaleza  rica  y  diversa.  Tiene  ríos, montañas,  plantas,  animales  y  vistas hermosas.  El  país  recibe  muchos turistas  de  todo  el  mundo.  Su economía  tiene  mucho  que  ver  con  el  turismo,  así  que  este país  ha  desarrollado  un  plan  de  turismo  que  respeta .  Por  eso,  Costa  Rica  es  un  buen  modelo del  ecoturismo  para  el  mundo.\n",
+    "bbox": [
+      105,
+      511,
+      398,
+      664
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9877,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7521,
+      "end_orig": 7923,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "* diverso :  다양한",
+    "bbox": [
+      199,
+      672,
+      285,
+      687
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7923,
+      "end_orig": 7939,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      286,
+      675,
+      294,
+      684
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ecoturismo :  생태 관광\n①  la  casa  de  cambio ②  la  crisis  general\n③  el  medio  ambiente ④  la  contaminación\n⑤  el  centro  comercial",
+    "bbox": [
+      97,
+      672,
+      397,
+      749
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9688,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7943,
+      "end_orig": 8078,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "26. ‘chévere’에 관한 글을 이해한 내용으로 알맞은 것은? ",
+    "bbox": [
+      85,
+      785,
+      379,
+      804
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9333,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8079,
+      "end_orig": 8117,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "La  palabra  «chévere»  significa  lo  mismo  que  ‘estupendo’  o ‘buenísimo’,  y  también  quiere  decir  ‘bonito’  o  ‘agradable’.",
+    "bbox": [
+      105,
+      817,
+      397,
+      849
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9109,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8117,
+      "end_orig": 8249,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Se  utiliza  en  algunos  países  de  Latinoamérica  como Colombia,  Venezuela,  Bolivia  y  Perú.  Por  ejemplo,  si  estás en  Colombia  y  te  preguntan  «Oye,  ¿quieres  ir  al  cine conmigo?»,  puedes  contestar  «S",
+    "bbox": [
+      105,
+      852,
+      398,
+      918
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9691,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8250,
+      "end_orig": 8470,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\ll \\mathrm { S } \\acute { 1 }",
+    "bbox": [
+      250,
+      904,
+      267,
+      917
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",  chévere».  Así  mismo,  no es  nada  raro  escuchar  «Mis  padres  son  chéveres»,  «¡Qué chévere  la  película!»  entre  otros  ejemplos.  Si  vas  a  alguno de  estos  países,  es  útil  saber  esta  palabra.\n① ",
+    "bbox": [
+      106,
+      905,
+      398,
+      969
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9579,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8471,
+      "end_orig": 8687,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Su  origen  es  de  España.",
+    "bbox": [
+      97,
+      983,
+      238,
+      998
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8685,
+      "end_orig": 8715,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  No  se  usa  en  situaciones  buenas.",
+    "bbox": [
+      97,
+      999,
+      283,
+      1017
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8716,
+      "end_orig": 8756,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  Fuera  del  Perú,  no  se  utiliza  esta  palabra.",
+    "bbox": [
+      97,
+      1016,
+      326,
+      1034
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8757,
+      "end_orig": 8810,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  Se  puede  decir  «chévere»  en  vez  de  «estupendo».",
+    "bbox": [
+      97,
+      1034,
+      357,
+      1051
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9268,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8811,
+      "end_orig": 8868,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  Es  muy  raro  escuchar  esta  palabra  en  Colombia.",
+    "bbox": [
+      97,
+      1052,
+      361,
+      1068
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8869,
+      "end_orig": 8925,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "27. 빈칸에 들어갈 말로 알맞은 것은?  [1점]\n",
+    "bbox": [
+      434,
+      156,
+      662,
+      174
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8926,
+      "end_orig": 8955,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "• 15:30 b ① paseo iDónde estás?",
+    "bbox": [
+      501,
+      200,
+      708,
+      243
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.4082,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8966,
+      "end_orig": 8998,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  pasear\n③  paseado Estoy  con\n④  paseando Laura  por  el  parque.",
+    "bbox": [
+      495,
+      226,
+      725,
+      290
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8979,
+      "end_orig": 9046,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  paseándose",
+    "bbox": [
+      661,
+      275,
+      736,
+      294
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9524,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9047,
+      "end_orig": 9060,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "28. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      434,
+      365,
+      633,
+      383
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9061,
+      "end_orig": 9083,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : ¿Tienes  algún  plan  para  este  fin  de  semana?\n",
+    "bbox": [
+      455,
+      395,
+      702,
+      410
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9474,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9084,
+      "end_orig": 9139,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Sí.  Voy  a  practicar  yoga  con  mi  hermana. ",
+    "bbox": [
+      453,
+      412,
+      688,
+      428
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9714,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9139,
+      "end_orig": 9191,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A  ella  y  a  mí  interesa  tener  buena  salud.\n",
+    "bbox": [
+      473,
+      429,
+      709,
+      445
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9846,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9191,
+      "end_orig": 9241,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① ㄴe ② me ③ ④ ㄴes ⑤ ns",
+    "bbox": [
+      446,
+      452,
+      730,
+      473
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "29. 빈칸에 공통으로 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      434,
+      511,
+      680,
+      529
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9273,
+      "end_orig": 9300,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: iConoces a Maria?",
+    "bbox": [
+      455,
+      542,
+      571,
+      556
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { ~ B ~ } \\dot { : } \\mathrm { ~ S 1 ~ }",
+    "bbox": [
+      454,
+      560,
+      485,
+      573
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",  pero  no  muy  bien.  La  conozco  solo  vista.",
+    "bbox": [
+      486,
+      559,
+      732,
+      575
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9331,
+      "end_orig": 9381,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Ella  trabaja  aquí  secretaria  desde  hace  cinco meses. ",
+    "bbox": [
+      453,
+      576,
+      747,
+      609
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9892,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9382,
+      "end_orig": 9445,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : No lo sabia.",
+    "bbox": [
+      453,
+      611,
+      537,
+      626
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  a ②  de ③  en ④  por ⑤  para",
+    "bbox": [
+      446,
+      637,
+      734,
+      658
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9464,
+      "end_orig": 9495,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "30. 밑줄 친 부분의 쓰임이 옳은 것만을 있는 대로 고른 것은?",
+    "bbox": [
+      435,
+      695,
+      754,
+      714
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9496,
+      "end_orig": 9532,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Elena,  ¡qué  pronta  llegó  la  Semana  Santa! ",
+    "bbox": [
+      455,
+      727,
+      688,
+      742
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.973,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9533,
+      "end_orig": 9585,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(a) B : Tenemos  que  comprar  bastante  flores.",
+    "bbox": [
+      453,
+      741,
+      667,
+      772
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9585,
+      "end_orig": 9633,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(b) A: jSi, vamos!",
+    "bbox": [
+      454,
+      770,
+      622,
+      799
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Estos  días  hay  demasiada  gente  en  las  calles. ",
+    "bbox": [
+      453,
+      801,
+      705,
+      817
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.975,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9655,
+      "end_orig": 9712,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(c)",
+    "bbox": [
+      571,
+      816,
+      588,
+      830
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9712,
+      "end_orig": 9715,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  (a) ②  (c) ③  (a),  (b)\n④  (b),  (c) ⑤  (a),  (b),  (c)",
+    "bbox": [
+      446,
+      834,
+      706,
+      873
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9716,
+      "end_orig": 9774,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "*  확인 사항\n◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오.",
+    "bbox": [
+      445,
+      1007,
+      745,
+      1064
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9737,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9775,
+      "end_orig": 9824,
+      "reason": "passed_threshold_no_ws"
+    }
+  }
+]

@@ -1,0 +1,362 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        101,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                393,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        393,
+                                        121
+                                    ],
+                                    "score": 0.983,
+                                    "content": "2025학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        202,
+                        131,
+                        392,
+                        182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                130,
+                                393,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        130,
+                                        393,
+                                        157
+                                    ],
+                                    "score": 0.987,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                198,
+                                156,
+                                393,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        198,
+                                        156,
+                                        393,
+                                        183
+                                    ],
+                                    "score": 0.978,
+                                    "content": "(사회·문화 )과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        214,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                214,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        214,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                214,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>⑤</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>⑤</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>⑤</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "c2da682c97ab9ad28299258d5265d3b1ed139d604dcc96fcf4e9a9c90e546dc3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        214,
+                                        506,
+                                        293.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        293.0,
+                                        506,
+                                        372.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        372.0,
+                                        506,
+                                        451.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                842
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        101,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                393,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        393,
+                                        121
+                                    ],
+                                    "score": 0.983,
+                                    "content": "2025학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        202,
+                        131,
+                        392,
+                        182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                130,
+                                393,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        130,
+                                        393,
+                                        157
+                                    ],
+                                    "score": 0.987,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                198,
+                                156,
+                                393,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        198,
+                                        156,
+                                        393,
+                                        183
+                                    ],
+                                    "score": 0.978,
+                                    "content": "(사회·문화 )과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "bbox_fs": [
+                        198,
+                        130,
+                        393,
+                        183
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        214,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                214,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        214,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                214,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>⑤</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>⑤</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>⑤</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "c2da682c97ab9ad28299258d5265d3b1ed139d604dcc96fcf4e9a9c90e546dc3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        214,
+                                        506,
+                                        293.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        293.0,
+                                        506,
+                                        372.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        372.0,
+                                        506,
+                                        451.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.5.4"
+}

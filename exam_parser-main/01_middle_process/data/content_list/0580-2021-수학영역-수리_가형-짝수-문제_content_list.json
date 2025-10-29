@@ -1,0 +1,5253 @@
+[
+  {
+    "type": "text",
+    "text": "수학 영역(가형)",
+    "bbox": [
+      275,
+      142,
+      565,
+      204
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "짝수형",
+    "bbox": [
+      674,
+      168,
+      753,
+      207
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "5지선다형",
+    "bbox": [
+      103,
+      231,
+      180,
+      253
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1.",
+    "bbox": [
+      86,
+      281,
+      105,
+      301
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "inline_equation",
+    "content": "{ \\sqrt [ 3 ] { 9 } } \\times 3 ^ { \\frac { 1 } { 3 } }",
+    "bbox": [
+      105,
+      273,
+      152,
+      299
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "의 값은?[2점]",
+    "bbox": [
+      152,
+      281,
+      228,
+      301
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "① 1 ② 32 ③ 3 4 ⑤ 9",
+    "bbox": [
+      96,
+      316,
+      370,
+      343
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "3.",
+    "bbox": [
+      433,
+      234,
+      449,
+      252
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { \\pi } { 2 } < \\theta < \\pi",
+    "bbox": [
+      453,
+      233,
+      504,
+      256
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\theta",
+    "bbox": [
+      518,
+      236,
+      528,
+      249
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "에대하여",
+    "bbox": [
+      528,
+      227,
+      580,
+      258
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\sin \\theta = \\frac { \\sqrt { 2 1 } } { 7 } \\stackrel { \\circ } {  }",
+    "bbox": [
+      580,
+      227,
+      658,
+      257
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "때, tanθ의 값은?",
+    "bbox": [
+      658,
+      227,
+      749,
+      258
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "[2점]",
+    "bbox": [
+      726,
+      261,
+      758,
+      280
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\begin{array} { l l l l l l l } { \\textcircled { 1 } - \\frac { \\sqrt { 3 } } { 2 } } & { \\textcircled { 2 } - \\frac { \\sqrt { 3 } } { 4 } } & { \\textcircled { 3 } 0 } & { } & { \\textcircled { 4 } \\frac { \\sqrt { 3 } } { 4 } } & { } & { \\textcircled { 5 } \\frac { \\sqrt { 3 } } { 2 } } \\end{array}",
+    "bbox": [
+      442,
+      291,
+      736,
+      324
+    ],
+    "page_idx": 0,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "text",
+    "text": "2.",
+    "bbox": [
+      83,
+      679,
+      104,
+      701
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\operatorname* { l i m } _ { n \\to \\infty } { \\frac { 1 } { \\sqrt { 4 n ^ { 2 } + 2 n + 1 } - 2 n } }",
+    "bbox": [
+      105,
+      676,
+      227,
+      707
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "의 값은?[2점]",
+    "bbox": [
+      227,
+      680,
+      302,
+      698
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "① 1 ② 2 ③ 3 ④ 4 ⑤ 5",
+    "bbox": [
+      95,
+      722,
+      370,
+      742
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "4.두사건",
+    "bbox": [
+      433,
+      631,
+      495,
+      647
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "inline_equation",
+    "content": "A , B",
+    "bbox": [
+      495,
+      632,
+      526,
+      646
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "에대하여",
+    "bbox": [
+      526,
+      631,
+      576,
+      647
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { P } ( B \\mid A ) = { \\frac { 1 } { 4 } } , \\mathrm { P } ( A \\mid B ) = { \\frac { 1 } { 3 } } , \\mathrm { P } ( A ) + \\mathrm { P } ( B ) = { \\frac { 7 } { 1 0 } }",
+    "bbox": [
+      473,
+      663,
+      734,
+      691
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "일때,",
+    "bbox": [
+      447,
+      707,
+      480,
+      723
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { P } ( A \\cap B )",
+    "bbox": [
+      480,
+      708,
+      527,
+      722
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "의 값은?[3점]",
+    "bbox": [
+      528,
+      707,
+      603,
+      723
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\begin{array} { r } { \\mathrm { ~ \\mathbb { D } ~ \\frac { 1 } { ~ 1 1 } ~ } \\qquad \\mathbb { Q } \\mathrm { ~ \\frac { 1 } { ~ 1 0 } ~ } \\qquad \\mathbb { O } \\mathrm { ~ \\frac { 1 } { ~ 9 } ~ } \\qquad \\mathbb { Q } \\mathrm { ~ \\frac { 1 } { ~ 8 } ~ } \\qquad \\mathbb { O } \\mathrm { ~ \\frac { 1 } { ~ 7 } ~ } } \\end{array}",
+    "bbox": [
+      443,
+      737,
+      722,
+      767
+    ],
+    "page_idx": 0,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "text",
+    "text": "5.부등식",
+    "bbox": [
+      83,
+      162,
+      138,
+      183
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left( { \\frac { 1 } { 9 } } \\right) ^ { x } < 3 ^ { 2 1 - 4 x }",
+    "bbox": [
+      139,
+      158,
+      212,
+      188
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "을만족시키는 자연수",
+    "bbox": [
+      212,
+      159,
+      316,
+      187
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "inline_equation",
+    "content": "x",
+    "bbox": [
+      316,
+      168,
+      326,
+      178
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "의 개수는?[3점]",
+    "bbox": [
+      326,
+      159,
+      408,
+      187
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "① 6 ② 7 ③ 8 ④ 9 ⑤ 10",
+    "bbox": [
+      95,
+      201,
+      376,
+      223
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "6.정규분포",
+    "bbox": [
+      86,
+      594,
+      151,
+      610
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { N } ( 2 0 , 5 ^ { 2 } )",
+    "bbox": [
+      152,
+      594,
+      198,
+      610
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "을따르는모집단에서크기가16인 표본을 임의추출하여 구한 표본평균을",
+    "bbox": [
+      98,
+      594,
+      373,
+      632
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { X } }",
+    "bbox": [
+      287,
+      616,
+      302,
+      631
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "라할때,",
+    "bbox": [
+      302,
+      617,
+      351,
+      632
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\operatorname { E } { \\big ( } { \\overline { { X } } } { \\big ) } + \\sigma { \\big ( } { \\overline { { X } } } { \\big ) }",
+    "bbox": [
+      97,
+      636,
+      172,
+      653
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "의 값은? [3점]",
+    "bbox": [
+      173,
+      636,
+      247,
+      654
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "7.함수",
+    "bbox": [
+      434,
+      164,
+      478,
+      182
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "inline_equation",
+    "content": "f ( x ) = ( x ^ { 2 } - 2 x - 7 ) e ^ { x }",
+    "bbox": [
+      479,
+      165,
+      587,
+      180
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "의 극댓값과 극솟값을 각각",
+    "bbox": [
+      587,
+      164,
+      719,
+      182
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "inline_equation",
+    "content": "a",
+    "bbox": [
+      719,
+      168,
+      728,
+      179
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": ",6라 할때,",
+    "bbox": [
+      446,
+      164,
+      755,
+      202
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "inline_equation",
+    "content": "a \\times b",
+    "bbox": [
+      480,
+      187,
+      504,
+      200
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "의 값은?[3점]",
+    "bbox": [
+      505,
+      186,
+      579,
+      202
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\textcircled { 1 } - 3 2 \\qquad \\textcircled { 2 } - 3 0 \\qquad \\textcircled { 3 } - 2 8 \\qquad \\textcircled { 4 } - 2 6 \\qquad \\textcircled { 5 } - 2 4",
+    "bbox": [
+      438,
+      215,
+      734,
+      231
+    ],
+    "page_idx": 1,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\begin{array} { r } { \\textcircled { 1 } \\frac { 9 1 } { 4 } \\qquad \\textcircled { \\supset } \\frac { 8 9 } { 4 } \\qquad \\textcircled { \\textcircled { \\scriptsize { 3 } } } \\frac { 8 7 } { 4 } \\qquad \\textcircled { \\scriptsize { 4 } } \\frac { 8 5 } { 4 } \\qquad \\textcircled { \\scriptsize { \\odot } } \\frac { 8 3 } { 4 } } \\end{array}",
+    "bbox": [
+      94,
+      668,
+      380,
+      698
+    ],
+    "page_idx": 1,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "text",
+    "text": "8.곡선",
+    "bbox": [
+      84,
+      159,
+      130,
+      181
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "inline_equation",
+    "content": "y = e ^ { 2 x }",
+    "bbox": [
+      131,
+      163,
+      165,
+      178
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "과",
+    "bbox": [
+      165,
+      159,
+      180,
+      181
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "inline_equation",
+    "content": "x",
+    "bbox": [
+      181,
+      165,
+      190,
+      177
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "축및두직선",
+    "bbox": [
+      190,
+      159,
+      263,
+      181
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "inline_equation",
+    "content": "x = \\ln { \\frac { 1 } { 2 } }",
+    "bbox": [
+      263,
+      158,
+      307,
+      183
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2, x = n2로 둘러싸인 부분의 넓이는? [3점]",
+    "bbox": [
+      98,
+      162,
+      367,
+      207
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\begin{array} { c c c c c c c c c c c c c c c c c c c c c } { { \\textcircled { 1 } } } & { { \\frac { 5 } { 3 } } } & { { } } & { { \\textcircled { 2 } } } & { { \\frac { 1 5 } { 8 } } } & { { } } & { { \\textcircled { 3 } } } & { { \\frac { 1 5 } { 7 } } } & { { } } & { { \\textcircled { 4 } } } & { { \\frac { 5 } { 2 } } } & { { } } & { { \\textcircledast } } & { { } } & { { } } \\end{array}",
+    "bbox": [
+      93,
+      221,
+      376,
+      250
+    ],
+    "page_idx": 2,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "text",
+    "text": "9.문자 A,B,C,D,E가 하나씩 적혀 있는5장의 카드와 슷자 1,2,3,4가 하나씩 적혀 있는 4장의 카드가 있다.",
+    "bbox": [
+      86,
+      539,
+      385,
+      573
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "이 9장의 카드를모두 한 번씩 사용하여 일렬로 임의로나열할 때, 문자 A 가 적혀 있는 카드의 바로 양옆에 각각 숫자가 적혀 있는 카드가 놓일 확률은? [3점]",
+    "bbox": [
+      97,
+      578,
+      406,
+      631
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\begin{array} { r l r l r l r l r l r l } { \\textcircled { 1 } \\frac { 1 } { 1 2 } } & { { } } & { \\textcircled { 2 } \\frac { 1 } { 6 } } & { { } } & { \\textcircled { 3 } \\frac { 1 } { 4 } } & { { } } & { \\textcircled { 4 } \\frac { 1 } { 3 } } & { { } } & { \\textcircled { 5 } \\frac { 5 } { 1 2 } } \\end{array}",
+    "bbox": [
+      95,
+      646,
+      379,
+      675
+    ],
+    "page_idx": 2,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      101,
+      708,
+      387,
+      775
+    ],
+    "page_idx": 2,
+    "image_path": "44a16c621107de3edde0dec9a4d1373f5402500e8cd7e3c87c69f4fe8b3e0a2b.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "10.",
+    "bbox": [
+      434,
+      161,
+      461,
+      183
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle \\mathrm { A } = { \\frac { \\pi } { 3 } } \\circ \\mathbf { \\left| \\right. }",
+    "bbox": [
+      461,
+      160,
+      516,
+      184
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "고",
+    "bbox": [
+      516,
+      161,
+      531,
+      183
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { \\mathrm { A B } } } : \\overline { { \\mathrm { A C } } } = 3 : 1",
+    "bbox": [
+      532,
+      162,
+      610,
+      178
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "인삼각형 ABC가 있다.",
+    "bbox": [
+      610,
+      161,
+      729,
+      183
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "삼각형 ABC의 외접원의 반지름의 길이가 7일 때, 선분 AC의 길이는?[3점]",
+    "bbox": [
+      446,
+      191,
+      694,
+      225
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "① 2√ ② √23 ③ √22 ④ √21 ⑤ 2√5",
+    "bbox": [
+      445,
+      236,
+      736,
+      260
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "bbox": [
+      506,
+      289,
+      679,
+      454
+    ],
+    "page_idx": 2,
+    "image_path": "d8d887ae81b0f5addab53d8cb1694b6f66f7b62eb38396f3bb506c9bab0e412a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "11.",
+    "bbox": [
+      85,
+      159,
+      111,
+      185
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\operatorname* { l i m } _ { n \\to \\infty } { \\frac { 1 } { n } } \\sum _ { k = 1 } ^ { n } { \\sqrt { \\frac { 3 n } { 3 n + k } } }",
+    "bbox": [
+      112,
+      157,
+      208,
+      189
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "의 값은? [3점]",
+    "bbox": [
+      208,
+      158,
+      284,
+      189
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\begin{array} { l l l } { { \\textcircled { 1 } ~ 4 \\sqrt { 3 } - 6 ~ } } & { { ~ \\textcircled { 2 } ~ \\sqrt { 3 } - 1 } } \\\\ { { \\textcircled { 4 } ~ 2 \\sqrt { 3 } - 3 ~ } } & { { ~ \\textcircled { 5 } ~ 3 \\sqrt { 3 } - 5 } } \\end{array}",
+    "bbox": [
+      93,
+      203,
+      258,
+      244
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "③ 5√3-8",
+    "bbox": [
+      300,
+      205,
+      361,
+      223
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "12.확률변수",
+    "bbox": [
+      435,
+      164,
+      506,
+      180
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "inline_equation",
+    "content": "X",
+    "bbox": [
+      506,
+      166,
+      519,
+      179
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "는 평균이 8,표준편차가3인 정규분포를따르고, 확률변수",
+    "bbox": [
+      446,
+      164,
+      754,
+      200
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "inline_equation",
+    "content": "Y",
+    "bbox": [
+      495,
+      186,
+      506,
+      199
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "는평균이",
+    "bbox": [
+      506,
+      185,
+      558,
+      200
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "inline_equation",
+    "content": "m",
+    "bbox": [
+      558,
+      188,
+      570,
+      199
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": ",표준편차가",
+    "bbox": [
+      570,
+      185,
+      635,
+      200
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\sigma",
+    "bbox": [
+      635,
+      188,
+      645,
+      199
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "인 정규분포를 따른다.",
+    "bbox": [
+      645,
+      185,
+      754,
+      200
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "두 확률변수",
+    "bbox": [
+      446,
+      204,
+      508,
+      220
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "inline_equation",
+    "content": "X",
+    "bbox": [
+      509,
+      205,
+      522,
+      218
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "inline_equation",
+    "content": "Y",
+    "bbox": [
+      530,
+      205,
+      542,
+      218
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "가",
+    "bbox": [
+      542,
+      204,
+      556,
+      220
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\mathrm { P } \\left(4 \\leq X \\leq 8 \\right) + \\mathrm { P } \\left(Y \\geq 8 \\right) = \\frac { 1 } { 2 }",
+    "bbox": [
+      474,
+      236,
+      624,
+      262
+    ],
+    "page_idx": 3,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      651,
+      235,
+      754,
+      327
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>z</td><td rowspan=1 colspan=1>P (0 ≤ Z≤ z)</td></tr><tr><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>0.3413</td></tr><tr><td rowspan=1 colspan=1>1.5</td><td rowspan=1 colspan=1>0.4332</td></tr><tr><td rowspan=1 colspan=1>2.0</td><td rowspan=1 colspan=1>0.4772</td></tr><tr><td rowspan=1 colspan=1>2.5</td><td rowspan=1 colspan=1>0.4938</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "f67134d64df4cd72f19a541a4577db511db2d4dc084b7a16f9a6ae1d1c34c520.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "을 만족시킬때,",
+    "bbox": [
+      446,
+      279,
+      528,
+      309
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { P } \\left( { \\cal Y } \\le 8 + \\frac { 2 \\sigma } { 3 } \\right) \\le \\vert",
+    "bbox": [
+      528,
+      279,
+      617,
+      308
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "값을 오른쪽 표준정규분포표를 이용하여 구한 것은?[3점]",
+    "bbox": [
+      446,
+      282,
+      647,
+      347
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "① 0.8351 ② 0.8413 ③ 0.9332 ④ 0.9772 ⑤ 0.9938",
+    "bbox": [
+      446,
+      360,
+      701,
+      398
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "13.",
+    "bbox": [
+      85,
+      161,
+      108,
+      181
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 1 } { 4 } < a < 1 \\frac { \\circ } { 2 }",
+    "bbox": [
+      111,
+      158,
+      173,
+      183
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "실수",
+    "bbox": [
+      173,
+      160,
+      202,
+      182
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "a",
+    "bbox": [
+      202,
+      165,
+      211,
+      177
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "에대하여 직선",
+    "bbox": [
+      212,
+      160,
+      289,
+      182
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "y = 1 \\circ \\rceil",
+    "bbox": [
+      289,
+      164,
+      326,
+      178
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "두곡선",
+    "bbox": [
+      326,
+      160,
+      371,
+      182
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\scriptstyle y = \\log _ { a } x",
+    "bbox": [
+      97,
+      192,
+      145,
+      207
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\boldsymbol { y } = \\log _ { 4 a } \\boldsymbol { x }",
+    "bbox": [
+      152,
+      192,
+      204,
+      207
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "와만나는점을각각A,B라 하고, 직선",
+    "bbox": [
+      97,
+      190,
+      380,
+      228
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "y = - 1 ^ { \\mathcal { \\circ } } |",
+    "bbox": [
+      123,
+      212,
+      173,
+      227
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "두곡선",
+    "bbox": [
+      173,
+      211,
+      218,
+      228
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "y = \\log _ { a } x",
+    "bbox": [
+      218,
+      213,
+      267,
+      227
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      267,
+      211,
+      273,
+      228
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\boldsymbol { y } = \\log _ { 4 a } \\boldsymbol { x }",
+    "bbox": [
+      274,
+      213,
+      326,
+      227
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "와만나는 점을 각각 C,D라 하자.",
+    "bbox": [
+      97,
+      211,
+      403,
+      248
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "<",
+    "bbox": [
+      195,
+      234,
+      205,
+      246
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "보기",
+    "bbox": [
+      205,
+      232,
+      223,
+      248
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      224,
+      235,
+      234,
+      246
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "에서 옳은 것만을 있는 대로 고른 것은?[3점]",
+    "bbox": [
+      97,
+      232,
+      399,
+      267
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "<보기>",
+    "bbox": [
+      225,
+      281,
+      276,
+      298
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "ㄱ.선분AB를1:4로 외분하는 점의 좌표는",
+    "bbox": [
+      110,
+      301,
+      335,
+      316
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 0 , 1 ) \\circ | \\tau |",
+    "bbox": [
+      335,
+      301,
+      386,
+      316
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": ".",
+    "bbox": [
+      387,
+      301,
+      390,
+      316
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "ㄴ.사각형 ABCD가 직사각형이면",
+    "bbox": [
+      105,
+      318,
+      280,
+      352
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "a = \\frac { 1 } { 2 } \\circ \\vert",
+    "bbox": [
+      281,
+      325,
+      324,
+      351
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "다.",
+    "bbox": [
+      324,
+      318,
+      345,
+      352
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "C. AB < CD이면",
+    "bbox": [
+      109,
+      363,
+      203,
+      384
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 1 } { 2 } < a < 1 \\diamond",
+    "bbox": [
+      204,
+      361,
+      268,
+      387
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "다.",
+    "bbox": [
+      268,
+      361,
+      282,
+      388
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "①7 ② C ③ 7,L ④ L,ㄷ ⑤ 7,L,ㄷ",
+    "bbox": [
+      96,
+      411,
+      350,
+      450
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "14.그림과같이",
+    "bbox": [
+      435,
+      162,
+      523,
+      181
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { \\mathrm { A B _ { 1 } } } } = 2",
+    "bbox": [
+      524,
+      162,
+      566,
+      179
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { \\mathrm { A D } _ { 1 } } } = 4 \\stackrel { \\circ } { \\iota }",
+    "bbox": [
+      573,
+      162,
+      629,
+      179
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "직사각형",
+    "bbox": [
+      629,
+      162,
+      679,
+      181
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A B } _ { 1 } \\mathrm { C } _ { 1 } \\mathrm { D } _ { 1 } \\circ ]",
+    "bbox": [
+      680,
+      164,
+      740,
+      180
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "있다.선분",
+    "bbox": [
+      446,
+      186,
+      501,
+      203
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A D } _ { 1 }",
+    "bbox": [
+      501,
+      186,
+      524,
+      202
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "을",
+    "bbox": [
+      525,
+      186,
+      539,
+      203
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "3 : 1",
+    "bbox": [
+      539,
+      187,
+      561,
+      200
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "로내분하는점을",
+    "bbox": [
+      561,
+      186,
+      649,
+      203
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\operatorname { E } _ { 1 } \\diamondsuit \\big \\vert",
+    "bbox": [
+      650,
+      186,
+      675,
+      202
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "라 하고, 직사각형",
+    "bbox": [
+      446,
+      186,
+      717,
+      226
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A B } _ { 1 } \\mathrm { C } _ { 1 } \\mathrm { D } _ { 1 }",
+    "bbox": [
+      493,
+      209,
+      543,
+      225
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "의 내부에점",
+    "bbox": [
+      543,
+      208,
+      610,
+      226
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { F } _ { 1 }",
+    "bbox": [
+      610,
+      209,
+      623,
+      225
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "을",
+    "bbox": [
+      624,
+      208,
+      638,
+      226
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { \\mathrm { F } _ { 1 } \\mathrm { E } _ { 1 } } } = \\overline { { \\mathrm { F } _ { 1 } \\mathrm { C } _ { 1 } } }",
+    "bbox": [
+      639,
+      207,
+      705,
+      225
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle \\mathrm { E } _ { 1 } \\mathrm { F } _ { 1 } \\mathrm { C } _ { 1 } = \\frac { \\pi } { 2 } 7",
+    "bbox": [
+      447,
+      235,
+      528,
+      258
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "되도록잡고삼각형",
+    "bbox": [
+      528,
+      234,
+      636,
+      255
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { E _ { 1 } F _ { 1 } C _ { 1 } }",
+    "bbox": [
+      636,
+      238,
+      676,
+      253
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "을 그린다 사각형",
+    "bbox": [
+      447,
+      234,
+      730,
+      279
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { E } _ { 1 } \\mathrm { F } _ { 1 } \\mathrm { C } _ { 1 } \\mathrm { D } _ { 1 }",
+    "bbox": [
+      482,
+      264,
+      534,
+      280
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "을색칠하여 얻은 그림을",
+    "bbox": [
+      535,
+      263,
+      661,
+      279
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "R _ { 1 } { } ^ { \\circ } |",
+    "bbox": [
+      661,
+      264,
+      688,
+      279
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "라 하자 그림",
+    "bbox": [
+      447,
+      263,
+      730,
+      302
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "R _ { 1 }",
+    "bbox": [
+      473,
+      285,
+      489,
+      300
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "에서선분",
+    "bbox": [
+      489,
+      283,
+      541,
+      302
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A B } _ { 1 }",
+    "bbox": [
+      541,
+      285,
+      565,
+      300
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "위의점",
+    "bbox": [
+      565,
+      283,
+      611,
+      302
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B _ { 2 } }",
+    "bbox": [
+      612,
+      285,
+      627,
+      300
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": ",선분",
+    "bbox": [
+      627,
+      283,
+      660,
+      302
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { E } _ { 1 } \\mathrm { F } _ { 1 }",
+    "bbox": [
+      660,
+      285,
+      687,
+      300
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "위의 점",
+    "bbox": [
+      688,
+      283,
+      733,
+      302
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { C _ { 2 } }",
+    "bbox": [
+      734,
+      285,
+      748,
+      300
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "선분",
+    "bbox": [
+      447,
+      306,
+      472,
+      322
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A E } _ { 1 }",
+    "bbox": [
+      472,
+      306,
+      495,
+      322
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "위의점",
+    "bbox": [
+      495,
+      306,
+      541,
+      322
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { D _ { 2 } }",
+    "bbox": [
+      541,
+      306,
+      557,
+      321
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "와 점 A를 꼭짓점으로 하고",
+    "bbox": [
+      557,
+      306,
+      698,
+      322
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { \\mathrm { A B _ { 2 } } } } : \\overline { { \\mathrm { A D _ { 2 } } } } = 1 : 2 \\cdot",
+    "bbox": [
+      447,
+      327,
+      536,
+      344
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "인 직사각형",
+    "bbox": [
+      536,
+      327,
+      595,
+      346
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A B _ { 2 } C _ { 2 } D _ { 2 } }",
+    "bbox": [
+      595,
+      329,
+      644,
+      345
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "를 그린다.그림",
+    "bbox": [
+      645,
+      327,
+      725,
+      346
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "R _ { 1 }",
+    "bbox": [
+      726,
+      329,
+      741,
+      344
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "을 얻은 것과 같은 방법으로 직사각형",
+    "bbox": [
+      447,
+      327,
+      756,
+      365
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A B _ { 2 } C _ { 2 } D _ { 2 } }",
+    "bbox": [
+      620,
+      350,
+      669,
+      366
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "에 삼각형",
+    "bbox": [
+      447,
+      350,
+      682,
+      387
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { E _ { 2 } F _ { 2 } C _ { 2 } }",
+    "bbox": [
+      482,
+      371,
+      522,
+      387
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "를그리고 사각형",
+    "bbox": [
+      522,
+      371,
+      610,
+      387
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { E _ { 2 } F _ { 2 } C _ { 2 } D _ { 2 } }",
+    "bbox": [
+      611,
+      371,
+      663,
+      387
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "를 색칠하여 얻은 그림을",
+    "bbox": [
+      447,
+      371,
+      751,
+      407
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "R _ { 2 }",
+    "bbox": [
+      483,
+      392,
+      498,
+      407
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "라 하자.",
+    "bbox": [
+      498,
+      392,
+      541,
+      407
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "이와 같은 과정을 계속하여",
+    "bbox": [
+      448,
+      414,
+      583,
+      428
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "n",
+    "bbox": [
+      583,
+      415,
+      593,
+      426
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "번째 얻은 그림",
+    "bbox": [
+      593,
+      414,
+      671,
+      428
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "R _ { n }",
+    "bbox": [
+      672,
+      414,
+      688,
+      428
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "에색칠되어 있는 부분의 넓이를",
+    "bbox": [
+      446,
+      414,
+      747,
+      450
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "S _ { n } ^ { \\mathrm { ~ \\scriptsize ~ o } } |",
+    "bbox": [
+      546,
+      435,
+      571,
+      450
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "라 할 때,",
+    "bbox": [
+      572,
+      435,
+      620,
+      450
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\operatorname* { l i m } _ { n \\to \\infty } S _ { n }",
+    "bbox": [
+      621,
+      435,
+      656,
+      457
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "의 값은?[4점]",
+    "bbox": [
+      657,
+      435,
+      730,
+      450
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "bbox": [
+      450,
+      475,
+      735,
+      793
+    ],
+    "page_idx": 4,
+    "image_path": "330bd5ba49bd7e1ffa0fff54ee68229df4b92ff88b8fe85877017a5261b74033.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "441 441 441 441 441 ① 2 ③ 4 5 103 109 115 121 127",
+    "bbox": [
+      447,
+      808,
+      731,
+      837
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "15.",
+    "bbox": [
+      85,
+      157,
+      111,
+      174
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "x > 0",
+    "bbox": [
+      111,
+      159,
+      140,
+      172
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "에서 미분가능한 함수",
+    "bbox": [
+      140,
+      157,
+      249,
+      174
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "f \\left( x \\right)",
+    "bbox": [
+      249,
+      158,
+      273,
+      173
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "에대하여",
+    "bbox": [
+      273,
+      157,
+      324,
+      174
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "interline_equation",
+    "content": "f ^ { \\prime } (x) = 2 - { \\frac { 3 } { x ^ { 2 } } }, \\quad f (1) = 5",
+    "bbox": [
+      124,
+      191,
+      255,
+      219
+    ],
+    "page_idx": 5,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "text",
+    "text": "이다.",
+    "bbox": [
+      98,
+      235,
+      126,
+      253
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "x < 0",
+    "bbox": [
+      126,
+      237,
+      155,
+      250
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "에서미분가능한함수",
+    "bbox": [
+      155,
+      235,
+      264,
+      253
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "g \\left( x \\right)",
+    "bbox": [
+      264,
+      237,
+      288,
+      252
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "가다음조건을 만족시킬때,",
+    "bbox": [
+      98,
+      235,
+      365,
+      271
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "g ( - 3 )",
+    "bbox": [
+      163,
+      255,
+      194,
+      270
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "의 값은?[4점]",
+    "bbox": [
+      195,
+      254,
+      269,
+      271
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { { 7 } h } )",
+    "bbox": [
+      109,
+      296,
+      127,
+      309
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "x < 0",
+    "bbox": [
+      132,
+      297,
+      160,
+      309
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "인 모든실수",
+    "bbox": [
+      160,
+      295,
+      227,
+      311
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "x",
+    "bbox": [
+      227,
+      298,
+      236,
+      309
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "에대하여",
+    "bbox": [
+      237,
+      295,
+      289,
+      311
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "g ^ { \\prime } ( x ) = f ^ { \\prime } ( - x ) \\diamondsuit \\rceil",
+    "bbox": [
+      289,
+      295,
+      374,
+      311
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "다.",
+    "bbox": [
+      375,
+      295,
+      388,
+      311
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\psi ,",
+    "bbox": [
+      108,
+      318,
+      126,
+      331
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "f ( 2 ) + g ( - 2 ) = 9",
+    "bbox": [
+      132,
+      317,
+      216,
+      333
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "① 1 ② 2 ③ 3 ④ 4 ⑤ 5",
+    "bbox": [
+      97,
+      356,
+      370,
+      376
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "16.상수",
+    "bbox": [
+      435,
+      157,
+      486,
+      174
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "k ( k > 1 ) \\circ \\mathbb { I }",
+    "bbox": [
+      486,
+      158,
+      540,
+      172
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "대하여 다음 조건을 만족시키는 수열",
+    "bbox": [
+      541,
+      157,
+      726,
+      174
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left\\{ a _ { n } \\right\\} \\circ ]",
+    "bbox": [
+      446,
+      178,
+      482,
+      195
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "있다.",
+    "bbox": [
+      482,
+      178,
+      513,
+      195
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "모든자연수",
+    "bbox": [
+      456,
+      219,
+      519,
+      239
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "n",
+    "bbox": [
+      520,
+      223,
+      529,
+      234
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "에대하여",
+    "bbox": [
+      529,
+      219,
+      581,
+      239
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "a _ { n } < a _ { n + 1 } { } ^ { \\circ } |",
+    "bbox": [
+      581,
+      221,
+      641,
+      237
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "고 곡선",
+    "bbox": [
+      455,
+      219,
+      657,
+      263
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "y = 2 ^ { x }",
+    "bbox": [
+      483,
+      246,
+      515,
+      260
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "위의두점",
+    "bbox": [
+      515,
+      241,
+      575,
+      263
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { P } _ { n } \\left( a _ { n } , 2 ^ { a _ { n } } \\right) , \\mathrm { P } _ { n + 1 } \\left( a _ { n + 1 } , 2 ^ { a _ { n + 1 } } \\right) \\frac { \\diamond } { \\Xi }",
+    "bbox": [
+      575,
+      241,
+      739,
+      262
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "지나는직선의기울기는",
+    "bbox": [
+      457,
+      268,
+      577,
+      286
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "k \\times 2 ^ { a _ { n } } \\diamond ] \\sqsubset \\Big |",
+    "bbox": [
+      578,
+      269,
+      633,
+      284
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": ".",
+    "bbox": [
+      633,
+      268,
+      639,
+      286
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "점",
+    "bbox": [
+      447,
+      309,
+      461,
+      324
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { P } _ { n }",
+    "bbox": [
+      461,
+      310,
+      476,
+      325
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "을지나고",
+    "bbox": [
+      476,
+      309,
+      528,
+      324
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "x",
+    "bbox": [
+      529,
+      312,
+      538,
+      323
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "축에 평행한 직선과 점",
+    "bbox": [
+      446,
+      309,
+      635,
+      346
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { P } _ { n + 1 }",
+    "bbox": [
+      461,
+      331,
+      487,
+      347
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "을지나고",
+    "bbox": [
+      488,
+      331,
+      540,
+      346
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "y",
+    "bbox": [
+      540,
+      333,
+      549,
+      346
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "축에 평행한 직선이 만나는 점을",
+    "bbox": [
+      446,
+      331,
+      609,
+      367
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textstyle \\mathrm { Q } _ { n } \\circ \\big ]",
+    "bbox": [
+      546,
+      352,
+      572,
+      367
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "라하고 삼각형",
+    "bbox": [
+      446,
+      351,
+      612,
+      389
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { P } _ { n } \\mathrm { Q } _ { n } \\mathrm { P } _ { n + 1 }",
+    "bbox": [
+      482,
+      372,
+      535,
+      389
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "의 넓이를",
+    "bbox": [
+      535,
+      372,
+      587,
+      389
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "A _ { n } \\circ ]",
+    "bbox": [
+      587,
+      373,
+      614,
+      388
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "라 하자 다음은",
+    "bbox": [
+      445,
+      372,
+      628,
+      441
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "a _ { 1 } = 1",
+    "bbox": [
+      483,
+      423,
+      515,
+      438
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": ".",
+    "bbox": [
+      515,
+      419,
+      522,
+      441
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { A _ { 3 } } { A _ { 1 } } = 1 6 \\overset { \\circ } {  }",
+    "bbox": [
+      522,
+      414,
+      579,
+      445
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "때,",
+    "bbox": [
+      580,
+      414,
+      601,
+      439
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "A _ { n }",
+    "bbox": [
+      601,
+      423,
+      617,
+      437
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "을 구하는 과정이다.",
+    "bbox": [
+      447,
+      414,
+      632,
+      465
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "두점",
+    "bbox": [
+      455,
+      492,
+      487,
+      511
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { P } _ { n }",
+    "bbox": [
+      487,
+      494,
+      502,
+      509
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { P } _ { n + 1 }",
+    "bbox": [
+      509,
+      495,
+      536,
+      510
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "을지나는직선의기울기가",
+    "bbox": [
+      536,
+      492,
+      672,
+      511
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "k \\times 2 ^ { a _ { n } } \\circ \\rceil",
+    "bbox": [
+      672,
+      494,
+      716,
+      507
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "므로",
+    "bbox": [
+      717,
+      492,
+      741,
+      511
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "bbox": [
+      640,
+      312,
+      754,
+      459
+    ],
+    "page_idx": 5,
+    "image_path": "d7ea7baf002fbc2e3b8d51e9314919f30e8a4204f4b1cfb12da98efd81019fd0.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 ^ { a _ { n + 1 } - a _ { n } } = k ( a _ { n + 1 } - a _ { n } ) + 1",
+    "bbox": [
+      474,
+      516,
+      609,
+      536
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { \\circ \\intercal }",
+    "bbox": [
+      456,
+      544,
+      468,
+      557
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "다.즉,모든 자연수",
+    "bbox": [
+      468,
+      541,
+      566,
+      562
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "n",
+    "bbox": [
+      567,
+      545,
+      577,
+      556
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "에대하여",
+    "bbox": [
+      577,
+      541,
+      628,
+      562
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textstyle a _ { n + 1 } - a _ { n } { \\frac { \\ o } { \\operatorname { \\mathtt { L } } } }",
+    "bbox": [
+      628,
+      543,
+      685,
+      559
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "방정식",
+    "bbox": [
+      458,
+      567,
+      492,
+      580
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 ^ { x } = k x + 1",
+    "bbox": [
+      493,
+      567,
+      550,
+      580
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "의 해이다.",
+    "bbox": [
+      551,
+      567,
+      602,
+      580
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "k > 1 ^ { \\circ } |",
+    "bbox": [
+      457,
+      587,
+      493,
+      600
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "므로방정식",
+    "bbox": [
+      494,
+      587,
+      556,
+      601
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 ^ { x } = k x + 1",
+    "bbox": [
+      557,
+      587,
+      613,
+      600
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "은 오직 하나의 양의 실근",
+    "bbox": [
+      614,
+      587,
+      742,
+      601
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "d",
+    "bbox": [
+      457,
+      607,
+      465,
+      619
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "를 갖는다. 따라서 모든 자연수",
+    "bbox": [
+      465,
+      606,
+      619,
+      620
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "n",
+    "bbox": [
+      620,
+      608,
+      629,
+      619
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "에대하여",
+    "bbox": [
+      630,
+      606,
+      678,
+      620
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "a _ { n + 1 } - a _ { n } = d \\circ ] .",
+    "bbox": [
+      456,
+      625,
+      538,
+      640
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "고,수열",
+    "bbox": [
+      538,
+      625,
+      578,
+      640
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left\\{ a _ { n } \\right\\}",
+    "bbox": [
+      578,
+      624,
+      601,
+      641
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "은 공차가",
+    "bbox": [
+      602,
+      625,
+      652,
+      640
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "d",
+    "bbox": [
+      653,
+      626,
+      661,
+      638
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "인 등차수열이다.",
+    "bbox": [
+      661,
+      625,
+      745,
+      640
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "점",
+    "bbox": [
+      456,
+      646,
+      471,
+      665
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathsf Q _ { n }",
+    "bbox": [
+      472,
+      649,
+      487,
+      664
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "의 좌표가",
+    "bbox": [
+      488,
+      646,
+      541,
+      665
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left( a _ { n + 1 } , 2 ^ { a _ { n } } \\right) \\circ ]",
+    "bbox": [
+      541,
+      645,
+      606,
+      666
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "므로",
+    "bbox": [
+      606,
+      646,
+      631,
+      665
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "A _ { n } = { \\frac { 1 } { 2 } } \\left( a _ { n + 1 } - a _ { n } \\right) \\left( 2 ^ { a _ { n + 1 } } - 2 ^ { a _ { n } } \\right)",
+    "bbox": [
+      474,
+      674,
+      626,
+      700
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "이다.",
+    "bbox": [
+      456,
+      716,
+      485,
+      737
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { A _ { 3 } } { A _ { 1 } } = 1 6 \\circ |",
+    "bbox": [
+      486,
+      711,
+      541,
+      741
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "ㅁ로",
+    "bbox": [
+      541,
+      709,
+      567,
+      736
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "d",
+    "bbox": [
+      567,
+      720,
+      576,
+      732
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "의 값은",
+    "bbox": [
+      576,
+      709,
+      624,
+      736
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\underline { { \\overline { { ( 7 4 ) } } } } \\vert 0 \\vert _ { - }",
+    "bbox": [
+      624,
+      718,
+      670,
+      734
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "r 수열",
+    "bbox": [
+      457,
+      709,
+      682,
+      763
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left\\{ a _ { n } \\right\\}",
+    "bbox": [
+      483,
+      747,
+      506,
+      763
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "의 일반항은",
+    "bbox": [
+      507,
+      748,
+      568,
+      763
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "a _ { n } = \\boxed { ( 4 ) }",
+    "bbox": [
+      473,
+      770,
+      542,
+      789
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { \\circ \\intercal }",
+    "bbox": [
+      456,
+      798,
+      468,
+      812
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "다.따라서 모든 자연수",
+    "bbox": [
+      468,
+      795,
+      585,
+      815
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "n ^ { \\mathsf { o } } \\mathbb { 1 }",
+    "bbox": [
+      585,
+      798,
+      607,
+      812
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "대하여",
+    "bbox": [
+      607,
+      795,
+      647,
+      815
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "A _ { n } = [ ( \\Gamma ) ] \\circ ] \\Gamma ]",
+    "bbox": [
+      647,
+      796,
+      736,
+      814
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": ".",
+    "bbox": [
+      737,
+      795,
+      743,
+      815
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "위의",
+    "bbox": [
+      446,
+      838,
+      473,
+      856
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 )",
+    "bbox": [
+      473,
+      840,
+      491,
+      854
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "에알맞은수를",
+    "bbox": [
+      491,
+      838,
+      570,
+      856
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "p",
+    "bbox": [
+      570,
+      842,
+      579,
+      855
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\psi ,",
+    "bbox": [
+      587,
+      840,
+      605,
+      853
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "와(다)에 알맞은 식을 각각",
+    "bbox": [
+      605,
+      838,
+      744,
+      856
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "f \\left( n \\right) , g \\left( n \\right) \\circ \\vert",
+    "bbox": [
+      445,
+      865,
+      511,
+      881
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "라할때,",
+    "bbox": [
+      511,
+      860,
+      559,
+      884
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "inline_equation",
+    "content": "p + { \\frac { g \\left( 4 \\right) } { f \\left( 2 \\right) } }",
+    "bbox": [
+      560,
+      858,
+      605,
+      888
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "의 값은? [4점]",
+    "bbox": [
+      605,
+      860,
+      681,
+      884
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "① 118 ② 121 ③ 124 ④ 127 ⑤ 130",
+    "bbox": [
+      446,
+      901,
+      730,
+      921
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "17.좌표평면의 원점에 점 P가 있다.한 개의 주사위를",
+    "bbox": [
+      87,
+      158,
+      364,
+      173
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "사용하여 다음 시행을 한다.",
+    "bbox": [
+      99,
+      179,
+      234,
+      194
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "주사위를 한 번 던져 나온 눈의 수가 2이하이면 점 P를",
+    "bbox": [
+      108,
+      219,
+      291,
+      252
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "inline_equation",
+    "content": "x",
+    "bbox": [
+      209,
+      240,
+      218,
+      251
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "축의 양의 방향으로 3만큼, 3 이상이면 점 P를",
+    "bbox": [
+      108,
+      238,
+      353,
+      272
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "inline_equation",
+    "content": "y",
+    "bbox": [
+      209,
+      259,
+      218,
+      271
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "축의 양의 방향으로 1만큼 이동시킨다.",
+    "bbox": [
+      108,
+      257,
+      349,
+      291
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "이시행을15번 반복하여이동된점P와 직선",
+    "bbox": [
+      98,
+      314,
+      330,
+      332
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "inline_equation",
+    "content": "3 x + 4 y = 0",
+    "bbox": [
+      331,
+      317,
+      385,
+      331
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "사이의 거리를 확률변수",
+    "bbox": [
+      98,
+      334,
+      218,
+      350
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "inline_equation",
+    "content": "X",
+    "bbox": [
+      219,
+      336,
+      231,
+      348
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "라 하자",
+    "bbox": [
+      231,
+      334,
+      275,
+      350
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\operatorname { E } ( X )",
+    "bbox": [
+      275,
+      335,
+      304,
+      349
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "의 값은? [4점] ① 13 ② 15 ③ 17 ④ 19 ⑤ 21",
+    "bbox": [
+      97,
+      334,
+      379,
+      383
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "18.실수",
+    "bbox": [
+      434,
+      158,
+      486,
+      174
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "inline_equation",
+    "content": "a",
+    "bbox": [
+      486,
+      160,
+      495,
+      171
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "에대하여 함수",
+    "bbox": [
+      495,
+      158,
+      573,
+      174
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "inline_equation",
+    "content": "f \\left( x \\right)",
+    "bbox": [
+      573,
+      158,
+      597,
+      173
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "를",
+    "bbox": [
+      597,
+      158,
+      612,
+      174
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "interline_equation",
+    "content": "f (x) = \\operatorname* { l i m } _ { n \\to \\infty } { \\frac { (a - 2) x ^ { 2 n + 1 } + 2 x } { 3 x ^ { 2 n } + 1 } }",
+    "bbox": [
+      473,
+      190,
+      620,
+      222
+    ],
+    "page_idx": 6,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "text",
+    "text": "라 하자",
+    "bbox": [
+      446,
+      243,
+      491,
+      261
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "inline_equation",
+    "content": "( f ~ \\circ ~ f ) ( 1 ) = \\frac { 5 } { 4 }",
+    "bbox": [
+      492,
+      240,
+      567,
+      266
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "가되도록하는모든",
+    "bbox": [
+      567,
+      239,
+      670,
+      265
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "inline_equation",
+    "content": "a",
+    "bbox": [
+      671,
+      247,
+      679,
+      258
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "의 값의 합은?",
+    "bbox": [
+      680,
+      239,
+      752,
+      265
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "[4점]",
+    "bbox": [
+      727,
+      270,
+      758,
+      288
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\begin{array} { c c c c c c c c c c c c c c c c c c c c } { { \\textcircled { 1 } } } & { { \\frac { 1 1 } { 2 } } } & { { } } & { { \\textcircled { 2 } } } & { { \\frac { 1 3 } { 2 } } } & { { } } & { { \\textcircled { 3 } } } & { { \\frac { 1 5 } { 2 } } } & { { } } & { { \\textcircled { 4 } } } & { { \\frac { 1 7 } { 2 } } } & { { } } & { { \\textcircled { 5 } } } & { { \\frac { 1 9 } { 2 } } } \\end{array}",
+    "bbox": [
+      442,
+      301,
+      727,
+      330
+    ],
+    "page_idx": 6,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "text",
+    "text": "19.숫자 3,3,4, 4,4가 하나씩 적힌 5개의 공이 들어 있는 주머니가 있다.이 주머니와 한 개의 주사위를 사용하여",
+    "bbox": [
+      87,
+      157,
+      398,
+      192
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "다음 규칙에 따라 점수를 얻는 시행을 한다.",
+    "bbox": [
+      99,
+      198,
+      313,
+      212
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "주머니에서 임의로 한 개의 공을 꺼내어 꺼낸 공에 적힌 수가3이면 주사위를 3번 던져서 나오는 세 눈의 수의 합을 점수로 하고, 꺼낸 공에 적힌 수가 4이면 주사위를 4번 던져서 나오는 네 눈의 수의 합을 점수로 한다.",
+    "bbox": [
+      109,
+      238,
+      390,
+      328
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "이 시행을 한 번 하여 얻은 점수가 10점일 확률은?[4점]",
+    "bbox": [
+      97,
+      353,
+      382,
+      370
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "13 41 43 1 47 ① 2 ③ 4 5 180 540 540 12 540",
+    "bbox": [
+      100,
+      384,
+      383,
+      414
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "bbox": [
+      144,
+      447,
+      347,
+      572
+    ],
+    "page_idx": 7,
+    "image_path": "aca474debe642368b64d334988dd0910af2b109bbb080971d2601321bdb062f2.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "20.함수",
+    "bbox": [
+      434,
+      158,
+      486,
+      173
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "inline_equation",
+    "content": "f \\left( x \\right) = \\pi \\sin 2 \\pi x",
+    "bbox": [
+      486,
+      158,
+      564,
+      173
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "에 대하여 정의역이 실수 전체의 집합이고 치역이 집합",
+    "bbox": [
+      447,
+      158,
+      724,
+      194
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\{ 0 , 1 \\}",
+    "bbox": [
+      558,
+      179,
+      587,
+      194
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "인함수",
+    "bbox": [
+      588,
+      178,
+      630,
+      194
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "inline_equation",
+    "content": "g \\left( x \\right)",
+    "bbox": [
+      630,
+      178,
+      653,
+      194
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "와자연수",
+    "bbox": [
+      653,
+      178,
+      705,
+      194
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "inline_equation",
+    "content": "n ^ { \\circ } |",
+    "bbox": [
+      705,
+      179,
+      726,
+      193
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "다음 조건을 만족시킬 때,",
+    "bbox": [
+      447,
+      198,
+      574,
+      213
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "inline_equation",
+    "content": "n { \\stackrel { \\circ } { - } } 1",
+    "bbox": [
+      574,
+      198,
+      596,
+      212
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "값은?[4점]",
+    "bbox": [
+      596,
+      198,
+      659,
+      213
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "함수",
+    "bbox": [
+      457,
+      237,
+      483,
+      253
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "inline_equation",
+    "content": "h \\left( x \\right) = f \\left( n x \\right) g \\left( x \\right)",
+    "bbox": [
+      484,
+      237,
+      570,
+      253
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "는실수 전체의 집합에서연속이고",
+    "bbox": [
+      570,
+      237,
+      742,
+      253
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\int _ { - 1 } ^ { 1 } h ( x ) d x = 2 , \\quad \\int _ { - 1 } ^ { 1 } x h ( x ) d x = - { \\frac { 1 } { 3 2 } }",
+    "bbox": [
+      473,
+      257,
+      671,
+      288
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { \\circ \\intercal }",
+    "bbox": [
+      457,
+      293,
+      468,
+      306
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "다.",
+    "bbox": [
+      468,
+      290,
+      486,
+      309
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "① 8 ② 10 ③ 12 ④ 14 ⑤ 16",
+    "bbox": [
+      446,
+      329,
+      725,
+      350
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "짝수형",
+    "bbox": [
+      90,
+      108,
+      147,
+      138
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "21.수열",
+    "bbox": [
+      85,
+      157,
+      138,
+      174
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left\\{ a _ { n } \\right\\}",
+    "bbox": [
+      139,
+      158,
+      161,
+      174
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "은",
+    "bbox": [
+      161,
+      157,
+      177,
+      174
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "inline_equation",
+    "content": "0 < a _ { 1 } < 1 \\diamond",
+    "bbox": [
+      177,
+      159,
+      239,
+      174
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "고,모든자연수",
+    "bbox": [
+      239,
+      157,
+      320,
+      174
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "inline_equation",
+    "content": "n",
+    "bbox": [
+      320,
+      160,
+      330,
+      171
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "에대하여 다음 조건을 만족시킨다.",
+    "bbox": [
+      98,
+      157,
+      380,
+      194
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\begin{array} { l } { { (\\gamma \\vdash) \\ a _ { 2 n } = a _ { 2 } \\times a _ { n } + 1 } } \\\\ { { (\\gamma \\vdash) \\ a _ { 2 n + 1 } = a _ { 2 } \\times a _ { n } - 2 } } \\end{array}",
+    "bbox": [
+      99,
+      217,
+      225,
+      261
+    ],
+    "page_idx": 8,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "inline_equation",
+    "content": "a _ { 8 } - a _ { 1 5 } = 6 3 \\ \\div",
+    "bbox": [
+      98,
+      293,
+      173,
+      310
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "때,",
+    "bbox": [
+      174,
+      295,
+      194,
+      311
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { a _ { 8 } } { a _ { 1 } }",
+    "bbox": [
+      194,
+      289,
+      212,
+      318
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "의 값은? [4점]",
+    "bbox": [
+      212,
+      291,
+      288,
+      312
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "① 91 ② 92 ③ 93 ④ 94 ⑤ 95",
+    "bbox": [
+      97,
+      332,
+      376,
+      352
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "단답형",
+    "bbox": [
+      451,
+      161,
+      501,
+      183
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "22.",
+    "bbox": [
+      433,
+      209,
+      457,
+      227
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left( x + { \\frac { 3 } { x ^ { 2 } } } \\right) ^ { \\sharp }",
+    "bbox": [
+      459,
+      203,
+      507,
+      235
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "의 전개식에서",
+    "bbox": [
+      507,
+      203,
+      582,
+      226
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "inline_equation",
+    "content": "x ^ { 2 }",
+    "bbox": [
+      582,
+      210,
+      596,
+      224
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "의 계수를 구하시오. [3점]",
+    "bbox": [
+      596,
+      203,
+      726,
+      226
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "23. 함수",
+    "bbox": [
+      433,
+      628,
+      486,
+      655
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "inline_equation",
+    "content": "f \\left( x \\right) = { \\frac { x ^ { 2 } - 2 x - 6 } { x - 1 } } \\cdot",
+    "bbox": [
+      486,
+      629,
+      582,
+      658
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "에대하여",
+    "bbox": [
+      583,
+      628,
+      631,
+      655
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "inline_equation",
+    "content": "f ^ { \\prime } ( 0 )",
+    "bbox": [
+      631,
+      637,
+      659,
+      652
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "의 값을 구하시오",
+    "bbox": [
+      659,
+      628,
+      750,
+      655
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "24.그림과 같이",
+    "bbox": [
+      85,
+      162,
+      174,
+      183
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "inline_equation",
+    "content": "{ \\overline { { \\mathrm { A B } } } } = 2 , ~ \\angle \\mathrm { B } = { \\frac { \\pi } { 2 } } { \\stackrel { \\circ } { \\ \\downarrow } }",
+    "bbox": [
+      176,
+      161,
+      279,
+      183
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "직각삼각형 ABC에서 중심이A,반지름의길이가1인원이두선분AB,AC와 만나는 점을 각각D,E라 하자.",
+    "bbox": [
+      97,
+      162,
+      389,
+      225
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "호DE의삼등분점중점D에 가까운점을F라하고, 직선 AF가 선분 BC와 만나는 점을 G라 하자.",
+    "bbox": [
+      98,
+      228,
+      366,
+      262
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle \\mathrm { B A G } = \\theta",
+    "bbox": [
+      99,
+      267,
+      155,
+      281
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "라 할 때, 삼각형 ABG의 내부와 부채꼴 ADF의 외부의 공통부분의 넓이를",
+    "bbox": [
+      98,
+      267,
+      394,
+      301
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "inline_equation",
+    "content": "f \\left( \\theta \\right)",
+    "bbox": [
+      227,
+      286,
+      250,
+      301
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": ",부채꼴AFE의넓이를",
+    "bbox": [
+      251,
+      285,
+      370,
+      301
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "inline_equation",
+    "content": "g \\left( \\theta \\right)",
+    "bbox": [
+      370,
+      285,
+      392,
+      301
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "라 하자.",
+    "bbox": [
+      97,
+      285,
+      406,
+      330
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "inline_equation",
+    "content": "4 0 \\times \\operatorname* { l i m } _ { \\theta \\to 0 + } { \\frac { f ( \\theta ) } { g ( \\theta ) } }",
+    "bbox": [
+      126,
+      305,
+      200,
+      335
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "의 값을 구하시오. (단,",
+    "bbox": [
+      201,
+      303,
+      316,
+      330
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "inline_equation",
+    "content": "0 < \\theta < \\frac { \\pi } { 6 } \\mathrm { \\ . }",
+    "bbox": [
+      316,
+      309,
+      371,
+      332
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "[3점]",
+    "bbox": [
+      371,
+      310,
+      405,
+      327
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "26.세 학생 A,B, C를 포함한 6명의 학생이 있다.",
+    "bbox": [
+      434,
+      163,
+      697,
+      178
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "이 6명의 학생이 일정한 간격을 두고 원 모양의 탁자에 다음 조건을 만족시키도록 모두 둘러앉는 경우의 수를 구하시오.",
+    "bbox": [
+      447,
+      185,
+      754,
+      218
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "(단, 회전하여 일치하는 것은 같은 것으로 본다.) [4점]",
+    "bbox": [
+      447,
+      222,
+      712,
+      237
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "(가) A와 B는 이웃한다.",
+    "bbox": [
+      457,
+      262,
+      579,
+      277
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "(나) B와 C는 이웃하지 않는다.",
+    "bbox": [
+      457,
+      284,
+      615,
+      300
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "bbox": [
+      128,
+      372,
+      363,
+      542
+    ],
+    "page_idx": 9,
+    "image_path": "75117538afb2270544084d8149257b03a27445aeb3201c7b8bb4370ea6e81b3c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      532,
+      342,
+      667,
+      489
+    ],
+    "page_idx": 9,
+    "image_path": "831d9fff9a33fc10cce62c18aa6ac7702af5c997b36bd526a530ebe4427e14b8.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "25. 첫째항이 3인 등차수열",
+    "bbox": [
+      85,
+      775,
+      230,
+      792
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left\\{ a _ { n } \\right\\}",
+    "bbox": [
+      231,
+      776,
+      254,
+      793
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "에대하여",
+    "bbox": [
+      254,
+      775,
+      305,
+      792
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\sum _ { k = 1 } ^ { 5 } a _ { k } = 5 5",
+    "bbox": [
+      306,
+      768,
+      361,
+      800
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "일때,",
+    "bbox": [
+      361,
+      775,
+      392,
+      793
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\sum _ { k = 1 } ^ { 5 } k ( a _ { k } - 3 )",
+    "bbox": [
+      97,
+      806,
+      158,
+      838
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "의 값을 구하시오.[3점]",
+    "bbox": [
+      158,
+      813,
+      278,
+      831
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "27.",
+    "bbox": [
+      83,
+      156,
+      111,
+      187
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\log _ { 4 } 2 n ^ { 2 } - { \\frac { 1 } { 2 } } \\log _ { 2 } \\sqrt { n } !",
+    "bbox": [
+      111,
+      159,
+      219,
+      183
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "의 값이 40 이하의 자연수가 되도록 하는자연수",
+    "bbox": [
+      97,
+      156,
+      399,
+      207
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "n",
+    "bbox": [
+      160,
+      193,
+      169,
+      204
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "의 개수를 구하시오.[4점]",
+    "bbox": [
+      170,
+      189,
+      299,
+      207
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "28.두상수",
+    "bbox": [
+      434,
+      163,
+      501,
+      180
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "a",
+    "bbox": [
+      502,
+      165,
+      511,
+      177
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      511,
+      163,
+      518,
+      180
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "b \\left( a < b \\right) \\circ \\forall \\vert",
+    "bbox": [
+      518,
+      164,
+      570,
+      178
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "대하여함수",
+    "bbox": [
+      570,
+      163,
+      636,
+      180
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "f \\left( x \\right)",
+    "bbox": [
+      636,
+      163,
+      660,
+      178
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "를",
+    "bbox": [
+      660,
+      163,
+      675,
+      180
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "interline_equation",
+    "content": "f (x) = (x - a) (x - b) ^ { 2 }",
+    "bbox": [
+      473,
+      196,
+      577,
+      212
+    ],
+    "page_idx": 10,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "text",
+    "text": "이라 하자.함수",
+    "bbox": [
+      448,
+      228,
+      528,
+      243
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "g \\left( x \\right) = x ^ { 3 } + x + 1",
+    "bbox": [
+      528,
+      228,
+      610,
+      244
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "의역함수",
+    "bbox": [
+      610,
+      228,
+      662,
+      243
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "g ^ { - 1 } ( x )",
+    "bbox": [
+      662,
+      228,
+      697,
+      244
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "에대하여 합성함수",
+    "bbox": [
+      447,
+      228,
+      747,
+      264
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "h \\left( x \\right) = \\left( f \\circ g ^ { - 1 } \\right) \\left( x \\right)",
+    "bbox": [
+      493,
+      248,
+      590,
+      264
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "가 다음 조건을 만족시킬 때,",
+    "bbox": [
+      591,
+      249,
+      733,
+      264
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "f ( 8 )",
+    "bbox": [
+      446,
+      269,
+      468,
+      283
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "의 값을 구하시오. [4점]",
+    "bbox": [
+      469,
+      268,
+      588,
+      283
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { ( 7 7 ) }",
+    "bbox": [
+      457,
+      309,
+      475,
+      322
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "함수",
+    "bbox": [
+      476,
+      308,
+      503,
+      324
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left( x - 1 \\right) \\left| h \\left( x \\right) \\right|",
+    "bbox": [
+      503,
+      308,
+      566,
+      324
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "가실수 전체의 집합에서미분가능하다.",
+    "bbox": [
+      566,
+      308,
+      744,
+      324
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "(나)",
+    "bbox": [
+      456,
+      329,
+      480,
+      347
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "inline_equation",
+    "content": "h ^ { \\prime } ( 3 ) = 2",
+    "bbox": [
+      480,
+      330,
+      526,
+      345
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "29.네 명의 학생 A,B,C,D에게 검은색 모자6개와 흰색 모자6개를다음 규칙에따라 남김없이나누어주는 경우의 수를 구하시오.(단,같은 색 모자끼리는 서로 구별하지 않는다.) [4점]",
+    "bbox": [
+      86,
+      158,
+      404,
+      231
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "(가) 각 학생은1개 이상의 모자를 받는다.",
+    "bbox": [
+      109,
+      257,
+      319,
+      271
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "(나) 학생 A가 받는 검은색 모자의 개수는 4 이상이다.",
+    "bbox": [
+      109,
+      279,
+      383,
+      294
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "(다) 흰색 모자보다 검은색 모자를 더 많이 받는 학생은 A를 포함하여 2명뿐이다.",
+    "bbox": [
+      109,
+      300,
+      383,
+      335
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "30.최고차항의 계수가1인 삼차함수",
+    "bbox": [
+      434,
+      158,
+      626,
+      173
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "f \\left( x \\right) { \\mathsf { o } } \\ P",
+    "bbox": [
+      626,
+      158,
+      662,
+      173
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "대하여 실수 전체의 집합에서 정의된 함수",
+    "bbox": [
+      447,
+      158,
+      700,
+      195
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "g \\left( x \\right) = f \\left( \\sin ^ { 2 } \\pi x \\right)",
+    "bbox": [
+      620,
+      178,
+      704,
+      195
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "가 다음 조건을 만족시킨다.",
+    "bbox": [
+      447,
+      179,
+      716,
+      213
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { { 7 } \\mathrm { { F } ) } }",
+    "bbox": [
+      457,
+      240,
+      475,
+      253
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "0 < x < 1",
+    "bbox": [
+      481,
+      240,
+      528,
+      253
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "에서함수",
+    "bbox": [
+      528,
+      239,
+      579,
+      255
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "g \\left( x \\right)",
+    "bbox": [
+      579,
+      239,
+      602,
+      254
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "가 극대가 되는",
+    "bbox": [
+      603,
+      239,
+      681,
+      255
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "x",
+    "bbox": [
+      681,
+      241,
+      690,
+      252
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "의 개수가 3이고,이때 극댓값이 모두 동일하다.",
+    "bbox": [
+      481,
+      239,
+      741,
+      274
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "(나) 함수",
+    "bbox": [
+      454,
+      282,
+      506,
+      307
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "g \\left( x \\right)",
+    "bbox": [
+      507,
+      287,
+      529,
+      302
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "의 최댓값은",
+    "bbox": [
+      530,
+      282,
+      592,
+      307
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "{ \\frac { 1 } { 2 } } \\circ ]",
+    "bbox": [
+      592,
+      282,
+      618,
+      308
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "고 최솟값은",
+    "bbox": [
+      618,
+      282,
+      679,
+      307
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "0 ^ { \\circ } |",
+    "bbox": [
+      679,
+      288,
+      699,
+      302
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "다.",
+    "bbox": [
+      699,
+      282,
+      717,
+      307
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "f \\left( 2 \\right) = a + b { \\sqrt { 2 } }",
+    "bbox": [
+      446,
+      335,
+      521,
+      351
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "일때,",
+    "bbox": [
+      521,
+      335,
+      555,
+      353
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "a ^ { 2 } + b ^ { 2 }",
+    "bbox": [
+      555,
+      336,
+      589,
+      351
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "의 값을 구하시오.(단,",
+    "bbox": [
+      590,
+      335,
+      703,
+      353
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "a",
+    "bbox": [
+      704,
+      339,
+      712,
+      350
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "와",
+    "bbox": [
+      712,
+      335,
+      726,
+      353
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "inline_equation",
+    "content": "b",
+    "bbox": [
+      727,
+      338,
+      735,
+      350
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "유리수이다.) [4점]",
+    "bbox": [
+      446,
+      354,
+      538,
+      371
+    ],
+    "page_idx": 11
+  }
+]

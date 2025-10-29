@@ -1,0 +1,3188 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.996,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        203,
+                        130,
+                        390,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                130,
+                                392,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        130,
+                                        392,
+                                        156
+                                    ],
+                                    "score": 0.965,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                202,
+                                155,
+                                389,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        155,
+                                        389,
+                                        182
+                                    ],
+                                    "score": 0.954,
+                                    "content": "(생활과 윤리)과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "4139bc0a105bbf5945705f0b0cfe3610e2d5ed4b36df989e58adeb3f8e5ee3a5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                842
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.996,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        203,
+                        130,
+                        390,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                130,
+                                392,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        130,
+                                        392,
+                                        156
+                                    ],
+                                    "score": 0.965,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                202,
+                                155,
+                                389,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        155,
+                                        389,
+                                        182
+                                    ],
+                                    "score": 0.954,
+                                    "content": "(생활과 윤리)과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "bbox_fs": [
+                        201,
+                        130,
+                        392,
+                        182
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "4139bc0a105bbf5945705f0b0cfe3610e2d5ed4b36df989e58adeb3f8e5ee3a5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.996,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        203,
+                        130,
+                        390,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                130,
+                                392,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        130,
+                                        392,
+                                        156
+                                    ],
+                                    "score": 0.997,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                202,
+                                156,
+                                389,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        156,
+                                        389,
+                                        183
+                                    ],
+                                    "score": 0.959,
+                                    "content": "(윤리와 사상 )과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "3aca567425c0478690c68bc630e5b6aae960f37169aa6e5a6d35e1cfd0e8f216.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_idx": 1,
+            "page_size": [
+                595,
+                842
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.996,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        203,
+                        130,
+                        390,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                130,
+                                392,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        130,
+                                        392,
+                                        156
+                                    ],
+                                    "score": 0.997,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                202,
+                                156,
+                                389,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        156,
+                                        389,
+                                        183
+                                    ],
+                                    "score": 0.959,
+                                    "content": "(윤리와 사상 )과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "bbox_fs": [
+                        201,
+                        130,
+                        392,
+                        183
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "3aca567425c0478690c68bc630e5b6aae960f37169aa6e5a6d35e1cfd0e8f216.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.994,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                203,
+                                131,
+                                391,
+                                181
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        130,
+                                        392,
+                                        155
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                202,
+                                                130,
+                                                392,
+                                                155
+                                            ],
+                                            "score": 0.996,
+                                            "content": "사회탐구 영역 정답표",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        218,
+                                        156,
+                                        374,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                218,
+                                                156,
+                                                374,
+                                                182
+                                            ],
+                                            "score": 0.97,
+                                            "content": "(한국지리 )과목",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 2
+                                }
+                            ],
+                            "index": 1.5
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "7f5a4de0b35d4673f3c1f4ad9dbc992733dd52da94af235f85e6dda5ba45c9d0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2.75
+                }
+            ],
+            "page_idx": 2,
+            "page_size": [
+                595,
+                842
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.994,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                203,
+                                131,
+                                391,
+                                181
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        130,
+                                        392,
+                                        155
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                202,
+                                                130,
+                                                392,
+                                                155
+                                            ],
+                                            "score": 0.996,
+                                            "content": "사회탐구 영역 정답표",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        218,
+                                        156,
+                                        374,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                218,
+                                                156,
+                                                374,
+                                                182
+                                            ],
+                                            "score": 0.97,
+                                            "content": "(한국지리 )과목",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 2
+                                }
+                            ],
+                            "index": 1.5
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "7f5a4de0b35d4673f3c1f4ad9dbc992733dd52da94af235f85e6dda5ba45c9d0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2.75
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                393,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        393,
+                                        120
+                                    ],
+                                    "score": 0.997,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                203,
+                                131,
+                                391,
+                                181
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        130,
+                                        392,
+                                        155
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                202,
+                                                130,
+                                                392,
+                                                155
+                                            ],
+                                            "score": 0.996,
+                                            "content": "사회탐구 영역 정답표",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        156,
+                                        374,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                156,
+                                                374,
+                                                182
+                                            ],
+                                            "score": 0.998,
+                                            "content": "(세계지리)과목",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 2
+                                }
+                            ],
+                            "index": 1.5
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "d789036a977e8efe7eb7042cb52bcf17ce58e5499dc1dc34aa489f0270ddf72c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2.75
+                }
+            ],
+            "page_idx": 3,
+            "page_size": [
+                595,
+                842
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                393,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        393,
+                                        120
+                                    ],
+                                    "score": 0.997,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                203,
+                                131,
+                                391,
+                                181
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        130,
+                                        392,
+                                        155
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                202,
+                                                130,
+                                                392,
+                                                155
+                                            ],
+                                            "score": 0.996,
+                                            "content": "사회탐구 영역 정답표",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        156,
+                                        374,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                156,
+                                                374,
+                                                182
+                                            ],
+                                            "score": 0.998,
+                                            "content": "(세계지리)과목",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 2
+                                }
+                            ],
+                            "index": 1.5
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "d789036a977e8efe7eb7042cb52bcf17ce58e5499dc1dc34aa489f0270ddf72c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2.75
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.996,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        203,
+                        130,
+                        390,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                129,
+                                392,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        129,
+                                        392,
+                                        156
+                                    ],
+                                    "score": 0.991,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                207,
+                                155,
+                                385,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        207,
+                                        155,
+                                        385,
+                                        183
+                                    ],
+                                    "score": 0.982,
+                                    "content": "(동아시아사 )과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "fc3099e88dbf2e95f1d9575562795aad3739e916f8e2fadadc5ad371200bea95.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_idx": 4,
+            "page_size": [
+                595,
+                842
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.996,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        203,
+                        130,
+                        390,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                129,
+                                392,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        129,
+                                        392,
+                                        156
+                                    ],
+                                    "score": 0.991,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                207,
+                                155,
+                                385,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        207,
+                                        155,
+                                        385,
+                                        183
+                                    ],
+                                    "score": 0.982,
+                                    "content": "(동아시아사 )과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "bbox_fs": [
+                        201,
+                        129,
+                        392,
+                        183
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "fc3099e88dbf2e95f1d9575562795aad3739e916f8e2fadadc5ad371200bea95.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.994,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                203,
+                                131,
+                                391,
+                                181
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        129,
+                                        391,
+                                        156
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                202,
+                                                129,
+                                                391,
+                                                156
+                                            ],
+                                            "score": 0.996,
+                                            "content": "사회탐구 영역 정답표",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        226,
+                                        155,
+                                        364,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                155,
+                                                364,
+                                                182
+                                            ],
+                                            "score": 0.995,
+                                            "content": "(세계사)과목",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 2
+                                }
+                            ],
+                            "index": 1.5
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "e46b2b6912bab98b5261acf1871407574ac4860fdbaae08c18e47d1f929e2c0d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2.75
+                }
+            ],
+            "page_idx": 5,
+            "page_size": [
+                595,
+                842
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.994,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                203,
+                                131,
+                                391,
+                                181
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        129,
+                                        391,
+                                        156
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                202,
+                                                129,
+                                                391,
+                                                156
+                                            ],
+                                            "score": 0.996,
+                                            "content": "사회탐구 영역 정답표",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        226,
+                                        155,
+                                        364,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                155,
+                                                364,
+                                                182
+                                            ],
+                                            "score": 0.995,
+                                            "content": "(세계사)과목",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 2
+                                }
+                            ],
+                            "index": 1.5
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "e46b2b6912bab98b5261acf1871407574ac4860fdbaae08c18e47d1f929e2c0d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2.75
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.994,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                203,
+                                131,
+                                391,
+                                181
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        129,
+                                        391,
+                                        156
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                202,
+                                                129,
+                                                391,
+                                                156
+                                            ],
+                                            "score": 0.993,
+                                            "content": "사회탐구 영역 정답표",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        236,
+                                        156,
+                                        356,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                236,
+                                                156,
+                                                356,
+                                                182
+                                            ],
+                                            "score": 0.994,
+                                            "content": "(경제)과목",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 2
+                                }
+                            ],
+                            "index": 1.5
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "4feddf8e8e75ec1415336c93ae091045f37c45b1d83b01fdf655ab5cb174eff5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2.75
+                }
+            ],
+            "page_idx": 6,
+            "page_size": [
+                595,
+                842
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.994,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                203,
+                                131,
+                                391,
+                                181
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        129,
+                                        391,
+                                        156
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                202,
+                                                129,
+                                                391,
+                                                156
+                                            ],
+                                            "score": 0.993,
+                                            "content": "사회탐구 영역 정답표",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        236,
+                                        156,
+                                        356,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                236,
+                                                156,
+                                                356,
+                                                182
+                                            ],
+                                            "score": 0.994,
+                                            "content": "(경제)과목",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 2
+                                }
+                            ],
+                            "index": 1.5
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "4feddf8e8e75ec1415336c93ae091045f37c45b1d83b01fdf655ab5cb174eff5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2.75
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.996,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        203,
+                        131,
+                        391,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                129,
+                                392,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        129,
+                                        392,
+                                        156
+                                    ],
+                                    "score": 0.99,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                211,
+                                156,
+                                380,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        156,
+                                        380,
+                                        182
+                                    ],
+                                    "score": 0.971,
+                                    "content": "(정치와 법 )과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "579bee44b0b75dce6b638de831bcb95d2699431c62675c3a23d48e039c0e98ab.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_idx": 7,
+            "page_size": [
+                595,
+                842
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.996,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        203,
+                        131,
+                        391,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                129,
+                                392,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        129,
+                                        392,
+                                        156
+                                    ],
+                                    "score": 0.99,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                211,
+                                156,
+                                380,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        156,
+                                        380,
+                                        182
+                                    ],
+                                    "score": 0.971,
+                                    "content": "(정치와 법 )과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "579bee44b0b75dce6b638de831bcb95d2699431c62675c3a23d48e039c0e98ab.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.996,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        130,
+                        392,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                129,
+                                393,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        129,
+                                        393,
+                                        156
+                                    ],
+                                    "score": 0.969,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                198,
+                                155,
+                                394,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        198,
+                                        155,
+                                        394,
+                                        182
+                                    ],
+                                    "score": 0.983,
+                                    "content": "(사회·문화 )과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "f6ea1d7e83c8e6c28329a3ae8a4cafe820e88c5dcf80a140d77e6cebb8f1454f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_idx": 8,
+            "page_size": [
+                595,
+                842
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        201,
+                        100,
+                        392,
+                        119
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                100,
+                                392,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        100,
+                                        392,
+                                        120
+                                    ],
+                                    "score": 0.996,
+                                    "content": "2021학년도 대학수학능력시험",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        130,
+                        392,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                129,
+                                393,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        129,
+                                        393,
+                                        156
+                                    ],
+                                    "score": 0.969,
+                                    "content": "사회탐구 영역 정답표",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                198,
+                                155,
+                                394,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        198,
+                                        155,
+                                        394,
+                                        182
+                                    ],
+                                    "score": 0.983,
+                                    "content": "(사회·문화 )과목",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "bbox_fs": [
+                        198,
+                        129,
+                        394,
+                        182
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        213,
+                        506,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                213,
+                                506,
+                                451
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                213,
+                                                506,
+                                                451
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>그활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>활</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td><td rowspan=1 colspan=1>그할</td><td rowspan=1 colspan=1>정답</td><td rowspan=1 colspan=1>배점</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>3</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "f6ea1d7e83c8e6c28329a3ae8a4cafe820e88c5dcf80a140d77e6cebb8f1454f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        213,
+                                        506,
+                                        292.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        292.3333333333333,
+                                        506,
+                                        371.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        371.66666666666663,
+                                        506,
+                                        450.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.5.4"
+}

@@ -1,0 +1,3926 @@
+[
+  {
+    "type": "text",
+    "text": "제5교시",
+    "bbox": [
+      91,
+      154,
+      174,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제2외국어/한문 영역(독일어 I)",
+    "bbox": [
+      200,
+      145,
+      693,
+      201
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      221,
+      209,
+      624,
+      239
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>성명</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>수험번호</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "eab8d9b9344adc1d05b1a7ef92dff55bd621371761f52be8fba4e64512b621a4.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "1. 밑줄 친 부분과 같은 발음이 들어 있는 것은?",
+    "bbox": [
+      86,
+      255,
+      334,
+      272
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9,
+      "end_orig": 37,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Kann  ich  heute  einen  Termin  haben?",
+    "bbox": [
+      105,
+      284,
+      315,
+      301
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 38,
+      "end_orig": 81,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Ja,  gern.",
+    "bbox": [
+      105,
+      302,
+      171,
+      319
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 82,
+      "end_orig": 96,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Firma ②  ledig ③  prima\n④  Abitur ⑤  Kirche",
+    "bbox": [
+      97,
+      328,
+      350,
+      364
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9688,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 97,
+      "end_orig": 143,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "2. 밑줄 친 낱말과 강세의 위치가 같은 것은?",
+    "bbox": [
+      86,
+      385,
+      316,
+      402
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 144,
+      "end_orig": 170,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Ich  suche  eine  Bäckerei.",
+    "bbox": [
+      105,
+      413,
+      248,
+      431
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 171,
+      "end_orig": 202,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Da  hinten  ist  eine.",
+    "bbox": [
+      105,
+      432,
+      220,
+      448
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 203,
+      "end_orig": 229,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Automat ②  Gitarre ③  Pullover\n④  Besserung ⑤  Geschwister",
+    "bbox": [
+      97,
+      459,
+      362,
+      496
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 230,
+      "end_orig": 291,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "3.빈간에 들어갈 말로 알맞은 것은?[1점] ① Ende ② Haus ③ Farbe ④ Seite ⑤ Besuch",
+    "bbox": [
+      86,
+      514,
+      350,
+      751
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.5437,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 420,
+      "end_orig": 497,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      538,
+      404,
+      712
+    ],
+    "page_idx": 0,
+    "image_path": "334d6f9d6d898e6171a912fc0de2ba4bf9e9a2aff8993e822740fee3d8a54779.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "4. 빈간 (a), (b)에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      771,
+      315,
+      790
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ Die  Zeit  ist  (a) .  Das  Spiel  ist  aus.\n",
+    "bbox": [
+      107,
+      801,
+      321,
+      817
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9508,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 493,
+      "end_orig": 540,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ Die  Firmen  wollen  am  (b) bleiben.",
+    "bbox": [
+      108,
+      818,
+      323,
+      835
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9655,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 540,
+      "end_orig": 579,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": " (a) (b) (a) (b)\n① an Ball ② an Recht\n③ an Finger ④ um Ball\n⑤ um Recht",
+    "bbox": [
+      97,
+      847,
+      344,
+      919
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9901,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 579,
+      "end_orig": 649,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "5.빈간에 공통으로 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      937,
+      322,
+      956
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ Jetzt  er  den  Spaß  zu  weit.\n◦",
+    "bbox": [
+      106,
+      966,
+      292,
+      985
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8696,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 677,
+      "end_orig": 712,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ Das  Schiff  langsam  auf  dem  Meer.",
+    "bbox": [
+      108,
+      985,
+      334,
+      1001
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9818,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 711,
+      "end_orig": 750,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ Der  starke  Regen  alle  Gäste  ins  Haus.\n",
+    "bbox": [
+      107,
+      1002,
+      352,
+      1018
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9677,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 751,
+      "end_orig": 797,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  hält ②  fährt ③  hängt\n④  trägt ⑤  treibt",
+    "bbox": [
+      97,
+      1029,
+      350,
+      1066
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.931,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 797,
+      "end_orig": 841,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "6.빈간에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      434,
+      254,
+      623,
+      273
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      279,
+      548,
+      360
+    ],
+    "page_idx": 0,
+    "image_path": "c6d10a2f3262c46eff489a584faa02017875edd93e736e825735d30bd8cb3c45.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "A: Hier, diese Hose ist doch schön.",
+    "bbox": [
+      553,
+      285,
+      738,
+      299
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 864,
+      "end_orig": 899,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B: ?",
+    "bbox": [
+      553,
+      303,
+      724,
+      318
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.8,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 900,
+      "end_orig": 904,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Die rote da, ganz links.",
+    "bbox": [
+      553,
+      320,
+      692,
+      335
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 906,
+      "end_orig": 933,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Ja, die gefällt mir auch.\n",
+    "bbox": [
+      553,
+      338,
+      693,
+      352
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9565,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 934,
+      "end_orig": 964,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Welche  meinst  du ②  Wie  sehe  ich  darin  aus\n③  Wie  findest  du  die  Hose ④  Wie  viel  kostet  die  Hose\n⑤  Welche  Größe  hat  die  Hose\n",
+    "bbox": [
+      446,
+      365,
+      748,
+      416
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9846,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 964,
+      "end_orig": 1112,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "7.빈간에 들어갈 말로 알맞은 것은? [1점]",
+    "bbox": [
+      435,
+      463,
+      652,
+      482
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Kannst  du  mir  heute  beim  Lernen  helfen?",
+    "bbox": [
+      454,
+      494,
+      686,
+      508
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1140,
+      "end_orig": 1189,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : .  Heute  kann  ich  nicht,  aber  morgen.",
+    "bbox": [
+      453,
+      511,
+      746,
+      527
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1190,
+      "end_orig": 1236,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Gut,  dann  treffen  wir  uns  morgen.",
+    "bbox": [
+      454,
+      529,
+      649,
+      544
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1237,
+      "end_orig": 1279,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Angenehm ②  Bitte  sehr\n③  Tut  mir  leid ④  Einverstanden\n⑤  Nichts  zu  danken",
+    "bbox": [
+      445,
+      556,
+      693,
+      607
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1280,
+      "end_orig": 1363,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "8.빈간에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      435,
+      654,
+      623,
+      673
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Entschuldigung!  Ist  es  noch  weit  bis  zur  Post?",
+    "bbox": [
+      454,
+      685,
+      712,
+      699
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1386,
+      "end_orig": 1443,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : .  Sie  können  in  nur 3  Minuten  zu  Fuß  da  sein. ",
+    "bbox": [
+      453,
+      703,
+      747,
+      734
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1444,
+      "end_orig": 1503,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Danke  schön.",
+    "bbox": [
+      454,
+      737,
+      543,
+      752
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1503,
+      "end_orig": 1520,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① Ich  bin  fremd  hier\n② Doch,  ich  weiß  nichts  davon\n③ Nein,  sie  ist  ganz  in  der  Nähe\n④ Oh,  sie  liegt  ziemlich  weit  weg\n⑤ Ja,  das  ist  zu  weit  zum  Laufen\n9",
+    "bbox": [
+      446,
+      765,
+      622,
+      849
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9831,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1521,
+      "end_orig": 1697,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "9. 대화의 내용으로 보아 Bremen의 날씨에 해당하는 것은?  [1점] ",
+    "bbox": [
+      434,
+      899,
+      756,
+      916
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1696,
+      "end_orig": 1738,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Wie  war  das  Wetter  gestern  in  Bremen?",
+    "bbox": [
+      455,
+      929,
+      682,
+      943
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1738,
+      "end_orig": 1785,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Es  war  den  ganzen  Tag  bedeckt.  Trotzdem  war  es warm  und  nicht  windig.",
+    "bbox": [
+      453,
+      946,
+      748,
+      979
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1786,
+      "end_orig": 1870,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① ② ③ 4 5 oo O O",
+    "bbox": [
+      471,
+      995,
+      730,
+      1042
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.7143,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1871,
+      "end_orig": 1880,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "10. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      156,
+      284,
+      175
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1881,
+      "end_orig": 1903,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Guten  Tag!  Wann  fängt  der  Film  „Gelbe  Blume“  an? ",
+    "bbox": [
+      105,
+      186,
+      396,
+      203
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9398,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1904,
+      "end_orig": 1965,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : . A : Zwei  Karten,  bitte.",
+    "bbox": [
+      105,
+      205,
+      222,
+      237
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9767,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1965,
+      "end_orig": 1996,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Drei  Tage  her ②  Für  heute  noch\n③  Seit  zwei  Tagen ④  In  einer  halben  Stunde\n⑤  Eine  Viertelstunde  lang",
+    "bbox": [
+      97,
+      249,
+      388,
+      300
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1997,
+      "end_orig": 2114,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "11. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      87,
+      350,
+      283,
+      366
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2115,
+      "end_orig": 2137,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Wirst  du  mit  der  Arbeit  bis  zum  nächsten  Montag  fertig?",
+    "bbox": [
+      105,
+      378,
+      398,
+      395
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2138,
+      "end_orig": 2206,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Aber  sicher,  . A : Dann  können  wir  am  Dienstag  zusammen  feiern.",
+    "bbox": [
+      105,
+      396,
+      372,
+      429
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9907,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2207,
+      "end_orig": 2282,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  es  läuft  sehr  gut ②  es  ist  fast  unmöglich\n③  es  gibt  viele  Probleme ④  ich  bin  deiner  Meinung\n⑤  der  Chef  ist  nicht  zufrieden",
+    "bbox": [
+      97,
+      441,
+      391,
+      491
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9899,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2283,
+      "end_orig": 2428,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① Ja,  das  geht ② Ja,  das  stimmt\n③ Das  ist  richtig ④ Nein,  das  steht  mir  nicht\n⑤ Nein,  das  siehst  du  richtig",
+    "bbox": [
+      86,
+      540,
+      402,
+      772
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8889,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2556,
+      "end_orig": 2677,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      98,
+      566,
+      403,
+      714
+    ],
+    "page_idx": 1,
+    "image_path": "6ec2b6199c522877e37c007779cbe80f54ef15f634eb0208f401a6002d2d7be0.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "13. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      821,
+      283,
+      839
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2678,
+      "end_orig": 2700,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Autohaus  K & B,  guten  Tag.",
+    "bbox": [
+      105,
+      851,
+      271,
+      866
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2701,
+      "end_orig": 2734,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Guten  Tag,  mein  Name  ist  Frederik  Meier.",
+    "bbox": [
+      105,
+      869,
+      343,
+      883
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2735,
+      "end_orig": 2785,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Kann  ich  bitte  mit  Frau  Weiss  sprechen?",
+    "bbox": [
+      125,
+      887,
+      335,
+      900
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2786,
+      "end_orig": 2831,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Entschuldigung,  aber  sie  telefoniert  gerade.",
+    "bbox": [
+      106,
+      903,
+      341,
+      918
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2832,
+      "end_orig": 2884,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Ah, okay. Wirden Sie ?",
+    "bbox": [
+      105,
+      921,
+      398,
+      935
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Ja,  natürlich.  Die  Nummer  ist  die  5355.",
+    "bbox": [
+      105,
+      938,
+      323,
+      951
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2916,
+      "end_orig": 2965,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Vielen  Dank.  Einen  schönen  Tag  noch.",
+    "bbox": [
+      104,
+      955,
+      322,
+      970
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2966,
+      "end_orig": 3011,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① bitte  Frau  Weiss  fragen\n② auf  meinen  Anruf  warten\n③ eine  andere  Nummer  versuchen\n④ bitte  Frau  Weiss  auf  dem  Handy  anrufen\n⑤ mir  bitte  die  Nummer  von  Frau  Weiss  geben",
+    "bbox": [
+      97,
+      983,
+      344,
+      1068
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3012,
+      "end_orig": 3201,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "14. 글을 읽고 Nick에 관해 이해한 내용으로 알맞지 않은 것은?",
+    "bbox": [
+      435,
+      155,
+      756,
+      176
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3202,
+      "end_orig": 3240,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      451,
+      180,
+      752,
+      383
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>× 한</td></tr><tr><td>A  X↓  0 X</td></tr><tr><td>Liebe Lena, endlich habe ich eine Wohnung, aber ohne Möbel. Sie ist hell und hat zwei Zimmer, ein Bad und eine Küche. Ich habe ein Bett gekauft. Ich brauche vor allem einen Schreibtisch und einen Stuhl. Wenn ich nicht mehr so viel zu tun habe, schreibe ich dir länger. Liebe GriüBe</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "9e09a69544ad95666809d40ef5683d5fe0cc2d3017378f1a1d1c4f7ab54b5032.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "① 그의 집은 밝다. ②  지금은 할 일이 많다.\n",
+    "bbox": [
+      446,
+      396,
+      727,
+      413
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9714,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3571,
+      "end_orig": 3599,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③ 책상과 의자를 구입했다. ",
+    "bbox": [
+      446,
+      414,
+      584,
+      430
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3599,
+      "end_orig": 3615,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  가구가 없는 집을 구했다.\n",
+    "bbox": [
+      604,
+      416,
+      747,
+      429
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3615,
+      "end_orig": 3633,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤ 그의 집은 방이 두 개이다.\n",
+    "bbox": [
+      446,
+      432,
+      594,
+      448
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3633,
+      "end_orig": 3651,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "15. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      435,
+      513,
+      632,
+      532
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3651,
+      "end_orig": 3673,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Gabi",
+    "bbox": [
+      454,
+      544,
+      478,
+      560
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3674,
+      "end_orig": 3678,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ":",
+    "bbox": [
+      479,
+      548,
+      486,
+      556
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Du  bist  so  unruhig.",
+    "bbox": [
+      487,
+      544,
+      591,
+      560
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3681,
+      "end_orig": 3703,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "?",
+    "bbox": [
+      735,
+      545,
+      746,
+      559
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Leon",
+    "bbox": [
+      454,
+      563,
+      478,
+      577
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3707,
+      "end_orig": 3711,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\therefore",
+    "bbox": [
+      479,
+      565,
+      487,
+      574
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Morgen  habe  ich  eine  Prüfung  in  Biologie.  Darin bin  ich  sehr  schwach.",
+    "bbox": [
+      487,
+      563,
+      746,
+      593
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3714,
+      "end_orig": 3793,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① Wer  ist  dein  Lieblingslehrer\n② Worüber  machst  du  dir  Sorgen\n③ Welche  Fächer  willst  du  wählen\n④ Wie  lange  schreibst  du  die  Prüfung\n⑤ Wie  viele  Stunden  Unterricht  hast  du  am  Tag",
+    "bbox": [
+      446,
+      607,
+      698,
+      693
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9965,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3794,
+      "end_orig": 3994,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "16. 광고문을 이해한 내용으로 알맞은 것은?  [1점] ",
+    "bbox": [
+      434,
+      758,
+      693,
+      777
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3995,
+      "end_orig": 4027,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Ferienwohnung Seeblick\nFamilienurlaub  an  der  Nordsee Tolle  Urlaubstage  am  Meer!",
+    "bbox": [
+      467,
+      792,
+      682,
+      852
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4027,
+      "end_orig": 4112,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "99,90  Euro  pro  Nacht\nBis  zur  Stadtmitte  nur  10  Minuten  mit  dem  Auto Reservieren  Sie  bis  zum  15.  Mai.",
+    "bbox": [
+      468,
+      853,
+      719,
+      952
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4113,
+      "end_orig": 4229,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Tel.:  04xx  53077  www.seeblick_000.de",
+    "bbox": [
+      468,
+      955,
+      680,
+      969
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4230,
+      "end_orig": 4269,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① 숙소는 호슷가에 있다.",
+    "bbox": [
+      446,
+      982,
+      573,
+      996
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "② 예약은 5월 15일부터 받는다.\n",
+    "bbox": [
+      446,
+      997,
+      606,
+      1014
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4285,
+      "end_orig": 4305,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  하루 숙박비는 99유로 90센트이다.\n",
+    "bbox": [
+      446,
+      1015,
+      631,
+      1031
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4305,
+      "end_orig": 4329,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④ 가족 단위 투숙객은 할인을 받는다.\n",
+    "bbox": [
+      446,
+      1033,
+      636,
+      1049
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4329,
+      "end_orig": 4351,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤ 숙소에서 시내까지는 도보로 10분 거리이다.\n",
+    "bbox": [
+      446,
+      1051,
+      678,
+      1066
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4351,
+      "end_orig": 4378,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "17. 빈칸에 들어갈 말로 알맞은 것은?  [1점]\n",
+    "bbox": [
+      86,
+      156,
+      313,
+      174
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4378,
+      "end_orig": 4407,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      181,
+      181,
+      284
+    ],
+    "page_idx": 2,
+    "image_path": "7c22ce6fc762e83a9b0a51b0d76826bbb56b50bea84bb49bbf644881e9ae1259.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "A: Ich möchte zahlen, bitte.",
+    "bbox": [
+      188,
+      190,
+      331,
+      204
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4407,
+      "end_orig": 4435,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Einen Moment.",
+    "bbox": [
+      188,
+      207,
+      285,
+      221
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4436,
+      "end_orig": 4453,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Das macht 8,50 Euro, bitte.",
+    "bbox": [
+      207,
+      225,
+      346,
+      239
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4454,
+      "end_orig": 4481,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Hier sind 10 Euro.",
+    "bbox": [
+      188,
+      242,
+      303,
+      256
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4482,
+      "end_orig": 4503,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Danke sehr. Auf Wiedersehen.",
+    "bbox": [
+      187,
+      259,
+      361,
+      273
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4506,
+      "end_orig": 4538,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① Stimmt  so ② Danke,  gleichfalls\n③ Das  macht  nichts ④ Ich  bekomme  schon\n⑤ Ich  nehme  Menü  eins",
+    "bbox": [
+      97,
+      289,
+      374,
+      339
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4539,
+      "end_orig": 4641,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "18. 빈칸에 들어갈 말로 알맞은 것만을 <보기>에서 고른 것은?  [1점] ",
+    "bbox": [
+      87,
+      385,
+      406,
+      402
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9688,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4642,
+      "end_orig": 4685,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Wie  oft  spielst  du  Tennis?",
+    "bbox": [
+      106,
+      414,
+      262,
+      429
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4685,
+      "end_orig": 4719,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B:. Es macht mir SpaB.",
+    "bbox": [
+      105,
+      432,
+      352,
+      447
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보  기>",
+    "bbox": [
+      225,
+      460,
+      277,
+      479
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4749,
+      "end_orig": 4755,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a. Morgen  früh  b. Dienstags  und  freitags\nc. Nächstes  Wochenende  d. Zweimal  in  der  Woche\n①  a,  b ②  a,  c ③  b,  c ④  b,  d ⑤  c,  d",
+    "bbox": [
+      97,
+      478,
+      384,
+      540
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9838,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4756,
+      "end_orig": 4897,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "19. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      581,
+      283,
+      599
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4898,
+      "end_orig": 4920,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Heute  Abend  gehe  ich  ins  Konzert  von  Marie.",
+    "bbox": [
+      106,
+      612,
+      398,
+      626
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4921,
+      "end_orig": 4975,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Kommst  du  mit?",
+    "bbox": [
+      125,
+      630,
+      212,
+      643
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4976,
+      "end_orig": 4992,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Ja,  gern.  Um  wie  viel  Uhr  sehen  wir  uns?",
+    "bbox": [
+      104,
+      646,
+      343,
+      661
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4993,
+      "end_orig": 5045,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Am  besten  um  6  Uhr.",
+    "bbox": [
+      106,
+      665,
+      238,
+      677
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5046,
+      "end_orig": 5073,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Da  kann  ich  leider  nicht.",
+    "bbox": [
+      105,
+      681,
+      246,
+      695
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5074,
+      "end_orig": 5107,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Kein  Problem.  Ich  kann  warten.",
+    "bbox": [
+      105,
+      698,
+      286,
+      712
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5110,
+      "end_orig": 5148,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Wunderbar,  danke.",
+    "bbox": [
+      105,
+      715,
+      219,
+      730
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5149,
+      "end_orig": 5171,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① Ich  kenne  sie  nicht  so  gut\n② Auf  Musik  habe  ich  keine  Lust\n③ Um  6  Uhr  fliege  ich  nach  Spanien\n④ Ich  möchte  lieber  zu  Hause  bleiben\n⑤ Bis  Viertel  nach  6  habe  ich  Unterricht",
+    "bbox": [
+      97,
+      743,
+      309,
+      827
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5172,
+      "end_orig": 5372,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "20. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      872,
+      284,
+      891
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5373,
+      "end_orig": 5395,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      896,
+      196,
+      1012
+    ],
+    "page_idx": 2,
+    "image_path": "e6aa40d53514cb975df4ae8740bf6d93e38431b4a36b44b4b41a4ef1cd1b88bb.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "Max : Paul, mir geht es schlecht.",
+    "bbox": [
+      202,
+      903,
+      372,
+      918
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5396,
+      "end_orig": 5429,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Paul : ?",
+    "bbox": [
+      201,
+      921,
+      376,
+      934
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5430,
+      "end_orig": 5438,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Max : Ich habe Zahnschmerzen. Es tut mir beim Essen weh.",
+    "bbox": [
+      202,
+      938,
+      398,
+      969
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5439,
+      "end_orig": 5495,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Paul : Dann gehen wir sofort zum Zahnarzt.",
+    "bbox": [
+      202,
+      972,
+      398,
+      1004
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5496,
+      "end_orig": 5538,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Wie  passt  es  dir ②  Was  ist  mit  dir  los\n③  Was  fehlt  mir  denn ④  Was  hast  du  heute  vor\n⑤  Wie  machst  du  denn  das",
+    "bbox": [
+      97,
+      1017,
+      392,
+      1067
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5539,
+      "end_orig": 5672,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "21. 빈칸에 들어갈 말로 알맞은 것은?  [1점] ",
+    "bbox": [
+      434,
+      156,
+      662,
+      174
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5673,
+      "end_orig": 5702,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Deutsches  Internet,  guten  Tag.  Mein  Name  ist  Müller.",
+    "bbox": [
+      454,
+      187,
+      747,
+      202
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5702,
+      "end_orig": 5765,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Was  kann  ich  für  Sie  tun?",
+    "bbox": [
+      475,
+      206,
+      610,
+      218
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5766,
+      "end_orig": 5796,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Ben  Faryn  hier.  Ich  bekomme  kein  Internet.  Und  mein Nachbar  auch  nicht.  Ich  brauche  noch  heute  Hilfe.",
+    "bbox": [
+      453,
+      222,
+      747,
+      253
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5797,
+      "end_orig": 5917,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Können  Sie  ?\n",
+    "bbox": [
+      454,
+      257,
+      747,
+      271
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5918,
+      "end_orig": 5937,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : B-E-N  und  dann  der  Familienname  F-A-R-Y-N.",
+    "bbox": [
+      453,
+      274,
+      725,
+      288
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5937,
+      "end_orig": 5988,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Alles  klar.  Heute  kommt  noch  jemand.",
+    "bbox": [
+      454,
+      291,
+      668,
+      305
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5989,
+      "end_orig": 6034,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① das  Internet  bei  uns  bestellen\n② Ihren  Nachbarn  um  Hilfe  bitten\n③ Ihren  Computer  zuerst  reparieren\n④ den  Namen  Ihres  Nachbarn  buchstabieren\n⑤ mir  bitte  zuerst  Ihren  Namen  buchstabieren",
+    "bbox": [
+      446,
+      319,
+      683,
+      403
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6035,
+      "end_orig": 6241,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "22. ‘이스트 사이드 갤러리(East  Side  Gallery)’에 관한 글을 이해한 내용으로 알맞은 것은?",
+    "bbox": [
+      434,
+      471,
+      756,
+      506
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9592,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6242,
+      "end_orig": 6304,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "r  T",
+    "bbox": [
+      487,
+      527,
+      561,
+      591
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6663,
+      "end_orig": 6667,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Die  East  Side  Gallery  ist  das  größte Stück  der  Berliner  Mauer  und ",
+    "bbox": [
+      570,
+      518,
+      747,
+      550
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9725,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6305,
+      "end_orig": 6381,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 { , } 3 \\mathrm { k m }",
+    "bbox": [
+      712,
+      536,
+      746,
+      550
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "lang.  Nach  dem  Mauerfall  haben Maler  aus  der  ganzen  Welt  Bilder auf  diese  Mauer  gemalt.  Viele  davon zeigen  die  Freude  über  den  Mauerfall  und  die  neue  Freiheit. M",
+    "bbox": [
+      453,
+      554,
+      747,
+      619
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9925,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6390,
+      "end_orig": 6574,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Man  kann  diese  Kunst  frei  und  rund  um  die  Uhr  sehen.  Heute besuchen  immer  mehr  Touristen  die  Gallery  unter  freiem Himmel.\n",
+    "bbox": [
+      453,
+      622,
+      747,
+      671
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6573,
+      "end_orig": 6713,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      490,
+      679,
+      498,
+      689
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Mauer :  장벽",
+    "bbox": [
+      498,
+      676,
+      564,
+      693
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6715,
+      "end_orig": 6726,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      564,
+      679,
+      573,
+      689
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Mauerfall :  장벽 붕괴",
+    "bbox": [
+      573,
+      676,
+      676,
+      693
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6730,
+      "end_orig": 6748,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      676,
+      679,
+      684,
+      689
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Freude :  기쁨",
+    "bbox": [
+      684,
+      676,
+      747,
+      693
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6752,
+      "end_orig": 6764,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① Sie  ist  draußen.\n",
+    "bbox": [
+      446,
+      704,
+      543,
+      718
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9032,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6765,
+      "end_orig": 6786,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "② Sie  schließt  am  Abend.\n",
+    "bbox": [
+      446,
+      720,
+      581,
+      736
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9268,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6786,
+      "end_orig": 6814,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③ Die  Berliner  Mauer  ist",
+    "bbox": [
+      446,
+      737,
+      579,
+      755
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6814,
+      "end_orig": 6841,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 { , } 3 \\ \\mathrm { k m }",
+    "bbox": [
+      579,
+      739,
+      615,
+      753
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "lang.",
+    "bbox": [
+      616,
+      737,
+      645,
+      755
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6852,
+      "end_orig": 6857,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④ Man  kann  sie  ohne  Ticket  nicht  besuchen.",
+    "bbox": [
+      446,
+      755,
+      678,
+      772
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6858,
+      "end_orig": 6906,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  Ihre  Bilder  haben  Deutsche  aus  aller  Welt  gemalt.",
+    "bbox": [
+      446,
+      773,
+      714,
+      788
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6907,
+      "end_orig": 6966,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "23. 밑줄 친 부분의 의미로 알맞은 것은?",
+    "bbox": [
+      434,
+      855,
+      648,
+      874
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6967,
+      "end_orig": 6991,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Bomi : Trinkst  du  auch  noch  einen  Tee?",
+    "bbox": [
+      455,
+      885,
+      662,
+      900
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6992,
+      "end_orig": 7035,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Theo",
+    "bbox": [
+      455,
+      903,
+      480,
+      918
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7036,
+      "end_orig": 7040,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\boldsymbol { : }",
+    "bbox": [
+      481,
+      906,
+      489,
+      915
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Dafür  ist  es  jetzt  zu  spät.  Der  Bus  fährt  in  10  Minuten ab.  Wir  müssen  jetzt  die  Beine  in  die  Hand  nehmen. ",
+    "bbox": [
+      490,
+      903,
+      747,
+      935
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9704,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7043,
+      "end_orig": 7170,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Bomi : Was  meinst  du  damit?",
+    "bbox": [
+      455,
+      938,
+      607,
+      951
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7170,
+      "end_orig": 7200,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Theo : Damit  meine  ich,  dass  wir  jetzt  ganz  schnell laufen  müssen.  Wir  müssen  sofort  los!",
+    "bbox": [
+      454,
+      954,
+      747,
+      986
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7201,
+      "end_orig": 7302,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Bomi : Dann  los!",
+    "bbox": [
+      454,
+      989,
+      542,
+      1004
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7303,
+      "end_orig": 7320,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① 눈치가 빠르다. ",
+    "bbox": [
+      446,
+      1017,
+      536,
+      1032
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7321,
+      "end_orig": 7332,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  매우 빨리 달리다.\n",
+    "bbox": [
+      604,
+      1018,
+      709,
+      1032
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7332,
+      "end_orig": 7346,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  상황을 파악하다. ",
+    "bbox": [
+      446,
+      1035,
+      546,
+      1050
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7346,
+      "end_orig": 7359,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  손발이 척척 맞다.\n",
+    "bbox": [
+      604,
+      1035,
+      711,
+      1050
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7359,
+      "end_orig": 7373,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  상대의 발목을 잡다.\n",
+    "bbox": [
+      446,
+      1052,
+      563,
+      1067
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7373,
+      "end_orig": 7388,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "24. ‘녹색지대(Grünes  Band)’에  관한  글을  이해한  내용으로 알맞은 것은?\nE",
+    "bbox": [
+      86,
+      156,
+      407,
+      193
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.95,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7388,
+      "end_orig": 7442,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      105,
+      201,
+      178,
+      281
+    ],
+    "page_idx": 3,
+    "image_path": "e3a1c5490fa84f2c543b7d3b2cd989e127b35c7029577e1ca5f45fab0ae935db.jpg",
+    "alt": "",
+    "caption": [
+      "GrünesBand Deutschland"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "Es  gab  von  1949  bis  1990  eine  Grenze zwischen  Ost-  und  Westdeutschland.  An dieser  Grenze  konnten  seltene  Tiere  und Bäume  leben.  Schon  1989  hatte  man  die Idee  für  ein  „Grünes  Band“,  damit  man  die Natur  in  diesem  Raum  bewahrt.  Hier  kann man  auch  die  Geschichte  der  Teilung  von  Deutschland kennen  lernen.\n* G",
+    "bbox": [
+      104,
+      205,
+      399,
+      340
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9228,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7441,
+      "end_orig": 7789,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "* Grenze :  국경  * bewahren :  보존하다  * Teilung :  분단",
+    "bbox": [
+      140,
+      345,
+      398,
+      361
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7786,
+      "end_orig": 7837,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① An  der  Grenze  konnte  man  keine  Tiere  sehen.",
+    "bbox": [
+      97,
+      372,
+      348,
+      388
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7838,
+      "end_orig": 7890,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "② Im  Jahr  1949  schlug  man  ein  Grünes  Band  vor.",
+    "bbox": [
+      97,
+      388,
+      356,
+      407
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7891,
+      "end_orig": 7945,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③ Das  Grüne  Band  hat  nichts  mit  Geschichte  zu  tun.\n",
+    "bbox": [
+      97,
+      406,
+      371,
+      423
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.988,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7946,
+      "end_orig": 8005,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④ Mit  dem  Grünen  Band  will  man  die  Natur  bewahren.\n",
+    "bbox": [
+      97,
+      424,
+      383,
+      440
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9756,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8005,
+      "end_orig": 8064,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤ An  der  Grenze  baut  man  eine  neue  und  lange  Autobahn.",
+    "bbox": [
+      97,
+      442,
+      400,
+      457
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8064,
+      "end_orig": 8127,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "25. 글에서 설명하고 있는 도시는?  [1점] ",
+    "bbox": [
+      86,
+      505,
+      297,
+      523
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8128,
+      "end_orig": 8155,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Diese  Stadt  spielt  in  der  Musikgeschichte  eine  große  Rolle. ",
+    "bbox": [
+      106,
+      537,
+      397,
+      551
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9709,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8155,
+      "end_orig": 8223,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Zum  Beispiel  schrieben  Johann  Strauß  und  sein  Sohn  hier viele  Walzer.  Der  Donauwalzer  trägt  den  Namen  des  großen Flusses  in  der  Stadt.  Berühmte  Leute  wie  Mozart,  Klimt  und Freud  lebten  auch  in  dieser  Stadt.  Sie  liegt  in  Österreich  und ist  die  Hauptstadt.",
+    "bbox": [
+      105,
+      555,
+      398,
+      637
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9766,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8223,
+      "end_orig": 8514,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "* Rolle :  역할  * Walzer :  왈츠\n① Bern ②  Wien ③  Berlin\n④  München ⑤  Salzburg",
+    "bbox": [
+      97,
+      641,
+      397,
+      702
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8515,
+      "end_orig": 8592,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "26. ‘강림절 달력(Adventskalender)’에 관한 글을 이해한 내용으로 알맞지 않은 것은?",
+    "bbox": [
+      86,
+      748,
+      407,
+      784
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9574,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8593,
+      "end_orig": 8649,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      104,
+      791,
+      198,
+      910
+    ],
+    "page_idx": 3,
+    "image_path": "180c52608300a37e13719eaaf799fb0b4e2c3ee4dbfa6f0f72107c877fd11025.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "Seit  dem  19.  Jahrhundert  benutzt  man in  Deutschland  Adventskalender  vor Weihnachten.  Die  Wartezeit  auf  dieses wichtige  Fest  heißt  Advent.  Am  1. ",
+    "bbox": [
+      206,
+      796,
+      398,
+      861
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9879,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8650,
+      "end_orig": 8811,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Dezember  beginnt  der  Adventskalender und  er  endet  am  24.  Der  Kalender  hat 24  geschlossene  Türen.  Viele  Kinder öffnen  gern  jeden  Tag  eine  Tür  und  sind  froh  über  das  kleine Geschenk  dahinter.",
+    "bbox": [
+      105,
+      865,
+      399,
+      948
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8811,
+      "end_orig": 9026,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "* Jahrhundert :  세기  * Advent :  강림절",
+    "bbox": [
+      133,
+      954,
+      318,
+      970
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9027,
+      "end_orig": 9063,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      318,
+      956,
+      326,
+      966
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Kalender :  달력",
+    "bbox": [
+      327,
+      954,
+      397,
+      970
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9067,
+      "end_orig": 9081,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① 19세기부터 사용했다.\n",
+    "bbox": [
+      97,
+      981,
+      219,
+      996
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9082,
+      "end_orig": 9097,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "② 많은 아이들에게 즐거움을 준다.\n",
+    "bbox": [
+      97,
+      997,
+      272,
+      1013
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9097,
+      "end_orig": 9117,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③ 크리스마스를 기다리며 사용한다.\n",
+    "bbox": [
+      97,
+      1015,
+      277,
+      1031
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9117,
+      "end_orig": 9137,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④ 24개의 문 뒤에는 작은 선물이 있다.\n",
+    "bbox": [
+      97,
+      1032,
+      293,
+      1047
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9137,
+      "end_orig": 9161,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤ 12월 1일부터 31일까지 표시되어 있다.\n",
+    "bbox": [
+      97,
+      1049,
+      304,
+      1065
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9161,
+      "end_orig": 9187,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "27. 빈칸에 들어갈 말로 알맞은 것은? [1점] ① ale ② ihre ③ jede ④ keine ⑤ einige",
+    "bbox": [
+      434,
+      156,
+      691,
+      397
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.625,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9187,
+      "end_orig": 9251,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      180,
+      753,
+      356
+    ],
+    "page_idx": 3,
+    "image_path": "ac375c9ba286c837e82bf1bc8bc8d1466a45231c6c4a4f931cba28d87d220d14.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "28. 문장의 표현이 옳은 것만을 있는 대로 고른 것은?",
+    "bbox": [
+      434,
+      431,
+      712,
+      448
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9340,
+      "end_orig": 9371,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a. Im  Restaurant  gibt  es  viel  leckeres  Essen.",
+    "bbox": [
+      453,
+      462,
+      682,
+      476
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9372,
+      "end_orig": 9423,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "b. Mit  weniger  Zucker  schmeckt  uns  Kuchen  nicht.",
+    "bbox": [
+      453,
+      479,
+      714,
+      493
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9424,
+      "end_orig": 9478,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "c. Vor  was  für  eine  Prüfung  haben  Sie  am  meisten  Angst?\n",
+    "bbox": [
+      453,
+      497,
+      747,
+      511
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9778,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9479,
+      "end_orig": 9544,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① a ② ㄷ ③a, b ④ b, c ⑤ a,b,c",
+    "bbox": [
+      444,
+      523,
+      744,
+      542
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "29. 밑줄 친 부분의 쓰임이 옳은 것만을 고른 것은?",
+    "bbox": [
+      434,
+      577,
+      701,
+      594
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9585,
+      "end_orig": 9615,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a. Der  Garten  ist  reich  an  alte  Apfelbäume.",
+    "bbox": [
+      470,
+      616,
+      692,
+      635
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9616,
+      "end_orig": 9665,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "b. Wir  sind  uns  über  sein  wahres  Gesicht  klar.",
+    "bbox": [
+      470,
+      636,
+      711,
+      652
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9666,
+      "end_orig": 9719,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "c. Die  Kranke  war  scharf  auf  etwas  Gesundem.",
+    "bbox": [
+      471,
+      654,
+      713,
+      670
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9720,
+      "end_orig": 9770,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "d. Seine  Füße  waren  müde  vom  langen  Laufen.\n",
+    "bbox": [
+      471,
+      673,
+      716,
+      688
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9589,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9771,
+      "end_orig": 9821,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
+    "bbox": [
+      446,
+      711,
+      732,
+      731
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "30. 문장의 표현이 옳은 것만을 있는 대로 고른 것은?",
+    "bbox": [
+      434,
+      765,
+      712,
+      783
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9866,
+      "end_orig": 9897,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a. Er  hat  sich  für  seinen  Bruder  der  Polizei  gestellt.",
+    "bbox": [
+      453,
+      796,
+      718,
+      811
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9898,
+      "end_orig": 9960,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "b. Thomas  hielt  in  schweren  Zeiten  zu  seiner  Bekannten.",
+    "bbox": [
+      453,
+      813,
+      743,
+      828
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9961,
+      "end_orig": 10023,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "c. Es  geht  den  meisten  Müttern  allein  um  das  Glück  ihrer Kinder.",
+    "bbox": [
+      453,
+      831,
+      747,
+      862
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 10024,
+      "end_orig": 10097,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  a ②  b ③  a,  c ④  b,  c ⑤  a,  b,  c",
+    "bbox": [
+      445,
+      873,
+      744,
+      894
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 10098,
+      "end_orig": 10138,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "*  확인 사항\n◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오.",
+    "bbox": [
+      445,
+      1006,
+      744,
+      1064
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9737,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 10139,
+      "end_orig": 10188,
+      "reason": "passed_threshold_no_ws"
+    }
+  }
+]

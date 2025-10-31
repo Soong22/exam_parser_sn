@@ -121,7 +121,7 @@
   },
   {
     "type": "text",
-    "text": "① Berg ② Übung ③ Hunger\n④ Spiegel ⑤ Zeugnis",
+    "text": "① ② ③ ④ ⑤",
     "bbox": [
       97,
       328,
@@ -132,11 +132,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9706,
+      "similarity": 0.2564,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 96,
-      "end_orig": 139,
-      "reason": "anchor_rescue"
+      "start_orig": 4034,
+      "end_orig": 4043,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -152,16 +152,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9841,
+      "similarity": 0.9524,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 140,
       "end_orig": 193,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
     "type": "text",
-    "text": "B□CH MO□D □OSE HE□D\n① 손 ② 입 ③ 코 ④ 국가 ⑤ 영화",
+    "text": "OSE HE□D\n① 손 ② 입 ③ 코 ④ 국가 ⑤ 영화\n3. 빈칸에 들어갈 말",
     "bbox": [
       97,
       425,
@@ -172,11 +172,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9057,
+      "similarity": 0.6792,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 193,
-      "end_orig": 234,
-      "reason": "anchor_rescue"
+      "start_orig": 204,
+      "end_orig": 247,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -192,10 +192,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.5043,
+      "similarity": 0.4407,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 235,
-      "end_orig": 315,
+      "start_orig": 2639,
+      "end_orig": 2730,
       "reason": "low_similarity"
     }
   },
@@ -570,12 +570,12 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 941,
       "end_orig": 1077,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "7. 빈칸에 들어갈 말로 알맞지 않은 것은?",
+    "text": " 빈칸에 들어갈 말로 알맞지 않은 것은?",
     "bbox": [
       434,
       490,
@@ -586,10 +586,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9412,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1077,
-      "end_orig": 1101,
+      "start_orig": 4475,
+      "end_orig": 4497,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -650,7 +650,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1180,
       "end_orig": 1287,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1004,7 +1004,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2298,
       "end_orig": 2329,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -1199,12 +1199,12 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2591,
       "end_orig": 2638,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue"
     }
   },
   {
     "type": "text",
-    "text": "13. 빈칸에 들어갈 말로 알맞은 것은?",
+    "text": "13. 빈간에 들어갈 말로 알맞은 것은?",
     "bbox": [
       86,
       888,
@@ -1214,12 +1214,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2638,
-      "end_orig": 2660,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1279,7 +1279,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2756,
       "end_orig": 2921,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1789,7 +1789,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9833,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3689,
       "end_orig": 3770,
@@ -1809,11 +1809,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.4,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4034,
-      "end_orig": 4043,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1917,26 +1917,6 @@
     }
   },
   {
-    "type": "text",
-    "text": ".",
-    "bbox": [
-      712,
-      945,
-      714,
-      959
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
-    }
-  },
-  {
     "type": "inline_equation",
     "content": "\\mathrm { B } : \\mathrm { A c h }",
     "bbox": [
@@ -2025,8 +2005,8 @@
       "replaced": false,
       "similarity": 0.0571,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3786,
-      "end_orig": 3789,
+      "start_orig": 4682,
+      "end_orig": 4684,
       "reason": "low_similarity"
     }
   },
@@ -2043,10 +2023,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1176,
+      "similarity": 0.4444,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4222,
-      "end_orig": 4226,
+      "start_orig": 4101,
+      "end_orig": 4133,
       "reason": "low_similarity"
     }
   },
@@ -2063,10 +2043,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0183,
+      "similarity": 0.3048,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4037,
-      "end_orig": 4042,
+      "start_orig": 4235,
+      "end_orig": 4503,
       "reason": "low_similarity"
     }
   },
@@ -2172,7 +2152,7 @@
   },
   {
     "type": "text",
-    "text": "① Da  bin  ich  natürlich  dabei\n② Das  wird  viel  Spaß  machen\n③ Ich  wollte  seit  langem  dorthin\n④ Darauf  habe  ich  schon  gewartet\n⑤ Gehen  wir  an  einem  anderen  Tag\n2",
+    "text": "① Da  bin  ich  natürlich  dabei\n② Das  wird  viel  Spaß  machen\n③ Ich  wollte  seit  langem  dorthin\n④ Darauf  habe  ich  schon  gewartet\n⑤ Gehen  wir  an  einem  anderen  Tag\n",
     "bbox": [
       97,
       619,
@@ -2183,10 +2163,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9841,
+      "similarity": 0.988,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4617,
-      "end_orig": 4795,
+      "end_orig": 4794,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2403,7 +2383,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.989,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4948,
       "end_orig": 5076,
@@ -2412,7 +2392,7 @@
   },
   {
     "type": "text",
-    "text": "① a-b-c ② a- c -b ③ b − c - a ④ ㄷ − a − b ⑤ ㄷ -b - a",
+    "text": "① a - b - c ② a - c - b ③ b - c - a\n④ c - a - b ⑤ c - b - a",
     "bbox": [
       96,
       1032,
@@ -2422,12 +2402,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
+      "replaced": true,
       "similarity": 0.8333,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5077,
       "end_orig": 5136,
-      "reason": "low_similarity"
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -2860,7 +2840,7 @@
   },
   {
     "type": "text",
-    "text": "c. Der  Tee wird  mit  Sahne  und  Zucker  getrunken.",
+    "text": ". Der  Tee wird  mit  Sahne  und  Zucker  getrunken.\n",
     "bbox": [
       453,
       1005,
@@ -2871,10 +2851,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.987,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6480,
-      "end_orig": 6533,
+      "start_orig": 6481,
+      "end_orig": 6534,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3842,7 +3822,7 @@
   },
   {
     "type": "text",
-    "text": "c. Der  Urlaub  des  Beamters  ist  bald  zu  Ende.",
+    "text": ". Der  Urlaub  des  Beamters  ist  bald  zu  Ende.\n",
     "bbox": [
       476,
       744,
@@ -3853,10 +3833,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9859,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8657,
-      "end_orig": 8708,
+      "start_orig": 8658,
+      "end_orig": 8709,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3942,7 +3922,7 @@
   },
   {
     "type": "text",
-    "text": "c. Sie  benutzt  das  scharfste  Messer  zum  Kochen.",
+    "text": ". Sie  benutzt  das  scharfste  Messer  zum  Kochen.\n",
     "bbox": [
       454,
       900,
@@ -3953,10 +3933,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9873,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8868,
-      "end_orig": 8921,
+      "start_orig": 8869,
+      "end_orig": 8922,
       "reason": "passed_threshold_no_ws"
     }
   },

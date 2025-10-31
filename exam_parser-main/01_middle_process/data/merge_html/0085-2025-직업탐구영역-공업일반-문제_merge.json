@@ -190,7 +190,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음 사내 직원 안내 자료를 통해 알 수 있는 내용으로 적절한 것은?",
+    "text": ". 다음 사내 직원 안내 자료를 통해 알 수 있는 내용으로 적절한 것은? ",
     "bbox": [
       85,
       661,
@@ -201,16 +201,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9825,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 523,
-      "end_orig": 564,
+      "start_orig": 524,
+      "end_orig": 565,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "사내  직원  안내  자료",
+    "text": "사내 직원 안내 자료",
     "bbox": [
       201,
       695,
@@ -223,8 +223,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 565,
-      "end_orig": 579,
+      "start_orig": 529,
+      "end_orig": 540,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -257,7 +257,7 @@
       920
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td></td><td>경영 조직의개편 경영 효율을 높이기 위해 경영 조직 체계를 냉장고, 세탁기,청소기의 제품별 조직으로 개편하여 독립적 으로 운영하고자함.</td></tr><tr><td></td><td>직무 분석을 통한 개별 성과 및 능력 평가 직무 수행자의 효율적인 행동과 비효율적인 행동을 구분하여 성과와 관련된 사례를 수집하고,이로부터 직무 성과에 효과적인 행동 패턴을 파악하고 분류하는 직무 분석 방법을 적용하고자 함.</td></tr><tr><td></td><td>적절한 보상과 근무 의욕 고취 ·임금체계:직무의중요성,난이도에따라 직무를 평가하여 임금을 차등 지급하고자 함 ·직원 복지:사내 어린이집 및 셔틀버스 운영 예정</td></tr></table>",
+    "table_body": "<table><tr><td></td><td>경영 조직의개편 경영 효율을 높이기 위해 경영 조직 체계를 냉장고, 세탁기,청소기의 제품별 조직으로 개편하여 독립적 으로 운영하고자함.</td></tr><tr><td></td><td>직무 분석을 통한 개별 성과 및 능력 평가 직무 수행자의 효율적인 행동과 비효율적인 행동을 구분하여 성과와 관련된 사례를 수집하고,이로부터 직무 성과에 효과적인 행동 패턴을 파악하고 분류하는 직무 분석 방법을 적용하고자 함.</td></tr><tr><td></td><td>적절한 보상과 근무 의욕 고취 ·임금체계:직무의중요성,난이도에따라 직무를 평가하여 임금을 차등 지급하고자 함. ·직원 복지:사내 어린이집 및 셔틀버스 운영 예정</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "b3494d32ae9b0ad275ead8baf7b6787e8ce954ceb064c81162c07b1b67a085ba.jpg",
@@ -525,7 +525,7 @@
   },
   {
     "type": "text",
-    "text": "7.A 공업은 기술 집약적 장치 공업이다.",
+    "text": "ㄱ. A 공업은 기술 집약적 장치 공업이다.",
     "bbox": [
       456,
       419,
@@ -535,12 +535,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1235,
+      "end_orig": 1259,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -949,7 +949,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음 (가),  (나) 공업과 A,  B 기업의 제품 생산 사례에 대한 설명 으로 적절하지 않은 것은?",
+    "text": ". 다음 (가),  (나) 공업과 A,  B 기업의 제품 생산 사례에 대한 설명 으로 적절하지 않은 것은?\n",
     "bbox": [
       85,
       477,
@@ -960,10 +960,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.988,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2654,
-      "end_orig": 2714,
+      "start_orig": 2655,
+      "end_orig": 2715,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -997,8 +997,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2992,
-      "end_orig": 2993,
+      "start_orig": 2618,
+      "end_orig": 2619,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1291,7 +1291,7 @@
       382
     ],
     "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>현황</td><td rowspan=1 colspan=1>|최근 품질 검사에서 부적격 제품이 발생함.</td></tr><tr><td rowspan=1 colspan=1>원인분석</td><td rowspan=1 colspan=1>생산품 전체를 품질 검사한 결과,제품 원료를 생산하는 리사이클링공정의 문제임을 파악함.</td></tr><tr><td rowspan=1 colspan=1>컨설팅</td><td rowspan=1 colspan=1>컨설팅리사이클링 공정으로 생산하던 원료의 공급 방식을 외부 전문의견업체에위탁하는방식으로 제안함</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>현황</td><td rowspan=1 colspan=1>|최근 품질 검사에서 부적격 제품이 발생함.</td></tr><tr><td rowspan=1 colspan=1>원인분석</td><td rowspan=1 colspan=1>생산품 전체를 품질 검사한 결과,제품 원료를 생산하는 리사이클링공정의 문제임을 파악함.</td></tr><tr><td rowspan=1 colspan=1>컨설팅</td><td rowspan=1 colspan=1>컨설팅리사이클링 공정으로 생산하던 원료의 공급 방식을 외부 전문의견업체에위탁하는방식으로 제안함.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "dd2fedece9ae193c0f2aa0899c47dcf5154e141f633935044939999d75ed633b.jpg",
@@ -1339,7 +1339,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ. 원료 공급 방식을 아웃소싱 방식으로 제안하였다.\n",
+    "text": "ㄴ. 원료 공급 방식을 아웃소싱 방식으로 제안하였다.",
     "bbox": [
       455,
       437,
@@ -1350,10 +1350,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9778,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3860,
-      "end_orig": 3890,
+      "end_orig": 3889,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1479,7 +1479,7 @@
   },
   {
     "type": "text",
-    "text": " ◾개요 : 부품 그룹별 재고 관리 현황을 조사함.",
+    "text": " ◾개요 : 부품 그룹별 재고 관리 현황을 조사함",
     "bbox": [
       457,
       650,
@@ -1490,10 +1490,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9744,
+      "similarity": 0.973,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4071,
-      "end_orig": 4099,
+      "end_orig": 4098,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1664,7 +1664,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ. B 그룹 부품의 구매 방식은 ‘일괄 구매’에 해당한다.\n",
+    "text": "ㄱ. B 그룹 부품의 구매 방식은 ‘일괄 구매’에 해당한다.",
     "bbox": [
       455,
       950,
@@ -1675,11 +1675,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.92,
+      "similarity": 0.96,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4273,
-      "end_orig": 4307,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 4306,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1704,7 +1704,7 @@
   },
   {
     "type": "text",
-    "text": "드. 재고 현황을 나타낸 도표는 파레토도이다.",
+    "text": "ㄷ. 재고 현황을 나타낸 도표는 파레토도이다.",
     "bbox": [
       456,
       986,
@@ -1714,12 +1714,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4341,
+      "end_orig": 4366,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1895,7 +1895,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.978,
+      "similarity": 0.9737,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4516,
       "end_orig": 4672,
@@ -1939,42 +1939,22 @@
   },
   {
     "type": "text",
-    "text": "통계량 관리상한선- 쓰중심선 관리 하한선 1 5 10 15 20 25 30 일자",
-    "bbox": [
-      267,
-      330,
-      401,
-      389
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "① 공정 분석 결과,  공정의 이상이 총 4회 관측되었다.\n",
+    "text": "관리상한선- 쓰중심선 관리 하한선 1 5 10 15 20 25 30 일자 ① 공정 분석 결과, 공정의 이상이 총 4회 관측되었다.",
     "bbox": [
       97,
-      405,
-      358,
+      334,
+      401,
       422
     ],
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.1714,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4774,
-      "end_orig": 4807,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 4794,
+      "end_orig": 4864,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2313,7 +2293,7 @@
   },
   {
     "type": "text",
-    "text": "-O0신문,2024년 7월",
+    "text": "-OO신문,2024년 7월",
     "bbox": [
       249,
       956,
@@ -2324,11 +2304,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.8,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5552,
+      "end_orig": 5568,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2372,20 +2352,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      315,
-      866,
-      395,
-      931
-    ],
-    "page_idx": 2,
-    "image_path": "46f544feaa42fa2820bfcd16ee28a6d4367378465a4f96b1dd9ff0a6857ac0a2.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "14. 다음은 ○○기업 생산 혁신 활동 사례의 일부이다.  이를 통해 알 수",
     "bbox": [
@@ -2427,7 +2393,7 @@
   },
   {
     "type": "text",
-    "text": "○○기업  생산  혁신  활동  사례",
+    "text": "OO기업 생산 혁신 활동 사례",
     "bbox": [
       526,
       207,
@@ -2437,12 +2403,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.8696,
+      "replaced": false,
+      "similarity": 0.8333,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5767,
       "end_orig": 5787,
-      "reason": "passed_threshold_no_ws"
+      "reason": "low_similarity"
     }
   },
   {
@@ -2513,11 +2479,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.96,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5908,
       "end_orig": 5941,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2542,7 +2508,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 안전 부문에서 작업 환경 개선을 위해 추진하는 활동의 예로 ‘규정된 재료 사용하기’가 있다.\n",
+    "text": "ㄷ. 안전 부문에서 작업 환경 개선을 위해 추진하는 활동의 예로 ‘규정된 재료 사용하기’가 있다.",
     "bbox": [
       455,
       501,
@@ -2553,11 +2519,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9268,
+      "similarity": 0.9512,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5990,
-      "end_orig": 6045,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 6044,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2669,7 +2635,7 @@
       930
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=2 colspan=2>평가 항목</td><td rowspan=2 colspan=1>평가 내용</td><td rowspan=1 colspan=2>평가 결과</td></tr><tr><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=2 colspan=1>공정통제</td><td rowspan=1 colspan=1>인력</td><td rowspan=1 colspan=1>작업별 작업자의 능력과부하를 고려했을때여유 인력이 있어 재배치가 필요한가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>작업시간</td><td rowspan=1 colspan=1>표준작업시간보다작업자의실제작업시간이더 오래 걸리는 공정이 있는가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>생산시간</td><td rowspan=1 colspan=1>제품 생산 시작 시점부터 완성 시점까지 소요되는 시간의 낭비가 없는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr><tr><td rowspan=2 colspan=2>문서관리</td><td rowspan=1 colspan=1>생산에 필요한 재료의 종류와 품질,조립 순서,가공 방법 등과 같이 설계 도면으로 표현하기어려운 사항을 기록한 문서를 체계적으로 활용하는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr><tr><td rowspan=1 colspan=1>완제품 생산에 필요한 구성 품목의 종류와수량을 명시한 목록을 체계적으로 활용하는가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr></table>",
+    "table_body": "<table><tr><td rowspan=2 colspan=2>평가 항목</td><td rowspan=2 colspan=1>평가 내용</td><td rowspan=1 colspan=2>평가 결과</td></tr><tr><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=2 colspan=1>공정통제</td><td rowspan=1 colspan=1>인력</td><td rowspan=1 colspan=1>작업별 작업자의 능력과부하를 고려했을때여유 인력이 있어 재배치가 필요한가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>작업시간</td><td rowspan=1 colspan=1>표준작업시간보다작업자의실제작업시간이더 오래 걸리는 공정이 있는가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>생산시간</td><td rowspan=1 colspan=1>제품 생산 시작 시점부터 완성 시점까지 소요되는 시간의 낭비가 없는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr><tr><td rowspan=2 colspan=2>문서관리</td><td rowspan=1 colspan=1>생산에 필요한 재료의 종류와 품질, 조립 순서,가공 방법 등과 같이 설계 도면으로 표현하기어려운 사항을 기록한 문서를 체계적으로 활용하는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr><tr><td rowspan=1 colspan=1>완제품 생산에 필요한 구성 품목의 종류와수량을 명시한 목록을 체계적으로 활용하는가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "5286e12d147a566fc86a3c8c6e2eaaf01b9f4b1cbfec7219f8672eada675bdfb.jpg",
@@ -2987,8 +2953,8 @@
       "replaced": true,
       "similarity": 0.9333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6144,
-      "end_orig": 6165,
+      "start_orig": 5745,
+      "end_orig": 5766,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3075,7 +3041,7 @@
       596
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>시간</td><td rowspan=1 colspan=1>연수 내용</td></tr><tr><td rowspan=1 colspan=1>10:00~10:50</td><td rowspan=1 colspan=1>프랑스 내 케이블 교량의 시공 성과 설명</td></tr><tr><td rowspan=1 colspan=1>11:00~11:50</td><td rowspan=1 colspan=1>[특강]특성화고 졸업 후스기업 대표까지의여정(강사: 스스기업 대표,토목시공 기술사 보유)</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>시간</td><td rowspan=1 colspan=1>연수 내용</td></tr><tr><td rowspan=1 colspan=1>10:00~10:50</td><td rowspan=1 colspan=1>프랑스 내 케이블 교량의 시공 성과 설명</td></tr><tr><td rowspan=1 colspan=1>11:00~11:50</td><td rowspan=1 colspan=1>[특강]특성화고 졸업 후스기업 대표까지의 여정(강사: 스스기업 대표,토목시공 기술사 보유)</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "d36c8b23b0635ede058c6cab1dba9f331594563004ed8bb5eaa4eed4c7ee0b0e.jpg",
@@ -3154,11 +3120,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9796,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7537,
       "end_orig": 7604,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3450,7 +3416,7 @@
       334
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>사고</td><td rowspan=1 colspan=1>·공장 폐수 처리장의 집수조* 내 노후화된 배관 교체를 위한 용접 작업 중가스 폭발 사고가 발생함.개요·폭발의 영향으로 폐수 처리용 중화제인 황산과 폐수가 누출됨.* 집수조:폐수를 모아 저장한 후 폐수 처리 시설로 이송하는 설비</td></tr><tr><td rowspan=1 colspan=1>삶곤</td><td rowspan=1 colspan=1>사고|·집수조 내부 작업 전 가스 감지기로 검침하지 않음.원인·폐수 누출 차단막이 작동하지 않음.</td></tr><tr><td rowspan=1 colspan=1>사고결과</td><td rowspan=1 colspan=1>·작업자 2명이 2개월의 요양 치료가 필요한 부상을 입음.·누출된 황산과 폐수가 인근 하천으로 유입됨.</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>사고</td><td rowspan=1 colspan=1>·공장 폐수 처리장의 집수조* 내 노후화된 배관 교체를 위한 용접 작업 중가스 폭발 사고가 발생함개요|·폭발의 영향으로 폐수 처리용 중화제인 황산과 폐수가 누출됨.* 집수조:폐수를 모아 저장한 후 폐수 처리 시설로 이송하는 설비</td></tr><tr><td rowspan=1 colspan=1>삶곤</td><td rowspan=1 colspan=1>사고|·집수조 내부 작업 전 가스 감지기로 검침하지 않음.원인|·폐수 누출 차단막이 작동하지 않음.</td></tr><tr><td rowspan=1 colspan=1>사고결과</td><td rowspan=1 colspan=1>·작업자 2명이 2개월의 요양 치료가 필요한 부상을 입음.·누출된 황산과 폐수가 인근 하천으로 유입됨.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "2d9b33901262e288071f074e3d2ead786431019d314d09a1aa410b4deac99e88.jpg",
@@ -3604,7 +3570,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9615,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8966,
       "end_orig": 9001,
@@ -3724,11 +3690,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9211,
+      "similarity": 0.9474,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 9079,
       "end_orig": 9132,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {

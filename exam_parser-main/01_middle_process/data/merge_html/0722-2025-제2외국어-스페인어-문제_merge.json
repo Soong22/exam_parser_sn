@@ -91,7 +91,7 @@
   },
   {
     "type": "text",
-    "text": "① amor ② ㄷop ③ ㄴ ④ orden ⑤ martes",
+    "text": "① ② ③ ④ ⑤",
     "bbox": [
       97,
       348,
@@ -101,12 +101,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
+      "replaced": true,
       "similarity": 0.3448,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1433,
       "end_orig": 1442,
-      "reason": "low_similarity"
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "type": "text",
-    "text": "2. 밑줄 친 낱말의 철자가 옳지 않은 것은?",
+    "text": "ㄹ. 밑줄 친 낱말의 철자가 옳지 않은 것은?",
     "bbox": [
       85,
       411,
@@ -221,17 +221,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 110,
-      "end_orig": 135,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "Cosas  para  comprar:",
+    "text": "Cosas para comprar:",
     "bbox": [
       227,
       442,
@@ -241,12 +241,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 136,
-      "end_orig": 157,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -265,7 +265,7 @@
   },
   {
     "type": "text",
-    "text": "(a) 12  huevos (b) 10  mansanas (c) 2  litros  de  leche (d) 1  kilo  de  cebollas (e) 2  kilos  de  patatas",
+    "text": "(a) 12 huevos (b) 10 mansanas (c) 2 litros de leche (d) 1 kilo de cebollas (e) 2 kilos de patatas",
     "bbox": [
       231,
       469,
@@ -275,17 +275,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 158,
-      "end_orig": 266,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "① (a) ② (b) ③ (c) ④ (d) ⑤ (e)",
+    "text": "① ② ③ ④ ⑤\n",
     "bbox": [
       95,
       569,
@@ -296,16 +296,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.4,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 267,
-      "end_orig": 296,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 1662,
+      "end_orig": 1672,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
     "type": "text",
-    "text": "3. 밑줄 친 부분과 유사한 의미로 바꾸어 쓸 수 있는 것은?  [1점] ",
+    "text": "3. 밑줄 친 부분과 유사한 의미로 바꾸어 쓸 수 있는 것은? A: A",
     "bbox": [
       86,
       632,
@@ -316,16 +316,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.8727,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 297,
-      "end_orig": 338,
+      "start_orig": 2492,
+      "end_orig": 2531,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: Sofía,  ¿has  visto  la  guitarra?\n",
+    "text": "A: Sofia, has visto la guitarra?",
     "bbox": [
       105,
       663,
@@ -335,17 +335,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9455,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 338,
-      "end_orig": 376,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "B: Sí,  está  en  mi  habitación.\n",
+    "text": "B: Si, está en mi habitación.",
     "bbox": [
       105,
       680,
@@ -355,12 +355,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9583,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 376,
-      "end_orig": 410,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -378,8 +378,8 @@
       "replaced": false,
       "similarity": 0.2857,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1433,
-      "end_orig": 1442,
+      "start_orig": 1943,
+      "end_orig": 1948,
       "reason": "low_similarity"
     }
   },
@@ -405,7 +405,7 @@
   },
   {
     "type": "text",
-    "text": "A: ¿Qué  te  parece  el  nuevo  compañero?\n",
+    "text": "A: iQué te parece el nuevo compañero?",
     "bbox": [
       105,
       817,
@@ -415,17 +415,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9677,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 474,
-      "end_orig": 517,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "B: Me  cae  bien,  pero  está  en  este  trabajo. ",
+    "text": "B: Me cae bien, pero esta en este trabajo.",
     "bbox": [
       105,
       834,
@@ -435,17 +435,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9706,
+      "replaced": false,
+      "similarity": 0.2353,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 517,
-      "end_orig": 567,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 1817,
+      "end_orig": 1862,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "Hay  que  explicarle  todo.",
+    "text": "Hay que explicarle todo.",
     "bbox": [
       122,
       852,
@@ -455,17 +455,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 567,
-      "end_orig": 594,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "① azul ② rubio ③ verde\n④ marrón ⑤ amarillo",
+    "text": "① azul ② rubio ③ verde ④ marrón ⑤ amarillo",
     "bbox": [
       97,
       877,
@@ -475,12 +475,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.2632,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 595,
-      "end_orig": 637,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 1943,
+      "end_orig": 1948,
+      "reason": "low_similarity"
     }
   },
   {
@@ -505,7 +505,7 @@
   },
   {
     "type": "text",
-    "text": "◦ Un  equipo  de  fútbol  con  al  menos  once  jugadores.\n",
+    "text": "Un equipo de fütbol con al menos once jugadores.",
     "bbox": [
       108,
       987,
@@ -515,17 +515,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.963,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 665,
-      "end_orig": 724,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "◦ Jorge  no  se  da  de  que  estamos  aquí.\n",
+    "text": "Jorge no se da de que estamos aqui.",
     "bbox": [
       107,
       1005,
@@ -535,17 +535,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9474,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 724,
-      "end_orig": 769,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "7. 빈칸에 들어갈 말로 알맞은 것은?  [1점] ",
+    "text": " 빈칸에 들어갈 말로 알맞은 것은?  [1점]",
     "bbox": [
       434,
       441,
@@ -556,16 +556,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9474,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1012,
-      "end_orig": 1040,
+      "start_orig": 8133,
+      "end_orig": 8158,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: ¿Va  a  pagar  con  tarjeta?\n",
+    "text": "A: iVa a pagar con tarjeta?",
     "bbox": [
       454,
       472,
@@ -575,12 +575,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9545,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1040,
-      "end_orig": 1072,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -605,7 +605,7 @@
   },
   {
     "type": "text",
-    "text": "A: Gracias.  Le  doy  su  cambio.",
+    "text": "A: Gracias. Le doy su cambio.",
     "bbox": [
       453,
       506,
@@ -615,12 +615,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.5,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1096,
-      "end_orig": 1129,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 2940,
+      "end_orig": 2974,
+      "reason": "low_similarity"
     }
   },
   {
@@ -635,12 +635,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1130,
-      "end_orig": 1141,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -656,16 +656,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.25,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1433,
-      "end_orig": 1442,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "① en  efectivo ② ten  cuidado\n③ estoy  seguro ④ enhorabuena\n⑤ no  hay  de  qué",
+    "text": "① en efectivo ② ten cuidado ③ estoy seguro ④ enhorabuena ⑤ no hay de qué",
     "bbox": [
       446,
       552,
@@ -675,17 +675,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1142,
-      "end_orig": 1220,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "8. 대화의 내용으로 보아 기차가 출발하는 시각은?",
+    "text": "8.대화의 내용으로 보아 기차가 출발하는 시각은?",
     "bbox": [
       435,
       646,
@@ -695,17 +695,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1221,
-      "end_orig": 1249,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "A: Son  las  cuatro  y  diez  de  la  tarde.  ¿A  qué  hora  sale el  tren?\n",
+    "text": "A: Son las cuatro y diez de la tarde. iA qué hora sa el tren?",
     "bbox": [
       454,
       676,
@@ -715,17 +715,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9583,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1250,
-      "end_orig": 1326,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "B: Sale  dentro  de  media  hora.",
+    "text": "B: Sale dentro de media hora.",
     "bbox": [
       453,
       712,
@@ -735,12 +735,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1326,
-      "end_orig": 1359,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -765,7 +765,7 @@
   },
   {
     "type": "text",
-    "text": "B: ¡Tranquilo! La  estación  queda  muy  cerca.\n",
+    "text": "B: iTranquilo! La estación queda muy cerca.",
     "bbox": [
       453,
       745,
@@ -775,12 +775,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.973,
+      "replaced": false,
+      "similarity": 0.3288,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1385,
-      "end_orig": 1433,
-      "reason": "anchor_rescue"
+      "start_orig": 8044,
+      "end_orig": 8094,
+      "reason": "low_similarity"
     }
   },
   {
@@ -825,7 +825,7 @@
   },
   {
     "type": "text",
-    "text": "A: ¿Qué  piensas  hacer  hoy?\n",
+    "text": "A: iQué piensas hacer hoy?",
     "bbox": [
       454,
       902,
@@ -835,17 +835,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9545,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1473,
-      "end_orig": 1503,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "B: Como  hace  mucho  sol,  voy  a  ir  a  la  playa.",
+    "text": "B: Como hace mucho sol, voy a ir a la playa.",
     "bbox": [
       453,
       918,
@@ -855,17 +855,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1503,
-      "end_orig": 1556,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "A: ¡Qué  bien! ¿Y  mañana  también  va  a  hacer  buen tiempo?\n",
+    "text": "A: iQué bien! iY mañana también va a hacer buen tiempo?",
     "bbox": [
       453,
       936,
@@ -875,17 +875,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9556,
+      "replaced": false,
+      "similarity": 0.3596,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1557,
-      "end_orig": 1620,
-      "reason": "anchor_rescue"
+      "start_orig": 5080,
+      "end_orig": 5141,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "B: No,  dicen  que  va  a  llover  mucho.",
+    "text": "B: No, dicen que va a llover mucho.",
     "bbox": [
       453,
       970,
@@ -895,12 +895,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1620,
-      "end_orig": 1661,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -919,7 +919,7 @@
   },
   {
     "type": "text",
-    "text": "10. 게시문의 목적으로 알맞은 것은?  [1점] ",
+    "text": "0. 게시문의 목적으로 알맞은 것은?  [1점] ",
     "bbox": [
       86,
       157,
@@ -930,9 +930,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9756,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1672,
+      "start_orig": 1673,
       "end_orig": 1700,
       "reason": "passed_threshold_no_ws"
     }
@@ -963,17 +963,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1700,
-      "end_orig": 1720,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "  Horario:  de  13:00  a  21:00\n-  Dos  días  libres  seguidos  por  semana\n-  Buen  ambiente  de  trabajo",
+    "text": "– Horario: de 13:00 a 21:00 – Dos dias libres seguidos por semana – Buen ambiente de trabajo",
     "bbox": [
       149,
       252,
@@ -983,12 +983,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.953,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1722,
-      "end_orig": 1828,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1003,17 +1003,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1829,
-      "end_orig": 1839,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "  Hablar  español  e  inglés\n-  Vivir  en  la  ciudad  de  Sevilla",
+    "text": "– Hablar español e inglés – Vivir en la ciudad de Sevilla",
     "bbox": [
       148,
       321,
@@ -1023,17 +1023,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.967,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1841,
-      "end_orig": 1907,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "Hotel  Reina (Sevilla,  España) ☎  1234567\n①",
+    "text": "Hotel Reina (Sevilla, España) 81234567",
     "bbox": [
       174,
       359,
@@ -1043,12 +1043,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9565,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1908,
-      "end_orig": 1952,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1126,14 +1126,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2029,
-      "end_orig": 2037,
+      "start_orig": 5646,
+      "end_orig": 5654,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: ¡Hola,  Carlos! Perdón  por  llegar  tarde.  Es  que  hay mucho  tráfico. ",
+    "text": "A: jHola, Carlos! Perdón por llegar tarde. Es que hay mucho tráfico.",
     "bbox": [
       105,
       530,
@@ -1143,17 +1143,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9825,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2038,
-      "end_orig": 2115,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "B: .  Yo  también  acabo  de  llegar.",
+    "text": "B:. Yo también acabo de llegar.",
     "bbox": [
       104,
       565,
@@ -1163,12 +1163,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2115,
-      "end_orig": 2152,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1186,14 +1186,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2153,
-      "end_orig": 2159,
+      "start_orig": 6136,
+      "end_orig": 6142,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "a.  No  pasa  nada  b.  No  hay  problema\nc.  No  es  para  ti d.  No  tengo  sueño\n① a,  b ② a,  d ③ b,  c ④ b,  d ⑤ c,  d",
+    "text": "a. No pasa nada b. No hay problema ㄷ. No es para ti d. No tengo sueño ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
       97,
       613,
@@ -1203,12 +1203,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9863,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2160,
-      "end_orig": 2283,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1223,17 +1223,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2284,
-      "end_orig": 2306,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "A: Esta  maleta  pesa  mucho.  ¿Me  puede  ayudar  a  bajarla, por  favor? B:",
+    "text": "A: Esta maleta pesa mucho. iMe puede ayudar a bajarla, por favor?",
     "bbox": [
       105,
       748,
@@ -1243,12 +1243,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9636,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2307,
-      "end_orig": 2384,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1273,7 +1273,7 @@
   },
   {
     "type": "text",
-    "text": "① Silencio ② Un  abrazo\n③ Buen  provecho ④ Con  mucho  gusto\n⑤ De  ninguna  manera",
+    "text": "① Silencio ② Un abrazo ③ Buen provecho ④ Con mucho gusto ⑤ De ninguna manera",
     "bbox": [
       97,
       827,
@@ -1283,12 +1283,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2408,
-      "end_orig": 2490,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1303,17 +1303,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2491,
-      "end_orig": 2526,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "A: Abuela,  quiero  más  helado.",
+    "text": "A: Abuela, quiero más helado.",
     "bbox": [
       106,
       954,
@@ -1323,17 +1323,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2527,
-      "end_orig": 2559,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "B: ¡Ay,  no!  Si  comes  tanto  helado,  sin  lugar  a  dudas,  te va  a  doler  el  estómago.\n",
+    "text": "B: iAy, no! Si comes tanto helado, sin lugar a dudas, te va a doler el estómago.",
     "bbox": [
       105,
       970,
@@ -1343,17 +1343,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9844,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2560,
-      "end_orig": 2655,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "① en  seguida ② atentamente\n③ ciertamente ④ por  un  lado\n⑤ de  vez  en  cuando",
+    "text": "① en seguida ② atentamente ③ ㄷiertamente ④ por un lado ⑤ de vez en cuando",
     "bbox": [
       97,
       1015,
@@ -1363,12 +1363,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9828,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2655,
-      "end_orig": 2734,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1383,17 +1383,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2735,
-      "end_orig": 2764,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "A: Disculpe.  ¿Está  lejos  de  aquí  el  hospital  San  Isidro?\n",
+    "text": "A: Disculpe. iEstá lejos de aqu el hospital San Isidro?",
     "bbox": [
       454,
       187,
@@ -1403,17 +1403,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9677,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2765,
-      "end_orig": 2830,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "B: No,  no  está  tan  lejos.  Gire  a  la  izquierda  al  final  de la  calle.  Está  al  lado  del  parque. ",
+    "text": "B: No, no esta tan lejos. Gire a la izquierda al final de la calle. Est al lado del parque.",
     "bbox": [
       453,
       205,
@@ -1423,17 +1423,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9793,
+      "replaced": false,
+      "similarity": 0.1286,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2830,
-      "end_orig": 2940,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 7555,
+      "end_orig": 7650,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "A: Gracias,  muy  amable.",
+    "text": "A: Gracias, muy amable.",
     "bbox": [
       455,
       240,
@@ -1443,12 +1443,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2940,
-      "end_orig": 2965,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1464,16 +1464,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.6667,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2966,
-      "end_orig": 2976,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "15. 빈칸에 들어갈 말로 알맞은 것을 <보기",
+    "text": "15.빈칸에 들어갈 말로 알맞은것을<보기",
     "bbox": [
       435,
       353,
@@ -1483,12 +1483,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2976,
-      "end_orig": 3001,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1523,17 +1523,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3002,
-      "end_orig": 3024,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "A: Restaurante  El  Patio.  ¿En  qué  puedo  servirle?",
+    "text": "A: Restaurante El Patio. En qué puedo servirle?",
     "bbox": [
       455,
       401,
@@ -1543,12 +1543,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9877,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3025,
-      "end_orig": 3079,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1593,7 +1593,7 @@
   },
   {
     "type": "text",
-    "text": "B: . A: ¿Para  cuántas  personas?\n",
+    "text": "B: A: iPara cuántas personas?",
     "bbox": [
       453,
       453,
@@ -1603,17 +1603,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9412,
+      "replaced": false,
+      "similarity": 0.3529,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3130,
-      "end_orig": 3164,
-      "reason": "anchor_rescue"
+      "start_orig": 7033,
+      "end_orig": 7065,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "B: . A: De  acuerdo.  A  esa  hora  sí  tenemos  una  mesa  para tres.  ¿A  nombre  de  quién  quiere  la  reserva?\nB:",
+    "text": "B: A: De acuerdo. A esa hora si tenemos una mesa para tres. iA nombre de quién quiere la reserva?",
     "bbox": [
       453,
       488,
@@ -1623,12 +1623,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.956,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3164,
-      "end_orig": 3282,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1653,7 +1653,7 @@
   },
   {
     "type": "text",
-    "text": "<보  기>",
+    "text": "<보 기>",
     "bbox": [
       574,
       567,
@@ -1663,17 +1663,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3303,
-      "end_orig": 3309,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "a.  Para  mañana,  a  las  nueve\nb.  Somos  tres\nc.  Quiero  reservar  una  mesa",
+    "text": "a. Para mañana, a las nueve b. Somos tres ㄷ. Quiero reservar una mesa",
     "bbox": [
       453,
       586,
@@ -1683,12 +1683,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3310,
-      "end_orig": 3390,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1704,11 +1704,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.7333,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3391,
-      "end_orig": 3450,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1723,17 +1723,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3451,
-      "end_orig": 3473,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "A: Oye,  ¿sabes  que  se  ha  cancelado  el  festival  del  café?\n",
+    "text": "A: Oye, isabes que se ha cancelado el festival del café?",
     "bbox": [
       454,
       737,
@@ -1743,17 +1743,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9783,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3474,
-      "end_orig": 3540,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "B: ¿En  serio?  ¡ ! ¡Lo  esperábamos  tanto! ",
+    "text": "B: iEn serio? i ! iLo esperabamos tanto!",
     "bbox": [
       453,
       754,
@@ -1763,17 +1763,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.8788,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3540,
-      "end_orig": 3585,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "A: Ni  modo.  Podemos  ir  el  año  que  viene.",
+    "text": "A: Ni modo. Podemos ir el año que viene.",
     "bbox": [
       454,
       771,
@@ -1783,17 +1783,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3585,
-      "end_orig": 3632,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "① Tal  vez ② Qué  pena\n③  Atención ④ Buena  idea\n⑤ Buena  suerte",
+    "text": "① Tal veZ ② Qué pena ③ Atención ④ Buena idea ⑤ Buena suerte",
     "bbox": [
       446,
       798,
@@ -1803,12 +1803,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3633,
-      "end_orig": 3697,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1823,12 +1823,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3698,
-      "end_orig": 3722,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1844,16 +1844,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.3352,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3766,
-      "end_orig": 3895,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "* alquilar:  임대하다",
+    "text": "* alquilar: 임대하다",
     "bbox": [
       665,
       1014,
@@ -1863,17 +1863,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3764,
-      "end_orig": 3781,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "① al  mes ② en  el  mes ③ desde  el  mes\n④ hasta  el  mes ⑤ antes  del  mes",
+    "text": "① al mes ② en el mes ③ desde el mes ④ hasta el mes ⑤ antes del mes",
     "bbox": [
       446,
       1032,
@@ -1883,17 +1883,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3782,
-      "end_orig": 3857,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "18. 영화표를 이해한 내용으로 알맞지 않은 것은?  [1점] ",
+    "text": "8. 영화표를 이해한 내용으로 알맞지 않은 것은?  [1점] ",
     "bbox": [
       85,
       156,
@@ -1904,9 +1904,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9804,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3858,
+      "start_orig": 3859,
       "end_orig": 3893,
       "reason": "passed_threshold_no_ws"
     }
@@ -1923,12 +1923,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3893,
-      "end_orig": 3899,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1953,7 +1953,7 @@
   },
   {
     "type": "text",
-    "text": "Personas: 2 – Adulto  (G1,  G2)",
+    "text": "Personas: 2 - Adulto (G1, G2)",
     "bbox": [
       160,
       348,
@@ -1963,17 +1963,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9583,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4040,
-      "end_orig": 4071,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": ":  210 pesos Presentar  este  boleto  entrar  sala.\n",
+    "text": "Total: 210 pesos Presentar este boleto al entrar a la sala.",
     "bbox": [
       158,
       372,
@@ -1983,12 +1983,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.8864,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4077,
-      "end_orig": 4129,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2013,7 +2013,7 @@
   },
   {
     "type": "text",
-    "text": "adulto:  성인",
+    "text": "adulto: 성인",
     "bbox": [
       349,
       415,
@@ -2023,17 +2023,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4131,
-      "end_orig": 4142,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "① 할인 여부를 알 수 있다.",
+    "text": "① 할인 여부를 알 수 있다.\n",
     "bbox": [
       97,
       435,
@@ -2047,13 +2047,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4143,
-      "end_orig": 4159,
+      "end_orig": 4160,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 총 관람료는 210 페소이다.",
+    "text": "② 총 관람료는 210 페소이다.\n",
     "bbox": [
       97,
       452,
@@ -2067,13 +2067,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4160,
-      "end_orig": 4178,
+      "end_orig": 4179,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 영화 러닝 타임을 알 수 없다.",
+    "text": "③ 영화 러닝 타임을 알 수 없다.\n",
     "bbox": [
       97,
       468,
@@ -2087,13 +2087,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4179,
-      "end_orig": 4198,
+      "end_orig": 4199,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 전 연령층이 볼 수 있는 영화이다.",
+    "text": "④ 전 연령층이 볼 수 있는 영화이다.\n",
     "bbox": [
       97,
       486,
@@ -2107,13 +2107,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4199,
-      "end_orig": 4220,
+      "end_orig": 4221,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 상영관에 들어갈 때 영화표를 제시해야 한다.",
+    "text": "⑤ 상영관에 들어갈 때 영화표를 제시해야 한다.\n",
     "bbox": [
       97,
       504,
@@ -2127,13 +2127,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4221,
-      "end_orig": 4247,
+      "end_orig": 4248,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "19. 빈칸에 들어갈 말로 가장 알맞은 것은?",
+    "text": "19.빈칸에 들어갈 말로 가장 알맞은 것은?",
     "bbox": [
       86,
       570,
@@ -2143,12 +2143,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4248,
-      "end_orig": 4273,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2173,7 +2173,7 @@
   },
   {
     "type": "text",
-    "text": "B: ¡Uf! Es  una  novela  muy  larga,  ¿no?\n",
+    "text": "B: jUf! Es una novela muy larga, ino?",
     "bbox": [
       105,
       636,
@@ -2183,17 +2183,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9333,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4359,
-      "end_orig": 4402,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "A: Sí,  pero  es  muy  interesante.  Si  leo  unas  páginas todos  los  días,  podré  acabarla  en  este  año.  Ya  sabes, « ». B: Tienes  razón.  Voy  a  leerla  también.\n",
+    "text": "A: Si, pero es muy interesante. Si leo unas páginas todos los dias, podré acabarla en este año. Ya sabes, < B: Tienes razón. Voy a leerla también.",
     "bbox": [
       105,
       653,
@@ -2203,17 +2203,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9667,
+      "replaced": false,
+      "similarity": 0.0855,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4402,
-      "end_orig": 4574,
-      "reason": "anchor_rescue"
+      "start_orig": 6653,
+      "end_orig": 6820,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "① al  pan,  pan  y  al  vino,  vino\n② voz  del  pueblo,  voz  del  cielo\n③ quien  tiene  boca,  se  equivoca\n④ muchos  pocos  hacen  un  mucho\n⑤ ojos  que  no  ven,  corazón  que  no  siente",
+    "text": "① al pan, pan y al vino, vino ② voz del pueblo, voz del cielo ③ quien tiene boca, se equivoca ④ muchos pocos hacen un mucho ⑤ ojos que no ven, corazón que no siente",
     "bbox": [
       97,
       734,
@@ -2223,12 +2223,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4574,
-      "end_orig": 4764,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2293,7 +2293,7 @@
   },
   {
     "type": "text",
-    "text": "A: Yo  tengo  dieciséis.",
+    "text": "A: Yo tengo dieciséis.",
     "bbox": [
       105,
       934,
@@ -2303,12 +2303,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4835,
-      "end_orig": 4859,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2333,7 +2333,7 @@
   },
   {
     "type": "text",
-    "text": "① Te  llevo  un  año\n② Soy  menor  que  tú\n③ Tenemos  la  misma  edad\n④ Somos  de  la  tercera  edad\n⑤ Tengo  un  año  menos  que  tú",
+    "text": "① Te llevo un año ② Soy menor que tú ③ Tenemos la misma edad ④ Somos de la tercera edad ⑤ Tengo un año menos que tu",
     "bbox": [
       97,
       979,
@@ -2343,12 +2343,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9886,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4883,
-      "end_orig": 5016,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2363,12 +2363,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5017,
-      "end_orig": 5039,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2387,7 +2387,7 @@
   },
   {
     "type": "text",
-    "text": "① Qué  mal ② Lo  siento ③ Buen  viaje\n④ Con  permiso ⑤ Por  supuesto",
+    "text": "① Qué mal ② ㄴo siento ③ Buen viaje ④ Con permiso ⑤ Por supuesto",
     "bbox": [
       446,
       370,
@@ -2397,37 +2397,97 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9796,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5110,
-      "end_orig": 5178,
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "2. 글에서 설명하고 있는 것은?  [1점]\n",
+    "bbox": [
+      434,
+      434,
+      636,
+      452
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.973,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5180,
+      "end_orig": 5205,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "22. 글에서 설명하고 있는 것은?  [1점]\n◦ Es  una  de  las  obras  maestras  de Antonio  Gaudí  y  el  lugar  más visitado  de  Barcelona.\n",
+    "text": "!",
     "bbox": [
-      434,
-      434,
+      517,
+      501,
+      528,
+      525
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "HTA",
+    "bbox": [
+      468,
+      518,
+      535,
+      595
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Es una de las obras maestras de Antonio Gaudi y el lugar ms visitado de Barcelona.",
+    "bbox": [
+      573,
+      465,
       747,
       513
     ],
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9714,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5179,
-      "end_orig": 5304,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "◦ Se  empezó  a  construir  en  1882  y todavía  está  en  construcción.\n",
+    "text": "o Se empezó a construir en 1882 y todavía está en construcción.",
     "bbox": [
       573,
       518,
@@ -2437,17 +2497,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9808,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5304,
-      "end_orig": 5377,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "◦ Su  interior  se  parece  a  las  formas de  la  naturaleza.",
+    "text": "Su interior se parece a las formas de la naturaleza.",
     "bbox": [
       572,
       551,
@@ -2457,20 +2517,20 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9885,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5377,
-      "end_orig": 5439,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "22 HTA * construcción:건축",
+    "text": "* construcción:건축",
     "bbox": [
-      468,
-      502,
+      577,
+      591,
       677,
       606
     ],
@@ -2507,7 +2567,7 @@
   },
   {
     "type": "text",
-    "text": "interior:  내부\n① la  Giralda ② la  Alhambra\n③ la  Sagrada  Familia ④ el  Museo  del  Prado\n⑤ el  Monasterio  de  El  Escorial",
+    "text": "interior: 내부 ① ㄴa Giralda ② ㄴa Alhambra ③ ㄴa Sagrada Familia ④ el Museo del Prado ⑤ el Monasterio de El Escorial",
     "bbox": [
       446,
       591,
@@ -2517,17 +2577,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9667,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5463,
-      "end_orig": 5587,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "23. ‘pan  con  tomate’에  관한  대화를  이해한  내용으로  알맞은 것만을",
+    "text": "23.'pan con tomate'에 관한 대화를이해한 내용으로 알맞은 것만을",
     "bbox": [
       434,
       697,
@@ -2537,12 +2597,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9444,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5588,
-      "end_orig": 5640,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2577,17 +2637,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5645,
-      "end_orig": 5654,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "A: He  probado  el  pan  con  tomate  durante  mi  viaje  por España.  No  puedo  olvidar  su  sabor.  ¿Sabes  cómo hacerlo?\nB:",
+    "text": "A: He probado el pan con tomate durante mi viaje por España. No puedo olvidar su sabor. iSabes cómo hacerlo?",
     "bbox": [
       455,
       746,
@@ -2597,17 +2657,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9778,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5655,
-      "end_orig": 5782,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "B: ¡Claro  que  sí! No  es  nada  difícil  prepararlo.  Primero cortas  el  pan  y  hay  que  tostarlo.  Después  frotas medio  diente  de  ajo  en  el  pan. ",
+    "text": "B: jClaro que si! No es nada dificil prepararlo. Primero cortas el pan y hay que tostarlo. Después frotas medio diente de ajo en el pan.",
     "bbox": [
       454,
       798,
@@ -2617,12 +2677,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.973,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5780,
-      "end_orig": 5938,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2647,7 +2707,7 @@
   },
   {
     "type": "text",
-    "text": "B: Cortas  un  tomate  en  dos  y  lo  frotas  sobre  el  pan.  Por último,  pones  un  poco  de  aceite  de  oliva  y  sal.  ¡Y  listo! A:",
+    "text": "B: Cortas un tomate en dos y lo frotas sobre el pan. Por ültimo, pones un poco de aceite de oliva y sal. iY listo!",
     "bbox": [
       453,
       866,
@@ -2657,12 +2717,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.967,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5952,
-      "end_orig": 6091,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2687,7 +2747,7 @@
   },
   {
     "type": "text",
-    "text": "* tostar:  굽다  * frotar:  문지르다",
+    "text": "* tostar:굽다 * frotar: 문지르다",
     "bbox": [
       596,
       924,
@@ -2697,12 +2757,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6105,
-      "end_orig": 6135,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -3147,7 +3207,7 @@
   },
   {
     "type": "text",
-    "text": "* organizar:  준비하다,  조직하다\n① 생일을 축하할 때 사용한다.",
+    "text": "\n* organizar:  준비하다,  조직하다\n① 생일을 축하할 때 사용한다.\n",
     "bbox": [
       97,
       618,
@@ -3160,8 +3220,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7284,
-      "end_orig": 7327,
+      "start_orig": 7283,
+      "end_orig": 7328,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3187,7 +3247,7 @@
   },
   {
     "type": "text",
-    "text": "③ 윗사람이 아랫사람에게 하는 덕담이다.",
+    "text": "③ 윗사람이 아랫사람에게 하는 덕담이다.\n",
     "bbox": [
       97,
       678,
@@ -3201,13 +3261,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7350,
-      "end_orig": 7372,
+      "end_orig": 7373,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 생일날 창문으로 동전을 던지며 하는 말이다.",
+    "text": "④ 생일날 창문으로 동전을 던지며 하는 말이다.\n",
     "bbox": [
       97,
       696,
@@ -3221,7 +3281,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7373,
-      "end_orig": 7399,
+      "end_orig": 7400,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3381,7 +3441,7 @@
   },
   {
     "type": "text",
-    "text": "avioneta:  경비행기\n① ¿De  dónde  viene  su  nombre?\n",
+    "text": "avioneta:  경비행기\n① ¿De  dónde  viene  su  nombre?\n② ",
     "bbox": [
       97,
       955,
@@ -3392,11 +3452,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9444,
+      "similarity": 0.9315,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7890,
-      "end_orig": 7939,
-      "reason": "anchor_rescue"
+      "end_orig": 7941,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3416,7 +3476,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7939,
       "end_orig": 7978,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -3436,7 +3496,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7978,
       "end_orig": 8021,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -3456,7 +3516,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8021,
       "end_orig": 8072,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -3476,7 +3536,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8072,
       "end_orig": 8122,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -3806,7 +3866,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9667,
+      "similarity": 0.9333,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8789,
       "end_orig": 8827,

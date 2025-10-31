@@ -61,21 +61,21 @@
   },
   {
     "type": "text",
-    "text": "1. 에 공통으로 들어갈 글자는?  [1점]\nỏ ư\n①  ch ②  gh ③  kh ④  ph ⑤  th",
+    "text": "1. 에 공통으로 들어갈 글자는?  [1점]\n",
     "bbox": [
       85,
       255,
-      374,
-      406
+      291,
+      272
     ],
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9412,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3,
-      "end_orig": 61,
+      "end_orig": 28,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -95,7 +95,27 @@
   },
   {
     "type": "text",
-    "text": "2. 밑줄 친 부분과 발음이 같은 것은?  [1점] ",
+    "text": "① ② ③ ④ ⑤",
+    "bbox": [
+      97,
+      383,
+      374,
+      406
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.5,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1853,
+      "end_orig": 1862,
+      "reason": "option_line_enumerator_match"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄹ.밑줄 친 부분과 발음이 같은 것은?[1점]",
     "bbox": [
       84,
       439,
@@ -105,12 +125,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 62,
-      "end_orig": 91,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -135,7 +155,7 @@
   },
   {
     "type": "text",
-    "text": "①ga ②met ③nu ④nghi ⑤ trurot",
+    "text": "① ② ③ ④ ⑤",
     "bbox": [
       100,
       498,
@@ -145,12 +165,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
+      "replaced": true,
       "similarity": 0.3704,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1853,
-      "end_orig": 1862,
-      "reason": "low_similarity"
+      "start_orig": 5536,
+      "end_orig": 5545,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -260,11 +280,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.3704,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1853,
-      "end_orig": 1862,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -314,11 +334,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.4545,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1853,
-      "end_orig": 1862,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -423,7 +443,7 @@
   },
   {
     "type": "text",
-    "text": "Con : Vang, con thü nhé.",
+    "text": "Con : Vang, con thú nhé.",
     "bbox": [
       454,
       320,
@@ -443,7 +463,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄷi thü vay kia mc ② kia vay ci thür mc ③ mc kia thür vay ci ④ mc thür cai vay kia ⑤ thür kia cái vay mc",
+    "text": "① ㄷi thü vay kia mc ② kia vay ci thür mc ③ mc kia thür vay ci ④ mc thür cái váy kia ⑤ thür kia cái vay mc",
     "bbox": [
       446,
       350,
@@ -454,31 +474,31 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1235,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1853,
-      "end_orig": 1862,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "7. 빈칸에 들어갈 말로 알맞은 것은?[1점] ① ㄴi ② ㄷhai ③ trái ④ ㄷh ⑤ quyén",
+    "text": " 빈칸에 들어갈 말로 알맞은 것은?  [1점]",
     "bbox": [
       435,
       476,
-      741,
-      709
+      649,
+      493
     ],
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.5647,
+      "replaced": true,
+      "similarity": 0.9474,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 768,
-      "end_orig": 832,
-      "reason": "low_similarity"
+      "start_orig": 5549,
+      "end_orig": 5574,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -494,6 +514,26 @@
     "alt": "",
     "caption": null,
     "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "① ㄴi ② ㄷhai ③ trái ④ ㄷh ⑤ quyén",
+    "bbox": [
+      445,
+      685,
+      741,
+      709
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
   },
   {
     "type": "text",
@@ -597,7 +637,7 @@
   },
   {
     "type": "text",
-    "text": "_(a)_ sóm _(b) tót nhé!",
+    "text": "_(a) sóm _(b) tót nhé!",
     "bbox": [
       471,
       794,
@@ -628,11 +668,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1961,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1852,
-      "end_orig": 1862,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -697,7 +737,7 @@
   },
   {
     "type": "text",
-    "text": "c. Tat ca moi bai tap nao hom nay déu khá dé.",
+    "text": "ㄷ. Tat ca moi bai tap nao hom nay déu khá dé.",
     "bbox": [
       452,
       999,
@@ -737,7 +777,7 @@
   },
   {
     "type": "text",
-    "text": "①  a,  b ②  a,  c ③  b,  c ④  b,  d ⑤  c,  d",
+    "text": "① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
       445,
       1045,
@@ -747,12 +787,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.95,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2628,
-      "end_orig": 2672,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -882,10 +922,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1695,
+      "similarity": 0.1368,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5545,
+      "start_orig": 1688,
+      "end_orig": 1783,
       "reason": "low_similarity"
     }
   },
@@ -951,7 +991,7 @@
   },
   {
     "type": "text",
-    "text": "A: Con 30 phüt nura nhi. Chüng ta di mua do uóng nhé.",
+    "text": "A: Con 30 phüt nüra nhi. Chüng ta di mua do uóng nhé.",
     "bbox": [
       104,
       650,
@@ -1111,7 +1151,7 @@
   },
   {
     "type": "text",
-    "text": "B: U, minh da goi roi ma chi ay A: Có l chi ay khong mang theo dién thoai.",
+    "text": "B: U, minh da goi ri ma chi ay A: Có l chi ay khong mang theo dién thoai.",
     "bbox": [
       104,
       968,
@@ -1142,11 +1182,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1176,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5545,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1211,7 +1251,7 @@
   },
   {
     "type": "text",
-    "text": "A: Hom qua, toi da mua qun nay cho con toi nhung Anh có có nhó hon khong?",
+    "text": "A: Hom qua, toi da mua quan nay cho con toi nhung Anh có có nhó hon khong?",
     "bbox": [
       454,
       186,
@@ -1244,14 +1284,14 @@
       "replaced": false,
       "similarity": 0.0541,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1863,
-      "end_orig": 1864,
+      "start_orig": 5812,
+      "end_orig": 5814,
       "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "A: Thé, cho toi tra lai cái nay nhe!",
+    "text": "A: Thé, cho toi tra lai cái nay nhé!",
     "bbox": [
       453,
       238,
@@ -1291,7 +1331,7 @@
   },
   {
     "type": "text",
-    "text": "a. to qu b. khong vura c. dat tién qua d. khong thich mau ① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a. to qu b. khong vura ㄷ. dat tién qua d. khong thich mau ① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
       445,
       288,
@@ -1302,11 +1342,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1449,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5545,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1344,8 +1384,8 @@
       "replaced": false,
       "similarity": 0.0513,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1978,
-      "end_orig": 1981,
+      "start_orig": 5850,
+      "end_orig": 5853,
       "reason": "low_similarity"
     }
   },
@@ -1562,11 +1602,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1613,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5545,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1716,16 +1756,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1,
+      "similarity": 0.1053,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1860,
-      "end_orig": 1864,
+      "start_orig": 5812,
+      "end_orig": 5814,
       "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "②  Khi  rảnh,  B thường  xem  phim.\n",
+    "text": "② Khi ranh, B thurong xem phim.",
     "bbox": [
       97,
       290,
@@ -1735,17 +1775,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.8571,
+      "replaced": false,
+      "similarity": 0.0769,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3755,
-      "end_orig": 3791,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 5823,
+      "end_orig": 5825,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "③ A va B dang xem anh tót nghiép.",
+    "text": "③ A va B dang xem anh tót nghiep.",
     "bbox": [
       97,
       307,
@@ -1758,14 +1798,14 @@
       "replaced": false,
       "similarity": 0.0769,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1957,
-      "end_orig": 1959,
+      "start_orig": 5837,
+      "end_orig": 5839,
       "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "④ Khi ranh, A thuong nu án cho ban.",
+    "text": "④ Khi ráanh, A thurong náu án cho ban.",
     "bbox": [
       97,
       325,
@@ -1776,10 +1816,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0714,
+      "similarity": 0.0645,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1979,
-      "end_orig": 1981,
+      "start_orig": 5851,
+      "end_orig": 5853,
       "reason": "low_similarity"
     }
   },
@@ -1798,8 +1838,8 @@
       "replaced": false,
       "similarity": 0.069,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2001,
-      "end_orig": 2003,
+      "start_orig": 5870,
+      "end_orig": 5872,
       "reason": "low_similarity"
     }
   },
@@ -1899,7 +1939,7 @@
   },
   {
     "type": "text",
-    "text": "a. chura do lám b. khoi óm rói c. do dau nhiéu rói d. dang dau dau qua ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a. chura do lám b. khoi óm rói ㄷ. do dau nhiéu rói d. dang dau dau qua ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
       97,
       615,
@@ -1910,11 +1950,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1282,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5545,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1992,8 +2032,8 @@
       "replaced": false,
       "similarity": 0.0392,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2673,
-      "end_orig": 2676,
+      "start_orig": 7602,
+      "end_orig": 7605,
       "reason": "low_similarity"
     }
   },
@@ -2030,10 +2070,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1667,
+      "similarity": 0.3077,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2782,
-      "end_orig": 2785,
+      "start_orig": 6937,
+      "end_orig": 6940,
       "reason": "low_similarity"
     }
   },
@@ -2050,10 +2090,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0408,
+      "similarity": 0.0833,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5144,
-      "end_orig": 5147,
+      "start_orig": 7392,
+      "end_orig": 7396,
       "reason": "low_similarity"
     }
   },
@@ -2070,11 +2110,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.093,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5540,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2119,7 +2159,7 @@
   },
   {
     "type": "text",
-    "text": "a. mt bao lau b. muón di lüc máy gio c. sáng thúr 6 thi hét vé röi",
+    "text": "a. mt bao lau b. muón di lüc máy gio ㄷ. sáng thür 6 thi hét vé röi",
     "bbox": [
       103,
       967,
@@ -2132,8 +2172,8 @@
       "replaced": false,
       "similarity": 0.0392,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2673,
-      "end_orig": 2675,
+      "start_orig": 7602,
+      "end_orig": 7604,
       "reason": "low_similarity"
     }
   },
@@ -2154,7 +2194,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4547,
       "end_orig": 4611,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2233,7 +2273,7 @@
   },
   {
     "type": "text",
-    "text": "① sóng que ② khám bénh cho chi ③ sura tú lanh cho bó me ④ tró thanh dién vién hai ⑤ m tai khoán ngan hang nay",
+    "text": "① sóng que ② khám bénh cho chi ③ sura tu lanh cho bó me ④ tró thanh dién vién hai ⑤ m tai khoán ngan hang nay",
     "bbox": [
       445,
       273,
@@ -2244,11 +2284,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1149,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5545,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2324,11 +2364,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.6667,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4731,
-      "end_orig": 4735,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2364,11 +2404,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1316,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5545,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2444,11 +2484,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1266,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5545,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2578,11 +2618,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1724,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5545,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2627,7 +2667,7 @@
   },
   {
     "type": "text",
-    "text": "*khoinghia:봉기하다",
+    "text": "*khoi nghia:봉기하다",
     "bbox": [
       524,
       295,
@@ -2847,7 +2887,7 @@
   },
   {
     "type": "text",
-    "text": "Ha-na : Vay, vao ngay nay hoc sinh thuong lam gi?",
+    "text": "Ha-na : Vay, vao ngay nay hoc sinh thurong lam gi?",
     "bbox": [
       105,
       583,
@@ -3007,7 +3047,7 @@
   },
   {
     "type": "text",
-    "text": "c. Vao ngay nay, các thay co khong dén truong.",
+    "text": "ㄷ. Vao ngay nay, các thay co khong dén truong.",
     "bbox": [
       104,
       720,
@@ -3101,7 +3141,7 @@
   },
   {
     "type": "text",
-    "text": "Nuóc mám la möt loai gia vi khong thé thiéu trong büra com thuong ngay cüa nguoi Viet Nam.",
+    "text": "Nuóc mám la möt loai gia vi khong thé thiéu trong bura com thuong ngay cüa nguoi Viet Nam.",
     "bbox": [
       221,
       879,
@@ -3141,7 +3181,7 @@
   },
   {
     "type": "text",
-    "text": "* gia vi:양념 *muói: 소금 ① 판매가 ② 교환방법 ③ 수상이력 ④ 유통기한 ⑤ 대표생산지",
+    "text": "* gia vi:양념 *muói:소금 ① 판매가 ② 교환방법 ③ 수상이력 ④ 유통기한 ⑤ 대표생산지",
     "bbox": [
       97,
       1005,
@@ -3195,7 +3235,7 @@
   },
   {
     "type": "text",
-    "text": "Van Miéu – Quóc Tür Giám nm ó Ha Noi. Van Miéu duroc xay dung vao nm 1070. Nm 1076, Ly Nhan Tong da cho lap them Quóc Tü Giam. Vn Miéu la noi tho Khóng Tü, con Quóc Tu Giám duroc xem la truöng dai hoc dau tien o Viet Nam. Hién nay, nhiéu hoc sinh dén Van Miéu – Quóc Tü Giám de cau may mn truróc khi di thi.",
+    "text": "Van Miéu – Quc Tür Gim nm o Ha Noi. Ván Miéu duroc xay dung vao nm 1070. Nm 1076, Ly Nhan Tong da cho lap them Quóc Tü Giam. Vn Miéu la noi tho Khóng Tü, con Quóc Tü Giám duoc xem la truöng dai hoc dau tien o Viet Nam. Hién nay, nhiéu hoc sinh dén Van Miéu – Quóc Tü Giám de cau may mn truróc khi di thi.",
     "bbox": [
       453,
       689,

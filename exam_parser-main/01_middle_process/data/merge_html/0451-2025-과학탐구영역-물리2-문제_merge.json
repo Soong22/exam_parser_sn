@@ -376,7 +376,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음은 전자기파의 수신에 대한 설명이다.",
+    "text": ". 다음은 전자기파의 수신에 대한 설명이다. ",
     "bbox": [
       85,
       565,
@@ -387,10 +387,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9744,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 256,
-      "end_orig": 281,
+      "start_orig": 257,
+      "end_orig": 282,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -435,18 +435,24 @@
     }
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "안텐나 코 수신 회로",
     "bbox": [
-      314,
-      593,
-      402,
-      684
+      315,
+      601,
+      380,
+      680
     ],
     "page_idx": 0,
-    "image_path": "605b13cd0fbacc2421f4c80a037f263d751d098c1f994e1b54009008759a09de.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
   },
   {
     "type": "text",
@@ -501,7 +507,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9808,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 452,
       "end_orig": 530,
@@ -724,7 +730,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       106,
       1004,
@@ -734,12 +740,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 690,
+      "end_orig": 692,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1289,6 +1295,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      558,
+      531,
+      562,
+      547
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "L _ { \\mathrm { B } }",
     "bbox": [
@@ -1644,7 +1670,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       834,
@@ -1654,12 +1680,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1272,
+      "end_orig": 1274,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1697,8 +1723,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1269,
-      "end_orig": 1271,
+      "start_orig": 1276,
+      "end_orig": 1278,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1870,7 +1896,7 @@
   },
   {
     "type": "text",
-    "text": "7. 그림 (가)는 텅 빈 우주 공간에서 정지한 관찰자 P에 대해 우주선이",
+    "text": ". 그림 (가)는 텅 빈 우주 공간에서 정지한 관찰자 P에 대해 우주선이",
     "bbox": [
       86,
       159,
@@ -1881,9 +1907,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9831,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1493,
+      "start_orig": 1494,
       "end_orig": 1534,
       "reason": "passed_threshold_no_ws"
     }
@@ -2217,6 +2243,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      226,
+      628,
+      232,
+      644
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "I _ { \\mathrm { C } }",
     "bbox": [
@@ -2257,18 +2303,24 @@
     }
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "E",
     "bbox": [
-      304,
-      561,
-      404,
-      656
+      366,
+      623,
+      381,
+      637
     ],
     "page_idx": 1,
-    "image_path": "dde6c11e6b6025989b7edab2fcb0bac18d37df548b1cad57d6e6325506aad9c9.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
   },
   {
     "type": "text",
@@ -3247,7 +3299,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       529,
@@ -3258,11 +3310,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2680,
+      "end_orig": 2682,
+      "reason": "low_similarity"
     }
   },
   {
@@ -4021,7 +4073,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       455,
       970,
@@ -4034,8 +4086,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4507,
-      "end_orig": 4509,
+      "start_orig": 2958,
+      "end_orig": 2960,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4091,12 +4143,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2965,
+      "end_orig": 2982,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4131,12 +4183,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2987,
+      "end_orig": 2989,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4174,8 +4226,8 @@
       "replaced": false,
       "similarity": 0.8333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4745,
-      "end_orig": 4752,
+      "start_orig": 2991,
+      "end_orig": 2998,
       "reason": "low_similarity"
     }
   },
@@ -4214,14 +4266,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5397,
-      "end_orig": 5402,
+      "start_orig": 3000,
+      "end_orig": 3005,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄷ.(나)의 p에서 A,",
+    "text": "ㄷ. (나)의 p에서 A,",
     "bbox": [
       455,
       1013,
@@ -4231,12 +4283,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3006,
+      "end_orig": 3020,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4261,7 +4313,7 @@
   },
   {
     "type": "text",
-    "text": "의한 자기장의세기는",
+    "text": "의한 자기장의 세기는",
     "bbox": [
       573,
       1013,
@@ -4271,12 +4323,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3025,
+      "end_orig": 3036,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4333,7 +4385,7 @@
   },
   {
     "type": "text",
-    "text": "12.그림(가)는 수평면에서 정지해 있는 음파 측정기 S와 진동수가",
+    "text": "12. 그림 (가)는 수평면에서 정지해 있는 음파 측정기 S와 진동수가",
     "bbox": [
       88,
       159,
@@ -4343,12 +4395,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3082,
+      "end_orig": 3121,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4373,7 +4425,7 @@
   },
   {
     "type": "text",
-    "text": "인음파를발생시키는음원A,B가각각일정한속력",
+    "text": "인 음파를 발생시키는 음원 A,  B가 각각 일정한 속력",
     "bbox": [
       110,
       176,
@@ -4383,12 +4435,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3122,
+      "end_orig": 3153,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4409,6 +4461,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      375,
+      176,
+      380,
+      193
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
     }
   },
   {
@@ -4433,7 +4505,7 @@
   },
   {
     "type": "text",
-    "text": "로 같은방향으로운동하는 모습을, (나)는",
+    "text": "로 같은 방향으로 운동하는 모습을,  (나)는",
     "bbox": [
       98,
       176,
@@ -4443,12 +4515,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3158,
+      "end_orig": 3183,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4473,7 +4545,7 @@
   },
   {
     "type": "text",
-    "text": "에서A가속력",
+    "text": "에서 A가 속력",
     "bbox": [
       300,
       194,
@@ -4483,12 +4555,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3187,
+      "end_orig": 3195,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4523,12 +4595,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3197,
+      "end_orig": 3221,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4553,7 +4625,7 @@
   },
   {
     "type": "text",
-    "text": "와(나)에서,S가 측정한 B의 음파의 진동수는",
+    "text": "와 (나)에서,  S가 측정한 B의 음파의 진동수는",
     "bbox": [
       98,
       214,
@@ -4563,12 +4635,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3226,
+      "end_orig": 3254,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4593,7 +4665,7 @@
   },
   {
     "type": "text",
-    "text": "로 같고,S가 측정한 A의 음파의 진동수는 각각",
+    "text": "로 같고,  S가 측정한 A의 음파의 진동수는 각각",
     "bbox": [
       97,
       231,
@@ -4603,12 +4675,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3256,
+      "end_orig": 3284,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4723,12 +4795,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3303,
+      "end_orig": 3305,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4785,7 +4857,7 @@
   },
   {
     "type": "text",
-    "text": "13.그림은 광전 효과 실험 장치를 사용하여 전압에 따른 광전류의 세기를 측정하는 것을 나타낸 것이다.표는 금속판을 비추는 단색광",
+    "text": "13. 그림은 광전 효과 실험 장치를 사용하여 전압에 따른 광전류의 세기를 측정하는 것을 나타낸 것이다.  표는 금속판을 비추는 단색광",
     "bbox": [
       88,
       453,
@@ -4795,17 +4867,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3356,
+      "end_orig": 3431,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A,B에 따른 광전류의 최댓값 I와 정지 전압으로부터 구한 광전자의 최대 운동 에너지에 해당하는 물질파 파장 λ를 나타낸 것이다.",
+    "text": "B에 따른 광전류의 최댓값  와 정지 전압으로부터 구한 광전자의 최대 운동 에너지에 해당하는 물질파 파장  를 나타낸 것이다.\n",
     "bbox": [
       98,
       487,
@@ -4815,12 +4887,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9623,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3436,
+      "end_orig": 3507,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4846,7 +4918,7 @@
       608
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>3λ</td></tr><tr><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=4>(O:단색광 있음, ×:단색광 없음)</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>3λ</td></tr><tr><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=4>(O:단색광 있음,×:단색광 없음)</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "cce546092b5a7a14ca70063a18a35e45072d56dfb70cde993bd65ce99cddc170.jpg",
@@ -4854,7 +4926,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한설명으로옳은 것만을<보>",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
       106,
       617,
@@ -4864,12 +4936,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3507,
+      "end_orig": 3528,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4914,7 +4986,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.진동수는A가 B보다 작다.",
+    "text": "ㄱ. 진동수는 A가 B보다 작다.",
     "bbox": [
       106,
       676,
@@ -4924,17 +4996,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3558,
+      "end_orig": 3576,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       106,
       692,
@@ -4944,12 +5016,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3577,
+      "end_orig": 3579,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4965,10 +5037,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.6667,
+      "similarity": 0.5,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3581,
-      "end_orig": 3582,
+      "start_orig": 2828,
+      "end_orig": 2830,
       "reason": "low_similarity"
     }
   },
@@ -5025,10 +5097,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.6667,
+      "similarity": 0.5,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3581,
-      "end_orig": 3582,
+      "start_orig": 2828,
+      "end_orig": 2830,
       "reason": "low_similarity"
     }
   },
@@ -5067,14 +5139,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5433,
-      "end_orig": 5435,
+      "start_orig": 3585,
+      "end_orig": 3587,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "15.그림(가)는 극판 사이의 간격,극판의 면적이 같은 평행판 축전기 A,B를 전원 장치에 연결한 것을 나타낸 것이다.B 내부의",
+    "text": "15. 그림 (가)는 극판 사이의 간격,  극판의 면적이 같은 평행판 축전기 A,  B를 전원 장치에 연결한 것을 나타낸 것이다.  B 내부의",
     "bbox": [
       436,
       159,
@@ -5084,12 +5156,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3920,
+      "end_orig": 3999,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5104,12 +5176,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4000,
+      "end_orig": 4008,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5134,7 +5206,7 @@
   },
   {
     "type": "text",
-    "text": "유전체로 채워져 있다.그림(나)는",
+    "text": "유전체로 채워져 있다.  그림 (나)는",
     "bbox": [
       549,
       194,
@@ -5144,12 +5216,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4012,
+      "end_orig": 4033,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5184,12 +5256,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4037,
+      "end_orig": 4079,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5248,7 +5320,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은것만을",
+    "text": "이에 대한 설명으로 옳은 것만을",
     "bbox": [
       456,
       368,
@@ -5258,12 +5330,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4105,
+      "end_orig": 4122,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5288,7 +5360,7 @@
   },
   {
     "type": "text",
-    "text": "에서 있는 대로 고른 것은?(단,",
+    "text": "에서 있는 대로 고른 것은?  (단,",
     "bbox": [
       446,
       368,
@@ -5298,12 +5370,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4127,
+      "end_orig": 4147,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5338,12 +5410,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4151,
+      "end_orig": 4161,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5378,17 +5450,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.8,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5465,
-      "end_orig": 5468,
-      "reason": "low_similarity"
+      "start_orig": 4164,
+      "end_orig": 4167,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       455,
       430,
@@ -5398,12 +5470,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4175,
+      "end_orig": 4177,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5428,27 +5500,7 @@
   },
   {
     "type": "text",
-    "text": ".",
-    "bbox": [
-      551,
-      430,
-      554,
-      446
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
-    }
-  },
-  {
-    "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       449,
@@ -5458,12 +5510,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4182,
+      "end_orig": 4184,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5521,8 +5573,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5465,
-      "end_orig": 5467,
+      "start_orig": 4190,
+      "end_orig": 4192,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -5579,11 +5631,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.5538,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4200,
+      "end_orig": 4261,
+      "reason": "low_similarity"
     }
   },
   {
@@ -5841,8 +5893,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5677,
-      "end_orig": 5680,
+      "start_orig": 4196,
+      "end_orig": 4199,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -5862,7 +5914,7 @@
   },
   {
     "type": "text",
-    "text": "16.그림과 같이 막대 A,",
+    "text": "16. 그림과 같이 막대 A,",
     "bbox": [
       436,
       748,
@@ -5872,12 +5924,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4241,
+      "end_orig": 4257,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5902,7 +5954,7 @@
   },
   {
     "type": "text",
-    "text": "실a,b에연결되어천장에매달려 있고, 질량",
+    "text": "실 a,  b에 연결되어 천장에 매달려 있고,  질량",
     "bbox": [
       447,
       748,
@@ -5912,12 +5964,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4262,
+      "end_orig": 4291,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5942,7 +5994,7 @@
   },
   {
     "type": "text",
-    "text": "인 물체가A 위에 놓여 정지해 있다.A는 수평을",
+    "text": "인 물체가 A 위에 놓여 정지해 있다.  A는 수평을",
     "bbox": [
       519,
       766,
@@ -5952,12 +6004,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4293,
+      "end_orig": 4322,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6002,7 +6054,7 @@
   },
   {
     "type": "text",
-    "text": "의 각을 이루고 정지해 있다.A,B의 질량은 각각",
+    "text": "의 각을 이루고 정지해 있다.  A,  B의 질량은 각각",
     "bbox": [
       447,
       783,
@@ -6012,12 +6064,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4354,
+      "end_orig": 4385,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6042,7 +6094,7 @@
   },
   {
     "type": "text",
-    "text": "다.a가 A를 당기는",
+    "text": "다.  a가 A를 당기는",
     "bbox": [
       660,
       800,
@@ -6052,17 +6104,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4391,
+      "end_orig": 4404,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "힘의 크기와 b가B를 당기는힘의크기는각각",
+    "text": "힘의 크기와 b가 B를 당기는 힘의 크기는 각각",
     "bbox": [
       446,
       815,
@@ -6072,12 +6124,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4405,
+      "end_orig": 4431,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6098,6 +6150,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      692,
+      815,
+      700,
+      831
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
     }
   },
   {
@@ -6135,8 +6207,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5759,
-      "end_orig": 5761,
+      "start_orig": 4437,
+      "end_orig": 4439,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -6176,7 +6248,7 @@
   },
   {
     "type": "text",
-    "text": "(단,  물체는 동일 연직면상에서 운동하고,  물체의 크기,\n모든 마찰은 무시한다.)  [3점]",
+    "text": "(단,물체는동일 연직면상에서 운동하고,물체의크기, 모든 마찰은 무시한다.)[3점]",
     "bbox": [
       98,
       987,
@@ -6186,12 +6258,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6494,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3852,
-      "end_orig": 3905,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 5206,
+      "end_orig": 5258,
+      "reason": "low_similarity"
     }
   },
   {
@@ -6228,7 +6300,7 @@
   },
   {
     "type": "text",
-    "text": "는? (단, 막대의 밀도는 각각 균일하며, 막대의 두께와 폭, 실의 질량은 무시한다.)",
+    "text": "는?  (단,  막대의 밀도는 각각 균일하며,  막대의 두께와 폭,\n실의 질량은 무시한다.)",
     "bbox": [
       447,
       983,
@@ -6238,12 +6310,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4440,
+      "end_orig": 4491,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6260,7 +6332,7 @@
   },
   {
     "type": "text",
-    "text": "17.그림",
+    "text": "17. 그림",
     "bbox": [
       88,
       159,
@@ -6270,12 +6342,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4506,
+      "end_orig": 4512,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6300,7 +6372,7 @@
   },
   {
     "type": "text",
-    "text": ")와 같이 반원 모양의 금속 고리를 균일한 자기장 영역 I,II가 있는xy 평면상에서 원점 O를 중심으로 시계 방향으로 회전 시킨다.O와 고리상의 점 A가 이루는 선분이",
+    "text": ")와 같이 반원 모양의 금속 고리를 균일한 자기장 영역 Ⅰ,  Ⅱ가 있는  평면상에서 원점 O를 중심으로 시계 방향으로 회전 시킨다.  O와 고리상의 점 A가 이루는 선분이  축과 이",
     "bbox": [
       98,
       159,
@@ -6310,12 +6382,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.965,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4515,
+      "end_orig": 4617,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6380,7 +6452,7 @@
   },
   {
     "type": "text",
-    "text": "라고할때, 고리는",
+    "text": "라고 할 때,  고리는",
     "bbox": [
       105,
       216,
@@ -6390,12 +6462,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4623,
+      "end_orig": 4635,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6440,7 +6512,7 @@
   },
   {
     "type": "text",
-    "text": "3에서 각각 1, ω2의 일정한 각속도로 회전한다.그림(나)는",
+    "text": " 에서 각각  ,  의\n일정한 각속도로 회전한다.  그림 (나)는",
     "bbox": [
       98,
       212,
@@ -6450,12 +6522,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9057,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4643,
+      "end_orig": 4679,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -6480,7 +6552,7 @@
   },
   {
     "type": "text",
-    "text": "에서 고리에 유도되는 전류를 θ에 따라 나타낸 것이다.I,ⅡI에서 자기장의 세기는",
+    "text": "에서 고리에 유도되는 전류를  에 따라 나타낸 것이다.  Ⅰ,  Ⅱ에서 자기장의 세기는 각각",
     "bbox": [
       98,
       241,
@@ -6490,12 +6562,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9459,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4683,
+      "end_orig": 4734,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6510,12 +6582,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5346,
+      "end_orig": 5348,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6591,11 +6663,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5350,
+      "end_orig": 5351,
+      "reason": "low_similarity"
     }
   },
   {
@@ -6713,8 +6785,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5782,
-      "end_orig": 5784,
+      "start_orig": 5357,
+      "end_orig": 5359,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -6752,7 +6824,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한설명으로옳은것만을<보기",
+    "text": "이에 대한설명으로 옳은 것만을<보기",
     "bbox": [
       107,
       434,
@@ -6832,7 +6904,7 @@
   },
   {
     "type": "text",
-    "text": "7. ω2 =",
+    "text": "ㄱ. ω2 =",
     "bbox": [
       107,
       502,
@@ -6843,11 +6915,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.3333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5490,
+      "end_orig": 5494,
+      "reason": "low_similarity"
     }
   },
   {
@@ -6872,27 +6944,7 @@
   },
   {
     "type": "text",
-    "text": ".",
-    "bbox": [
-      196,
-      499,
-      200,
-      516
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
-    }
-  },
-  {
-    "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       106,
       525,
@@ -6942,12 +6994,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5400,
+      "end_orig": 5402,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -7032,7 +7084,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄷ ④ ㄱ, ㄷ ⑤ㄴ, ㄷ",
+    "text": "①  ②  ③  ④  ⑤",
     "bbox": [
       95,
       617,
@@ -7042,12 +7094,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
+      "replaced": true,
       "similarity": 0.5263,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5792,
-      "end_orig": 5805,
-      "reason": "low_similarity"
+      "start_orig": 5488,
+      "end_orig": 5501,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -7132,7 +7184,7 @@
   },
   {
     "type": "text",
-    "text": "인 경사면이 수평면과 만나는점p에서질량",
+    "text": "인 경사면이 수평면과 만나는 점p에서 질량",
     "bbox": [
       99,
       752,
@@ -7462,12 +7514,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5599,
+      "end_orig": 5601,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -7546,12 +7598,12 @@
   },
   {
     "type": "text",
-    "text": "mgL 2 8 5mgL ③ 11 5 mgL 4 13 5 mgL ⑤ 3mgL",
+    "text": "$\\ mgL 2 8 5mgL ③ 11 5 mgL 4 13 5 mgL ⑤ 3mgL",
     "bbox": [
-      120,
+      114,
       1039,
       390,
-      1067
+      1068
     ],
     "page_idx": 3,
     "_xhtml_replace": {
@@ -7616,12 +7668,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5632,
+      "end_orig": 5635,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -7925,18 +7977,24 @@
     }
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "y(FA+q p d B450 이 x",
     "bbox": [
-      653,
-      159,
+      655,
+      160,
       754,
-      251
+      249
     ],
     "page_idx": 3,
-    "image_path": "4a0540d620b04368269d2d5c11f69743bc6ba9375448dd1bc2e5b3af6cbb6d76.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
   },
   {
     "type": "text",
@@ -8572,7 +8630,7 @@
   },
   {
     "type": "text",
-    "text": "인점에서 만난다. 이때 A의 속도의",
+    "text": "인 점에서\n만난다.  이때 A의 속도의",
     "bbox": [
       446,
       561,
@@ -8582,12 +8640,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5637,
+      "end_orig": 5658,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -8612,7 +8670,7 @@
   },
   {
     "type": "text",
-    "text": "성분크기는",
+    "text": "성분 크기는",
     "bbox": [
       578,
       580,
@@ -8622,12 +8680,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5660,
+      "end_orig": 5666,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -8652,7 +8710,7 @@
   },
   {
     "type": "text",
-    "text": "성분크기의",
+    "text": "성분 크기의",
     "bbox": [
       646,
       580,
@@ -8662,12 +8720,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5668,
+      "end_orig": 5674,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -8692,7 +8750,7 @@
   },
   {
     "type": "text",
-    "text": "그림(나)는A,B의위치를각각",
+    "text": "그림  (나)는  A,  B의 위치를 각각",
     "bbox": [
       446,
       610,
@@ -8702,12 +8760,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5681,
+      "end_orig": 5704,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -8731,6 +8789,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      633,
+      610,
+      639,
+      627
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "\\mathrm { A } _ { y } )",
     "bbox": [
@@ -8748,6 +8826,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      658,
+      610,
+      666,
+      627
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
     }
   },
   {
@@ -8772,7 +8870,7 @@
   },
   {
     "type": "text",
-    "text": "할때,",
+    "text": "할 때,",
     "bbox": [
       718,
       610,
@@ -8782,12 +8880,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5729,
+      "end_orig": 5733,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -8862,12 +8960,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5745,
+      "end_orig": 5746,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -8902,12 +9000,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5748,
+      "end_orig": 5761,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {

@@ -244,7 +244,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ, ㄴ ② ㄱ, ㄷ ③ㄴ, ㄷ ④ ⑤",
+    "text": "①ㄱ, ㄴ ②ㄱ, ㄷ ③ㄴ, ㄷ ④ ⑤",
     "bbox": [
       95,
       519,
@@ -264,7 +264,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음 블로그에 나타난 제라늄의 영양 번식 방법과 동일한 방법을 농업에 적용한 사례로 적절한 것만을 <보기>",
+    "text": ". 다음 블로그에 나타난 제라늄의 영양 번식 방법과 동일한 방법을 농업에 적용한 사례로 적절한 것만을 <보기",
     "bbox": [
       86,
       551,
@@ -275,10 +275,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9892,
+      "similarity": 0.989,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 385,
-      "end_orig": 447,
+      "start_orig": 386,
+      "end_orig": 446,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -588,7 +588,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 808,
       "end_orig": 866,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -610,20 +610,6 @@
       "end_orig": 931,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      448,
-      298,
-      478,
-      326
-    ],
-    "page_idx": 0,
-    "image_path": "4df1307fdefb9b434bdf87728e54c1e1db2e97b53b75ca83fa51e8cd71cd2546.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -727,7 +713,7 @@
   },
   {
     "type": "text",
-    "text": "2.집기병에 설탕을 넣어 녹인 뒤 효모를 넣는다.",
+    "text": "ㄹ.집기병에 설탕을 넣어 녹인 뒤 효모를 넣는다.",
     "bbox": [
       484,
       392,
@@ -826,18 +812,24 @@
     }
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "→",
     "bbox": [
-      524,
-      461,
-      674,
-      523
+      592,
+      485,
+      609,
+      500
     ],
     "page_idx": 0,
-    "image_path": "e1169e898dbce12aa77f162e11a6054e609e052448afad6cb227893f6f4fbc88.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
   },
   {
     "type": "text",
@@ -1101,7 +1093,7 @@
   },
   {
     "type": "text",
-    "text": "-O0신문,2023년 5월11일 자-",
+    "text": "-OO신문,2023년 5월11일 자-",
     "bbox": [
       597,
       956,
@@ -1112,11 +1104,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.8235,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1440,
+      "end_orig": 1463,
+      "reason": "low_similarity"
     }
   },
   {
@@ -1415,7 +1407,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음은 돼지 사육 관리 실습 보고서이다.  (가)에 들어갈 내용으로",
+    "text": ". 다음은 돼지 사육 관리 실습 보고서이다.  (가)에 들어갈 내용으로",
     "bbox": [
       85,
       517,
@@ -1426,9 +1418,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9831,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1852,
+      "start_orig": 1853,
       "end_orig": 1892,
       "reason": "passed_threshold_no_ws"
     }
@@ -1769,7 +1761,7 @@
   },
   {
     "type": "text",
-    "text": "8.다음 글에서 설명하고 있는 작물에 대한 분류로 옳은 것은?",
+    "text": "8. 다음 글에서 설명하고 있는 작물에 대한 분류로 옳은 것은?",
     "bbox": [
       84,
       821,
@@ -2109,7 +2101,7 @@
   },
   {
     "type": "text",
-    "text": "2.세척한 쌀을 물에 담가 두어 12시간 불림.",
+    "text": "ㄹ.세척한 쌀을 물에 담가 두어 12시간 불림.",
     "bbox": [
       499,
       909,
@@ -2249,7 +2241,7 @@
   },
   {
     "type": "text",
-    "text": "),  (나)에 대한 설명 으로 적절한 것만을 <보기>",
+    "text": "),  (나)에 대한 설명 으로 적절한 것만을 <보기",
     "bbox": [
       97,
       158,
@@ -2260,10 +2252,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9524,
+      "similarity": 0.9756,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2846,
-      "end_orig": 2876,
+      "end_orig": 2875,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2484,7 +2476,7 @@
   },
   {
     "type": "text",
-    "text": "12. 다음 대화에서 (가)에 들어갈 트랙터 조작 방법으로 옳은 것은?",
+    "text": "12. 다음 대화에서 (가)에 들어갈 트랙터 조작 방법으로 옳은 것은?\n",
     "bbox": [
       86,
       461,
@@ -2495,10 +2487,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9667,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3037,
-      "end_orig": 3076,
+      "end_orig": 3077,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2544,7 +2536,7 @@
   },
   {
     "type": "text",
-    "text": "• 그렇다면 아니에오 져서 있고있어요 그럼, 어떻게 되나요?",
+    "text": "• | 그렇다면 아니에오 져서 있고있어요 그럼, 어떻게 되나요?",
     "bbox": [
       106,
       550,
@@ -2844,7 +2836,7 @@
   },
   {
     "type": "text",
-    "text": "드.포인세티아의 포엽 착색을 지연시켰다.",
+    "text": "ㄷ. 포인세티아의 포엽 착색을 지연시켰다.",
     "bbox": [
       108,
       1021,
@@ -2854,12 +2846,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3525,
+      "end_orig": 3548,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3084,7 +3076,7 @@
   },
   {
     "type": "text",
-    "text": "7. 믹서ㄴ. 분무기 ㄷ.메스피펫 ㄹ.클린벤치",
+    "text": "ㄱ. 믹서    ㄴ. 분무기    ㄷ. 메스피펫    ㄹ. 클린벤치",
     "bbox": [
       463,
       446,
@@ -3094,12 +3086,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3789,
+      "end_orig": 3826,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3384,7 +3376,7 @@
   },
   {
     "type": "text",
-    "text": "-OO신문, 2023년9월 26일자-",
+    "text": "-OO신문, 2023년9월 26일 자-",
     "bbox": [
       597,
       923,
@@ -4032,7 +4024,7 @@
   },
   {
     "type": "text",
-    "text": "2.채취 방법",
+    "text": "ㄹ.채취 방법",
     "bbox": [
       468,
       689,
@@ -4180,7 +4172,7 @@
   },
   {
     "type": "text",
-    "text": "드.외떡잎식물에서는 발생하지 않는 현상이다.",
+    "text": "ㄷ. 외떡잎식물에서는 발생하지 않는 현상이다.",
     "bbox": [
       456,
       884,
@@ -4190,12 +4182,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5063,
+      "end_orig": 5088,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {

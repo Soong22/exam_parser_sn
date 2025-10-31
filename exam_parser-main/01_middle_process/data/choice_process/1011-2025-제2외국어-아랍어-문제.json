@@ -34,32 +34,29 @@
   },
   {
     "type": "text",
-    "text": "1.밑줄 친 부분에 공통으로 사용된 자음은?[1점] ① ②ε ③ J ④ 2 ⑤",
+    "text": "1.밑줄 친 부분에 공통으로 사용된 자음은?[1점].",
     "bbox": [
       88,
       253,
+      401,
+      303
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "① ②ε ③ J ④ 2 ⑤",
+    "bbox": [
+      98,
+      339,
       371,
       363
     ],
     "page_idx": 0
   },
   {
-    "type": "image",
-    "bbox": [
-      97,
-      278,
-      402,
-      331
-    ],
-    "page_idx": 0,
-    "image_path": "338cea02338073b3f93644b05960c0a324c146bbe7de14e9078b90d867cbf552.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "2.밑줄 친 낱말과 동일한 모음 배열을 가진 것은?",
+    "text": "ㄹ.밑줄 친 낱말과 동일한 모음 배열을 가진 것은?",
     "bbox": [
       88,
       405,
@@ -211,20 +208,6 @@
     "page_idx": 0
   },
   {
-    "type": "image",
-    "bbox": [
-      105,
-      1022,
-      404,
-      1073
-    ],
-    "page_idx": 0,
-    "image_path": "b6212949674bae3a64ef2cfe0e2389d2e3170139dd2fda0ccbc9536dac9d0990.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "6.빈칸에 들어갈 말로 알맞은 것은?",
     "bbox": [
@@ -237,12 +220,12 @@
   },
   {
     "type": "text",
-    "text": "_A B",
+    "text": "_A",
     "bbox": [
-      593,
+      634,
       281,
-      747,
-      329
+      746,
+      304
     ],
     "page_idx": 0
   },
@@ -259,7 +242,7 @@
   },
   {
     "type": "text",
-    "text": "7.빈칸에 들어갈 말로 알맞은 것은?[1점]",
+    "text": "ㄱ.빈칸에 들어갈 말로 알맞은 것은?[1점]",
     "bbox": [
       433,
       383,
@@ -269,18 +252,15 @@
     "page_idx": 0
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "_",
     "bbox": [
-      441,
-      404,
-      747,
-      458
+      599,
+      433,
+      746,
+      456
     ],
-    "page_idx": 0,
-    "image_path": "dbb49690eb3a3ab65ccb2bc75c7f11e37bfe9ddb48ec950603e8baeee4f4d7d2.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 0
   },
   {
     "type": "text",
@@ -305,18 +285,15 @@
     "page_idx": 0
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "A B",
     "bbox": [
-      441,
-      531,
-      746,
-      585
+      630,
+      538,
+      745,
+      583
     ],
-    "page_idx": 0,
-    "image_path": "161ff7344861b26a632e3915cb1714d6064e4fece41e033d8532c81af3481940.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 0
   },
   {
     "type": "text",
@@ -458,12 +435,12 @@
   },
   {
     "type": "text",
-    "text": "A B A",
+    "text": "A B",
     "bbox": [
       208,
       505,
       402,
-      572
+      550
     ],
     "page_idx": 1
   },
@@ -545,22 +522,8 @@
     "page_idx": 1
   },
   {
-    "type": "image",
-    "bbox": [
-      100,
-      996,
-      408,
-      1071
-    ],
-    "page_idx": 1,
-    "image_path": "46997d16e2ae7fb7e39546f36b558a408d0cd6cabbf5c4f2b705f1769631d7e9.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "15.빈칸에 들어갈 말로 알맞은 것을 <보기>에서 찾아 순서대로 바르게 배열한 것은? [1점]",
+    "text": "15.빈칸에 들어갈 말로 알맞은 것을 <보기>에서 찾아 순서대로 바르게 배열한 것은?[1점]",
     "bbox": [
       432,
       156,
@@ -782,103 +745,25 @@
   },
   {
     "type": "text",
-    "text": "20.빈칸에 들어갈 말로 알맞은 것은?",
-    "bbox": [
-      90,
-      542,
-      275,
-      559
-    ],
-    "page_idx": 2
-  },
-  {
-    "type": "image",
-    "bbox": [
-      98,
-      565,
-      405,
-      660
-    ],
-    "page_idx": 2,
-    "image_path": "4324c9a3029a8954a6285510a521026428d0d7efd45bc9941460f28610099ef0.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "text",
-    "text": "① ② ③ ④ ⑤",
-    "bbox": [
-      98,
-      664,
-      367,
-      707
-    ],
-    "page_idx": 2
-  },
-  {
-    "type": "text",
-    "text": "21. 대화의 상황을 표현한 그림으로 알맞은 것은?",
-    "bbox": [
-      88,
-      767,
-      332,
-      783
-    ],
-    "page_idx": 2
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      789,
-      406,
-      891
-    ],
-    "page_idx": 2,
-    "image_path": "1de220d8572be8d042e13d14399af4237589ebdad82314efad8cc8414bee339b.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "text",
-    "text": "22. 광고문에 언급되지 않은 것은?[1점] ① 가격 ② 상태 ③ 모델명 ④ 연락처 ⑤ 사용기간",
+    "text": "22. 광고문에 언급되지 않은 것은?[1점]",
     "bbox": [
       431,
       154,
+      633,
+      172
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "423****: ① 가격 ② 상태 ③ 모델명 ④ 연락처 ⑤ 사용기간",
+    "bbox": [
+      441,
+      290,
       698,
       363
     ],
     "page_idx": 2
-  },
-  {
-    "type": "image",
-    "bbox": [
-      443,
-      177,
-      747,
-      319
-    ],
-    "page_idx": 2,
-    "image_path": "56deba9799a69ba08f0aa66a6448525ad31e883b43c84a4c95f4668880a0619e.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      96,
-      899,
-      407,
-      1070
-    ],
-    "page_idx": 2,
-    "image_path": "9a0046fd332a27eff3e97653377b795b789ae6f21ac0d209d0d6146cc9def8b9.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "inline_equation",
@@ -910,6 +795,39 @@
       446,
       567,
       454
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "20.빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      90,
+      542,
+      275,
+      559
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "?",
+    "bbox": [
+      242,
+      597,
+      250,
+      608
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "① ② ③ ④ ⑤",
+    "bbox": [
+      98,
+      664,
+      367,
+      707
     ],
     "page_idx": 2
   },
@@ -956,6 +874,42 @@
       750
     ],
     "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "21. 대화의 상황을 표현한 그림으로 알맞은 것은?",
+    "bbox": [
+      88,
+      767,
+      332,
+      783
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": ":",
+    "bbox": [
+      269,
+      841,
+      403,
+      864
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      899,
+      407,
+      1070
+    ],
+    "page_idx": 2,
+    "image_path": "9a0046fd332a27eff3e97653377b795b789ae6f21ac0d209d0d6146cc9def8b9.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   },
   {
     "type": "text",
@@ -1006,28 +960,25 @@
   },
   {
     "type": "text",
-    "text": "26. 글이 공통으로 설명하는 도시는?[1점] ① 두바이 ② 마나마 ③ 무스카트 ④ 트리폴리 ⑤ 다마스쿠스",
+    "text": "26. 글이 공통으로 설명하는 도시는?[1점]",
     "bbox": [
       89,
       156,
-      366,
-      330
+      300,
+      172
     ],
     "page_idx": 3
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "① 두바이 ② 마나마 ③ 무스카트 ④ 트리폴리 ⑤ 다마스쿠스",
     "bbox": [
-      100,
-      180,
-      402,
-      284
+      98,
+      294,
+      366,
+      330
     ],
-    "page_idx": 3,
-    "image_path": "f3cc1f9af2c8ef66f3bba12621af9d2e77fabad06b1b93151068905dc721f76a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 3
   },
   {
     "type": "text",
@@ -1041,26 +992,23 @@
     "page_idx": 3
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "*:표현들",
     "bbox": [
-      102,
-      407,
-      403,
-      503
+      106,
+      482,
+      196,
+      501
     ],
-    "page_idx": 3,
-    "image_path": "743d8930fb34cf1934d420f192bcf5c4ddf27db683a51aa5e655a548a765427e.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 3
   },
   {
     "type": "text",
-    "text": "A 3B ① ② ailZiy ③ ④!",
+    "text": "3B ① ② ailZiy ③ ④!",
     "bbox": [
       98,
-      514,
-      403,
+      541,
+      402,
       616
     ],
     "page_idx": 3
@@ -1088,18 +1036,26 @@
     "page_idx": 3
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": ".",
     "bbox": [
-      103,
-      715,
-      403,
-      852
+      314,
+      762,
+      356,
+      781
     ],
-    "page_idx": 3,
-    "image_path": "6f628de655455be26acbae448c64658e61e55cb078b20761037c37015c850f51.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": ":종들",
+    "bbox": [
+      106,
+      831,
+      193,
+      853
+    ],
+    "page_idx": 3
   },
   {
     "type": "image",
@@ -1127,18 +1083,15 @@
     "page_idx": 3
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "*:부른다 *결혼",
     "bbox": [
-      447,
-      181,
-      745,
-      321
+      448,
+      299,
+      668,
+      319
     ],
-    "page_idx": 3,
-    "image_path": "c0acca806742d267ec835d71dddbc65463909c4eeb6b4eeeb7f64d9d46ccf462.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 3
   },
   {
     "type": "text",
@@ -1163,18 +1116,15 @@
     "page_idx": 3
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "*:태어났다 가수(여) *:~라고불린다 *",
     "bbox": [
-      444,
-      522,
-      745,
+      447,
+      639,
+      684,
       682
     ],
-    "page_idx": 3,
-    "image_path": "67fa85420e91cd2cd9bed2da2b3fc4485fc4c55eb5559892c188715fadc82e42.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 3
   },
   {
     "type": "text",

@@ -38,7 +38,7 @@
   },
   {
     "type": "text",
-    "text": "1. 밑줄 친 부분과 같은 발음이 들어 있는 낱말은?[1점]",
+    "text": "1. 밑줄 친 부분과 같은 발음이 들어 있는 낱말은? [1점]",
     "bbox": [
       86,
       255,
@@ -85,7 +85,7 @@
   },
   {
     "type": "text",
-    "text": "2. 에 들어갈 글자를 모두 조합하여 만들 수있는 낱말은?",
+    "text": "2. 에 들어갈 글자를 모두 조합하여 만들 수 있는 낱말은?",
     "bbox": [
       84,
       428,
@@ -443,7 +443,7 @@
   },
   {
     "type": "text",
-    "text": "① Ca ne va pas ② Qu'est-ce qu'il y a ③ Ca ne te dit rien ④ Qu'est-ce que tu as ⑤ Qu'est-ce qui t'est arrivé",
+    "text": "① Ca ne va pas ② Qu'est-ce qu'il y a ③ Ca ne te dit rien ④ Qu'est-ce que tu as ⑤ Qu'estce qui t'est arrivé",
     "bbox": [
       446,
       820,
@@ -636,7 +636,7 @@
   },
   {
     "type": "text",
-    "text": "11.빈간에들어갈말로알맞은것만을<보기",
+    "text": "11.빈간에 들어갈말로알맞은것만을<보기",
     "bbox": [
       87,
       426,
@@ -724,7 +724,7 @@
   },
   {
     "type": "text",
-    "text": "a. quoi de neuf b. comment tu le trouves c. qu'est–ce que tu deviens d. qu'est–ce que tu en dis ① a, b ② a, c ③ b, c ④ b, d ⑤ c, d",
+    "text": "a. quoi de neuf b. comment tu le trouves c. qu'est–ce que tu deviens d. qu'est-ce que tu en dis ① a, b ② a, c ③ b, c ④ b, d ⑤ c, d",
     "bbox": [
       97,
       557,
@@ -881,7 +881,7 @@
   },
   {
     "type": "text",
-    "text": "14. 빈간에 들어갈 말로 알맞은 것은?",
+    "text": "14. 빈칸에 들어갈 말로 알맞은 것은?",
     "bbox": [
       434,
       156,
@@ -1132,7 +1132,7 @@
   },
   {
     "type": "text",
-    "text": "B : Oui, c'était trés bon!",
+    "text": "B: Oui, c'était trés bon!",
     "bbox": [
       199,
       206,
@@ -1385,7 +1385,7 @@
   },
   {
     "type": "text",
-    "text": "A : Bonjour, madame. Vous cherchez quelque chose?",
+    "text": "A : Bonjour, madame. Vous cherchez quelque chose ?",
     "bbox": [
       106,
       939,
@@ -1470,20 +1470,6 @@
       291
     ],
     "page_idx": 2
-  },
-  {
-    "type": "image",
-    "bbox": [
-      632,
-      190,
-      747,
-      267
-    ],
-    "page_idx": 2,
-    "image_path": "690a19267b4ff4e278a1786b1db5e360dda65287c7e4a8ffe83490041481ee08.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1999,7 +1985,7 @@
   },
   {
     "type": "text",
-    "text": "* pont: 다리 * ajouter :추가하다",
+    "text": "* pont: 다리 * ajouter:추가하다",
     "bbox": [
       242,
       493,
@@ -2120,7 +2106,7 @@
   },
   {
     "type": "text",
-    "text": "Le Petit Prince est un livre de 27 Saint-Exupéry, sorti aux États-Unis 0 il y a 80 ans. C'est l'un des livres 27 les plus vendus au monde. On peut le lire dans plus de 270 langues différentes. On en a fait des films et des dessins animés. Cette histoire d'une rencontre entre un pilote et un petit gargon nous apprend a retrouver l'imagination des enfants.",
+    "text": "Le Petit Prince est un livre de 27 Saint–Exupéry, sorti aux États-Unis il y a 80 ans. C'est l'un des livres 0 27 les plus vendus au monde. On peut le lire dans plus de 270 langues différentes. On en a fait des films et des dessins animés. Cette histoire d'une rencontre entre un pilote et un petit gargon nous apprend a retrouver l'imagination des enfants.",
     "bbox": [
       105,
       749,
@@ -2252,17 +2238,6 @@
   },
   {
     "type": "text",
-    "text": "28. 밑줄 친 부분의 쓰임이 옳지 않은 것은?",
-    "bbox": [
-      433,
-      280,
-      664,
-      298
-    ],
-    "page_idx": 3
-  },
-  {
-    "type": "text",
     "text": "① Je n'aime pas le sport.",
     "bbox": [
       446,
@@ -2313,6 +2288,17 @@
       371,
       627,
       389
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "28. 밑줄 친 부분의 쓰임이 옳지 않은 것은?",
+    "bbox": [
+      433,
+      280,
+      664,
+      298
     ],
     "page_idx": 3
   },

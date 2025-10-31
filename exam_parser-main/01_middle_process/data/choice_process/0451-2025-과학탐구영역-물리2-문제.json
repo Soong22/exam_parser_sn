@@ -214,7 +214,7 @@
   },
   {
     "type": "text",
-    "text": "2.다음은 전자기파의 수신에 대한 설명이다.",
+    "text": "ㄹ.다음은 전자기파의 수신에 대한 설명이다.",
     "bbox": [
       85,
       565,
@@ -246,18 +246,15 @@
     "page_idx": 0
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "안텐나 코 수신 회로",
     "bbox": [
-      314,
-      593,
-      402,
-      684
+      315,
+      601,
+      380,
+      680
     ],
-    "page_idx": 0,
-    "image_path": "605b13cd0fbacc2421f4c80a037f263d751d098c1f994e1b54009008759a09de.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 0
   },
   {
     "type": "text",
@@ -283,7 +280,7 @@
   },
   {
     "type": "text",
-    "text": "A B A B ① 유도 전류 공명 진동수 ② 유도 전류 문탁 진동수 ③ 광전류 공명진동수 ④ 광전류 문턱진동수 ⑤ 직류 전류 공명 진동수",
+    "text": "A B A B ① 유도 전류 공명 진동수 ② 유도 전류 문턱 진동수 ③ 광전류 공명진동수 ④ 광전류 문턱진동수 ⑤ 직류 전류 공명 진동수",
     "bbox": [
       97,
       742,
@@ -418,7 +415,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       106,
       1004,
@@ -740,6 +737,17 @@
     "page_idx": 0
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      558,
+      531,
+      562,
+      547
+    ],
+    "page_idx": 0
+  },
+  {
     "type": "inline_equation",
     "content": "L _ { \\mathrm { B } }",
     "bbox": [
@@ -887,7 +895,7 @@
   },
   {
     "type": "text",
-    "text": "이에대한설명으로 옳은 것만을<보기",
+    "text": "이에대한설명으로 옳은것만을<보기",
     "bbox": [
       456,
       740,
@@ -942,7 +950,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       834,
@@ -1055,7 +1063,7 @@
   },
   {
     "type": "text",
-    "text": "스위치를b에 연결했을 때, 전류계에 흐르는 전류의 세기는?[3점]",
+    "text": "스위치를 b에 연결했을 때, 전류계에 흐르는 전류의 세기는?[3점]",
     "bbox": [
       456,
       1015,
@@ -1078,7 +1086,7 @@
   },
   {
     "type": "text",
-    "text": "7.그림(가)는 텅 빈 우주 공간에서 정지한 관찰자 P에 대해 우주선이",
+    "text": "ㄱ.그림(가)는 텅 빈 우주 공간에서 정지한 관찰자 P에 대해 우주선이",
     "bbox": [
       86,
       159,
@@ -1281,6 +1289,17 @@
     "page_idx": 1
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      226,
+      628,
+      232,
+      644
+    ],
+    "page_idx": 1
+  },
+  {
     "type": "inline_equation",
     "content": "I _ { \\mathrm { C } }",
     "bbox": [
@@ -1303,18 +1322,15 @@
     "page_idx": 1
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "E",
     "bbox": [
-      304,
-      561,
-      404,
-      656
+      366,
+      623,
+      381,
+      637
     ],
-    "page_idx": 1,
-    "image_path": "dde6c11e6b6025989b7edab2fcb0bac18d37df548b1cad57d6e6325506aad9c9.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 1
   },
   {
     "type": "text",
@@ -1879,7 +1895,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       529,
@@ -2311,7 +2327,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       455,
       970,
@@ -2527,6 +2543,17 @@
       178,
       374,
       192
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      375,
+      176,
+      380,
+      193
     ],
     "page_idx": 2
   },
@@ -2785,7 +2812,7 @@
       608
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>3λ</td></tr><tr><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=4>(O:단색광 있음, ×:단색광 없음)</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>3λ</td></tr><tr><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=4>(O:단색광 있음,×:단색광 없음)</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "cce546092b5a7a14ca70063a18a35e45072d56dfb70cde993bd65ce99cddc170.jpg",
@@ -2793,7 +2820,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한설명으로옳은 것만을<보>",
+    "text": "이에 대한 설명으로옳은 것만을<보기",
     "bbox": [
       106,
       617,
@@ -2837,7 +2864,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       106,
       692,
@@ -3093,7 +3120,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       455,
       430,
@@ -3115,18 +3142,7 @@
   },
   {
     "type": "text",
-    "text": ".",
-    "bbox": [
-      551,
-      430,
-      554,
-      446
-    ],
-    "page_idx": 2
-  },
-  {
-    "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       449,
@@ -3491,6 +3507,17 @@
     "page_idx": 2
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      692,
+      815,
+      700,
+      831
+    ],
+    "page_idx": 2
+  },
+  {
     "type": "inline_equation",
     "content": "T _ { \\mathrm { b } } { } ^ { \\diamond } ]",
     "bbox": [
@@ -3695,7 +3722,7 @@
   },
   {
     "type": "text",
-    "text": "3에서 각각 1, ω2의 일정한 각속도로 회전한다.그림(나)는",
+    "text": "3에서 각각 1, ω2의 ' 일정한 각속도로 회전한다.그림(나)는",
     "bbox": [
       98,
       212,
@@ -3881,7 +3908,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한설명으로옳은것만을<보기",
+    "text": "이에 대한설명으로 옳은 것만을<보기",
     "bbox": [
       107,
       434,
@@ -3925,7 +3952,7 @@
   },
   {
     "type": "text",
-    "text": "7. ω2 =",
+    "text": "ㄱ. ω2 =",
     "bbox": [
       107,
       502,
@@ -3947,18 +3974,7 @@
   },
   {
     "type": "text",
-    "text": ".",
-    "bbox": [
-      196,
-      499,
-      200,
-      516
-    ],
-    "page_idx": 3
-  },
-  {
-    "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       106,
       525,
@@ -4090,7 +4106,7 @@
   },
   {
     "type": "text",
-    "text": "인 경사면이 수평면과 만나는점p에서질량",
+    "text": "인 경사면이 수평면과 만나는 점p에서 질량",
     "bbox": [
       99,
       752,
@@ -4324,12 +4340,12 @@
   },
   {
     "type": "text",
-    "text": "mgL 2 8 5mgL ③ 11 5 mgL 4 13 5 mgL ⑤ 3mgL",
+    "text": "$\\ mgL 2 8 5mgL ③ 11 5 mgL 4 13 5 mgL ⑤ 3mgL",
     "bbox": [
-      120,
+      114,
       1039,
       390,
-      1067
+      1068
     ],
     "page_idx": 3
   },
@@ -4532,18 +4548,15 @@
     "page_idx": 3
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "y(FA+q p d B450 이 x",
     "bbox": [
-      653,
-      159,
+      655,
+      160,
       754,
-      251
+      249
     ],
-    "page_idx": 3,
-    "image_path": "4a0540d620b04368269d2d5c11f69743bc6ba9375448dd1bc2e5b3af6cbb6d76.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 3
   },
   {
     "type": "text",
@@ -4987,12 +5000,34 @@
     "page_idx": 3
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      633,
+      610,
+      639,
+      627
+    ],
+    "page_idx": 3
+  },
+  {
     "type": "inline_equation",
     "content": "\\mathrm { A } _ { y } )",
     "bbox": [
       640,
       612,
       658,
+      627
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      658,
+      610,
+      666,
       627
     ],
     "page_idx": 3

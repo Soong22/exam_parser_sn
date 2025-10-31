@@ -21,6 +21,7 @@ TOKEN_MAP = {
     "c": "ㄷ",
     "2": "ㄹ",
     "ㄱ": "ㄱ", "ㄴ": "ㄴ", "ㄷ": "ㄷ", "ㄹ": "ㄹ",
+    "드": "ㄷ",
 }
 
 # 원숫자(①-⑳, ⓪)
@@ -29,8 +30,9 @@ RE_CIRCLED_NUM = r"[\u2460-\u2473\u24ea]"
 RE_CODE_TOKEN = r"[7Ll2cㄱㄴㄷㄹ]"
 # 토큰 구분자(쉼표/전각쉼표/가운뎃점/중점)
 RE_SEP = r"[,，·ㆍ]"
-# <보기> 패턴(대괄호/꺾쇠 허용)
-RE_BOGI = r"[<\[]?\s*보기\s*[>\]]?"
+# <보기> 패턴(대괄호/꺾쇠 허용) — '보 기'처럼 내부 공백 허용
+RE_BOGI = r"[<\[]?\s*보\s*기\s*[>\]]?"
+PAT_BOGI_7_DOT = re.compile(rf"({RE_BOGI})\s*[:：]?\s*(7)\s*(\.)")
 
 # 원숫자 + 토큰목록 패턴
 PATTERN = re.compile(
@@ -41,6 +43,24 @@ PATTERN = re.compile(
     rf"(?:\s*{RE_SEP}\s*{RE_CODE_TOKEN})*"
     rf")"
 )
+
+# 줄머리 열거 토큰(7/L/l/c/2/ㄱㄴㄷㄹ/드) + '.'를 문장/블록 시작이나 공백 뒤에서 치환
+PAT_HEAD_ENUM = re.compile(
+    r"(?P<prefix>(^|[\s\(\[\{<]))"          # 문장/블록 시작 또는 공백류/괄호 뒤
+    r"(?P<tok>7|L|l|c|2|ㄱ|ㄴ|ㄷ|ㄹ|드)"      # 토큰
+    r"\s*\."                                # 점
+)
+
+def _apply_head_enum_rule(s: str) -> str:
+    def _repl(m):
+        prefix = m.group("prefix")
+        tok = m.group("tok")
+        mapped = TOKEN_MAP.get(tok, tok)
+        # '드'는 TOKEN_MAP에서 'ㄷ.' 으로 이미 점이 붙어 있으니 중복 방지
+        if mapped.endswith("."):
+            return f"{prefix}{mapped}"
+        return f"{prefix}{mapped}."
+    return PAT_HEAD_ENUM.sub(_repl, s)
 
 # <보기> 바로 뒤 '7.' → 'ㄱ.' (콜론/공백 허용)
 PAT_BOGI_7_DOT = re.compile(rf"({RE_BOGI})\s*[:：]?\s*(7)(\.)")
@@ -102,14 +122,16 @@ def _normalize_in_text(s: str, *, force_numeric_convert: bool) -> str:
     # 1) <보기> 규칙
     s = _apply_bogi_head_rule(s)
 
-    # 2) 원숫자+토큰 목록 변환
+    # 2) 줄머리(문장/블록 시작·공백 뒤) 7./L/c/2/드. -> ㄱ./ㄴ./ㄷ./ㄹ.
+    s = _apply_head_enum_rule(s)
+
+    # 3) 원형숫자(①②…)+토큰 목록 변환
     def _repl(m: re.Match) -> str:
         circled = m.group(1)
         glue = m.group(2)
         items = m.group(3)
         new_items = _normalize_item_seq(items, force_numeric_convert=force_numeric_convert)
         return f"{circled}{glue}{new_items}"
-
     return PATTERN.sub(_repl, s)
 
 # ---------- 컨텍스트 스캔 ----------

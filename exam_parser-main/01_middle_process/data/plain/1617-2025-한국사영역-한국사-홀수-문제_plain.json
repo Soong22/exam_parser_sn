@@ -152,7 +152,7 @@
                     292,
                     242
                   ],
-                  "score": 0.897,
+                  "score": 0.898,
                   "content": "1.(가) 시대의 사회 모습으로 옳은 것은?",
                   "type": "text"
                 }
@@ -236,8 +236,8 @@
                     271,
                     317
                   ],
-                  "score": 0.907,
-                  "content": "다양한 프로그램을 통해 체험해 보세요.",
+                  "score": 0.923,
+                  "content": "다양한 프로그램을 통해 체험해 보세요",
                   "type": "text"
                 }
               ],
@@ -276,7 +276,7 @@
                     270,
                     339
                   ],
-                  "score": 0.849,
+                  "score": 0.853,
                   "content": "0기간:2024년 O0월O0일~O0일",
                   "type": "text"
                 }
@@ -359,7 +359,7 @@
                     205,
                     506
                   ],
-                  "score": 0.934,
+                  "score": 0.932,
                   "content": "율령을 반포하였다.",
                   "type": "text"
                 }
@@ -396,7 +396,7 @@
                     242,
                     523
                   ],
-                  "score": 0.917,
+                  "score": 0.921,
                   "content": "철제 농기구를 보급하였다.",
                   "type": "text"
                 }
@@ -434,8 +434,8 @@
                     243,
                     539
                   ],
-                  "score": 0.917,
-                  "content": "비파형 동검을 제작하였다.",
+                  "score": 0.949,
+                  "content": "비파형 동검을제작하였다.",
                   "type": "text"
                 }
               ],
@@ -472,13 +472,14 @@
                     302,
                     557
                   ],
-                  "score": 0.867,
-                  "content": "고추,인삼 등 상품 작물을 재배하였다",
+                  "score": 0.885,
+                  "content": "고추,인삼 등 상품 작물을재배하였다.",
                   "type": "text"
                 }
               ],
               "index": 20,
-              "is_list_start_line": true
+              "is_list_start_line": true,
+              "is_list_end_line": true
             },
             {
               "bbox": [
@@ -509,12 +510,13 @@
                     309,
                     572
                   ],
-                  "score": 0.922,
+                  "score": 0.924,
                   "content": "사냥과 채집을 하며 이동 생활을 하였다.",
                   "type": "text"
                 }
               ],
               "index": 21,
+              "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
@@ -726,14 +728,833 @@
           ]
         },
         {
-          "type": "list",
+          "type": "text",
           "bbox": [
-            103,
-            723,
-            395,
-            976
+            433,
+            224,
+            668,
+            240
           ],
           "lines": [
+            {
+              "bbox": [
+                433,
+                223,
+                669,
+                241
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    433,
+                    223,
+                    669,
+                    241
+                  ],
+                  "score": 0.932,
+                  "content": "3.(가) 국가에 대한 설명으로 옳은 것은?[3점]",
+                  "type": "text"
+                }
+              ],
+              "index": 28
+            }
+          ],
+          "index": 28,
+          "bbox_fs": [
+            433,
+            223,
+            669,
+            241
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            451,
+            257,
+            747,
+            397
+          ],
+          "lines": [
+            {
+              "bbox": [
+                465,
+                259,
+                746,
+                273
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    465,
+                    259,
+                    746,
+                    273
+                  ],
+                  "score": 0.922,
+                  "content": "개로왕이 북위에 사신을보내 표()를 올렸다.\"우리와",
+                  "type": "text"
+                }
+              ],
+              "index": 29
+            },
+            {
+              "bbox": [
+                466,
+                277,
+                745,
+                293
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    466,
+                    277,
+                    745,
+                    293
+                  ],
+                  "score": 0.902,
+                  "content": "(가)은/는 모두 부여에서 나왔으므로 서로 옛정을굳건히",
+                  "type": "text"
+                }
+              ],
+              "index": 30
+            },
+            {
+              "bbox": [
+                455,
+                295,
+                745,
+                309
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    455,
+                    295,
+                    745,
+                    309
+                  ],
+                  "score": 0.961,
+                  "content": "존중하였는데,그들의 선조인 쇠(],고국원왕)가 이웃과의",
+                  "type": "text"
+                }
+              ],
+              "index": 31
+            },
+            {
+              "bbox": [
+                456,
+                312,
+                744,
+                326
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    456,
+                    312,
+                    744,
+                    326
+                  ],
+                  "score": 0.961,
+                  "content": "우호를 깨버리고 우리의 국경을 짓밟았습니다.이에 우리의",
+                  "type": "text"
+                }
+              ],
+              "index": 32
+            },
+            {
+              "bbox": [
+                456,
+                329,
+                745,
+                343
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    456,
+                    329,
+                    745,
+                    343
+                  ],
+                  "score": 0.969,
+                  "content": "선조께서 평양성을 공격하여 쇠를 죽였습니다.(중략) 지금",
+                  "type": "text"
+                }
+              ],
+              "index": 33
+            },
+            {
+              "bbox": [
+                466,
+                347,
+                745,
+                362
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    466,
+                    347,
+                    745,
+                    362
+                  ],
+                  "score": 0.884,
+                  "content": "(가)의 연(, 장수왕)이 죄가 있어 나라는 엉망이 되었고,",
+                  "type": "text"
+                }
+              ],
+              "index": 34
+            },
+            {
+              "bbox": [
+                455,
+                363,
+                745,
+                379
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    455,
+                    363,
+                    745,
+                    379
+                  ],
+                  "score": 0.943,
+                  "content": "백성들은 이리저리 흩어지고있습니다.이는멸망시킬 기회이며",
+                  "type": "text"
+                }
+              ],
+              "index": 35
+            },
+            {
+              "bbox": [
+                455,
+                380,
+                630,
+                396
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    455,
+                    380,
+                    630,
+                    396
+                  ],
+                  "score": 0.938,
+                  "content": "폐하의 도움을 받아야 할 때입니다.”",
+                  "type": "text"
+                }
+              ],
+              "index": 36
+            }
+          ],
+          "index": 32.5,
+          "bbox_fs": [
+            455,
+            259,
+            746,
+            396
+          ]
+        },
+        {
+          "type": "list",
+          "bbox": [
+            445,
+            411,
+            589,
+            493
+          ],
+          "lines": [
+            {
+              "bbox": [
+                446,
+                411,
+                591,
+                426
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    412,
+                    459,
+                    425
+                  ],
+                  "score": 0.83,
+                  "content": "①",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    411,
+                    591,
+                    426
+                  ],
+                  "score": 0.974,
+                  "content": "조사시찰단을파견하였다.",
+                  "type": "text"
+                }
+              ],
+              "index": 37,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                427,
+                576,
+                442
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    428,
+                    459,
+                    442
+                  ],
+                  "score": 0.84,
+                  "content": "②",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    427,
+                    576,
+                    442
+                  ],
+                  "score": 0.966,
+                  "content": "도병마사를 설치하였다.",
+                  "type": "text"
+                }
+              ],
+              "index": 38,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                444,
+                576,
+                459
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    445,
+                    459,
+                    459
+                  ],
+                  "score": 0.83,
+                  "content": "③",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    444,
+                    576,
+                    459
+                  ],
+                  "score": 0.895,
+                  "content": "수의 침략을 막아 냈다.",
+                  "type": "text"
+                }
+              ],
+              "index": 39,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                460,
+                576,
+                477
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    462,
+                    459,
+                    475
+                  ],
+                  "score": 0.85,
+                  "content": "④",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    460,
+                    576,
+                    477
+                  ],
+                  "score": 0.922,
+                  "content": "전국을8도로 나누었다.",
+                  "type": "text"
+                }
+              ],
+              "index": 40,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                477,
+                565,
+                493
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    478,
+                    459,
+                    492
+                  ],
+                  "score": 0.85,
+                  "content": "⑤",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    477,
+                    565,
+                    493
+                  ],
+                  "score": 0.949,
+                  "content": "대가야를 정복하였다.",
+                  "type": "text"
+                }
+              ],
+              "index": 41,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            }
+          ],
+          "index": 39,
+          "bbox_fs": [
+            446,
+            411,
+            591,
+            493
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            434,
+            518,
+            678,
+            534
+          ],
+          "lines": [
+            {
+              "bbox": [
+                434,
+                518,
+                679,
+                534
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    434,
+                    518,
+                    679,
+                    534
+                  ],
+                  "score": 0.897,
+                  "content": "4.밑줄 친‘이 시기'에 있었던 사실로 옳은 것은?",
+                  "type": "text"
+                }
+              ],
+              "index": 42
+            }
+          ],
+          "index": 42,
+          "bbox_fs": [
+            434,
+            518,
+            679,
+            534
+          ]
+        },
+        {
+          "type": "table",
+          "bbox": [
+            460,
+            547,
+            734,
+            705
+          ],
+          "blocks": [
+            {
+              "type": "table_body",
+              "bbox": [
+                460,
+                547,
+                734,
+                705
+              ],
+              "group_id": 1,
+              "lines": [
+                {
+                  "bbox": [
+                    460,
+                    547,
+                    734,
+                    705
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        460,
+                        547,
+                        734,
+                        705
+                      ],
+                      "score": 0.547,
+                      "html": "<table><tr><td colspan=\"3\">... 56 80%</td></tr><tr><td colspan=\"3\">OO고등학교 한국사 수업 교실 수행 과제: 고려 무신들이 100년에 걸쳐 권력을 장악했던 이 시기의 대표적인 인물과 활동을 조사해서 올려 주세요.</td></tr><tr><td>정중부 이의방과 함께 정변을 일으켜새로운왕을 옹립하였어요</td><td>최충헌 도방을더큰규모로 재건하고,교정도감 이라는 기구를 설치 하였어요</td><td>최우 정방을통해인사권을 장악하였고, 몽골의 침략에 대항하였어요.</td></tr></table>",
+                      "type": "table",
+                      "image_path": "2dd20d6c269f3ca52e8798e94ac2fca4fa68d433a6262b7e1013f2cb722247fa.jpg"
+                    }
+                  ]
+                }
+              ],
+              "index": 47.5,
+              "virtual_lines": [
+                {
+                  "bbox": [
+                    460,
+                    547,
+                    734,
+                    562.8
+                  ],
+                  "spans": [],
+                  "index": 43
+                },
+                {
+                  "bbox": [
+                    460,
+                    562.8,
+                    734,
+                    578.5999999999999
+                  ],
+                  "spans": [],
+                  "index": 44
+                },
+                {
+                  "bbox": [
+                    460,
+                    578.5999999999999,
+                    734,
+                    594.3999999999999
+                  ],
+                  "spans": [],
+                  "index": 45
+                },
+                {
+                  "bbox": [
+                    460,
+                    594.3999999999999,
+                    734,
+                    610.1999999999998
+                  ],
+                  "spans": [],
+                  "index": 46
+                },
+                {
+                  "bbox": [
+                    460,
+                    610.1999999999998,
+                    734,
+                    625.9999999999998
+                  ],
+                  "spans": [],
+                  "index": 47
+                },
+                {
+                  "bbox": [
+                    460,
+                    625.9999999999998,
+                    734,
+                    641.7999999999997
+                  ],
+                  "spans": [],
+                  "index": 48
+                },
+                {
+                  "bbox": [
+                    460,
+                    641.7999999999997,
+                    734,
+                    657.5999999999997
+                  ],
+                  "spans": [],
+                  "index": 49
+                },
+                {
+                  "bbox": [
+                    460,
+                    657.5999999999997,
+                    734,
+                    673.3999999999996
+                  ],
+                  "spans": [],
+                  "index": 50
+                },
+                {
+                  "bbox": [
+                    460,
+                    673.3999999999996,
+                    734,
+                    689.1999999999996
+                  ],
+                  "spans": [],
+                  "index": 51
+                },
+                {
+                  "bbox": [
+                    460,
+                    689.1999999999996,
+                    734,
+                    704.9999999999995
+                  ],
+                  "spans": [],
+                  "index": 52
+                }
+              ]
+            }
+          ],
+          "index": 47.5
+        },
+        {
+          "type": "list",
+          "bbox": [
+            445,
+            714,
+            652,
+            797
+          ],
+          "lines": [
+            {
+              "bbox": [
+                446,
+                715,
+                564,
+                729
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    715,
+                    459,
+                    729
+                  ],
+                  "score": 0.82,
+                  "content": "①",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    715,
+                    564,
+                    729
+                  ],
+                  "score": 0.978,
+                  "content": "골품제가 운영되었다.",
+                  "type": "text"
+                }
+              ],
+              "index": 53,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                731,
+                591,
+                746
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    732,
+                    459,
+                    745
+                  ],
+                  "score": 0.82,
+                  "content": "②",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    731,
+                    591,
+                    746
+                  ],
+                  "score": 0.937,
+                  "content": "한인 애국단이 조직되었다.",
+                  "type": "text"
+                }
+              ],
+              "index": 54,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                748,
+                591,
+                762
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    748,
+                    459,
+                    762
+                  ],
+                  "score": 0.84,
+                  "content": "③",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    748,
+                    591,
+                    762
+                  ],
+                  "score": 0.919,
+                  "content": "수도가 강화도로 옮겨졌다.",
+                  "type": "text"
+                }
+              ],
+              "index": 55,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                764,
+                597,
+                780
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    765,
+                    459,
+                    779
+                  ],
+                  "score": 0.85,
+                  "content": "④",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    764,
+                    597,
+                    780
+                  ],
+                  "score": 0.95,
+                  "content": "백두산정계비가 건립되었다.",
+                  "type": "text"
+                }
+              ],
+              "index": 56,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                781,
+                652,
+                796
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    782,
+                    459,
+                    795
+                  ],
+                  "score": 0.8,
+                  "content": "⑤",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    781,
+                    652,
+                    796
+                  ],
+                  "score": 0.946,
+                  "content": "이른바 남한 대토벌 작전이 전개되었다.",
+                  "type": "text"
+                }
+              ],
+              "index": 57,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
             {
               "bbox": [
                 107,
@@ -865,8 +1686,8 @@
               "bbox": [
                 109,
                 807,
-                152,
-                820
+                328,
+                877
               ],
               "spans": [
                 {
@@ -879,20 +1700,7 @@
                   "score": 0.969,
                   "content": "소장품 소개",
                   "type": "text"
-                }
-              ],
-              "index": 28,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                113,
-                826,
-                148,
-                840
-              ],
-              "spans": [
+                },
                 {
                   "bbox": [
                     113,
@@ -903,9 +1711,199 @@
                   "score": 0.907,
                   "content": "공지 사항",
                   "type": "text"
+                },
+                {
+                  "bbox": [
+                    212,
+                    807,
+                    240,
+                    877
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    237,
+                    807,
+                    247,
+                    871
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    242,
+                    810,
+                    255,
+                    873
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    250,
+                    810,
+                    261,
+                    869
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    254,
+                    809,
+                    268,
+                    872
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    263,
+                    811,
+                    273,
+                    871
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    269,
+                    808,
+                    286,
+                    874
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    283,
+                    809,
+                    299,
+                    874
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    292,
+                    811,
+                    303,
+                    873
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    298,
+                    811,
+                    309,
+                    856
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    304,
+                    811,
+                    315,
+                    873
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    309,
+                    811,
+                    322,
+                    873
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    316,
+                    812,
+                    328,
+                    873
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 29,
+              "index": 59,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                326,
+                851,
+                330,
+                856
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    326,
+                    851,
+                    330,
+                    856
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 58,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                299,
+                858,
+                306,
+                870
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    299,
+                    858,
+                    306,
+                    870
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 60,
               "is_list_end_line": true
             },
             {
@@ -961,7 +1959,7 @@
                   "type": "text"
                 }
               ],
-              "index": 30
+              "index": 61
             },
             {
               "bbox": [
@@ -1000,12 +1998,12 @@
                     384,
                     920
                   ],
-                  "score": 0.944,
+                  "score": 0.943,
                   "content": "상권은 중국의역사를 신화에서부터",
                   "type": "text"
                 }
               ],
-              "index": 31
+              "index": 62
             },
             {
               "bbox": [
@@ -1071,7 +2069,7 @@
                   "type": "text"
                 }
               ],
-              "index": 32
+              "index": 63
             },
             {
               "bbox": [
@@ -1099,12 +2097,12 @@
                     383,
                     947
                   ],
-                  "score": 0.877,
-                  "content": "충렬왕까지 서술하고있다.이 책은 우리 역사의 시작을",
+                  "score": 0.894,
+                  "content": "충렬왕까지 서술하고있다.이책은 우리 역사의 시작을",
                   "type": "text"
                 }
               ],
-              "index": 33
+              "index": 64
             },
             {
               "bbox": [
@@ -1121,13 +2119,272 @@
                     381,
                     959
                   ],
-                  "score": 0.887,
+                  "score": 0.888,
                   "content": "단군으로설정했다는 점에서 귀중한 문헌 자료로평가되고있다.",
                   "type": "text"
                 }
               ],
-              "index": 34
+              "index": 65
+            }
+          ],
+          "index": 55,
+          "bbox_fs": [
+            446,
+            715,
+            652,
+            796
+          ]
+        },
+        {
+          "type": "list",
+          "bbox": [
+            103,
+            723,
+            395,
+            976
+          ],
+          "lines": [],
+          "index": 59,
+          "bbox_fs": [
+            107,
+            725,
+            384,
+            959
+          ],
+          "lines_deleted": true
+        },
+        {
+          "type": "text",
+          "bbox": [
+            433,
+            821,
+            668,
+            838
+          ],
+          "lines": [
+            {
+              "bbox": [
+                433,
+                820,
+                669,
+                838
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    433,
+                    820,
+                    669,
+                    838
+                  ],
+                  "score": 0.847,
+                  "content": "5.밑줄 친 ‘이 왕'에 대한 설명으로 옳은 것은?",
+                  "type": "text"
+                }
+              ],
+              "index": 66
+            }
+          ],
+          "index": 66,
+          "bbox_fs": [
+            433,
+            820,
+            669,
+            838
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            463,
+            850,
+            725,
+            977
+          ],
+          "lines": [
+            {
+              "bbox": [
+                518,
+                857,
+                713,
+                870
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    518,
+                    857,
+                    615,
+                    870
+                  ],
+                  "score": 0.94,
+                  "content": "특별 기획전<국왕의 도장>",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    667,
+                    858,
+                    713,
+                    870
+                  ],
+                  "score": 0.992,
+                  "content": "전시물정보",
+                  "type": "text"
+                }
+              ],
+              "index": 67
             },
+            {
+              "bbox": [
+                568,
+                874,
+                717,
+                885
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    568,
+                    874,
+                    717,
+                    885
+                  ],
+                  "score": 0.924,
+                  "content": "이것은영조에 이어 즉위한이왕이 사용한",
+                  "type": "text"
+                }
+              ],
+              "index": 71
+            },
+            {
+              "bbox": [
+                562,
+                888,
+                716,
+                898
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    562,
+                    888,
+                    716,
+                    898
+                  ],
+                  "score": 0.933,
+                  "content": "장서인 중2개이다.장서인은 자신이 소장한",
+                  "type": "text"
+                }
+              ],
+              "index": 68
+            },
+            {
+              "bbox": [
+                561,
+                901,
+                716,
+                913
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    561,
+                    901,
+                    716,
+                    913
+                  ],
+                  "score": 0.854,
+                  "content": "서책에 찍는도장을일컴는다. 탕평평탕'이라고",
+                  "type": "text"
+                }
+              ],
+              "index": 69
+            },
+            {
+              "bbox": [
+                561,
+                915,
+                717,
+                927
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    561,
+                    915,
+                    717,
+                    927
+                  ],
+                  "score": 0.904,
+                  "content": "새겨진 이장서인들은붕당 간의대립을 완화",
+                  "type": "text"
+                }
+              ],
+              "index": 70
+            },
+            {
+              "bbox": [
+                562,
+                929,
+                716,
+                940
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    562,
+                    929,
+                    716,
+                    940
+                  ],
+                  "score": 0.904,
+                  "content": "하고자했던 이왕의 탕평정책 추진의지를",
+                  "type": "text"
+                }
+              ],
+              "index": 72
+            },
+            {
+              "bbox": [
+                561,
+                943,
+                643,
+                953
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    561,
+                    943,
+                    643,
+                    953
+                  ],
+                  "score": 0.861,
+                  "content": "옛볼 수 있는 자료이다.",
+                  "type": "text"
+                }
+              ],
+              "index": 73
+            }
+          ],
+          "index": 70,
+          "bbox_fs": [
+            518,
+            857,
+            717,
+            953
+          ]
+        },
+        {
+          "type": "list",
+          "bbox": [
+            95,
+            986,
+            277,
+            1069
+          ],
+          "lines": [
             {
               "bbox": [
                 97,
@@ -1157,12 +2414,12 @@
                     216,
                     1000
                   ],
-                  "score": 0.993,
+                  "score": 0.995,
                   "content": "국자감이 설립되었다.",
                   "type": "text"
                 }
               ],
-              "index": 35,
+              "index": 74,
               "is_list_end_line": true
             },
             {
@@ -1194,12 +2451,12 @@
                     217,
                     1017
                   ],
-                  "score": 0.981,
+                  "score": 0.971,
                   "content": "북학론이 제기되었다.",
                   "type": "text"
                 }
               ],
-              "index": 36,
+              "index": 75,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -1232,12 +2489,12 @@
                     232,
                     1034
                   ],
-                  "score": 0.953,
+                  "score": 0.969,
                   "content": "육영 공원이 설치되었다.",
                   "type": "text"
                 }
               ],
-              "index": 48,
+              "index": 76,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -1270,12 +2527,12 @@
                     241,
                     1051
                   ],
-                  "score": 0.962,
+                  "score": 0.996,
                   "content": "조선어 학회가 결성되었다.",
                   "type": "text"
                 }
               ],
-              "index": 37,
+              "index": 77,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -1308,1111 +2565,15 @@
                     277,
                     1067
                   ],
-                  "score": 1.0,
+                  "score": 0.981,
                   "content": "한국독립운동지혈사가 편찬되었다.",
                   "type": "text"
                 }
               ],
-              "index": 58,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            }
-          ],
-          "index": 28.5,
-          "bbox_fs": [
-            107,
-            725,
-            384,
-            959
-          ]
-        },
-        {
-          "type": "list",
-          "bbox": [
-            95,
-            986,
-            277,
-            1069
-          ],
-          "lines": [],
-          "index": 37,
-          "bbox_fs": [
-            97,
-            987,
-            277,
-            1067
-          ],
-          "lines_deleted": true
-        },
-        {
-          "type": "text",
-          "bbox": [
-            433,
-            224,
-            668,
-            240
-          ],
-          "lines": [
-            {
-              "bbox": [
-                433,
-                223,
-                669,
-                241
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    433,
-                    223,
-                    669,
-                    241
-                  ],
-                  "score": 0.916,
-                  "content": "3.(가) 국가에 대한 설명으로 옳은 것은?[3점]",
-                  "type": "text"
-                }
-              ],
-              "index": 38
-            }
-          ],
-          "index": 38,
-          "bbox_fs": [
-            433,
-            223,
-            669,
-            241
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            451,
-            257,
-            747,
-            397
-          ],
-          "lines": [
-            {
-              "bbox": [
-                465,
-                259,
-                746,
-                273
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    465,
-                    259,
-                    746,
-                    273
-                  ],
-                  "score": 0.909,
-                  "content": "개로왕이 북위에 사신을 보내 표()를 올렸다.\"우리와",
-                  "type": "text"
-                }
-              ],
-              "index": 39
-            },
-            {
-              "bbox": [
-                466,
-                277,
-                745,
-                293
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    466,
-                    277,
-                    745,
-                    293
-                  ],
-                  "score": 0.903,
-                  "content": "(가)은/는 모두 부여에서 나왔으므로 서로 옛정을굳건히",
-                  "type": "text"
-                }
-              ],
-              "index": 40
-            },
-            {
-              "bbox": [
-                455,
-                295,
-                745,
-                309
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    455,
-                    295,
-                    745,
-                    309
-                  ],
-                  "score": 0.962,
-                  "content": "존중하였는데,그들의 선조인 쇠(],고국원왕)가 이웃과의",
-                  "type": "text"
-                }
-              ],
-              "index": 41
-            },
-            {
-              "bbox": [
-                456,
-                312,
-                744,
-                326
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    456,
-                    312,
-                    744,
-                    326
-                  ],
-                  "score": 0.961,
-                  "content": "우호를 깨버리고 우리의 국경을 짓밟았습니다.이에 우리의",
-                  "type": "text"
-                }
-              ],
-              "index": 42
-            },
-            {
-              "bbox": [
-                456,
-                329,
-                745,
-                343
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    456,
-                    329,
-                    745,
-                    343
-                  ],
-                  "score": 0.969,
-                  "content": "선조께서 평양성을 공격하여 쇠를 죽였습니다.(중략) 지금",
-                  "type": "text"
-                }
-              ],
-              "index": 43
-            },
-            {
-              "bbox": [
-                466,
-                347,
-                745,
-                362
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    466,
-                    347,
-                    745,
-                    362
-                  ],
-                  "score": 0.883,
-                  "content": "(가)의 연(, 장수왕)이 죄가 있어 나라는 엉망이 되었고,",
-                  "type": "text"
-                }
-              ],
-              "index": 44
-            },
-            {
-              "bbox": [
-                455,
-                363,
-                745,
-                379
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    455,
-                    363,
-                    745,
-                    379
-                  ],
-                  "score": 0.943,
-                  "content": "백성들은 이리저리 흩어지고있습니다.이는멸망시킬 기회이며",
-                  "type": "text"
-                }
-              ],
-              "index": 45
-            },
-            {
-              "bbox": [
-                455,
-                380,
-                630,
-                396
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    455,
-                    380,
-                    630,
-                    396
-                  ],
-                  "score": 0.938,
-                  "content": "폐하의 도움을 받아야 할 때입니다.”",
-                  "type": "text"
-                }
-              ],
-              "index": 46
-            }
-          ],
-          "index": 42.5,
-          "bbox_fs": [
-            455,
-            259,
-            746,
-            396
-          ]
-        },
-        {
-          "type": "list",
-          "bbox": [
-            445,
-            411,
-            589,
-            493
-          ],
-          "lines": [
-            {
-              "bbox": [
-                446,
-                411,
-                591,
-                426
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    412,
-                    459,
-                    425
-                  ],
-                  "score": 0.83,
-                  "content": "①",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    411,
-                    591,
-                    426
-                  ],
-                  "score": 0.976,
-                  "content": "조사시찰단을파견하였다.",
-                  "type": "text"
-                }
-              ],
-              "index": 47,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                427,
-                576,
-                442
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    428,
-                    459,
-                    442
-                  ],
-                  "score": 0.84,
-                  "content": "②",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    427,
-                    576,
-                    442
-                  ],
-                  "score": 0.966,
-                  "content": "도병마사를 설치하였다.",
-                  "type": "text"
-                }
-              ],
-              "index": 49,
+              "index": 78,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
-            {
-              "bbox": [
-                446,
-                444,
-                576,
-                459
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    445,
-                    459,
-                    459
-                  ],
-                  "score": 0.83,
-                  "content": "③",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    444,
-                    576,
-                    459
-                  ],
-                  "score": 0.882,
-                  "content": "수의 침략을 막아 냈다.",
-                  "type": "text"
-                }
-              ],
-              "index": 50,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                460,
-                576,
-                477
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    462,
-                    459,
-                    475
-                  ],
-                  "score": 0.85,
-                  "content": "④",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    460,
-                    576,
-                    477
-                  ],
-                  "score": 0.921,
-                  "content": "전국을8도로 나누었다.",
-                  "type": "text"
-                }
-              ],
-              "index": 51,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                477,
-                565,
-                493
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    478,
-                    459,
-                    492
-                  ],
-                  "score": 0.85,
-                  "content": "⑤",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    477,
-                    565,
-                    493
-                  ],
-                  "score": 0.979,
-                  "content": "대가야를 정복하였다.",
-                  "type": "text"
-                }
-              ],
-              "index": 52,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            }
-          ],
-          "index": 50,
-          "bbox_fs": [
-            446,
-            411,
-            591,
-            493
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            434,
-            518,
-            678,
-            534
-          ],
-          "lines": [
-            {
-              "bbox": [
-                434,
-                518,
-                679,
-                534
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    434,
-                    518,
-                    679,
-                    534
-                  ],
-                  "score": 0.902,
-                  "content": "4.밑줄 친‘이 시기'에 있었던 사실로 옳은 것은?",
-                  "type": "text"
-                }
-              ],
-              "index": 53
-            }
-          ],
-          "index": 53,
-          "bbox_fs": [
-            434,
-            518,
-            679,
-            534
-          ]
-        },
-        {
-          "type": "table",
-          "bbox": [
-            460,
-            547,
-            734,
-            705
-          ],
-          "blocks": [
-            {
-              "type": "table_body",
-              "bbox": [
-                460,
-                547,
-                734,
-                705
-              ],
-              "group_id": 1,
-              "lines": [
-                {
-                  "bbox": [
-                    460,
-                    547,
-                    734,
-                    705
-                  ],
-                  "spans": [
-                    {
-                      "bbox": [
-                        460,
-                        547,
-                        734,
-                        705
-                      ],
-                      "score": 0.547,
-                      "html": "<table><tr><td colspan=\"3\">... 56 80%</td></tr><tr><td colspan=\"3\">OO고등학교 한국사 수업 교실 수행 과제: 고려 무신들이 100년에 걸쳐 권력을 장악했던 이 시기의 대표적인 인물과 활동을 조사해서 올려 주세요.</td></tr><tr><td>정중부 이의방과 함께 정변을 일으켜새로운왕을 옹립하였어요</td><td>최충헌 도방을더큰규모로 재건하고,교정도감 이라는 기구를 설치 하였어요</td><td>최우 정방을통해인사권을 장악하였고, 몽골의 침략에 대항하였어요</td></tr></table>",
-                      "type": "table",
-                      "image_path": "2dd20d6c269f3ca52e8798e94ac2fca4fa68d433a6262b7e1013f2cb722247fa.jpg"
-                    }
-                  ]
-                }
-              ],
-              "index": 59.5,
-              "virtual_lines": [
-                {
-                  "bbox": [
-                    460,
-                    547,
-                    734,
-                    562.8
-                  ],
-                  "spans": [],
-                  "index": 54
-                },
-                {
-                  "bbox": [
-                    460,
-                    562.8,
-                    734,
-                    578.5999999999999
-                  ],
-                  "spans": [],
-                  "index": 55
-                },
-                {
-                  "bbox": [
-                    460,
-                    578.5999999999999,
-                    734,
-                    594.3999999999999
-                  ],
-                  "spans": [],
-                  "index": 56
-                },
-                {
-                  "bbox": [
-                    460,
-                    594.3999999999999,
-                    734,
-                    610.1999999999998
-                  ],
-                  "spans": [],
-                  "index": 57
-                },
-                {
-                  "bbox": [
-                    460,
-                    610.1999999999998,
-                    734,
-                    625.9999999999998
-                  ],
-                  "spans": [],
-                  "index": 59
-                },
-                {
-                  "bbox": [
-                    460,
-                    625.9999999999998,
-                    734,
-                    641.7999999999997
-                  ],
-                  "spans": [],
-                  "index": 60
-                },
-                {
-                  "bbox": [
-                    460,
-                    641.7999999999997,
-                    734,
-                    657.5999999999997
-                  ],
-                  "spans": [],
-                  "index": 61
-                },
-                {
-                  "bbox": [
-                    460,
-                    657.5999999999997,
-                    734,
-                    673.3999999999996
-                  ],
-                  "spans": [],
-                  "index": 62
-                },
-                {
-                  "bbox": [
-                    460,
-                    673.3999999999996,
-                    734,
-                    689.1999999999996
-                  ],
-                  "spans": [],
-                  "index": 63
-                },
-                {
-                  "bbox": [
-                    460,
-                    689.1999999999996,
-                    734,
-                    704.9999999999995
-                  ],
-                  "spans": [],
-                  "index": 64
-                }
-              ]
-            }
-          ],
-          "index": 59.5
-        },
-        {
-          "type": "list",
-          "bbox": [
-            445,
-            714,
-            652,
-            797
-          ],
-          "lines": [
-            {
-              "bbox": [
-                446,
-                715,
-                564,
-                729
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    715,
-                    459,
-                    729
-                  ],
-                  "score": 0.82,
-                  "content": "①",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    715,
-                    564,
-                    729
-                  ],
-                  "score": 0.972,
-                  "content": "골품제가 운영되었다.",
-                  "type": "text"
-                }
-              ],
-              "index": 65,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                731,
-                591,
-                746
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    732,
-                    459,
-                    745
-                  ],
-                  "score": 0.82,
-                  "content": "②",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    731,
-                    591,
-                    746
-                  ],
-                  "score": 0.949,
-                  "content": "한인 애국단이 조직되었다.",
-                  "type": "text"
-                }
-              ],
-              "index": 66,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                748,
-                591,
-                762
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    748,
-                    459,
-                    762
-                  ],
-                  "score": 0.84,
-                  "content": "③",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    748,
-                    591,
-                    762
-                  ],
-                  "score": 0.924,
-                  "content": "수도가 강화도로 옮겨졌다.",
-                  "type": "text"
-                }
-              ],
-              "index": 67,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                764,
-                597,
-                780
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    765,
-                    459,
-                    779
-                  ],
-                  "score": 0.85,
-                  "content": "④",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    764,
-                    597,
-                    780
-                  ],
-                  "score": 0.946,
-                  "content": "백두산정계비가 건립되었다.",
-                  "type": "text"
-                }
-              ],
-              "index": 68,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                781,
-                652,
-                796
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    782,
-                    459,
-                    795
-                  ],
-                  "score": 0.8,
-                  "content": "⑤",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    781,
-                    652,
-                    796
-                  ],
-                  "score": 0.942,
-                  "content": "이른바 남한 대토벌 작전이 전개되었다.",
-                  "type": "text"
-                }
-              ],
-              "index": 69,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            }
-          ],
-          "index": 67,
-          "bbox_fs": [
-            446,
-            715,
-            652,
-            796
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            433,
-            821,
-            668,
-            838
-          ],
-          "lines": [
-            {
-              "bbox": [
-                433,
-                820,
-                669,
-                838
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    433,
-                    820,
-                    669,
-                    838
-                  ],
-                  "score": 0.853,
-                  "content": "5.밑줄 친 ‘이 왕'에 대한 설명으로 옳은 것은?",
-                  "type": "text"
-                }
-              ],
-              "index": 70
-            }
-          ],
-          "index": 70,
-          "bbox_fs": [
-            433,
-            820,
-            669,
-            838
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            463,
-            850,
-            725,
-            977
-          ],
-          "lines": [
-            {
-              "bbox": [
-                518,
-                857,
-                713,
-                870
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    518,
-                    857,
-                    615,
-                    870
-                  ],
-                  "score": 0.941,
-                  "content": "특별 기획전<국왕의 도장>",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    667,
-                    858,
-                    713,
-                    870
-                  ],
-                  "score": 0.992,
-                  "content": "전시물정보",
-                  "type": "text"
-                }
-              ],
-              "index": 71
-            },
-            {
-              "bbox": [
-                568,
-                874,
-                717,
-                885
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    568,
-                    874,
-                    717,
-                    885
-                  ],
-                  "score": 0.924,
-                  "content": "이것은영조에 이어 즉위한이왕이 사용한",
-                  "type": "text"
-                }
-              ],
-              "index": 72
-            },
-            {
-              "bbox": [
-                562,
-                888,
-                716,
-                898
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    562,
-                    888,
-                    716,
-                    898
-                  ],
-                  "score": 0.932,
-                  "content": "장서인 중2개이다.장서인은 자신이 소장한",
-                  "type": "text"
-                }
-              ],
-              "index": 73
-            },
-            {
-              "bbox": [
-                561,
-                901,
-                716,
-                913
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    561,
-                    901,
-                    716,
-                    913
-                  ],
-                  "score": 0.857,
-                  "content": "서책에 찍는도장을일컴는다. 탕평평탕'이라고",
-                  "type": "text"
-                }
-              ],
-              "index": 74
-            },
-            {
-              "bbox": [
-                561,
-                915,
-                717,
-                927
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    561,
-                    915,
-                    717,
-                    927
-                  ],
-                  "score": 0.904,
-                  "content": "새겨진 이장서인들은붕당 간의대립을 완화",
-                  "type": "text"
-                }
-              ],
-              "index": 75
-            },
-            {
-              "bbox": [
-                562,
-                929,
-                716,
-                940
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    562,
-                    929,
-                    716,
-                    940
-                  ],
-                  "score": 0.903,
-                  "content": "하고자했던 이왕의 탕평정책 추진의지를",
-                  "type": "text"
-                }
-              ],
-              "index": 76
-            },
-            {
-              "bbox": [
-                561,
-                943,
-                643,
-                953
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    561,
-                    943,
-                    643,
-                    953
-                  ],
-                  "score": 0.855,
-                  "content": "옛볼 수 있는 자료이다.",
-                  "type": "text"
-                }
-              ],
-              "index": 77
-            }
-          ],
-          "index": 74,
-          "bbox_fs": [
-            518,
-            857,
-            717,
-            953
-          ]
-        },
-        {
-          "type": "list",
-          "bbox": [
-            444,
-            986,
-            584,
-            1068
-          ],
-          "lines": [
             {
               "bbox": [
                 446,
@@ -2447,7 +2608,7 @@
                   "type": "text"
                 }
               ],
-              "index": 78,
+              "index": 79,
               "is_list_end_line": true
             },
             {
@@ -2484,7 +2645,7 @@
                   "type": "text"
                 }
               ],
-              "index": 79,
+              "index": 80,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -2517,12 +2678,12 @@
                     565,
                     1034
                   ],
-                  "score": 0.972,
+                  "score": 0.967,
                   "content": "당백전을발행하였다.",
                   "type": "text"
                 }
               ],
-              "index": 80,
+              "index": 81,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -2560,7 +2721,7 @@
                   "type": "text"
                 }
               ],
-              "index": 81,
+              "index": 82,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -2593,23 +2754,41 @@
                     586,
                     1068
                   ],
-                  "score": 0.977,
+                  "score": 0.972,
                   "content": "쌍성총관부를 회복하였다.",
                   "type": "text"
                 }
               ],
-              "index": 82,
+              "index": 83,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 80,
+          "index": 76,
+          "bbox_fs": [
+            97,
+            987,
+            277,
+            1067
+          ]
+        },
+        {
+          "type": "list",
+          "bbox": [
+            444,
+            986,
+            584,
+            1068
+          ],
+          "lines": [],
+          "index": 81,
           "bbox_fs": [
             446,
             987,
             586,
             1068
-          ]
+          ],
+          "lines_deleted": true
         }
       ]
     },
@@ -2666,7 +2845,7 @@
                     294,
                     174
                   ],
-                  "score": 0.884,
+                  "score": 0.888,
                   "content": "인물의 활동으로 옳은 것은? [3점]",
                   "type": "text"
                 }
@@ -2908,7 +3087,7 @@
                     216,
                     397
                   ],
-                  "score": 0.942,
+                  "score": 0.972,
                   "content": "별무반을편성하였다.",
                   "type": "text"
                 }
@@ -2983,7 +3162,7 @@
                     243,
                     430
                   ],
-                  "score": 0.949,
+                  "score": 0.938,
                   "content": "위화도 회군을 단행하였다.",
                   "type": "text"
                 }
@@ -3063,8 +3242,8 @@
                     325,
                     502
                   ],
-                  "score": 0.919,
-                  "content": "7.밑줄 친'변란'의 영향으로 가장 적절한 것은?",
+                  "score": 0.909,
+                  "content": "7.밑줄 친'변란'의영향으로 가장 적절한 것은?",
                   "type": "text"
                 }
               ],
@@ -3103,8 +3282,8 @@
                     239,
                     529
                   ],
-                  "score": 0.903,
-                  "content": "한성에서 밀린 급료를 받는과정에서",
+                  "score": 0.882,
+                  "content": "한성에서 밀린 급료를 받는 과정에서",
                   "type": "text"
                 },
                 {
@@ -3114,7 +3293,7 @@
                     396,
                     529
                   ],
-                  "score": 0.899,
+                  "score": 0.896,
                   "content": "말도말게. 변란을일으킨 군인들이",
                   "type": "text"
                 }
@@ -3136,7 +3315,7 @@
                     238,
                     541
                   ],
-                  "score": 0.884,
+                  "score": 0.88,
                   "content": "화가난 군인들이 큰 변란을 일으켰다지?",
                   "type": "text"
                 },
@@ -3147,7 +3326,7 @@
                     396,
                     541
                   ],
-                  "score": 0.977,
+                  "score": 0.976,
                   "content": "별기군군인의집과일본공사관을부수",
                   "type": "text"
                 }
@@ -3169,8 +3348,8 @@
                     239,
                     552
                   ],
-                  "score": 0.889,
-                  "content": "이 때문에임금께서나랫일을흥선대원군",
+                  "score": 0.871,
+                  "content": "이 때문에 임금께서나랫일을흥선대원군",
                   "type": "text"
                 },
                 {
@@ -3202,7 +3381,7 @@
                     238,
                     563
                   ],
-                  "score": 0.907,
+                  "score": 0.908,
                   "content": "에게 물어 결정하라명하셨다고들었네.",
                   "type": "text"
                 },
@@ -3246,7 +3425,7 @@
                     383,
                     575
                   ],
-                  "score": 0.882,
+                  "score": 0.88,
                   "content": "우리 집도부서져 도망쳐 나왔네.",
                   "type": "text"
                 }
@@ -3300,7 +3479,7 @@
                     231,
                     712
                   ],
-                  "score": 0.978,
+                  "score": 0.974,
                   "content": "6·3 시위가 전개되었다.",
                   "type": "text"
                 }
@@ -3337,8 +3516,8 @@
                     242,
                     729
                   ],
-                  "score": 0.916,
-                  "content": "수선사 결사가 제창되었다.",
+                  "score": 0.959,
+                  "content": "수선사 결사가제창되었다.",
                   "type": "text"
                 }
               ],
@@ -3375,7 +3554,7 @@
                     247,
                     746
                   ],
-                  "score": 0.919,
+                  "score": 0.916,
                   "content": "물산 장려 운동이일어났다.",
                   "type": "text"
                 }
@@ -3413,7 +3592,7 @@
                     258,
                     763
                   ],
-                  "score": 0.942,
+                  "score": 0.946,
                   "content": "국민 대표 회의가 개최되었다.",
                   "type": "text"
                 }
@@ -3451,7 +3630,7 @@
                     308,
                     779
                   ],
-                  "score": 0.969,
+                  "score": 0.971,
                   "content": "조청 상민 수륙 무역 장정이 체결되었다.",
                   "type": "text"
                 }
@@ -3493,7 +3672,7 @@
                     294,
                     835
                   ],
-                  "score": 0.906,
+                  "score": 0.898,
                   "content": "8.(가)에 대한 설명으로 옳은 것은? [3점]",
                   "type": "text"
                 }
@@ -3555,8 +3734,8 @@
                     288,
                     886
                   ],
-                  "score": 0.994,
-                  "content": "재정·외교를 감시하더니,이후에",
+                  "score": 0.965,
+                  "content": "재정·외교를 감시하더니,이후에ㄷ",
                   "type": "text"
                 },
                 {
@@ -3599,7 +3778,7 @@
                     397,
                     903
                   ],
-                  "score": 0.968,
+                  "score": 0.967,
                   "content": "외교를 주관하게 되었다.이에 조선의 우국지사가 시국이 날로",
                   "type": "text"
                 }
@@ -3643,7 +3822,7 @@
                     397,
                     936
                   ],
-                  "score": 0.971,
+                  "score": 0.98,
                   "content": "강직한 신하가 자결하고, 최익현과 같은 절의를 지닌 사람이",
                   "type": "text"
                 }
@@ -3665,7 +3844,7 @@
                     397,
                     952
                   ],
-                  "score": 0.934,
+                  "score": 0.936,
                   "content": "거병()하여 천하가 떠들썩한 중에 일대 큰일이 돌연히",
                   "type": "text"
                 }
@@ -3741,7 +3920,7 @@
                     257,
                     1000
                   ],
-                  "score": 0.97,
+                  "score": 0.964,
                   "content": "베트남 파병의 배경이 되었다.",
                   "type": "text"
                 }
@@ -3778,7 +3957,7 @@
                     278,
                     1017
                   ],
-                  "score": 0.949,
+                  "score": 0.943,
                   "content": "통감부가 설치되는 근거가 되었다.",
                   "type": "text"
                 }
@@ -3892,7 +4071,7 @@
                     293,
                     1067
                   ],
-                  "score": 0.959,
+                  "score": 0.951,
                   "content": "북벌론이 대두하는 데 영향을 끼쳤다.",
                   "type": "text"
                 }
@@ -3934,7 +4113,7 @@
                     669,
                     175
                   ],
-                  "score": 0.918,
+                  "score": 0.917,
                   "content": "9.(가) 운동에 대한 설명으로 옳은 것은? [3점]",
                   "type": "text"
                 }
@@ -3985,7 +4164,7 @@
                         403
                       ],
                       "score": 0.604,
-                      "html": "<table><tr><td>자료로보는한국사 조선학생 청년대중이여 궐기하라!</td></tr><tr><td>제국주의적 침략에 저항하는의지를 가지고 광주학생을성원하자! …· (중략) … 그들은경찰을총동원하여광주조선학생동지들에게쇠고랑을걸고말았다. 그대들이여!궐기하라! 조선학생의이익과 약소민족의 승리를위한 항쟁에 공헌하라 … (중략) … 구속된 광주조선학생을 즉시 탈환하자 식민지 노예 교육에 반대하자</td></tr><tr><td>[해설]이 자료는 (가)이/가 전개되는 과정에서 서울에 유포된 격문으로, 일제에 맞서 궐기하자는 내용이 담겼다.이 운동은 한국인 학생과 일본인 학생 간의 충돌을 계기로 광주에서 시작 되었다. 일제는 진압에 나섰지만, 민족 차별 대우에 항거한 학생들의 시위는 전국 각지로 확산되었다.</td></tr></table>",
+                      "html": "<table><tr><td>자료로보는한국사 조선학생 청년대중이여 궐기하라!</td></tr><tr><td>제국주의적 침략에 저항하는의지를 가지고 광주 학생을성원하자! …· (중략) … 그들은경찰을총동원하여광주조선학생동지들에게쇠고랑을걸고말았다. 그대들이여!궐기하라! 조선학생의이익과 약소민족의 승리를위한 항쟁에 공헌하라 … (중략) … 구속된 광주조선학생을 즉시 탈환하자 식민지 노예 교육에 반대하자</td></tr><tr><td>[해설]이 자료는 (가)이/가 전개되는 과정에서 서울에 유포된 격문으로, 일제에 맞서 궐기하자는 내용이 담겼다.이 운동은 한국인 학생과 일본인 학생 간의 충돌을 계기로 광주에서 시작 되었다. 일제는 진압에 나섰지만, 민족 차별 대우에 항거한 학생들의 시위는 전국 각지로 확산되었다.</td></tr></table>",
                       "type": "table",
                       "image_path": "7d10bc105679a3e4e89829700e07c590407888cb716720f69d2401dafd0fbf32.jpg"
                     }
@@ -4177,7 +4356,7 @@
                     595,
                     430
                   ],
-                  "score": 0.965,
+                  "score": 0.955,
                   "content": "3·1 운동에 영향을 주었다.",
                   "type": "text"
                 }
@@ -4214,7 +4393,7 @@
                     616,
                     447
                   ],
-                  "score": 0.909,
+                  "score": 0.913,
                   "content": "순종의 장례일을 기해 일어났다.",
                   "type": "text"
                 }
@@ -4252,7 +4431,7 @@
                     637,
                     464
                   ],
-                  "score": 0.951,
+                  "score": 0.958,
                   "content": "학생 김주열의 사망으로 격화되었다.",
                   "type": "text"
                 }
@@ -4328,7 +4507,7 @@
                     657,
                     497
                   ],
-                  "score": 0.993,
+                  "score": 0.992,
                   "content": "신간회가 조사단을 파견하여 지원하였다.",
                   "type": "text"
                 }
@@ -4370,7 +4549,7 @@
                     648,
                     650
                   ],
-                  "score": 0.884,
+                  "score": 0.883,
                   "content": "10. (가) 시기에 있었던 사실로 옳은 것은?",
                   "type": "text"
                 }
@@ -4610,8 +4789,8 @@
                     746,
                     902
                   ],
-                  "score": 0.973,
-                  "content": "홍보지의 삼화이다.일제는 한국인을 무력으로 굴복시키고자",
+                  "score": 0.971,
+                  "content": "홍보지의 삽화이다.일제는 한국인을 무력으로 굴복시키고자",
                   "type": "text"
                 }
               ],
@@ -4632,7 +4811,7 @@
                     582,
                     921
                   ],
-                  "score": 0.973,
+                  "score": 0.972,
                   "content": "헌병 경찰제를 시행하던",
                   "type": "text"
                 },
@@ -4654,7 +4833,7 @@
                     745,
                     921
                   ],
-                  "score": 0.925,
+                  "score": 0.97,
                   "content": "시기에 이러한 행사를 열어",
                   "type": "text"
                 }
@@ -4676,7 +4855,7 @@
                     745,
                     937
                   ],
-                  "score": 0.966,
+                  "score": 0.956,
                   "content": "식민 통치를 미화하려 하였다.삽화에서 볼 수 있듯이 일제는",
                   "type": "text"
                 }
@@ -4698,7 +4877,7 @@
                     745,
                     953
                   ],
-                  "score": 0.967,
+                  "score": 0.973,
                   "content": "궁궐 내 수많은 전각들을 파괴하고 그 자리에 행사장을 조성",
                   "type": "text"
                 }
@@ -4720,7 +4899,7 @@
                     746,
                     971
                   ],
-                  "score": 0.914,
+                  "score": 0.916,
                   "content": "함으로써 조선 왕조를 상징하는 공간을 의도적으로 훼손하였다.",
                   "type": "text"
                 }
@@ -4774,7 +4953,7 @@
                     590,
                     1000
                   ],
-                  "score": 0.995,
+                  "score": 0.996,
                   "content": "삼청 교육대가 운영되었다.",
                   "type": "text"
                 }
@@ -4811,7 +4990,7 @@
                     596,
                     1018
                   ],
-                  "score": 0.997,
+                  "score": 0.983,
                   "content": "전민변정도감이 설치되었다.",
                   "type": "text"
                 }
@@ -4849,7 +5028,7 @@
                     606,
                     1034
                   ],
-                  "score": 0.961,
+                  "score": 0.935,
                   "content": "토지 조사 사업이 실시되었다.",
                   "type": "text"
                 }
@@ -4887,7 +5066,7 @@
                     606,
                     1051
                   ],
-                  "score": 0.911,
+                  "score": 0.904,
                   "content": "임술 농민 봉기가 발생하였다.",
                   "type": "text"
                 }
@@ -4925,7 +5104,7 @@
                     622,
                     1069
                   ],
-                  "score": 0.964,
+                  "score": 0.963,
                   "content": "지계아문에서 지계가발급되었다.",
                   "type": "text"
                 }
@@ -4976,8 +5155,8 @@
                     379,
                     174
                   ],
-                  "score": 0.906,
-                  "content": "11. (가), (나) 시기 사이에 있었던 사실로 옳은 것은? [3점]",
+                  "score": 0.915,
+                  "content": "11.(가), (나) 시기 사이에 있었던 사실로 옳은 것은? [3점]",
                   "type": "text"
                 }
               ],
@@ -4998,7 +5177,7 @@
                     398,
                     208
                   ],
-                  "score": 0.902,
+                  "score": 0.907,
                   "content": "(가) 왕이 종묘에 나아가 다음과 같이 고하였다.\" (중략)",
                   "type": "text"
                 }
@@ -5020,7 +5199,7 @@
                     398,
                     224
                   ],
-                  "score": 0.904,
+                  "score": 0.91,
                   "content": "짐은 홍범 14조를 하늘에 계신 선대 왕들의 신령께 고하",
                   "type": "text"
                 }
@@ -5064,7 +5243,7 @@
                     397,
                     258
                   ],
-                  "score": 0.915,
+                  "score": 0.924,
                   "content": "감히 어기지 않을 것이니,밝은 신령께서는 굽어 살피시기",
                   "type": "text"
                 }
@@ -5188,7 +5367,7 @@
                     397,
                     328
                   ],
-                  "score": 0.919,
+                  "score": 0.925,
                   "content": "거처를 옮겼다.(중략)궁릴 내에서는 알아차리지",
                   "type": "text"
                 }
@@ -5210,7 +5389,7 @@
                     397,
                     344
                   ],
-                  "score": 0.928,
+                  "score": 0.929,
                   "content": "못했고,내각 또한 알지 못했다. 왕이 러시아 공사관에",
                   "type": "text"
                 }
@@ -5286,7 +5465,7 @@
                     278,
                     390
                   ],
-                  "score": 0.961,
+                  "score": 0.957,
                   "content": "영국이 거문도를 불법 점령하였다.",
                   "type": "text"
                 }
@@ -5361,7 +5540,7 @@
                     226,
                     424
                   ],
-                  "score": 0.967,
+                  "score": 0.961,
                   "content": "정묘호란이 발생하였다.",
                   "type": "text"
                 }
@@ -5399,7 +5578,7 @@
                     217,
                     441
                   ],
-                  "score": 0.96,
+                  "score": 0.948,
                   "content": "삼별초가 봉기하였다.",
                   "type": "text"
                 }
@@ -5501,8 +5680,8 @@
                     299,
                     503
                   ],
-                  "score": 0.872,
-                  "content": "신문에 대한 설명으로 옮은 것은?",
+                  "score": 0.864,
+                  "content": "신문에 대한 설명으로 옳은 것은?",
                   "type": "text"
                 }
               ],
@@ -5530,7 +5709,7 @@
               "bbox": [
                 104,
                 517,
-                193,
+                195,
                 527
               ],
               "spans": [
@@ -5566,6 +5745,17 @@
                   "score": 0.59,
                   "content": "\\times \\quad +",
                   "type": "inline_equation"
+                },
+                {
+                  "bbox": [
+                    193,
+                    517,
+                    195,
+                    527
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 17,
@@ -5587,8 +5777,8 @@
                     216,
                     541
                   ],
-                  "score": 0.883,
-                  "content": "묘원 소개방문 안내 안장자 정보",
+                  "score": 0.905,
+                  "content": "묘원소개방문 안내 안장자 정보",
                   "type": "text"
                 }
               ],
@@ -5690,8 +5880,8 @@
                     334,
                     593
                   ],
-                  "score": 0.926,
-                  "content": "러일 전쟁을 취재하기 위해한국에온이후양기탁과 함께",
+                  "score": 0.912,
+                  "content": "러일 전쟁을 취재하기 위해한국에온 이후양기탁과 함께",
                   "type": "text"
                 }
               ],
@@ -5809,7 +5999,7 @@
                     326,
                     653
                   ],
-                  "score": 0.93,
+                  "score": 0.931,
                   "content": "속에재판에 회부되는등 고초를 겪다가1909년숨을거두었다.",
                   "type": "text"
                 }
@@ -5960,7 +6150,7 @@
                     257,
                     739
                   ],
-                  "score": 0.919,
+                  "score": 0.924,
                   "content": "국채 보상 운동을 지원하였다.",
                   "type": "text"
                 }
@@ -6080,7 +6270,7 @@
                     337,
                     799
                   ],
-                  "score": 0.902,
+                  "score": 0.901,
                   "content": "지역에서 있었던 사실로 옳은 것은? [3점]",
                   "type": "text"
                 }
@@ -6166,7 +6356,7 @@
                     387,
                     850
                   ],
-                  "score": 0.963,
+                  "score": 0.957,
                   "content": "대한광복군정부를 수립하였습니다.그러나1937년소련은이지역의",
                   "type": "text"
                 }
@@ -6189,7 +6379,7 @@
                     321,
                     862
                   ],
-                  "score": 0.91,
+                  "score": 0.904,
                   "content": "수많은 한인을 중앙아시아로 강제 이주시켰습니다.",
                   "type": "text"
                 }
@@ -6498,7 +6688,7 @@
                     746,
                     405
                   ],
-                  "score": 0.933,
+                  "score": 0.924,
                   "content": "나타나 있는데, 그중 하나가 관아 부근에 건립된 척화비이다.",
                   "type": "text"
                 }
@@ -6520,7 +6710,7 @@
                     746,
                     421
                   ],
-                  "score": 0.957,
+                  "score": 0.962,
                   "content": "척화비는 미국의 군대가 강화도를 침입한 이 사건 이후 전국",
                   "type": "text"
                 }
@@ -6542,8 +6732,8 @@
                     747,
                     439
                   ],
-                  "score": 0.883,
-                  "content": "각지에 건립된것으로,당시 조선 정부의 통상 수교 거부 의지를",
+                  "score": 0.908,
+                  "content": "각지에 건립된것으로,당시 조선정부의 통상 수교 거부의지를",
                   "type": "text"
                 }
               ],
@@ -6618,7 +6808,7 @@
                     637,
                     484
                   ],
-                  "score": 0.969,
+                  "score": 0.971,
                   "content": "정동행성이 설치된 원인을 조사한다.",
                   "type": "text"
                 }
@@ -6693,7 +6883,7 @@
                     647,
                     519
                   ],
-                  "score": 0.914,
+                  "score": 0.918,
                   "content": "제너럴셔먼호사건의 영향을알아본다.",
                   "type": "text"
                 }
@@ -6731,7 +6921,7 @@
                     658,
                     536
                   ],
-                  "score": 0.954,
+                  "score": 0.956,
                   "content": "민립 대학 설립 운동의 배경을 분석한다.",
                   "type": "text"
                 }
@@ -6769,7 +6959,7 @@
                     657,
                     551
                   ],
-                  "score": 0.957,
+                  "score": 0.943,
                   "content": "3·1 민주 구국 선언의 내용을 찾아본다.",
                   "type": "text"
                 }
@@ -6851,7 +7041,7 @@
                     701,
                     816
                   ],
-                  "score": 0.906,
+                  "score": 0.909,
                   "content": "ㅇ대한민국 임시 정부는 영국군의 요구에 응하여",
                   "type": "text"
                 },
@@ -6895,7 +7085,7 @@
                     747,
                     833
                   ],
-                  "score": 0.956,
+                  "score": 0.954,
                   "content": "대원 일부를 인도에 파견하였다.연합국이 이 군대에 공작",
                   "type": "text"
                 }
@@ -6961,7 +7151,7 @@
                     740,
                     882
                   ],
-                  "score": 0.981,
+                  "score": 0.966,
                   "content": "박멸하는 것은 연합국의 목적인 동시에 우리의 책임이다.",
                   "type": "text"
                 }
@@ -7001,7 +7191,7 @@
                     745,
                     901
                   ],
-                  "score": 0.947,
+                  "score": 0.946,
                   "content": "0일본군이 인도의 임팔 인근까지 접근하였다.이에 우리",
                   "type": "text"
                 }
@@ -7056,7 +7246,7 @@
                     746,
                     937
                   ],
-                  "score": 0.992,
+                  "score": 0.993,
                   "content": "방송하였으며 선전문을 살포하였다.또한 대원들은 일본군",
                   "type": "text"
                 }
@@ -7078,7 +7268,7 @@
                     746,
                     954
                   ],
-                  "score": 0.956,
+                  "score": 0.953,
                   "content": "문서를 번역하고 포로를 심문하면서 영국군과 함께 작전을",
                   "type": "text"
                 }
@@ -7154,7 +7344,7 @@
                     216,
                     999
                   ],
-                  "score": 0.986,
+                  "score": 0.946,
                   "content": "권업회가 조직되었다.",
                   "type": "text"
                 }
@@ -7229,7 +7419,7 @@
                     242,
                     1033
                   ],
-                  "score": 0.933,
+                  "score": 0.955,
                   "content": "신흥 강습소가 설립되었다.",
                   "type": "text"
                 }
@@ -7267,7 +7457,7 @@
                     243,
                     1051
                   ],
-                  "score": 0.972,
+                  "score": 0.977,
                   "content": "청산리 전투가 전개되었다.",
                   "type": "text"
                 }
@@ -7305,7 +7495,7 @@
                     303,
                     1066
                   ],
-                  "score": 0.943,
+                  "score": 0.945,
                   "content": "윤봉길의 흥커우 공원 의거가 일어났다.",
                   "type": "text"
                 }
@@ -7380,7 +7570,7 @@
                     606,
                     1018
                   ],
-                  "score": 0.993,
+                  "score": 0.991,
                   "content": "국내 진공 작전을 계획하였다.",
                   "type": "text"
                 }
@@ -7413,12 +7603,23 @@
                 },
                 {
                   "bbox": [
+                    459,
+                    1022,
+                    461,
+                    1033
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     461,
                     1021,
                     610,
                     1034
                   ],
-                  "score": 0.966,
+                  "score": 0.986,
                   "content": "양세봉의 지휘하에 활동하였다.",
                   "type": "text"
                 }
@@ -7456,7 +7657,7 @@
                     617,
                     1052
                   ],
-                  "score": 0.925,
+                  "score": 0.924,
                   "content": "고종의 밀명을받아 조직되었다.",
                   "type": "text"
                 }
@@ -7494,7 +7695,7 @@
                     616,
                     1068
                   ],
-                  "score": 0.956,
+                  "score": 0.959,
                   "content": "자유시 참변으로 피해를 입었다.",
                   "type": "text"
                 }
@@ -7563,8 +7764,8 @@
                     404,
                     174
                   ],
-                  "score": 0.898,
-                  "content": "16.밑줄 친'이 시기'에 볼 수있는모습으로가장 적절한것은?",
+                  "score": 0.886,
+                  "content": "16.밑줄친'이 시기'에 볼수있는 모습으로가장 적절한 것은?",
                   "type": "text"
                 }
               ],
@@ -7578,74 +7779,6 @@
             404,
             174
           ]
-        },
-        {
-          "type": "image",
-          "bbox": [
-            104,
-            187,
-            220,
-            289
-          ],
-          "blocks": [
-            {
-              "type": "image_body",
-              "bbox": [
-                104,
-                187,
-                220,
-                289
-              ],
-              "group_id": 0,
-              "lines": [
-                {
-                  "bbox": [
-                    104,
-                    187,
-                    220,
-                    289
-                  ],
-                  "spans": [
-                    {
-                      "bbox": [
-                        104,
-                        187,
-                        220,
-                        289
-                      ],
-                      "score": 0.917,
-                      "type": "image",
-                      "image_path": "ea80e5105efe61b8a5fe784bb1be4fee986a79e9e5c35631d23c4835caf90f11.jpg"
-                    }
-                  ]
-                }
-              ],
-              "index": 3.5,
-              "virtual_lines": [
-                {
-                  "bbox": [
-                    104,
-                    187,
-                    220,
-                    238.0
-                  ],
-                  "spans": [],
-                  "index": 1
-                },
-                {
-                  "bbox": [
-                    104,
-                    238.0,
-                    220,
-                    289.0
-                  ],
-                  "spans": [],
-                  "index": 6
-                }
-              ]
-            }
-          ],
-          "index": 3.5
         },
         {
           "type": "text",
@@ -7671,12 +7804,12 @@
                     398,
                     208
                   ],
-                  "score": 0.948,
+                  "score": 0.945,
                   "content": "이 사진은일제가탑골공원의문을",
                   "type": "text"
                 }
               ],
-              "index": 2
+              "index": 1
             },
             {
               "bbox": [
@@ -7693,12 +7826,12 @@
                     398,
                     224
                   ],
-                  "score": 0.956,
+                  "score": 0.957,
                   "content": "뜯어내는 장면이다. 일제는 중일",
                   "type": "text"
                 }
               ],
-              "index": 3
+              "index": 2
             },
             {
               "bbox": [
@@ -7720,7 +7853,7 @@
                   "type": "text"
                 }
               ],
-              "index": 4
+              "index": 3
             },
             {
               "bbox": [
@@ -7737,12 +7870,12 @@
                     397,
                     257
                   ],
-                  "score": 0.938,
+                  "score": 0.95,
                   "content": "하던 이 시기에 사진과 같이 금속",
                   "type": "text"
                 }
               ],
-              "index": 5
+              "index": 4
             },
             {
               "bbox": [
@@ -7759,12 +7892,12 @@
                     396,
                     273
                   ],
-                  "score": 0.96,
+                  "score": 0.942,
                   "content": "소재로 제작된 문과 현판, 울타리",
                   "type": "text"
                 }
               ],
-              "index": 7
+              "index": 5
             },
             {
               "bbox": [
@@ -7781,19 +7914,59 @@
                     397,
                     290
                   ],
-                  "score": 0.979,
+                  "score": 0.98,
                   "content": "등도 가져가 군수 물자로 활용하였다.",
                   "type": "text"
                 }
               ],
-              "index": 8
+              "index": 7
             }
           ],
-          "index": 4.5,
+          "index": 3.5,
           "bbox_fs": [
             227,
             192,
             398,
+            290
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            104,
+            187,
+            220,
+            289
+          ],
+          "lines": [
+            {
+              "bbox": [
+                114,
+                247,
+                218,
+                290
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    114,
+                    247,
+                    218,
+                    290
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 6
+            }
+          ],
+          "index": 6,
+          "bbox_fs": [
+            114,
+            247,
+            218,
             290
           ]
         },
@@ -7821,12 +7994,12 @@
                     399,
                     310
                   ],
-                  "score": 0.948,
-                  "content": "또한애국반과 같은조직을활용하여금속류에 대한 공출을",
+                  "score": 0.921,
+                  "content": "또한애국반과 같은 조직을 활용하여금속류에 대한 공출을",
                   "type": "text"
                 }
               ],
-              "index": 9
+              "index": 8
             },
             {
               "bbox": [
@@ -7848,10 +8021,10 @@
                   "type": "text"
                 }
               ],
-              "index": 10
+              "index": 9
             }
           ],
-          "index": 9.5,
+          "index": 8.5,
           "bbox_fs": [
             104,
             290,
@@ -7897,12 +8070,12 @@
                     239,
                     353
                   ],
-                  "score": 0.972,
+                  "score": 0.973,
                   "content": "비변사에서 회의하는 관리",
                   "type": "text"
                 }
               ],
-              "index": 11
+              "index": 10
             },
             {
               "bbox": [
@@ -7933,12 +8106,12 @@
                     245,
                     371
                   ],
-                  "score": 0.906,
+                  "score": 0.912,
                   "content": "신사 참배에 동원되는 학생",
                   "type": "text"
                 }
               ],
-              "index": 12
+              "index": 11
             },
             {
               "bbox": [
@@ -7969,12 +8142,12 @@
                     255,
                     388
                   ],
-                  "score": 0.922,
-                  "content": "홍경래의 난에 참여하는 농민",
+                  "score": 0.909,
+                  "content": "홍경래의 난에 참여하는농민",
                   "type": "text"
                 }
               ],
-              "index": 13
+              "index": 12
             },
             {
               "bbox": [
@@ -8005,12 +8178,12 @@
                     255,
                     404
                   ],
-                  "score": 0.968,
+                  "score": 0.965,
                   "content": "13도 창의군을 이끄는 의병장",
                   "type": "text"
                 }
               ],
-              "index": 14
+              "index": 13
             },
             {
               "bbox": [
@@ -8041,15 +8214,15 @@
                     282,
                     422
                   ],
-                  "score": 0.946,
+                  "score": 0.957,
                   "content": "전태일 분신 사건을 취재하는 기자",
                   "type": "text"
                 }
               ],
-              "index": 15
+              "index": 14
             }
           ],
-          "index": 13,
+          "index": 12,
           "bbox_fs": [
             97,
             340,
@@ -8086,10 +8259,10 @@
                   "type": "text"
                 }
               ],
-              "index": 16
+              "index": 15
             }
           ],
-          "index": 16,
+          "index": 15,
           "bbox_fs": [
             87,
             475,
@@ -8121,15 +8294,15 @@
                     330,
                     533
                   ],
-                  "score": 0.919,
+                  "score": 0.92,
                   "content": "행동하는 국민 속에 박종철은 부활한다!",
                   "type": "text"
                 }
               ],
-              "index": 17
+              "index": 16
             }
           ],
-          "index": 17
+          "index": 16
         },
         {
           "type": "text",
@@ -8160,10 +8333,10 @@
                   "type": "text"
                 }
               ],
-              "index": 18
+              "index": 17
             }
           ],
-          "index": 18,
+          "index": 17,
           "bbox_fs": [
             129,
             542,
@@ -8200,7 +8373,7 @@
                   "type": "text"
                 }
               ],
-              "index": 19
+              "index": 18
             },
             {
               "bbox": [
@@ -8222,7 +8395,7 @@
                   "type": "text"
                 }
               ],
-              "index": 20
+              "index": 19
             },
             {
               "bbox": [
@@ -8244,7 +8417,7 @@
                   "type": "text"
                 }
               ],
-              "index": 21
+              "index": 20
             },
             {
               "bbox": [
@@ -8266,7 +8439,7 @@
                   "type": "text"
                 }
               ],
-              "index": 22
+              "index": 21
             },
             {
               "bbox": [
@@ -8288,7 +8461,7 @@
                   "type": "text"
                 }
               ],
-              "index": 23
+              "index": 22
             },
             {
               "bbox": [
@@ -8305,15 +8478,15 @@
                     300,
                     645
                   ],
-                  "score": 0.919,
+                  "score": 0.918,
                   "content": "위해, 이 땅의 민주화를 위해 함께 행동합시다.",
                   "type": "text"
                 }
               ],
-              "index": 24
+              "index": 23
             }
           ],
-          "index": 21.5,
+          "index": 20.5,
           "bbox_fs": [
             120,
             558,
@@ -8364,7 +8537,7 @@
                   "type": "text"
                 }
               ],
-              "index": 25,
+              "index": 24,
               "is_list_end_line": true
             },
             {
@@ -8396,12 +8569,12 @@
                     242,
                     705
                   ],
-                  "score": 0.946,
+                  "score": 0.955,
                   "content": "치안 유지법이 공포되었다.",
                   "type": "text"
                 }
               ],
-              "index": 26,
+              "index": 25,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8434,12 +8607,12 @@
                     268,
                     722
                   ],
-                  "score": 0.906,
+                  "score": 0.915,
                   "content": "내각 책임제 정부가 출범하였다.",
                   "type": "text"
                 }
               ],
-              "index": 27,
+              "index": 26,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8472,12 +8645,12 @@
                     279,
                     739
                   ],
-                  "score": 0.988,
+                  "score": 0.985,
                   "content": "대통령 직선제 개헌이 이루어졌다.",
                   "type": "text"
                 }
               ],
-              "index": 28,
+              "index": 27,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8515,12 +8688,12 @@
                   "type": "text"
                 }
               ],
-              "index": 29,
+              "index": 28,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 27,
+          "index": 26,
           "bbox_fs": [
             97,
             673,
@@ -8557,10 +8730,10 @@
                   "type": "text"
                 }
               ],
-              "index": 30
+              "index": 29
             }
           ],
-          "index": 30,
+          "index": 29,
           "bbox_fs": [
             85,
             809,
@@ -8597,10 +8770,10 @@
                   "type": "text"
                 }
               ],
-              "index": 31
+              "index": 30
             }
           ],
-          "index": 31,
+          "index": 30,
           "bbox_fs": [
             325,
             847,
@@ -8637,7 +8810,7 @@
                   "type": "text"
                 }
               ],
-              "index": 32
+              "index": 31
             },
             {
               "bbox": [
@@ -8659,10 +8832,10 @@
                   "type": "text"
                 }
               ],
-              "index": 33
+              "index": 32
             }
           ],
-          "index": 32.5
+          "index": 31.5
         },
         {
           "type": "title",
@@ -8693,10 +8866,10 @@
                   "type": "text"
                 }
               ],
-              "index": 34
+              "index": 33
             }
           ],
-          "index": 34
+          "index": 33
         },
         {
           "type": "text",
@@ -8722,12 +8895,12 @@
                     387,
                     909
                   ],
-                  "score": 0.902,
+                  "score": 0.886,
                   "content": "19스스년1월22일은'3당 합당'이 발표된 날이다.제13대 국회 의원",
                   "type": "text"
                 }
               ],
-              "index": 35
+              "index": 34
             },
             {
               "bbox": [
@@ -8744,12 +8917,12 @@
                     387,
                     924
                   ],
-                  "score": 0.904,
+                  "score": 0.905,
                   "content": "선거에서 야당의 의석수가 집권 여당보다 많은 이른바'여소야대'국면이",
                   "type": "text"
                 }
               ],
-              "index": 36
+              "index": 35
             },
             {
               "bbox": [
@@ -8771,7 +8944,7 @@
                   "type": "text"
                 }
               ],
-              "index": 37
+              "index": 36
             },
             {
               "bbox": [
@@ -8788,12 +8961,12 @@
                     387,
                     954
                   ],
-                  "score": 0.926,
+                  "score": 0.92,
                   "content": "통일 민주당, 신민주 공화당 등 두 야당과 통합하여 과반수 이상의",
                   "type": "text"
                 }
               ],
-              "index": 38
+              "index": 37
             },
             {
               "bbox": [
@@ -8810,15 +8983,15 @@
                     289,
                     969
                   ],
-                  "score": 0.905,
+                  "score": 0.912,
                   "content": "의석을 차지하는 민주 자유당을 창당하였다.",
                   "type": "text"
                 }
               ],
-              "index": 39
+              "index": 38
             }
           ],
-          "index": 37,
+          "index": 36,
           "bbox_fs": [
             117,
             897,
@@ -8875,12 +9048,12 @@
                     289,
                     1001
                   ],
-                  "score": 0.934,
+                  "score": 0.933,
                   "content": "남북 공동 선언이 발표되었다.",
                   "type": "text"
                 }
               ],
-              "index": 40,
+              "index": 39,
               "is_list_end_line": true
             },
             {
@@ -8912,12 +9085,12 @@
                     285,
                     1017
                   ],
-                  "score": 0.963,
+                  "score": 0.974,
                   "content": "국가 재건 최고 회의가 조직되었다.",
                   "type": "text"
                 }
               ],
-              "index": 41,
+              "index": 40,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8950,12 +9123,12 @@
                     268,
                     1035
                   ],
-                  "score": 0.917,
+                  "score": 0.915,
                   "content": "남북기본 합의서가채택되었다.",
                   "type": "text"
                 }
               ],
-              "index": 42,
+              "index": 41,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8988,12 +9161,12 @@
                     268,
                     1051
                   ],
-                  "score": 0.922,
+                  "score": 0.901,
                   "content": "좌우 합작 위원회가 결성되었다.",
                   "type": "text"
                 }
               ],
-              "index": 43,
+              "index": 42,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -9031,12 +9204,12 @@
                   "type": "text"
                 }
               ],
-              "index": 44,
+              "index": 43,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 42,
+          "index": 41,
           "bbox_fs": [
             97,
             986,
@@ -9073,10 +9246,10 @@
                   "type": "text"
                 }
               ],
-              "index": 45
+              "index": 44
             }
           ],
-          "index": 45,
+          "index": 44,
           "bbox_fs": [
             435,
             156,
@@ -9108,12 +9281,12 @@
                     746,
                     207
                   ],
-                  "score": 0.892,
+                  "score": 0.896,
                   "content": "어제 21일 김규식은 출발에 앞서 이번 북행()에 대한 소견을",
                   "type": "text"
                 }
               ],
-              "index": 46
+              "index": 45
             },
             {
               "bbox": [
@@ -9135,7 +9308,7 @@
                   "type": "text"
                 }
               ],
-              "index": 47
+              "index": 46
             },
             {
               "bbox": [
@@ -9152,12 +9325,12 @@
                     746,
                     240
                   ],
-                  "score": 0.955,
+                  "score": 0.945,
                   "content": "조국을 통일시켜야 한다는 데서 남북 협상을 제안하였던 것이다.",
                   "type": "text"
                 }
               ],
-              "index": 48
+              "index": 47
             },
             {
               "bbox": [
@@ -9179,7 +9352,7 @@
                   "type": "text"
                 }
               ],
-              "index": 49
+              "index": 48
             },
             {
               "bbox": [
@@ -9201,7 +9374,7 @@
                   "type": "text"
                 }
               ],
-              "index": 50
+              "index": 49
             },
             {
               "bbox": [
@@ -9218,15 +9391,15 @@
                     635,
                     290
                   ],
-                  "score": 0.993,
+                  "score": 0.972,
                   "content": "다음과 같은 원칙을 제시할 예정이다.",
                   "type": "text"
                 }
               ],
-              "index": 51
+              "index": 50
             }
           ],
-          "index": 48.5,
+          "index": 47.5,
           "bbox_fs": [
             455,
             192,
@@ -9263,7 +9436,7 @@
                   "type": "text"
                 }
               ],
-              "index": 52
+              "index": 51
             },
             {
               "bbox": [
@@ -9285,10 +9458,10 @@
                   "type": "text"
                 }
               ],
-              "index": 53
+              "index": 52
             }
           ],
-          "index": 52.5,
+          "index": 51.5,
           "bbox_fs": [
             459,
             296,
@@ -9325,10 +9498,10 @@
                   "type": "text"
                 }
               ],
-              "index": 54
+              "index": 53
             }
           ],
-          "index": 54
+          "index": 53
         },
         {
           "type": "text",
@@ -9359,7 +9532,7 @@
                   "type": "text"
                 }
               ],
-              "index": 55
+              "index": 54
             },
             {
               "bbox": [
@@ -9376,15 +9549,15 @@
                     745,
                     376
                   ],
-                  "score": 0.991,
+                  "score": 0.976,
                   "content": "철수 조건 및 기일 등을 협정하여 공포하라고 주장할 것.\"",
                   "type": "text"
                 }
               ],
-              "index": 56
+              "index": 55
             }
           ],
-          "index": 55.5,
+          "index": 54.5,
           "bbox_fs": [
             459,
             345,
@@ -9434,7 +9607,7 @@
                   ]
                 }
               ],
-              "index": 57,
+              "index": 56,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -9444,12 +9617,12 @@
                     416
                   ],
                   "spans": [],
-                  "index": 57
+                  "index": 56
                 }
               ]
             }
           ],
-          "index": 57
+          "index": 56
         },
         {
           "type": "table",
@@ -9493,7 +9666,7 @@
                   ]
                 }
               ],
-              "index": 58,
+              "index": 57,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -9503,12 +9676,12 @@
                     441
                   ],
                   "spans": [],
-                  "index": 58
+                  "index": 57
                 }
               ]
             }
           ],
-          "index": 58
+          "index": 57
         },
         {
           "type": "text",
@@ -9521,12 +9694,23 @@
           "lines": [
             {
               "bbox": [
-                446,
+                444,
                 446,
                 730,
                 467
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    446,
+                    445,
+                    467
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -9550,6 +9734,17 @@
                   ],
                   "score": 0.845,
                   "content": "(가)",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    505,
+                    447,
+                    506,
+                    466
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -9611,12 +9806,12 @@
                   "type": "text"
                 }
               ],
-              "index": 59
+              "index": 58
             }
           ],
-          "index": 59,
+          "index": 58,
           "bbox_fs": [
-            446,
+            444,
             446,
             730,
             467
@@ -9646,15 +9841,15 @@
                     712,
                     576
                   ],
-                  "score": 0.925,
+                  "score": 0.926,
                   "content": "20. 다음 자료를 활용한 탐구 주제로 가장 적절한 것은?",
                   "type": "text"
                 }
               ],
-              "index": 60
+              "index": 59
             }
           ],
-          "index": 60,
+          "index": 59,
           "bbox_fs": [
             434,
             559,
@@ -9686,12 +9881,12 @@
                     732,
                     611
                   ],
-                  "score": 0.901,
-                  "content": "저는경제 대국으로 발전해가는 한국이'나의 고향'이라는",
+                  "score": 0.89,
+                  "content": "저는 경제 대국으로 발전해가는 한국이'나의 고향'이라는",
                   "type": "text"
                 }
               ],
-              "index": 61
+              "index": 60
             },
             {
               "bbox": [
@@ -9713,7 +9908,7 @@
                   "type": "text"
                 }
               ],
-              "index": 62
+              "index": 61
             },
             {
               "bbox": [
@@ -9730,12 +9925,12 @@
                     731,
                     646
                   ],
-                  "score": 0.891,
+                  "score": 0.886,
                   "content": "처했다는 소식을 듣고 크게 놀랐습니다 어느덧 해가 바뀌면서",
                   "type": "text"
                 }
               ],
-              "index": 63
+              "index": 62
             },
             {
               "bbox": [
@@ -9752,12 +9947,12 @@
                     732,
                     665
                   ],
-                  "score": 0.867,
+                  "score": 0.869,
                   "content": "‘아이엠에프(IMF)'한파로 꽁꽁 얼어붙었던 고국의 경제 상황이",
                   "type": "text"
                 }
               ],
-              "index": 64
+              "index": 63
             },
             {
               "bbox": [
@@ -9779,7 +9974,7 @@
                   "type": "text"
                 }
               ],
-              "index": 65
+              "index": 64
             },
             {
               "bbox": [
@@ -9796,12 +9991,12 @@
                     731,
                     701
                   ],
-                  "score": 0.854,
+                  "score": 0.852,
                   "content": "만주 땅까지 전해져 오고 있습니다. …(중략)… 저는 해외 동포의",
                   "type": "text"
                 }
               ],
-              "index": 66
+              "index": 65
             },
             {
               "bbox": [
@@ -9823,7 +10018,7 @@
                   "type": "text"
                 }
               ],
-              "index": 67
+              "index": 66
             },
             {
               "bbox": [
@@ -9845,7 +10040,7 @@
                   "type": "text"
                 }
               ],
-              "index": 68
+              "index": 67
             },
             {
               "bbox": [
@@ -9867,7 +10062,7 @@
                   "type": "text"
                 }
               ],
-              "index": 69
+              "index": 68
             },
             {
               "bbox": [
@@ -9889,10 +10084,10 @@
                   "type": "text"
                 }
               ],
-              "index": 70
+              "index": 69
             }
           ],
-          "index": 65.5,
+          "index": 64.5,
           "bbox_fs": [
             469,
             597,
@@ -9929,10 +10124,10 @@
                   "type": "text"
                 }
               ],
-              "index": 71
+              "index": 70
             }
           ],
-          "index": 71,
+          "index": 70,
           "bbox_fs": [
             573,
             791,
@@ -9983,7 +10178,7 @@
                   "type": "text"
                 }
               ],
-              "index": 72,
+              "index": 71,
               "is_list_start_line": true
             },
             {
@@ -10015,12 +10210,12 @@
                     583,
                     862
                   ],
-                  "score": 0.907,
+                  "score": 0.906,
                   "content": "암태도 소작 쟁의의 전개",
                   "type": "text"
                 }
               ],
-              "index": 73,
+              "index": 72,
               "is_list_start_line": true
             },
             {
@@ -10052,12 +10247,12 @@
                     600,
                     878
                   ],
-                  "score": 0.953,
+                  "score": 0.966,
                   "content": "화폐 정리 사업 실시의 영향",
                   "type": "text"
                 }
               ],
-              "index": 74,
+              "index": 73,
               "is_list_start_line": true
             },
             {
@@ -10089,12 +10284,12 @@
                     619,
                     896
                   ],
-                  "score": 0.958,
+                  "score": 0.956,
                   "content": "동양 척식 주식회사의 설립 목적",
                   "type": "text"
                 }
               ],
-              "index": 75,
+              "index": 74,
               "is_list_start_line": true
             },
             {
@@ -10126,16 +10321,16 @@
                     660,
                     912
                   ],
-                  "score": 0.902,
+                  "score": 0.903,
                   "content": "제1차 경제 개발 5개년 계획의 추진 배경",
                   "type": "text"
                 }
               ],
-              "index": 76,
+              "index": 75,
               "is_list_start_line": true
             }
           ],
-          "index": 74,
+          "index": 73,
           "bbox_fs": [
             445,
             830,
@@ -10172,10 +10367,10 @@
                   "type": "text"
                 }
               ],
-              "index": 77
+              "index": 76
             }
           ],
-          "index": 77,
+          "index": 76,
           "bbox_fs": [
             445,
             1006,
@@ -10207,12 +10402,12 @@
                     744,
                     1045
                   ],
-                  "score": 0.981,
+                  "score": 0.97,
                   "content": "ㅇ답안지의 해당란에 필요한 내용을 정확히 기입(표기) 했는지 확인",
                   "type": "text"
                 }
               ],
-              "index": 78
+              "index": 77
             },
             {
               "bbox": [
@@ -10234,10 +10429,10 @@
                   "type": "text"
                 }
               ],
-              "index": 79
+              "index": 78
             }
           ],
-          "index": 78.5,
+          "index": 77.5,
           "bbox_fs": [
             447,
             1031,
@@ -10249,5 +10444,5 @@
     }
   ],
   "_backend": "pipeline",
-  "_version_name": "2.5.4"
+  "_version_name": "2.6.2"
 }

@@ -296,7 +296,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음 두 사례에 공통으로 나타난 시장 실패의 원인으로 가장 적절한 것은?",
+    "text": ". 다음 두 사례에 공통으로 나타난 시장 실패의 원인으로 가장 적절한 것은?\n",
     "bbox": [
       86,
       520,
@@ -307,10 +307,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9841,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 280,
-      "end_orig": 323,
+      "start_orig": 281,
+      "end_orig": 324,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -391,6 +391,106 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 515,
       "end_orig": 585,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "갑국 정부는 시장 균형에서 거래되고 있는 X재 시장에 실효성 있는 가격 규제 정책",
+    "bbox": [
+      455,
+      289,
+      745,
+      319
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1166,
+      "end_orig": 1211,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 } \\mathsf { H } )",
+    "bbox": [
+      546,
+      306,
+      565,
+      320
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "),  (나)  중 하나를 시행하려고 한다.  그림의",
+    "bbox": [
+      565,
+      306,
+      745,
+      319
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9744,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1214,
+      "end_orig": 1243,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A점은 (가),  B점은 (나)  시행에 따른 시장 가격과 시장 거래량의 변화율을  나타낸다.  단,  X재는  수요와  공급  법칙을  따르고",
+    "bbox": [
+      454,
+      322,
+      746,
+      353
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1244,
+      "end_orig": 1324,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(가),  (나)  시행 전후 수요와 공급의 변동은 없으며,  암시장은 발생하지 않는다.",
+    "bbox": [
+      455,
+      356,
+      746,
+      387
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1325,
+      "end_orig": 1374,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -516,6 +616,26 @@
   },
   {
     "type": "text",
+    "text": "4. 다음 자료에 대한 분석으로 옳은 것은?  [3점]",
+    "bbox": [
+      434,
+      254,
+      672,
+      273
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1135,
+      "end_orig": 1165,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
     "text": "① A공연 표의 가격은 1만 원이다.\n",
     "bbox": [
       97,
@@ -596,7 +716,7 @@
   },
   {
     "type": "text",
-    "text": "⑤ B 공연 표가 1회당 평균 80장 판매될 것으로 정확히 예측되었다면, ㉠을 위한 B 공연 표의 가격은 2만 5천 원이다.\n경",
+    "text": "⑤ B 공연 표가 1회당 평균 80장 판매될 것으로 정확히 예측되었다면, ㉠을 위한 B 공연 표의 가격은 2만 5천 원이다.\n",
     "bbox": [
       97,
       1036,
@@ -607,146 +727,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9703,
+      "similarity": 0.98,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1062,
-      "end_orig": 1133,
+      "end_orig": 1132,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "text",
-    "text": "4. 다음 자료에 대한 분석으로 옳은 것은?  [3점] ",
-    "bbox": [
-      434,
-      254,
-      672,
-      273
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 1135,
-      "end_orig": 1166,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "갑국 정부는 시장 균형에서 거래되고 있는 X재 시장에 실효성 있는 가격 규제 정책",
-    "bbox": [
-      455,
-      289,
-      745,
-      319
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 1166,
-      "end_orig": 1211,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 } \\mathsf { H } )",
-    "bbox": [
-      546,
-      306,
-      565,
-      320
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
-    "type": "text",
-    "text": "),  (나)  중 하나를 시행하려고 한다.  그림의",
-    "bbox": [
-      565,
-      306,
-      745,
-      319
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9744,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 1214,
-      "end_orig": 1243,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "A점은 (가),  B점은 (나)  시행에 따른 시장 가격과 시장 거래량의 변화율을  나타낸다.  단,  X재는  수요와  공급  법칙을  따르고",
-    "bbox": [
-      454,
-      322,
-      746,
-      353
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 1244,
-      "end_orig": 1324,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "(가),  (나)  시행 전후 수요와 공급의 변동은 없으며,  암시장은 발생하지 않는다.",
-    "bbox": [
-      455,
-      356,
-      746,
-      387
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 1325,
-      "end_orig": 1374,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      518,
-      391,
-      687,
-      502
-    ],
-    "page_idx": 0,
-    "image_path": "441bd418eb51aa4ddb5d07ff0ef7b0a41d6c1db8bfc5f443412c65819a8de4b6.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -929,6 +915,20 @@
     }
   },
   {
+    "type": "image",
+    "bbox": [
+      518,
+      391,
+      687,
+      502
+    ],
+    "page_idx": 0,
+    "image_path": "441bd418eb51aa4ddb5d07ff0ef7b0a41d6c1db8bfc5f443412c65819a8de4b6.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
     "type": "text",
     "text": "5. 다음 자료에 대한 옳은 분석 및 추론만을 <보기",
     "bbox": [
@@ -1105,7 +1105,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       457,
       920,
@@ -1118,8 +1118,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2357,
-      "end_orig": 2359,
+      "start_orig": 1855,
+      "end_orig": 1857,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1176,16 +1176,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9773,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1925,
       "end_orig": 1981,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "2.",
+    "text": "ㄹ.",
     "bbox": [
       456,
       1004,
@@ -1195,12 +1195,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2481,
-      "end_orig": 2483,
-      "reason": "low_similarity"
+      "start_orig": 1981,
+      "end_orig": 1983,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1525,7 +1525,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음 자료에 대한 분석으로 옳은 것은?  [3점]",
+    "text": ". 다음 자료에 대한 분석으로 옳은 것은?  [3점] ",
     "bbox": [
       85,
       499,
@@ -1536,10 +1536,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9767,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6695,
-      "end_orig": 6725,
+      "start_orig": 2358,
+      "end_orig": 2388,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1576,11 +1576,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.2419,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2408,
+      "end_orig": 2491,
+      "reason": "low_similarity"
     }
   },
   {
@@ -1638,8 +1638,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6975,
-      "end_orig": 6976,
+      "start_orig": 2524,
+      "end_orig": 2525,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1718,8 +1718,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7056,
-      "end_orig": 7057,
+      "start_orig": 2576,
+      "end_orig": 2577,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1920,7 +1920,7 @@
   },
   {
     "type": "text",
-    "text": "소득-비소비 지출 ① ⑦ 은 비경상 소득에 해당한다.",
+    "text": "소득-비소비 지출 ① ⑦ 은비경상 소득에 해당한다.",
     "bbox": [
       97,
       941,
@@ -2033,8 +2033,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7508,
-      "end_orig": 7532,
+      "start_orig": 2982,
+      "end_orig": 3006,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2750,7 +2750,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       456,
       970,
@@ -2760,12 +2760,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7727,
-      "end_orig": 7728,
-      "reason": "low_similarity"
+      "start_orig": 4021,
+      "end_orig": 4023,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2790,7 +2790,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       456,
       987,
@@ -2800,12 +2800,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4047,
+      "end_orig": 4049,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2903,8 +2903,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7727,
-      "end_orig": 7728,
+      "start_orig": 5732,
+      "end_orig": 5733,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3030,7 +3030,7 @@
   },
   {
     "type": "text",
-    "text": "2.",
+    "text": "ㄹ.",
     "bbox": [
       456,
       1021,
@@ -3040,12 +3040,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.5,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8442,
-      "end_orig": 8444,
-      "reason": "low_similarity"
+      "start_orig": 4109,
+      "end_orig": 4111,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4504,7 +4504,7 @@
       852
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=\"2\">t+1기</td><td rowspan=\"2\">국내 생산자에게 X재 1개당 지급한 결과 국내 생산량은 10만 개,수입량은 4만 개가 됨.</td><td>L</td><td>|달러의 보조금을</td></tr><tr><td></td><td></td></tr></table>",
+    "table_body": "<table><tr><td rowspan=\"2\">t+1기</td><td rowspan=\"2\">국내 생산자에게 X재 1개당 지급한 결과 국내 생산량은 10만 개,수입량은 4만 개가 됨.</td><td>L</td><td>달러의 보조금을</td></tr><tr><td></td><td></td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "c54a8f5cc3814a39e48ed4fd8548fd6b65fbfa24de84d4e700a12f240dad1f2c.jpg",
@@ -4707,7 +4707,7 @@
   },
   {
     "type": "text",
-    "text": "최근갑국과을국의 갑국은 물가가 안정된 반면 을국은 소비 지출의 증가로 경기 상황에 대해 수출 부진으로실업률이 고용은늘어났지만ㄴ극심한 말씀해 주십시오 빠르게 상승하고 있습니다.",
+    "text": "최근갑국과을국의 갑국은 물가가 안정된 반면 을국은 소비 지출의 증가로 경기 상황에 대해 수출부진으로실업률이 고용은늘어났지만ㄴ극심한 말씀해 주십시오 빠르게 상승하고 있습니다.",
     "bbox": [
       108,
       203,

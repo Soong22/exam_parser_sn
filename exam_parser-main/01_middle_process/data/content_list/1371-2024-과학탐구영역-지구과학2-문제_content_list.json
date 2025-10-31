@@ -64,7 +64,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옮은 것만을<보기>에서있는 대로 고른 것은?",
+    "text": "이에 대한 설명으로 옮은 것만을 <보기>에서있는 대로 고른 것은?",
     "bbox": [
       108,
       358,
@@ -169,7 +169,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은것만을<보기",
+    "text": "이에 대한 설명으로 옳은것만을<보>",
     "bbox": [
       106,
       669,
@@ -246,7 +246,7 @@
   },
   {
     "type": "text",
-    "text": "①7 ② ㄷ ③ 7,L ④L,ㄷ ⑤ 7,L,ㄷ",
+    "text": "①7 ② ㄷ ③ 7,L ④L,ㄷ ⑤7,L,ㄷ",
     "bbox": [
       94,
       790,
@@ -263,42 +263,6 @@
       847,
       406,
       881
-    ],
-    "page_idx": 0
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      888,
-      404,
-      1023
-    ],
-    "page_idx": 0,
-    "image_path": "3d1a31fd42f4741b5064be6e5f3479279c176c7c345d5a4bda74896d151e5703.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "text",
-    "text": "제시한 내용이 옳은 학생만을 있는 대로 고른 것은? [3점]",
-    "bbox": [
-      107,
-      1029,
-      388,
-      1046
-    ],
-    "page_idx": 0
-  },
-  {
-    "type": "text",
-    "text": "① A ② C ③ A, B ④ B C ⑤ A, B,C",
-    "bbox": [
-      95,
-      1050,
-      403,
-      1071
     ],
     "page_idx": 0
   },
@@ -323,6 +287,20 @@
     ],
     "page_idx": 0,
     "image_path": "fb4a2a652580f28363fb443669ecce2a8771d7bef298c21643439108a589b752.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      888,
+      404,
+      1023
+    ],
+    "page_idx": 0,
+    "image_path": "3d1a31fd42f4741b5064be6e5f3479279c176c7c345d5a4bda74896d151e5703.jpg",
     "alt": "",
     "caption": null,
     "original_type": "image"
@@ -427,6 +405,28 @@
     "page_idx": 0
   },
   {
+    "type": "text",
+    "text": "제시한 내용이 옳은 학생만을 있는 대로 고른 것은? [3점]",
+    "bbox": [
+      107,
+      1029,
+      388,
+      1046
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "① A ② C ③ A, B ④ B C ⑤ A, B,C",
+    "bbox": [
+      95,
+      1050,
+      403,
+      1071
+    ],
+    "page_idx": 0
+  },
+  {
     "type": "interline_equation",
     "content": "\\begin{array} { r l } \\mathbb { D } \\setminus \\{ \\mathrm { ~ ~ { ~ \\mathbb ~ { ~ Q ~ } ~ } ~ } \\} \\subset \\{ \\mathrm { ~ ~ { ~ \\mathbb ~ { ~ Q ~ } ~ } ~ } \\} \\subset \\{ \\mathrm { ~ ~ { ~ \\mathbb ~ { ~ Q ~ } ~ } ~ } \\}, \\cup \\{ \\mathrm { ~ ~ { ~ \\mathbb ~ { ~ Q ~ } ~ } ~ } \\} \\subset \\{ \\mathrm { ~ ~ { ~ \\mathbb ~ { ~ Q ~ } ~ } ~ } \\}, \\cup \\{ \\mathrm { ~ ~ { ~ \\mathbb ~ { ~ Q ~ } ~ } ~ } \\} \\subset \\{ \\mathrm { ~ ~ { ~ \\mathbb ~ { ~ Q ~ } ~ } ~ } \\}. \\cup \\{ \\mathrm { ~ ~ { ~ \\mathbb ~ { ~ Q ~ } ~ } ~ } \\} \\subset \\{ \\mathrm { ~ \\mathbb ~ { ~ Q ~ } ~ } \\} \\setminus \\{ \\mathrm { ~ \\mathbb ~ { ~ Q } ~ } \\} \\setminus \\{ \\mathrm { ~ \\mathbb ~ { ~ Q } ~ } \\} \\setminus \\{ \\mathrm { ~ \\mathbb ~ { ~ Q } ~ } \\} \\setminus \\{ \\mathrm { ~ \\mathbb ~ { ~ Q } ~ } \\} \\} \\end{array}",
     "bbox": [
@@ -451,7 +451,7 @@
   },
   {
     "type": "text",
-    "text": "35000(cd) 6) 칼륨 칼륨 30000 루라늄 50- 루라눔 2000 방출열량 30 40 (mg/kg) 15000 (10−11W/kg) 20 10000 5 10 0 0 화강암 현무암 화강암 현무암 (가) (나)",
+    "text": "35000(cd) 6) 칼륨 칼륨 30000 루라늄 50- 루라눔 2000 30 40 (mg/kg) 15000 (10−11W/kg) 20 10000 5 10 0 0 화강암 현무암 화강암 현무암 (가) (나)",
     "bbox": [
       455,
       719,
@@ -550,7 +550,7 @@
   },
   {
     "type": "text",
-    "text": "6.그림(가)는 우주 거대 구조를,(나)는(가)의 일부 영역을 모식적으로 나타낸 것이다. (나)의",
+    "text": "6.그림(가)는 우주 거대 구조를,(나)는 (가)의 일부 영역을 모식적으로 나타낸 것이다. (나)의",
     "bbox": [
       85,
       158,
@@ -776,7 +776,7 @@
   },
   {
     "type": "text",
-    "text": "이에대한 설명으로옳은것만을<보>",
+    "text": "이에 대한 설명으로옳은 것만을<보기",
     "bbox": [
       107,
       655,
@@ -1010,7 +1010,7 @@
   },
   {
     "type": "text",
-    "text": "①7 ② L ③ 7,ㄷ ④ㄴ,ㄷ ⑤7,ㄴ,ㄷ",
+    "text": "①7 ② L ③ 7,ㄷ ④ㄴ,ㄷ ⑤7,L,ㄷ",
     "bbox": [
       94,
       1051,
@@ -1076,7 +1076,7 @@
   },
   {
     "type": "text",
-    "text": "(라) 그림Ⅱ와 같이원반에서복각계의자침(N극)이가리키는 방향을 확인하고 각도를 읽는다.",
+    "text": "(라)그림Ⅱ와같이원반에서복각계의자침(N극)이가리키는 방향을 확인하고 각도를 읽는다.",
     "bbox": [
       453,
       321,
@@ -1403,7 +1403,7 @@
   },
   {
     "type": "text",
-    "text": "사면체결합구조와원자수의 비를 나타낸 것이다.A,B,C는 각각 석영,휘석,흑운모 중 하나이다.",
+    "text": "사면체결합 구조와원자수의 비를 나타낸 것이다.A,B,C는 각각 석영,휘석,흑운모 중 하나이다.",
     "bbox": [
       98,
       159,
@@ -1588,7 +1588,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옮은것만을<보기",
+    "text": "이에 대한 설명으로 옮은것만을<보>",
     "bbox": [
       107,
       650,
@@ -1716,7 +1716,7 @@
       911
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>지질 시대</td><td rowspan=1 colspan=4>고생대</td><td rowspan=1 colspan=4>중생대</td><td rowspan=1 colspan=2>신생대</td></tr><tr><td rowspan=1 colspan=1>브리아기</td><td rowspan=1 colspan=1>어르도비스기 실루리아기  데본기</td><td rowspan=1 colspan=1>석탄기</td><td rowspan=1 colspan=1>페름기</td><td rowspan=1 colspan=1>트라이아스기</td><td rowspan=1 colspan=2>쥐라기</td><td rowspan=1 colspan=1>백악기</td><td rowspan=1 colspan=1>팔레오기</td><td rowspan=1 colspan=1>네어기</td></tr><tr><td rowspan=1 colspan=1>지질계통</td><td rowspan=1 colspan=6>A                         B</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+    "table_body": "<table><tr><td rowspan=2 colspan=1>지질 시대</td><td rowspan=1 colspan=4>고생대</td><td rowspan=1 colspan=4>중생대</td><td rowspan=1 colspan=2>신생대</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>   </td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>쥐라기</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>지질계통</td><td rowspan=1 colspan=6>A                         B</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "eb86a5c9bcf36f751f7bab7596b195eb05864a0dd93c3b053656f0c85641029b.jpg",
@@ -1801,7 +1801,7 @@
   },
   {
     "type": "text",
-    "text": "①7 ② ㄷ ③ 7,L ④ㄴ,ㄷ ⑤7,ㄴ,ㄷ",
+    "text": "①7 ② ㄷ ③ 7,L ④ㄴ,ㄷ ⑤7,L,ㄷ",
     "bbox": [
       94,
       1051,
@@ -1861,7 +1861,7 @@
   },
   {
     "type": "text",
-    "text": "이자료에대한 설명으로옳은것만을<보기",
+    "text": "이자료에대한설명으로옳은것만을<보>",
     "bbox": [
       456,
       361,
@@ -2026,7 +2026,7 @@
   },
   {
     "type": "text",
-    "text": "15.표는편광현미경으로관찰한암석A와B의박편사진을 나타낸 것이다. A와 B는 각각 규암과 편마암 중 하나이고,",
+    "text": "15.표는편광현미경으로관찰한암석A와B의박편사진을 나타낸 것이다.A와 B는 각각 규암과 편마암 중 하나이고,",
     "bbox": [
       435,
       669,
@@ -2187,7 +2187,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ.(가)는(나)보다 성간 티끌에의한 소광의영향을 적게받았다.",
+    "text": "ㄷ.(가)는(나)보다성간 티끌에의한 소광의영향을 적게 받았다.",
     "bbox": [
       106,
       370,
@@ -2525,6 +2525,17 @@
     "page_idx": 3
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      751,
+      371,
+      756,
+      387
+    ],
+    "page_idx": 3
+  },
+  {
     "type": "inline_equation",
     "content": "2 \\varOmega \\sin \\phi = 1 0 ^ { - 4 } / \\mathrm { s } \\diamondsuit \\vert \\mathrm { u }",
     "bbox": [
@@ -2658,7 +2669,7 @@
   },
   {
     "type": "text",
-    "text": "간격으로해가 진 후 같은시각에 관측한 행성 A,행성 B,별 C의 상대적인 위치 변화를 나타낸 것이다.A와 B는 각각 금성과 화성 중 하나이다.",
+    "text": "간격으로해가 진 후 같은 시각에 관측한 행성 A,행성 B,별 C의 상대적인 위치 변화를 나타낸 것이다.A와 B는 각각 금성과 화성 중 하나이다.",
     "bbox": [
       446,
       628,
@@ -2705,7 +2716,7 @@
   },
   {
     "type": "text",
-    "text": "에서 있는 대로 고른 것은?(단,방위각은 북점을 기준으로 측정한다.)[3점]",
+    "text": "에서 있는 대로 고른 것은?(단,방위각은 북점을 기준으로 측정한다.) [3점]",
     "bbox": [
       446,
       783,

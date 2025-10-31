@@ -7,7 +7,7 @@ from typing import Any, Dict, List, Optional, Iterable, Tuple
 # 하드코딩 경로 
 # ============================================================
 INPUT_MIDDLE_DIR     = Path(r"exam_parser-main\01_middle_process\data\middle")
-OUTPUT_CLEANED_DIR   = Path(r"exam_parser-main\01_middle_process/data/cleaned")
+OUTPUT_CLEANED_DIR   = Path(r"exam_parser-main\01_middle_process\data\cleand")
 OUTPUT_CLEANED_DIR.mkdir(parents=True, exist_ok=True)
 
 # ============================================================

@@ -35,32 +35,11 @@
                   "content": "제5교시",
                   "type": "text"
                 }
-              ]
+              ],
+              "index": 0
             }
           ],
-          "index": 0.5,
-          "virtual_lines": [
-            {
-              "bbox": [
-                84,
-                153,
-                181,
-                171.5
-              ],
-              "spans": [],
-              "index": 0
-            },
-            {
-              "bbox": [
-                84,
-                171.5,
-                181,
-                190.0
-              ],
-              "spans": [],
-              "index": 1
-            }
-          ]
+          "index": 0
         },
         {
           "type": "title",
@@ -104,7 +83,7 @@
               ]
             }
           ],
-          "index": 3,
+          "index": 2,
           "virtual_lines": [
             {
               "bbox": [
@@ -114,7 +93,7 @@
                 164.66666666666666
               ],
               "spans": [],
-              "index": 2
+              "index": 1
             },
             {
               "bbox": [
@@ -124,7 +103,7 @@
                 180.33333333333331
               ],
               "spans": [],
-              "index": 3
+              "index": 2
             },
             {
               "bbox": [
@@ -134,7 +113,7 @@
                 195.99999999999997
               ],
               "spans": [],
-              "index": 4
+              "index": 3
             }
           ]
         },
@@ -180,7 +159,7 @@
                   ]
                 }
               ],
-              "index": 5,
+              "index": 4,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -190,12 +169,12 @@
                     238
                   ],
                   "spans": [],
-                  "index": 5
+                  "index": 4
                 }
               ]
             }
           ],
-          "index": 5
+          "index": 4
         },
         {
           "type": "text",
@@ -221,59 +200,19 @@
                     212,
                     272
                   ],
-                  "score": 0.951,
+                  "score": 0.959,
                   "content": "1.에 들어갈 글자는?",
                   "type": "text"
                 }
               ],
-              "index": 6
+              "index": 5
             }
           ],
-          "index": 6,
+          "index": 5,
           "bbox_fs": [
             86,
             256,
             212,
-            272
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            433,
-            255,
-            621,
-            271
-          ],
-          "lines": [
-            {
-              "bbox": [
-                434,
-                254,
-                621,
-                272
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    434,
-                    254,
-                    621,
-                    272
-                  ],
-                  "score": 0.862,
-                  "content": "6. 빈간에 들어갈 말로 알맞은 것은?",
-                  "type": "text"
-                }
-              ],
-              "index": 7
-            }
-          ],
-          "index": 7,
-          "bbox_fs": [
-            434,
-            254,
-            621,
             272
           ]
         },
@@ -318,14 +257,34 @@
                   ]
                 }
               ],
-              "index": 10.5,
+              "index": 8,
               "virtual_lines": [
                 {
                   "bbox": [
                     97,
                     279,
                     308,
-                    297.0
+                    300.6
+                  ],
+                  "spans": [],
+                  "index": 6
+                },
+                {
+                  "bbox": [
+                    97,
+                    300.6,
+                    308,
+                    322.20000000000005
+                  ],
+                  "spans": [],
+                  "index": 7
+                },
+                {
+                  "bbox": [
+                    97,
+                    322.20000000000005,
+                    308,
+                    343.80000000000007
                   ],
                   "spans": [],
                   "index": 8
@@ -333,19 +292,9 @@
                 {
                   "bbox": [
                     97,
-                    297.0,
+                    343.80000000000007,
                     308,
-                    315.0
-                  ],
-                  "spans": [],
-                  "index": 9
-                },
-                {
-                  "bbox": [
-                    97,
-                    315.0,
-                    308,
-                    333.0
+                    365.4000000000001
                   ],
                   "spans": [],
                   "index": 10
@@ -353,37 +302,57 @@
                 {
                   "bbox": [
                     97,
-                    333.0,
+                    365.4000000000001,
                     308,
-                    351.0
+                    387.0000000000001
                   ],
                   "spans": [],
                   "index": 11
-                },
-                {
-                  "bbox": [
-                    97,
-                    351.0,
-                    308,
-                    369.0
-                  ],
-                  "spans": [],
-                  "index": 12
-                },
-                {
-                  "bbox": [
-                    97,
-                    369.0,
-                    308,
-                    387.0
-                  ],
-                  "spans": [],
-                  "index": 13
                 }
               ]
             }
           ],
-          "index": 10.5
+          "index": 8
+        },
+        {
+          "type": "text",
+          "bbox": [
+            433,
+            255,
+            621,
+            271
+          ],
+          "lines": [
+            {
+              "bbox": [
+                434,
+                254,
+                621,
+                272
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    434,
+                    254,
+                    621,
+                    272
+                  ],
+                  "score": 0.854,
+                  "content": "6. 빈간에 들어갈 말로 알맞은 것은?",
+                  "type": "text"
+                }
+              ],
+              "index": 9
+            }
+          ],
+          "index": 9,
+          "bbox_fs": [
+            434,
+            254,
+            621,
+            272
+          ]
         },
         {
           "type": "text",
@@ -409,12 +378,12 @@
                     615,
                     304
                   ],
-                  "score": 0.977,
+                  "score": 0.978,
                   "content": "A: Em trai cau có cao khong?",
                   "type": "text"
                 }
               ],
-              "index": 14
+              "index": 12
             },
             {
               "bbox": [
@@ -447,10 +416,10 @@
                   "type": "text"
                 }
               ],
-              "index": 15
+              "index": 13
             }
           ],
-          "index": 14.5,
+          "index": 12.5,
           "bbox_fs": [
             453,
             285,
@@ -527,6 +496,17 @@
                 },
                 {
                   "bbox": [
+                    648,
+                    333,
+                    649,
+                    354
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     650,
                     337,
                     663,
@@ -551,7 +531,7 @@
                   "type": "text"
                 }
               ],
-              "index": 16
+              "index": 14
             },
             {
               "bbox": [
@@ -612,10 +592,10 @@
                   "type": "text"
                 }
               ],
-              "index": 17
+              "index": 15
             }
           ],
-          "index": 16.5,
+          "index": 14.5,
           "bbox_fs": [
             445,
             333,
@@ -647,60 +627,20 @@
                     307,
                     451
                   ],
-                  "score": 0.984,
+                  "score": 0.986,
                   "content": "2.밑줄 친 부분과 발음이 같은 것은?[1점]",
                   "type": "text"
                 }
               ],
-              "index": 18
+              "index": 16
             }
           ],
-          "index": 18,
+          "index": 16,
           "bbox_fs": [
             84,
             434,
             307,
             451
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            434,
-            432,
-            660,
-            447
-          ],
-          "lines": [
-            {
-              "bbox": [
-                434,
-                430,
-                661,
-                448
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    434,
-                    430,
-                    661,
-                    448
-                  ],
-                  "score": 0.862,
-                  "content": "7. 빈칸 (a), (b)에 들어갈 말로 알맞은 것은?",
-                  "type": "text"
-                }
-              ],
-              "index": 20
-            }
-          ],
-          "index": 20,
-          "bbox_fs": [
-            434,
-            430,
-            661,
-            448
           ]
         },
         {
@@ -744,7 +684,7 @@
                   ]
                 }
               ],
-              "index": 22,
+              "index": 19,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -754,7 +694,7 @@
                     478.2
                   ],
                   "spans": [],
-                  "index": 19
+                  "index": 17
                 },
                 {
                   "bbox": [
@@ -764,7 +704,7 @@
                     499.4
                   ],
                   "spans": [],
-                  "index": 21
+                  "index": 18
                 },
                 {
                   "bbox": [
@@ -774,7 +714,7 @@
                     520.6
                   ],
                   "spans": [],
-                  "index": 22
+                  "index": 19
                 },
                 {
                   "bbox": [
@@ -784,7 +724,7 @@
                     541.8000000000001
                   ],
                   "spans": [],
-                  "index": 23
+                  "index": 20
                 },
                 {
                   "bbox": [
@@ -794,12 +734,52 @@
                     563.0000000000001
                   ],
                   "spans": [],
-                  "index": 24
+                  "index": 21
                 }
               ]
             }
           ],
-          "index": 22
+          "index": 19
+        },
+        {
+          "type": "text",
+          "bbox": [
+            434,
+            432,
+            660,
+            447
+          ],
+          "lines": [
+            {
+              "bbox": [
+                434,
+                430,
+                661,
+                448
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    434,
+                    430,
+                    661,
+                    448
+                  ],
+                  "score": 0.862,
+                  "content": "7. 빈칸 (a), (b)에 들어갈 말로 알맞은 것은?",
+                  "type": "text"
+                }
+              ],
+              "index": 22
+            }
+          ],
+          "index": 22,
+          "bbox_fs": [
+            434,
+            430,
+            661,
+            448
+          ]
         },
         {
           "type": "text",
@@ -825,12 +805,12 @@
                     689,
                     478
                   ],
-                  "score": 0.912,
+                  "score": 0.911,
                   "content": "A: Chi thué phong roi a? Phong dó thé nao?",
                   "type": "text"
                 }
               ],
-              "index": 25
+              "index": 23
             },
             {
               "bbox": [
@@ -847,15 +827,15 @@
                     677,
                     498
                   ],
-                  "score": 0.925,
+                  "score": 0.922,
                   "content": "B: Nó (a) re (b) röng. Chi rat thich.",
                   "type": "text"
                 }
               ],
-              "index": 26
+              "index": 24
             }
           ],
-          "index": 25.5,
+          "index": 23.5,
           "bbox_fs": [
             452,
             462,
@@ -925,14 +905,14 @@
                   "type": "text"
                 }
               ],
-              "index": 27
+              "index": 25
             },
             {
               "bbox": [
                 446,
                 532,
                 703,
-                550
+                551
               ],
               "spans": [
                 {
@@ -948,6 +928,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    460,
+                    533,
+                    461,
+                    551
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -987,6 +978,17 @@
                 },
                 {
                   "bbox": [
+                    618,
+                    533,
+                    619,
+                    550
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     630,
                     532,
                     651,
@@ -1008,7 +1010,7 @@
                   "type": "text"
                 }
               ],
-              "index": 28
+              "index": 26
             },
             {
               "bbox": [
@@ -1031,6 +1033,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    460,
+                    549,
+                    462,
+                    570
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -1070,6 +1083,17 @@
                 },
                 {
                   "bbox": [
+                    618,
+                    551,
+                    620,
+                    567
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     628,
                     548,
                     652,
@@ -1091,12 +1115,12 @@
                   "type": "text"
                 }
               ],
-              "index": 29
+              "index": 27
             },
             {
               "bbox": [
                 446,
-                570,
+                569,
                 544,
                 587
               ],
@@ -1114,6 +1138,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    460,
+                    569,
+                    461,
+                    586
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -1138,10 +1173,10 @@
                   "type": "text"
                 }
               ],
-              "index": 30
+              "index": 28
             }
           ],
-          "index": 28.5,
+          "index": 26.5,
           "bbox_fs": [
             446,
             514,
@@ -1173,15 +1208,15 @@
                     329,
                     630
                   ],
-                  "score": 0.881,
+                  "score": 0.882,
                   "content": "3.에 들어갈 글자의 성조 표기가 옳은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 31
+              "index": 29
             }
           ],
-          "index": 31,
+          "index": 29,
           "bbox_fs": [
             83,
             611,
@@ -1230,7 +1265,7 @@
                   ]
                 }
               ],
-              "index": 35,
+              "index": 33,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -1240,7 +1275,7 @@
                     656.1428571428571
                   ],
                   "spans": [],
-                  "index": 32
+                  "index": 30
                 },
                 {
                   "bbox": [
@@ -1250,7 +1285,7 @@
                     676.2857142857142
                   ],
                   "spans": [],
-                  "index": 33
+                  "index": 31
                 },
                 {
                   "bbox": [
@@ -1260,7 +1295,7 @@
                     696.4285714285713
                   ],
                   "spans": [],
-                  "index": 34
+                  "index": 32
                 },
                 {
                   "bbox": [
@@ -1270,7 +1305,7 @@
                     716.5714285714284
                   ],
                   "spans": [],
-                  "index": 35
+                  "index": 33
                 },
                 {
                   "bbox": [
@@ -1280,7 +1315,7 @@
                     736.7142857142856
                   ],
                   "spans": [],
-                  "index": 36
+                  "index": 34
                 },
                 {
                   "bbox": [
@@ -1290,7 +1325,7 @@
                     756.8571428571427
                   ],
                   "spans": [],
-                  "index": 37
+                  "index": 35
                 },
                 {
                   "bbox": [
@@ -1300,12 +1335,12 @@
                     776.9999999999998
                   ],
                   "spans": [],
-                  "index": 38
+                  "index": 36
                 }
               ]
             }
           ],
-          "index": 35
+          "index": 33
         },
         {
           "type": "text",
@@ -1331,15 +1366,15 @@
                     649,
                     669
                   ],
-                  "score": 0.879,
-                  "content": "8. 빈칸에 들어갈 말로 알맞은 것은?[1점]",
+                  "score": 0.893,
+                  "content": "8.빈칸에 들어갈 말로 알맞은 것은?[1점]",
                   "type": "text"
                 }
               ],
-              "index": 39
+              "index": 37
             }
           ],
-          "index": 39,
+          "index": 37,
           "bbox_fs": [
             434,
             651,
@@ -1388,7 +1423,7 @@
                   ]
                 }
               ],
-              "index": 44,
+              "index": 42,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -1398,7 +1433,7 @@
                     694.3333333333334
                   ],
                   "spans": [],
-                  "index": 40
+                  "index": 38
                 },
                 {
                   "bbox": [
@@ -1408,7 +1443,7 @@
                     713.6666666666667
                   ],
                   "spans": [],
-                  "index": 41
+                  "index": 39
                 },
                 {
                   "bbox": [
@@ -1418,7 +1453,7 @@
                     733.0000000000001
                   ],
                   "spans": [],
-                  "index": 42
+                  "index": 40
                 },
                 {
                   "bbox": [
@@ -1428,7 +1463,7 @@
                     752.3333333333335
                   ],
                   "spans": [],
-                  "index": 43
+                  "index": 41
                 },
                 {
                   "bbox": [
@@ -1438,7 +1473,7 @@
                     771.6666666666669
                   ],
                   "spans": [],
-                  "index": 44
+                  "index": 42
                 },
                 {
                   "bbox": [
@@ -1448,7 +1483,7 @@
                     791.0000000000002
                   ],
                   "spans": [],
-                  "index": 45
+                  "index": 43
                 },
                 {
                   "bbox": [
@@ -1458,7 +1493,7 @@
                     810.3333333333336
                   ],
                   "spans": [],
-                  "index": 46
+                  "index": 44
                 },
                 {
                   "bbox": [
@@ -1468,7 +1503,7 @@
                     829.666666666667
                   ],
                   "spans": [],
-                  "index": 48
+                  "index": 46
                 },
                 {
                   "bbox": [
@@ -1478,12 +1513,12 @@
                     849.0000000000003
                   ],
                   "spans": [],
-                  "index": 49
+                  "index": 47
                 }
               ]
             }
           ],
-          "index": 44
+          "index": 42
         },
         {
           "type": "text",
@@ -1509,15 +1544,15 @@
                     271,
                     842
                   ],
-                  "score": 0.939,
+                  "score": 0.938,
                   "content": "4. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 47
+              "index": 45
             }
           ],
-          "index": 47,
+          "index": 45,
           "bbox_fs": [
             86,
             825,
@@ -1565,7 +1600,7 @@
                   "type": "text"
                 }
               ],
-              "index": 50,
+              "index": 48,
               "is_list_end_line": true
             },
             {
@@ -1583,17 +1618,17 @@
                     311,
                     894
                   ],
-                  "score": 0.901,
+                  "score": 0.897,
                   "content": "B: Vang, con sé nhó uóng düng gi a.",
                   "type": "text"
                 }
               ],
-              "index": 51,
+              "index": 49,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 50.5,
+          "index": 48.5,
           "bbox_fs": [
             104,
             855,
@@ -1604,148 +1639,12 @@
         {
           "type": "text",
           "bbox": [
-            444,
-            857,
-            737,
-            874
+            96,
+            906,
+            383,
+            923
           ],
           "lines": [
-            {
-              "bbox": [
-                446,
-                855,
-                741,
-                875
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    858,
-                    459,
-                    871
-                  ],
-                  "score": 0.48,
-                  "content": "①",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    855,
-                    478,
-                    874
-                  ],
-                  "score": 0.979,
-                  "content": "t",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    507,
-                    858,
-                    520,
-                    871
-                  ],
-                  "score": 0.47,
-                  "content": "②",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    520,
-                    856,
-                    545,
-                    875
-                  ],
-                  "score": 0.772,
-                  "content": "bat",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    568,
-                    858,
-                    581,
-                    871
-                  ],
-                  "score": 0.32,
-                  "content": "③",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    582,
-                    855,
-                    606,
-                    875
-                  ],
-                  "score": 0.76,
-                  "content": "doi",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    629,
-                    858,
-                    642,
-                    871
-                  ],
-                  "score": 0.33,
-                  "content": "④",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    643,
-                    855,
-                    672,
-                    875
-                  ],
-                  "score": 0.979,
-                  "content": "chai",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    690,
-                    858,
-                    704,
-                    871
-                  ],
-                  "score": 0.53,
-                  "content": "⑤",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    704,
-                    855,
-                    741,
-                    875
-                  ],
-                  "score": 0.965,
-                  "content": "quyén",
-                  "type": "text"
-                }
-              ],
-              "index": 52
-            },
             {
               "bbox": [
                 97,
@@ -1781,6 +1680,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    903,
+                    158,
+                    926
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     907,
                     171,
@@ -1806,6 +1716,17 @@
                 },
                 {
                   "bbox": [
+                    218,
+                    903,
+                    219,
+                    924
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     219,
                     907,
                     232,
@@ -1817,6 +1738,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    279,
+                    903,
+                    280,
+                    925
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -1845,6 +1777,17 @@
                 },
                 {
                   "bbox": [
+                    339,
+                    903,
+                    342,
+                    923
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     342,
                     906,
                     355,
@@ -1869,34 +1812,225 @@
                   "type": "text"
                 }
               ],
-              "index": 53
+              "index": 50
             }
           ],
-          "index": 52,
-          "bbox_fs": [
-            446,
-            855,
-            741,
-            875
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            96,
-            906,
-            383,
-            923
-          ],
-          "lines": [],
-          "index": 53,
+          "index": 50,
           "bbox_fs": [
             97,
             903,
             384,
             926
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            444,
+            857,
+            737,
+            874
           ],
-          "lines_deleted": true
+          "lines": [
+            {
+              "bbox": [
+                444,
+                855,
+                741,
+                875
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    444,
+                    855,
+                    445,
+                    874
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    446,
+                    858,
+                    459,
+                    871
+                  ],
+                  "score": 0.48,
+                  "content": "①",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    855,
+                    478,
+                    874
+                  ],
+                  "score": 0.979,
+                  "content": "t",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    505,
+                    856,
+                    506,
+                    875
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    507,
+                    858,
+                    520,
+                    871
+                  ],
+                  "score": 0.47,
+                  "content": "②",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    520,
+                    856,
+                    545,
+                    875
+                  ],
+                  "score": 0.772,
+                  "content": "bat",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    566,
+                    855,
+                    568,
+                    875
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    568,
+                    858,
+                    581,
+                    871
+                  ],
+                  "score": 0.32,
+                  "content": "③",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    582,
+                    855,
+                    606,
+                    875
+                  ],
+                  "score": 0.76,
+                  "content": "doi",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    628,
+                    855,
+                    629,
+                    875
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    629,
+                    858,
+                    642,
+                    871
+                  ],
+                  "score": 0.33,
+                  "content": "④",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    643,
+                    855,
+                    672,
+                    875
+                  ],
+                  "score": 0.979,
+                  "content": "chai",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    685,
+                    855,
+                    690,
+                    875
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    690,
+                    858,
+                    704,
+                    871
+                  ],
+                  "score": 0.53,
+                  "content": "⑤",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    704,
+                    855,
+                    741,
+                    875
+                  ],
+                  "score": 0.965,
+                  "content": "quyén",
+                  "type": "text"
+                }
+              ],
+              "index": 51
+            }
+          ],
+          "index": 51,
+          "bbox_fs": [
+            444,
+            855,
+            741,
+            875
+          ]
         },
         {
           "type": "text",
@@ -1922,20 +2056,60 @@
                     320,
                     987
                   ],
-                  "score": 0.909,
+                  "score": 0.908,
                   "content": "5.빈칸에 공통으로 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 54
+              "index": 52
             }
           ],
-          "index": 54,
+          "index": 52,
           "bbox_fs": [
             84,
             970,
             320,
             987
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            433,
+            934,
+            636,
+            950
+          ],
+          "lines": [
+            {
+              "bbox": [
+                434,
+                932,
+                636,
+                951
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    434,
+                    932,
+                    636,
+                    951
+                  ],
+                  "score": 0.909,
+                  "content": "9.문장 표현이옳은 것만을 고른 것은?",
+                  "type": "text"
+                }
+              ],
+              "index": 53
+            }
+          ],
+          "index": 53,
+          "bbox_fs": [
+            434,
+            932,
+            636,
+            951
           ]
         },
         {
@@ -1978,7 +2152,7 @@
                   "type": "text"
                 }
               ],
-              "index": 55,
+              "index": 54,
               "is_list_end_line": true
             },
             {
@@ -2007,175 +2181,22 @@
                     371,
                     1038
                   ],
-                  "score": 0.906,
+                  "score": 0.916,
                   "content": "den ri di ngu ngay di.",
                   "type": "text"
                 }
               ],
-              "index": 56,
+              "index": 55,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 55.5,
+          "index": 54.5,
           "bbox_fs": [
             107,
             1001,
             371,
             1038
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            433,
-            934,
-            636,
-            950
-          ],
-          "lines": [
-            {
-              "bbox": [
-                434,
-                932,
-                636,
-                951
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    434,
-                    932,
-                    636,
-                    951
-                  ],
-                  "score": 0.904,
-                  "content": "9.문장 표현이 옳은 것만을 고른 것은?",
-                  "type": "text"
-                }
-              ],
-              "index": 57
-            }
-          ],
-          "index": 57,
-          "bbox_fs": [
-            434,
-            932,
-            636,
-            951
-          ]
-        },
-        {
-          "type": "list",
-          "bbox": [
-            452,
-            963,
-            745,
-            1037
-          ],
-          "lines": [
-            {
-              "bbox": [
-                452,
-                964,
-                738,
-                981
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    452,
-                    964,
-                    738,
-                    981
-                  ],
-                  "score": 0.921,
-                  "content": "a. Tát ca chüng ta déu cháng dong y vói Mai dau nhi.",
-                  "type": "text"
-                }
-              ],
-              "index": 58,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                453,
-                983,
-                740,
-                1000
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    453,
-                    983,
-                    740,
-                    1000
-                  ],
-                  "score": 0.937,
-                  "content": "b. Ca tuan nay to vui vi ngay nao cüng duoc me khen.",
-                  "type": "text"
-                }
-              ],
-              "index": 59,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                453,
-                1001,
-                742,
-                1018
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    453,
-                    1001,
-                    742,
-                    1018
-                  ],
-                  "score": 0.917,
-                  "content": "c. Tó hoc luat dé biét chúr khóng muón tro nén luat su.",
-                  "type": "text"
-                }
-              ],
-              "index": 60,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                453,
-                1019,
-                747,
-                1037
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    453,
-                    1019,
-                    747,
-                    1037
-                  ],
-                  "score": 0.923,
-                  "content": "d. Có gng tap thé duc nen tröng Le ngay cang khoe di.",
-                  "type": "text"
-                }
-              ],
-              "index": 61,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            }
-          ],
-          "index": 59.5,
-          "bbox_fs": [
-            452,
-            964,
-            747,
-            1037
           ]
         },
         {
@@ -2222,6 +2243,17 @@
                 },
                 {
                   "bbox": [
+                    154,
+                    1048,
+                    158,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     1052,
                     171,
@@ -2247,6 +2279,17 @@
                 },
                 {
                   "bbox": [
+                    217,
+                    1047,
+                    218,
+                    1072
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     219,
                     1053,
                     232,
@@ -2268,6 +2311,17 @@
                   ],
                   "score": 0.857,
                   "content": "hong",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    276,
+                    1049,
+                    280,
+                    1071
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -2321,8 +2375,139 @@
                   "type": "text"
                 }
               ],
-              "index": 62
+              "index": 56
+            }
+          ],
+          "index": 56,
+          "bbox_fs": [
+            96,
+            1047,
+            387,
+            1072
+          ]
+        },
+        {
+          "type": "list",
+          "bbox": [
+            452,
+            963,
+            745,
+            1037
+          ],
+          "lines": [
+            {
+              "bbox": [
+                452,
+                964,
+                738,
+                981
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    452,
+                    964,
+                    738,
+                    981
+                  ],
+                  "score": 0.917,
+                  "content": "a. Tát ca chüng ta déu cháng dong y vói Mai dau nhi.",
+                  "type": "text"
+                }
+              ],
+              "index": 58,
+              "is_list_end_line": true
             },
+            {
+              "bbox": [
+                453,
+                983,
+                740,
+                1000
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    453,
+                    983,
+                    740,
+                    1000
+                  ],
+                  "score": 0.934,
+                  "content": "b. Ca tuan nay tó vui vi ngay nao cüng duoc me khen.",
+                  "type": "text"
+                }
+              ],
+              "index": 57,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                453,
+                1001,
+                742,
+                1018
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    453,
+                    1001,
+                    742,
+                    1018
+                  ],
+                  "score": 0.917,
+                  "content": "c. Tó hoc luat dé biét chúr khóng muón tro nén luat su.",
+                  "type": "text"
+                }
+              ],
+              "index": 59,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                453,
+                1019,
+                747,
+                1037
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    453,
+                    1019,
+                    747,
+                    1037
+                  ],
+                  "score": 0.931,
+                  "content": "d. Có gng tap thé duc nen tröng Le ngay cang khoe di.",
+                  "type": "text"
+                }
+              ],
+              "index": 60,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            }
+          ],
+          "index": 58.5,
+          "bbox_fs": [
+            452,
+            964,
+            747,
+            1037
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            447,
+            1051,
+            729,
+            1067
+          ],
+          "lines": [
             {
               "bbox": [
                 445,
@@ -2358,6 +2543,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    1050,
+                    506,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     1052,
                     520,
@@ -2379,6 +2575,17 @@
                   ],
                   "score": 0.796,
                   "content": "a, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    566,
+                    1050,
+                    568,
+                    1070
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -2408,6 +2615,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    1050,
+                    629,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     629,
                     1052,
                     643,
@@ -2429,6 +2647,17 @@
                   ],
                   "score": 0.849,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    688,
+                    1049,
+                    690,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -2457,34 +2686,16 @@
                   "type": "text"
                 }
               ],
-              "index": 63
+              "index": 61
             }
           ],
-          "index": 62,
-          "bbox_fs": [
-            96,
-            1047,
-            387,
-            1072
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            447,
-            1051,
-            729,
-            1067
-          ],
-          "lines": [],
-          "index": 63,
+          "index": 61,
           "bbox_fs": [
             445,
             1049,
             732,
             1070
-          ],
-          "lines_deleted": true
+          ]
         }
       ]
     },
@@ -2519,7 +2730,7 @@
                     279,
                     174
                   ],
-                  "score": 0.896,
+                  "score": 0.894,
                   "content": "10. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -2863,7 +3074,7 @@
                     369,
                     451
                   ],
-                  "score": 0.936,
+                  "score": 0.937,
                   "content": "11.대화의 내용으로 보아 B가 고향에 갈 날짜는?[1점]",
                   "type": "text"
                 }
@@ -2903,7 +3114,7 @@
                     399,
                     483
                   ],
-                  "score": 0.924,
+                  "score": 0.916,
                   "content": "A: Hom nay la ngay 14 tháng 12 rói. Khi nao em vé que?",
                   "type": "text"
                 }
@@ -2925,7 +3136,7 @@
                     259,
                     501
                   ],
-                  "score": 0.909,
+                  "score": 0.907,
                   "content": "B: 3 ngay nüra em vé, chi a.",
                   "type": "text"
                 }
@@ -2993,6 +3204,17 @@
                   "score": 0.32,
                   "content": "1 5 \\%",
                   "type": "inline_equation"
+                },
+                {
+                  "bbox": [
+                    163,
+                    514,
+                    164,
+                    531
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -3251,7 +3473,7 @@
                     397,
                     828
                   ],
-                  "score": 0.89,
+                  "score": 0.894,
                   "content": "só dién thoai cua co Vy",
                   "type": "text"
                 }
@@ -3287,7 +3509,7 @@
                     251,
                     846
                   ],
-                  "score": 0.874,
+                  "score": 0.876,
                   "content": "bao gio em áy di cong tac",
                   "type": "text"
                 }
@@ -3523,8 +3745,8 @@
                     747,
                     205
                   ],
-                  "score": 0.912,
-                  "content": "Lan la nhan vien cöng ti. Lan dang sóng  thanh phó",
+                  "score": 0.906,
+                  "content": "Lan la nhan vien cöng ti. Lan dang sóng ó thanh phó",
                   "type": "text"
                 }
               ],
@@ -3545,7 +3767,7 @@
                     747,
                     224
                   ],
-                  "score": 0.946,
+                  "score": 0.957,
                   "content": "Da Nng. Lan rat thich nghe K-pop. He nm sau, Lan",
                   "type": "text"
                 }
@@ -3594,12 +3816,23 @@
           "lines": [
             {
               "bbox": [
-                446,
+                444,
                 255,
                 708,
                 274
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    255,
+                    445,
+                    273
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -3742,7 +3975,7 @@
           ],
           "index": 34.5,
           "bbox_fs": [
-            446,
+            444,
             255,
             708,
             292
@@ -3772,7 +4005,7 @@
                     627,
                     349
                   ],
-                  "score": 0.875,
+                  "score": 0.871,
                   "content": "15. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -3880,7 +4113,7 @@
                     668,
                     389
                   ],
-                  "score": 0.961,
+                  "score": 0.96,
                   "content": "A: Anh bi lam sao vay?",
                   "type": "text"
                 }
@@ -3902,7 +4135,7 @@
                     696,
                     407
                   ],
-                  "score": 0.957,
+                  "score": 0.952,
                   "content": "B: Toi bi dau bung, bac si a.",
                   "type": "text"
                 }
@@ -4122,8 +4355,8 @@
                     569,
                     503
                   ],
-                  "score": 0.864,
-                  "content": "dé toi khám cho anh",
+                  "score": 0.883,
+                  "content": "dé toi khm cho anh",
                   "type": "text"
                 }
               ],
@@ -4162,8 +4395,8 @@
                     621,
                     560
                   ],
-                  "score": 0.917,
-                  "content": "16.빈칸에 들어갈 말로알맞은 것을",
+                  "score": 0.902,
+                  "content": "16.빈칸에 들어갈 말로 알맞은 것을",
                   "type": "text"
                 },
                 {
@@ -4394,7 +4627,7 @@
                     606,
                     702
                   ],
-                  "score": 0.962,
+                  "score": 0.921,
                   "content": "A: Vang, cho em 2 can nhé.",
                   "type": "text"
                 }
@@ -4498,8 +4731,8 @@
                     600,
                     769
                   ],
-                  "score": 0.952,
-                  "content": "b. 1 can cam bao nhiéu tin",
+                  "score": 0.911,
+                  "content": "b. 1 can cam bao nhiéu tién",
                   "type": "text"
                 }
               ],
@@ -4520,7 +4753,7 @@
                     646,
                     790
                   ],
-                  "score": 0.909,
+                  "score": 0.91,
                   "content": "c. Anh giam gi cho em duoc khóng",
                   "type": "text"
                 }
@@ -4697,8 +4930,8 @@
                     246,
                     925
                   ],
-                  "score": 0.901,
-                  "content": "A: So thich cua chi la gi?",
+                  "score": 0.919,
+                  "content": "A: Só thich cua chi la gi?",
                   "type": "text"
                 }
               ],
@@ -4719,7 +4952,7 @@
                     317,
                     942
                   ],
-                  "score": 0.924,
+                  "score": 0.928,
                   "content": "B: So thich cüa chi la nu án. Con em?",
                   "type": "text"
                 }
@@ -4741,7 +4974,7 @@
                     318,
                     962
                   ],
-                  "score": 0.936,
+                  "score": 0.935,
                   "content": "A: Em thich choi bóng da va xem phim.",
                   "type": "text"
                 }
@@ -4832,7 +5065,7 @@
                     232,
                     1012
                   ],
-                  "score": 0.919,
+                  "score": 0.912,
                   "content": "B muón lam dién vién.",
                   "type": "text"
                 }
@@ -4908,7 +5141,7 @@
                     253,
                     1050
                   ],
-                  "score": 0.925,
+                  "score": 0.922,
                   "content": "A dang sóng  nuróc ngoai.",
                   "type": "text"
                 }
@@ -4946,7 +5179,7 @@
                     263,
                     1068
                   ],
-                  "score": 0.956,
+                  "score": 0.953,
                   "content": "A va B la ban cung hoc boi.",
                   "type": "text"
                 }
@@ -4988,7 +5221,7 @@
                     722,
                     898
                   ],
-                  "score": 0.879,
+                  "score": 0.881,
                   "content": "17. 대화의 내용으로 보아 Mui Ne의 오늘 날씨는? [1점]",
                   "type": "text"
                 }
@@ -5175,7 +5408,7 @@
                     387,
                     173
                   ],
-                  "score": 0.953,
+                  "score": 0.944,
                   "content": "18. 대화의 내용으로 보아 B의 여동생이 하고 있는 행동은?",
                   "type": "text"
                 }
@@ -5215,7 +5448,7 @@
                     280,
                     206
                   ],
-                  "score": 0.943,
+                  "score": 0.94,
                   "content": "A: Em gái cüa ban dang lam gi?",
                   "type": "text"
                 }
@@ -5427,8 +5660,8 @@
                     324,
                     420
                   ],
-                  "score": 0.915,
-                  "content": "A: Bay gio, ban di n pho voi minh nhé.",
+                  "score": 0.931,
+                  "content": "A: Bay gi, ban di n pho vói minh nhe.",
                   "type": "text"
                 }
               ],
@@ -5604,15 +5837,44 @@
                 }
               ],
               "index": 13
-            },
+            }
+          ],
+          "index": 12.5,
+          "bbox_fs": [
+            104,
+            491,
+            359,
+            527
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            95,
+            541,
+            380,
+            558
+          ],
+          "lines": [
             {
               "bbox": [
-                97,
+                95,
                 540,
                 383,
                 560
               ],
               "spans": [
+                {
+                  "bbox": [
+                    95,
+                    540,
+                    96,
+                    560
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     97,
@@ -5636,6 +5898,17 @@
                   ],
                   "score": 0.748,
                   "content": "a, b",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    155,
+                    541,
+                    158,
+                    559
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -5665,6 +5938,17 @@
                 },
                 {
                   "bbox": [
+                    217,
+                    540,
+                    219,
+                    560
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     219,
                     543,
                     233,
@@ -5690,6 +5974,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    541,
+                    280,
+                    559
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     542,
                     294,
@@ -5711,6 +6006,17 @@
                   ],
                   "score": 0.886,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    541,
+                    341,
+                    559
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -5742,31 +6048,13 @@
               "index": 14
             }
           ],
-          "index": 12.5,
-          "bbox_fs": [
-            104,
-            491,
-            359,
-            527
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            95,
-            541,
-            380,
-            558
-          ],
-          "lines": [],
           "index": 14,
           "bbox_fs": [
-            97,
+            95,
             540,
             383,
             560
-          ],
-          "lines_deleted": true
+          ]
         },
         {
           "type": "text",
@@ -5792,7 +6080,7 @@
                     278,
                     632
                   ],
-                  "score": 0.917,
+                  "score": 0.918,
                   "content": "20. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -6135,8 +6423,8 @@
                     285,
                     918
                   ],
-                  "score": 0.91,
-                  "content": "21.빈간에 들어갈 말로알맞은것만을",
+                  "score": 0.901,
+                  "content": "21.빈칸에 들어갈 말로 알맞은 것만을",
                   "type": "text"
                 },
                 {
@@ -6197,8 +6485,8 @@
                     259,
                     948
                   ],
-                  "score": 0.944,
-                  "content": "A: Tur day dn siéu thi ABC",
+                  "score": 0.95,
+                  "content": "A: Tur day dén siéu thi ABC",
                   "type": "text"
                 },
                 {
@@ -6396,6 +6684,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    1050,
+                    157,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     1053,
                     171,
@@ -6417,6 +6716,17 @@
                   ],
                   "score": 0.866,
                   "content": "a, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    217,
+                    1050,
+                    218,
+                    1070
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -6446,6 +6756,17 @@
                 },
                 {
                   "bbox": [
+                    278,
+                    1050,
+                    280,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     1052,
                     294,
@@ -6467,6 +6788,17 @@
                   ],
                   "score": 0.87,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    1051,
+                    341,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -6548,7 +6880,7 @@
                     627,
                     174
                   ],
-                  "score": 0.918,
+                  "score": 0.907,
                   "content": "22. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -6836,7 +7168,7 @@
                     723,
                     396
                   ],
-                  "score": 0.937,
+                  "score": 0.928,
                   "content": "Nó quá röng va dai",
                   "type": "text"
                 }
@@ -6912,7 +7244,7 @@
                     755,
                     490
                   ],
-                  "score": 0.924,
+                  "score": 0.922,
                   "content": "23. Ha의 가족에 관한 글을 이해한 내용으로 알맞은 것은?[1점]",
                   "type": "text"
                 }
@@ -6952,7 +7284,7 @@
                     747,
                     520
                   ],
-                  "score": 0.947,
+                  "score": 0.949,
                   "content": "Gia dinh cüa Ha có ng, bó me, em trai va Ha. Ong cüa",
                   "type": "text"
                 }
@@ -6974,7 +7306,7 @@
                     747,
                     539
                   ],
-                  "score": 0.917,
+                  "score": 0.918,
                   "content": "Ha vn con khoe. Bó cüa Ha la cóng an, con me cüa Ha",
                   "type": "text"
                 }
@@ -6996,8 +7328,8 @@
                     747,
                     556
                   ],
-                  "score": 0.931,
-                  "content": "la giáo vién. Em trai cüa Ha la sinh vién nm thú 4 cúa",
+                  "score": 0.923,
+                  "content": "la giáo vién. Em trai cüa Ha la sinh vién nm thúr 4 cúa",
                   "type": "text"
                 }
               ],
@@ -7134,7 +7466,7 @@
                     566,
                     624
                   ],
-                  "score": 0.938,
+                  "score": 0.921,
                   "content": "어머니는 소설가이다.",
                   "type": "text"
                 },
@@ -7159,7 +7491,7 @@
                     753,
                     624
                   ],
-                  "score": 0.972,
+                  "score": 0.951,
                   "content": "남동생은 대학교 4학년이다.",
                   "type": "text"
                 }
@@ -7197,7 +7529,7 @@
                     601,
                     643
                   ],
-                  "score": 0.93,
+                  "score": 0.925,
                   "content": "할아버지는 꽃꽃이를 배운다.",
                   "type": "text"
                 }
@@ -7323,7 +7655,7 @@
                     723,
                     770
                   ],
-                  "score": 0.918,
+                  "score": 0.919,
                   "content": ",cháu thi 2 món la Tiéng Anh va Lich su a.",
                   "type": "text"
                 }
@@ -7521,7 +7853,7 @@
                     569,
                     837
                   ],
-                  "score": 0.884,
+                  "score": 0.859,
                   "content": "tra sách lüc máy gio",
                   "type": "text"
                 }
@@ -7561,7 +7893,7 @@
                     656,
                     912
                   ],
-                  "score": 0.893,
+                  "score": 0.894,
                   "content": "25. 빈칸에 들어갈 말로 알맞은 것은? [1점]",
                   "type": "text"
                 }
@@ -7669,7 +8001,7 @@
                     740,
                     953
                   ],
-                  "score": 0.923,
+                  "score": 0.922,
                   "content": "A: Toi muón güri buu kién nay di Mi.",
                   "type": "text"
                 }
@@ -7691,8 +8023,8 @@
                     721,
                     972
                   ],
-                  "score": 0.929,
-                  "content": "B: Chi gúri nhanh hay güui thuong?",
+                  "score": 0.903,
+                  "content": "B : Chi gúri nhanh hay güuri thuong?",
                   "type": "text"
                 }
               ],
@@ -7889,7 +8221,7 @@
                     588,
                     1070
                   ],
-                  "score": 0.873,
+                  "score": 0.874,
                   "content": "Anh dung git áo so mi",
                   "type": "text"
                 }
@@ -7938,7 +8270,7 @@
                     301,
                     174
                   ],
-                  "score": 0.942,
+                  "score": 0.94,
                   "content": "26. 글의 내용이 공통으로 가리키는 것은?",
                   "type": "text"
                 }
@@ -7978,7 +8310,7 @@
                     315,
                     205
                   ],
-                  "score": 0.924,
+                  "score": 0.932,
                   "content": "o La ngay 1 tháng 1 am lich háng nm.",
                   "type": "text"
                 }
@@ -8014,7 +8346,7 @@
                     326,
                     223
                   ],
-                  "score": 0.93,
+                  "score": 0.955,
                   "content": "Con duoc goi la Tét Ta, Tét Am lich,",
                   "type": "text"
                 }
@@ -8036,7 +8368,7 @@
                     330,
                     242
                   ],
-                  "score": 0.919,
+                  "score": 0.92,
                   "content": "o La dip d chúc nhau nm mói may mn.",
                   "type": "text"
                 }
@@ -8058,8 +8390,8 @@
                     398,
                     263
                   ],
-                  "score": 0.846,
-                  "content": "* am lich: 음력 * hang nm: 매년",
+                  "score": 0.817,
+                  "content": "* am lich: 음력 * hàng nm: 매년",
                   "type": "text"
                 }
               ],
@@ -8119,7 +8451,7 @@
                     383,
                     294
                   ],
-                  "score": 0.938,
+                  "score": 0.941,
                   "content": "Ngay Sách Viet Nam",
                   "type": "text"
                 }
@@ -8155,7 +8487,7 @@
                     232,
                     312
                   ],
-                  "score": 0.942,
+                  "score": 0.91,
                   "content": "Nm Du lich Quóc gia",
                   "type": "text"
                 },
@@ -8274,8 +8606,8 @@
                     407,
                     398
                   ],
-                  "score": 0.886,
-                  "content": "27.‘벤타인 시장(cho BénThanh)'에 관한 글을 이해한 내용으로",
+                  "score": 0.897,
+                  "content": "27.‘벤타인 시장(cho BénThanh)'에 관한 글을이해한 내용으로",
                   "type": "text"
                 }
               ],
@@ -8369,8 +8701,8 @@
                     398,
                     447
                   ],
-                  "score": 0.94,
-                  "content": "Cho Bén Thanh la möt cho lón nm ö",
+                  "score": 0.95,
+                  "content": "Cho Bén Thanh la möt cho lón nm ",
                   "type": "text"
                 }
               ],
@@ -8413,7 +8745,7 @@
                     398,
                     486
                   ],
-                  "score": 0.93,
+                  "score": 0.903,
                   "content": "bán nhiéu loai hang hoá nhu hoa qua,",
                   "type": "text"
                 }
@@ -8435,8 +8767,8 @@
                     398,
                     503
                   ],
-                  "score": 0.863,
-                  "content": "quan áo,. va cón bán dó luu niém danh",
+                  "score": 0.886,
+                  "content": "quan áo,. va con bán do luu niém danh",
                   "type": "text"
                 }
               ],
@@ -8457,8 +8789,8 @@
                     398,
                     522
                   ],
-                  "score": 0.929,
-                  "content": "cho du khách. Ngoai ra, cón có cho dém thurong duoc mö",
+                  "score": 0.93,
+                  "content": "cho du khách. Ngoai ra, cón có cho dém thurong duoc mó",
                   "type": "text"
                 }
               ],
@@ -8479,7 +8811,7 @@
                     263,
                     539
                   ],
-                  "score": 0.955,
+                  "score": 0.937,
                   "content": " xung quanh cho Bén Thanh.",
                   "type": "text"
                 }
@@ -8621,7 +8953,7 @@
                     274,
                     610
                   ],
-                  "score": 0.923,
+                  "score": 0.922,
                   "content": "a. Chi có nguroi nuróc ngoai dén.",
                   "type": "text"
                 }
@@ -8644,7 +8976,7 @@
                     316,
                     629
                   ],
-                  "score": 0.935,
+                  "score": 0.942,
                   "content": "b. Khong nhan thanh toán báng tién mt.",
                   "type": "text"
                 }
@@ -8668,7 +9000,7 @@
                     335,
                     647
                   ],
-                  "score": 0.921,
+                  "score": 0.922,
                   "content": "c. Du khách có thé mua dó luu niém ó day.",
                   "type": "text"
                 }
@@ -8692,7 +9024,7 @@
                     343,
                     665
                   ],
-                  "score": 0.958,
+                  "score": 0.943,
                   "content": "d. Nam  trung tam Thanh phó H Chi Minh.",
                   "type": "text"
                 }
@@ -8754,6 +9086,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    681,
+                    158,
+                    700
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     683,
                     171,
@@ -8775,6 +9118,17 @@
                   ],
                   "score": 0.856,
                   "content": "a, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    217,
+                    681,
+                    219,
+                    700
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -8804,6 +9158,17 @@
                 },
                 {
                   "bbox": [
+                    278,
+                    681,
+                    280,
+                    700
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     683,
                     294,
@@ -8825,6 +9190,17 @@
                   ],
                   "score": 0.847,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    681,
+                    341,
+                    700
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -8888,7 +9264,7 @@
                     407,
                     768
                   ],
-                  "score": 0.905,
+                  "score": 0.921,
                   "content": "28. Ba Trieu에 관한 대화를 이해한 내용으로 알맞은 것은? [1점]",
                   "type": "text"
                 }
@@ -8950,8 +9326,8 @@
                     398,
                     799
                   ],
-                  "score": 0.92,
-                  "content": "Day la duong Ba Trieu a? Ba Triéu có nghia la gi?",
+                  "score": 0.918,
+                  "content": "Day la duong Ba Triéu a? Ba Triéu có nghia la gi?",
                   "type": "text"
                 }
               ],
@@ -8974,7 +9350,7 @@
                     818
                   ],
                   "score": 0.916,
-                  "content": "Tuán : Ba Triéu la nü anh hung dan töc cua Viet Nam.",
+                  "content": "Tuán : Ba Triéu la nür anh hung dan toc cua Viet Nam.",
                   "type": "text"
                 }
               ],
@@ -9059,7 +9435,7 @@
                     391,
                     871
                   ],
-                  "score": 0.926,
+                  "score": 0.923,
                   "content": "Ha-na : Thé thi nguoi Viet Nam tu hao vé ba lám nhi?",
                   "type": "text"
                 }
@@ -9099,7 +9475,7 @@
                     399,
                     891
                   ],
-                  "score": 0.923,
+                  "score": 0.921,
                   "content": "Tun : U. Vi vay, hién nay nguroi Viet Nam láy ten ba",
                   "type": "text"
                 }
@@ -9121,7 +9497,7 @@
                     398,
                     909
                   ],
-                  "score": 0.93,
+                  "score": 0.932,
                   "content": "d dt ten cho nhiu duong phó va trurong hoc",
                   "type": "text"
                 }
@@ -9183,7 +9559,7 @@
                     398,
                     947
                   ],
-                  "score": 0.908,
+                  "score": 0.906,
                   "content": "*anh hung:영웅 *khoi nghia:봉기하다",
                   "type": "text"
                 }
@@ -9205,7 +9581,7 @@
                     398,
                     964
                   ],
-                  "score": 0.952,
+                  "score": 0.948,
                   "content": "*chóng lai: 저항하다",
                   "type": "text"
                 }
@@ -9259,7 +9635,7 @@
                     244,
                     993
                   ],
-                  "score": 0.941,
+                  "score": 0.939,
                   "content": "48년간 베트남을 다스렸다.",
                   "type": "text"
                 }
@@ -9334,7 +9710,7 @@
                     283,
                     1030
                   ],
-                  "score": 0.929,
+                  "score": 0.937,
                   "content": "베트남 최초로 지리서를 편찬했다.",
                   "type": "text"
                 }
@@ -9372,7 +9748,7 @@
                     308,
                     1048
                   ],
-                  "score": 0.954,
+                  "score": 0.953,
                   "content": "유네스코 세계 문화 인물에 선정되었다.",
                   "type": "text"
                 }
@@ -9410,7 +9786,7 @@
                     339,
                     1067
                   ],
-                  "score": 0.941,
+                  "score": 0.948,
                   "content": "Dong Ngo 왕조에 저항하는 봉기를 일으켰다.",
                   "type": "text"
                 }
@@ -9452,7 +9828,7 @@
                     756,
                     174
                   ],
-                  "score": 0.888,
+                  "score": 0.886,
                   "content": "29.'덴흥 축제(1 hoi Dén Hung)'에 관한 글에 언급된 것은?[1점]",
                   "type": "text"
                 }
@@ -9650,7 +10026,7 @@
                     747,
                     407
                   ],
-                  "score": 0.886,
+                  "score": 0.893,
                   "content": "Lé hoi Dén Hüng la möt 1é hoi lón thurong duoc to",
                   "type": "text"
                 }
@@ -9672,7 +10048,7 @@
                     746,
                     424
                   ],
-                  "score": 0.889,
+                  "score": 0.897,
                   "content": "chürc vao dau tháng 3 am lich o Phú Tho, Viet Nam.",
                   "type": "text"
                 }
@@ -9738,7 +10114,7 @@
                     730,
                     480
                   ],
-                  "score": 0.885,
+                  "score": 0.886,
                   "content": "nhieu du khách tim dén Phú Tho dé thm 1 hoi nay.",
                   "type": "text"
                 }
@@ -10049,7 +10425,7 @@
                     595,
                     640
                   ],
-                  "score": 0.935,
+                  "score": 0.92,
                   "content": "내용으로알맞은것만을<보기",
                   "type": "text"
                 },
@@ -10179,7 +10555,7 @@
                     748,
                     671
                   ],
-                  "score": 0.913,
+                  "score": 0.905,
                   "content": "Tröng dong Döng Son la ten goi cua",
                   "type": "text"
                 }
@@ -10201,7 +10577,7 @@
                     747,
                     689
                   ],
-                  "score": 0.908,
+                  "score": 0.913,
                   "content": "nhüng chiéc tróng dong tieu biéu cho",
                   "type": "text"
                 }
@@ -10245,7 +10621,7 @@
                     747,
                     726
                   ],
-                  "score": 0.928,
+                  "score": 0.927,
                   "content": "Nhüng chiéc tröng dong nay da duroc",
                   "type": "text"
                 }
@@ -10267,7 +10643,7 @@
                     747,
                     745
                   ],
-                  "score": 0.882,
+                  "score": 0.907,
                   "content": "tim thay  khp nuoc Viet Nam. Tröng",
                   "type": "text"
                 }
@@ -10289,7 +10665,7 @@
                     748,
                     762
                   ],
-                  "score": 0.914,
+                  "score": 0.915,
                   "content": "dong Dong Son cho thay ki thuat luyén kim rat cao cua",
                   "type": "text"
                 }
@@ -10311,7 +10687,7 @@
                     728,
                     781
                   ],
-                  "score": 0.936,
+                  "score": 0.935,
                   "content": "ván hoá Dong Son, cách ngay nay khoáng 2.500 nm.",
                   "type": "text"
                 }
@@ -10369,7 +10745,7 @@
                     670,
                     802
                   ],
-                  "score": 0.909,
+                  "score": 0.926,
                   "content": "*tröng dong:동고(청동북)",
                   "type": "text"
                 },
@@ -10493,7 +10869,7 @@
                     677,
                     867
                   ],
-                  "score": 0.911,
+                  "score": 0.912,
                   "content": "a. Con có ten khác la tröng dong Sai Gon.",
                   "type": "text"
                 }
@@ -10516,7 +10892,7 @@
                     698,
                     884
                   ],
-                  "score": 0.937,
+                  "score": 0.936,
                   "content": "b. Da duoc tim tháy o nhiéu noi tai Viet Nam.",
                   "type": "text"
                 }
@@ -10540,7 +10916,7 @@
                     706,
                     902
                   ],
-                  "score": 0.922,
+                  "score": 0.931,
                   "content": "c. La thúr duoc su dung dé lam nón lá binh dan.",
                   "type": "text"
                 }
@@ -10626,6 +11002,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    937,
+                    506,
+                    956
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     939,
                     520,
@@ -10647,6 +11034,17 @@
                   ],
                   "score": 0.805,
                   "content": "a, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    565,
+                    936,
+                    568,
+                    957
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -10676,6 +11074,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    937,
+                    629,
+                    956
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     629,
                     939,
                     642,
@@ -10697,6 +11106,17 @@
                   ],
                   "score": 0.741,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    688,
+                    937,
+                    690,
+                    956
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -10842,5 +11262,5 @@
     }
   ],
   "_backend": "pipeline",
-  "_version_name": "2.5.4"
+  "_version_name": "2.6.2"
 }

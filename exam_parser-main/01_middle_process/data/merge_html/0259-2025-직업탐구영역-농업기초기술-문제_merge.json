@@ -135,20 +135,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      325,
-      300,
-      402,
-      402
-    ],
-    "page_idx": 0,
-    "image_path": "3c7b5596817c417f25ee44372fdb5678927a3671c398c448911986e2ad5672c2.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "<보  기>",
     "bbox": [
@@ -170,7 +156,7 @@
   },
   {
     "type": "text",
-    "text": "7.톱 ㄴ.대패 ㄷ.줄자 ㄹ.드라이버",
+    "text": "ㄱ. 톱 ㄴ. 대패 ㄷ. 줄자 ㄹ. 드라이버",
     "bbox": [
       106,
       437,
@@ -180,12 +166,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 297,
+      "end_orig": 321,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -210,7 +196,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음 기사에서 알 수 있는 애완견 품종에 대한 설명으로 옳은 것은?",
+    "text": "ㄹ\n2. 다음 기사에서 알 수 있는 애완견 품종에 대한 설명으로 옳은 것은? ",
     "bbox": [
       85,
       527,
@@ -221,11 +207,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9492,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 370,
-      "end_orig": 410,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 368,
+      "end_orig": 411,
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -290,7 +276,7 @@
   },
   {
     "type": "text",
-    "text": "-O0신문,2024년 7월11일자-",
+    "text": "-OO신문,2024년 7월11일자-",
     "bbox": [
       249,
       696,
@@ -301,11 +287,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.8235,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 680,
+      "end_orig": 703,
+      "reason": "low_similarity"
     }
   },
   {
@@ -1198,7 +1184,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음 사례에서 농업인  A 씨가 도입한 재배 방식이 기존의 방식과 비교했을 때 갖는 특징으로 적절한 것만을  <보기",
+    "text": ". 다음 사례에서 농업인  A 씨가 도입한 재배 방식이 기존의 방식과 비교했을 때 갖는 특징으로 적절한 것만을  <보기",
     "bbox": [
       86,
       409,
@@ -1209,9 +1195,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9895,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1661,
+      "start_orig": 1662,
       "end_orig": 1728,
       "reason": "passed_threshold_no_ws"
     }
@@ -1738,7 +1724,7 @@
   },
   {
     "type": "text",
-    "text": "오늘은OO수목원으로현장실습을다녀왔다.",
+    "text": "오늘은OO수목원으로현장실습을 다녀왔다.",
     "bbox": [
       137,
       833,
@@ -1972,7 +1958,7 @@
   },
   {
     "type": "text",
-    "text": "•발생시기:2024년 4월 하순 ~ 현재 •발생증상: 수박의잎과줄기에생기가없고,낮에는시들고 저녁에는 회복되기를 반복하다 심한경우말라 죽었음",
+    "text": "•발생시기:2024년4월 하순 ~ 현재 •발생증상: 수박의잎과줄기에생기가없고,낮에는시들고 저녁에는 회복되기를 반복하다 심한경우말라 죽었음",
     "bbox": [
       477,
       810,
@@ -2352,31 +2338,11 @@
   },
   {
     "type": "text",
-    "text": "부들삿에 푸른 도롱이로 들녁물가에서 있는 시골늙은이 생게는서쪽 논받에 달렸다오.",
+    "text": "부들삿에 푸른 도롱이로 들녁물가에서있는 시골늙은이생게는서쪽 논받에 달렸다오 모내기철은바로 장맛비 내릴 때요, 버 베기는 항상 게가 살찌는 가을이라네.",
     "bbox": [
       160,
       228,
       347,
-      253
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "모내기철은바로 장맛비 내릴 때요, 버 베기는 항상 게가 살찌는 가을이라네.",
-    "bbox": [
-      160,
-      253,
-      317,
       276
     ],
     "page_idx": 2,
@@ -2483,11 +2449,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9474,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2914,
       "end_orig": 2979,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2953,7 +2919,7 @@
       972
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td>실습안내서</td></tr><tr><td>[실습 목표] 우유를 활용하여 생분해가 가능한 바이오플라스틱을 만들 수 있다. [재료 및 기구]우유, 식초, 비커, 체(거름망), 핫플레이트등 [실습 과정]</td></tr><tr><td>우유200mL를60°C로데운후식초20mL를첨가하여섞어 준다.</td></tr><tr><td>↓ 우유 속 카세인이 응고되면 체에 걸러 유청을 제거한다.</td></tr><tr><td>↓</td></tr><tr><td>추출된 카세인을원하는 모양으로성형한다.</td></tr><tr><td>↓</td></tr><tr><td>성형한 카세인을 합성수지 플라스틱에 준하는 강도가 생길 때까지 굳힌다</td></tr><tr><td></td></tr></table>",
+    "table_body": "<table><tr><td>실습안내서</td></tr><tr><td>[실습 목표] 우유를 활용하여 생분해가 가능한 바이오플라스틱을 만들 수 있다. [재료 및 기구]우유, 식초, 비커, 체(거름망), 핫플레이트등 [실습 과정]</td></tr><tr><td>우유200mL를60°C로데운후식초20mL를 첨가하여섞어 준다.</td></tr><tr><td>↓ 우유 속 카세인이 응고되면 체에 걸러 유청을 제거한다.</td></tr><tr><td>↓</td></tr><tr><td>추출된 카세인을원하는 모양으로 성형한다.</td></tr><tr><td>↓</td></tr><tr><td>성형한 카세인을 합성수지 플라스틱에 준하는 강도가 생길 때까지 굳힌다</td></tr><tr><td></td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "f9d46ed9f5f1c9169870b49fcf9a3c556763426ae15c9343794ea5b7da1ad7d2.jpg",
@@ -3041,7 +3007,7 @@
   },
   {
     "type": "text",
-    "text": "④ 과일을 착습하여 생과일주스를 만들었다.",
+    "text": "④ 과일을 착습하여생과일주스를 만들었다.",
     "bbox": [
       446,
       1035,
@@ -3141,7 +3107,7 @@
   },
   {
     "type": "text",
-    "text": "이채소는박과의덩굴식물로 열매는 길쭉하고 과실 표면에 가시 같은돌기가 있습니다. 색깔은",
+    "text": "이채소는박과의 덩굴식물로 열매는 길쭉하고 과실 표면에 가시 같은돌기가 있습니다. 색깔은",
     "bbox": [
       193,
       222,
@@ -3161,7 +3127,7 @@
   },
   {
     "type": "text",
-    "text": "녹색이고 성숙하면 황갈색이 됩니다. 피클 냉채,",
+    "text": "녹색이고 성숙하면 황갈색이 됩니다. 피클, 냉채,",
     "bbox": [
       193,
       245,

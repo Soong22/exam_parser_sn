@@ -210,7 +210,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음은 A 기업의 발전 전략 보고서이다.  이에 대한 설명으로 옳은",
+    "text": ". 다음은 A 기업의 발전 전략 보고서이다.  이에 대한 설명으로 옳은",
     "bbox": [
       84,
       594,
@@ -221,9 +221,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9825,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 514,
+      "start_orig": 515,
       "end_orig": 554,
       "reason": "passed_threshold_no_ws"
     }
@@ -260,12 +260,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 527,
-      "end_orig": 536,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -357,7 +357,7 @@
       857
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명</td><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>B기업</td></tr><tr><td rowspan=1 colspan=1>혁신활동</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6시그마</td></tr><tr><td rowspan=1 colspan=1>생산품불량률</td><td rowspan=1 colspan=1>생산품 100개당 1~2개의 불량품이발생함</td><td rowspan=1 colspan=1>생산품100만 개당3~4개의 불량품이발생함</td></tr><tr><td rowspan=1 colspan=1>자재관리및생산</td><td rowspan=1 colspan=1>부품재고초과로재고관리 비용증가</td><td rowspan=1 colspan=1>재고 비용 절감을 위해 필요한부품을 필요한 때에 필요한 만큼생산 라인에 공급하여 생산함</td></tr><tr><td rowspan=1 colspan=1>매출및이익 현황</td><td rowspan=1 colspan=1>생산품의 매출이 정점에 이른 후이익이 정체되고 있음</td><td rowspan=1 colspan=1>생산품의 매출 급증과 동시에 이익이급상승하고 있음</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명</td><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>B기업</td></tr><tr><td rowspan=1 colspan=1>혁신활동</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6시그마</td></tr><tr><td rowspan=1 colspan=1>생산품불량률</td><td rowspan=1 colspan=1>생산품 100개당 1~2개의 불량품이발생함</td><td rowspan=1 colspan=1>생산품100만 개당3~4개의 불량품이발생함</td></tr><tr><td rowspan=1 colspan=1>자재관리및생산</td><td rowspan=1 colspan=1>부품재고초과로재고관리 비용증가</td><td rowspan=1 colspan=1>재고 비용 절감을 위해 필요한부품을 필요한 때에 필요한 만큼생산 라인에 공급하여 생산함</td></tr><tr><td rowspan=1 colspan=1>매출및이익 현황</td><td rowspan=1 colspan=1>생산품의 매출이 정점에 이른 후이익이 정체되고 있음</td><td rowspan=1 colspan=1>생산품의 매출 급증과 동시에 이익이급상승하고 있음.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "681f3e3c6bc898087fad407a9b4b89fc584470c3182202050c18681b0241aea1.jpg",
@@ -899,20 +899,40 @@
   },
   {
     "type": "text",
-    "text": "ㄴ. 자재 관리에서는 정기 발주 모형으로 부품을 발주하고 있다.\nㄷ. 제품 조립 일정 관리에 계획 대비 실적을 파악할 수 있는 도표를 활용하고 있다.",
+    "text": "ㄴ. 자재 관리에서는 정기 발주 모형으로 부품을 발주하고 있다.",
     "bbox": [
       456,
       936,
       747,
+      953
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1550,
+      "end_orig": 1585,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 제품 조립 일정 관리에 계획 대비 실적을 파악할 수 있는 도표를 활용하고 있다.",
+    "bbox": [
+      456,
+      954,
+      746,
       985
     ],
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9917,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1550,
+      "start_orig": 1586,
       "end_orig": 1633,
       "reason": "passed_threshold_no_ws"
     }
@@ -1394,7 +1414,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음 경영 진단 컨설팅 보고서를 통해 알 수 있는 A 기업에 대한 내용으로 옳은 것만을",
+    "text": ". 다음 경영 진단 컨설팅 보고서를 통해 알 수 있는 A 기업에 대한 내용으로 옳은 것만을",
     "bbox": [
       87,
       737,
@@ -1405,9 +1425,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9859,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2461,
+      "start_orig": 2462,
       "end_orig": 2512,
       "reason": "passed_threshold_no_ws"
     }
@@ -1594,11 +1614,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9762,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2623,
       "end_orig": 2679,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1797,7 +1817,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 불량 건수를 나타낸 도구는 파레토도 작성에 활용될 수 있다.\n",
+    "text": "ㄷ. 불량 건수를 나타낸 도구는 파레토도 작성에 활용될 수 있다.",
     "bbox": [
       456,
       523,
@@ -1808,11 +1828,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.963,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2883,
-      "end_orig": 2920,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 2919,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2372,7 +2392,7 @@
   },
   {
     "type": "text",
-    "text": "1.배경: 지속 가능한 발전과 환경오염 문제 해결을 위해 등장 2.(가):폐건전지,폐금속 및 생활 폐기물이 뒤섞인 유해 폐기물의 국가 간 이동을 규제하는 국제 협약으로서 최근 유해 물질을 함유한 플라스틱도 수출입 통제 대상 폐기물에 포함하는 개정안을 추가하였다.",
+    "text": "1.배경: 지속 가능한 발전과 환경오염 문제 해결을 위해 등장 ㄹ.(가): 폐건전지,폐금속 및 생활 폐기물이 뒤섞인 유해 폐기물의 국가 간 이동을 규제하는 국제 협약으로서 최근 유해 물질을 함유한 플라스틱도 수출입 통제 대상 폐기물에 포함하는 개정안을 추가하였다.",
     "bbox": [
       114,
       574,
@@ -2532,7 +2552,7 @@
   },
   {
     "type": "text",
-    "text": "2.평가 기준: 항목별 평가 점수의 총합이 가장 높은 회사의 제품을 최종 선정함.",
+    "text": "ㄹ.평가 기준: 항목별 평가 점수의 총합이 가장 높은 회사의 제품을 최종 선정함.",
     "bbox": [
       118,
       807,
@@ -2957,7 +2977,7 @@
   },
   {
     "type": "text",
-    "text": "② 자신의 성향을 파악하기 위해 MBTI  검사를 받았다.\n",
+    "text": "② 자신의 성향을 파악하기 위해 MBTI  검사를 받았다.\n③ ",
     "bbox": [
       446,
       672,
@@ -2968,10 +2988,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.96,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4622,
-      "end_orig": 4655,
+      "end_orig": 4657,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2992,7 +3012,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4655,
       "end_orig": 4689,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -3317,7 +3337,7 @@
   },
   {
     "type": "text",
-    "text": "개선 전 안전 관리 조직",
+    "text": "·개선 전 안전 관리 조직",
     "bbox": [
       105,
       225,
@@ -3417,7 +3437,7 @@
   },
   {
     "type": "text",
-    "text": "·하인리히(Heinrich, H.W.)사고 예방5단계를 적용함.",
+    "text": "•하인리히(Heinrich, H. W.)사고예방5단계를 적용함.",
     "bbox": [
       113,
       337,
@@ -3672,7 +3692,7 @@
   },
   {
     "type": "text",
-    "text": "2.재발 방지 대책은재해 예방의 원칙 중'대책 선정의 원칙'을 적용한 것이다.",
+    "text": "ㄹ.재발 방지 대책은재해 예방의 원칙 중'대책 선정의 원칙'을 적용한 것이다.",
     "bbox": [
       106,
       620,
@@ -3891,20 +3911,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      332,
-      936,
-      401,
-      1022
-    ],
-    "page_idx": 3,
-    "image_path": "5636d855543cdf4262bf87131e1314ecac1310695a4d1c25efff4a3800c71eba.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 광섬유 ② 초전도체 ③ 파인 세라믹스\n④ 탄소 나노 튜브 ⑤ 형상 기억 합금",
     "bbox": [
@@ -3966,7 +3972,7 @@
   },
   {
     "type": "text",
-    "text": "대한 설명으로 옳은 것만을<보>",
+    "text": "대한 설명으로옳은 것만을<보>",
     "bbox": [
       447,
       176,
@@ -4095,7 +4101,7 @@
   },
   {
     "type": "text",
-    "text": "7.(가)에서 측정된 것은 산성비의 주요 원인 물질이다.",
+    "text": "ㄱ.(가)에서 측정된 것은 산성비의 주요 원인 물질이다.",
     "bbox": [
       456,
       362,
@@ -4115,7 +4121,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.(나)에서배출허용기준을 초과한 물질은 부영양화의 원인 물질이다.",
+    "text": "ㄴ.(나)에서 배출허용기준을 초과한 물질은 부영양화의 원인 물질이다.",
     "bbox": [
       456,
       379,
@@ -4155,7 +4161,7 @@
   },
   {
     "type": "text",
-    "text": "2.",
+    "text": "ㄹ.",
     "bbox": [
       455,
       447,
@@ -4165,12 +4171,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6388,
-      "end_orig": 6390,
-      "reason": "low_similarity"
+      "start_orig": 6326,
+      "end_orig": 6328,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4322,7 +4328,7 @@
       750
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>단계</td><td rowspan=1 colspan=1>개발절차</td><td rowspan=1 colspan=1>활동</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>다양한발상법을 통해 아이디어 창출 후최적의 아이디어 선정</td><td rowspan=1 colspan=1>(가)</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>선정한 아이디어로 개념화한 제품에대한소비자 반응 조사를 통한 적합성 검증</td><td rowspan=1 colspan=1>(4)</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>제품의 구체화 및 예비 설계</td><td rowspan=1 colspan=1>CAD 프로그램으로 화장품 용기의모양,색채,크기 등을 모델링한다.</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>실제와 비슷한 제품 제작 및 성능 검증</td><td rowspan=1 colspan=1>(다)</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>최종 설계</td><td rowspan=1 colspan=1>(라)</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>단계</td><td rowspan=1 colspan=1>개발절차</td><td rowspan=1 colspan=1>활동</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>다양한발상법을 통해 아이디어창출 후최적의 아이디어 선정</td><td rowspan=1 colspan=1>(가)</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>선정한 아이디어로 개념화한 제품에 대한소비자 반응 조사를 통한 적합성 검증</td><td rowspan=1 colspan=1>(4)</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>제품의 구체화 및 예비 설계</td><td rowspan=1 colspan=1>CAD 프로그램으로 화장품 용기의모양,색채,크기 등을 모델링한다.</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>실제와 비슷한 제품 제작 및 성능 검증</td><td rowspan=1 colspan=1>(다)</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>최종 설계</td><td rowspan=1 colspan=1>(라)</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "717befc0e94769443900493716cdaee8b9e26d93087084067d4dba4805f40eb7.jpg",
@@ -4350,7 +4356,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ. (가)에서는 브레인스토밍 기법을 사용하여 화장품 용기에 대한 아이디어를 도출할 수 있다.",
+    "text": "ㄱ.(가)에서는 브레인스토밍 기법을 사용하여 화장품 용기에 대한 아이디어를 도출할 수 있다.",
     "bbox": [
       456,
       788,
@@ -4360,17 +4366,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6181,
-      "end_orig": 6233,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "ㄴ. (나)에서는 최적의 화장품 용기 재료 및 공정 설비 배치 방법을 결정한다.",
+    "text": "ㄴ.(나)에서는 최적의 화장품 용기 재료 및 공정 설비 배치 방법을 결정한다.",
     "bbox": [
       456,
       821,
@@ -4380,17 +4386,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6234,
-      "end_orig": 6278,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "ㄷ. (다)에서는 3D  프린터로 화장품 용기 시제품을 제작하여 디자인을 확인한다.\n",
+    "text": "ㄷ. (다)에서는 3D  프린터로 화장품 용기 시제품을 제작하여 디자인을 확인한다.",
     "bbox": [
       456,
       855,
@@ -4404,13 +4410,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6279,
-      "end_orig": 6326,
+      "end_orig": 6325,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄹ. (라)에서는 화장품 용기의 생산을 위해 기능 설계,  형태 설계,  생산 설계를 확정한다.",
+    "text": "(라)에서는 화장품 용기의 생산을 위해 기능 설계,  형태 설계,  생산 설계를 확정한다.",
     "bbox": [
       456,
       888,
@@ -4421,9 +4427,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9737,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6326,
+      "start_orig": 6329,
       "end_orig": 6379,
       "reason": "passed_threshold_no_ws"
     }

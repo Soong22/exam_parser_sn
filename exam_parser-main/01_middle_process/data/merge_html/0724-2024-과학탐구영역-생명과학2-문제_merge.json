@@ -250,7 +250,7 @@
   },
   {
     "type": "text",
-    "text": "2. 표는 식물을 구성하는 조직계의 특징을 나타낸 것이다.  A와 B는",
+    "text": ". 표는 식물을 구성하는 조직계의 특징을 나타낸 것이다.  A와 B는",
     "bbox": [
       86,
       474,
@@ -261,9 +261,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9825,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 298,
+      "start_orig": 299,
       "end_orig": 337,
       "reason": "passed_threshold_no_ws"
     }
@@ -539,18 +539,24 @@
     "original_type": "table"
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "0 S1 S2 A의 농도",
     "bbox": [
-      239,
-      819,
-      391,
-      887
+      267,
+      874,
+      394,
+      889
     ],
     "page_idx": 0,
-    "image_path": "b297614f5ed5437dccebd7c71aed1a55e1a21cfe8b6a1e02456fcb4ba266d7b2.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
   },
   {
     "type": "text",
@@ -645,11 +651,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9492,
+      "similarity": 0.9831,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 876,
       "end_orig": 915,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -868,7 +874,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?\n",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
     "bbox": [
       456,
       362,
@@ -879,16 +885,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9643,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1185,
-      "end_orig": 1223,
+      "end_orig": 1222,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       456,
       404,
@@ -901,14 +907,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2094,
-      "end_orig": 2096,
+      "start_orig": 1230,
+      "end_orig": 1232,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 의 이동 방식은 촉진 확산이다.",
+    "text": "의 이동 방식은 촉진 확산이다.\n",
     "bbox": [
       472,
       404,
@@ -918,12 +924,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.963,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1234,
+      "end_orig": 1252,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1136,8 +1142,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2325,
-      "end_orig": 2346,
+      "start_orig": 1589,
+      "end_orig": 1610,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1163,7 +1169,7 @@
   },
   {
     "type": "text",
-    "text": "에서 있는 대로 고른 것은?  (단,  ㉠과 ㉡은 이 녹조류의 엽록체 내에 존재하며,  제시된 조건 이외의 다른 조건은 동일하다.)\n<",
+    "text": "에서 있는 대로 고른 것은?  (단,  ㉠과 ㉡은 이 녹조류의 엽록체 내에 존재하며,  제시된 조건 이외의 다른 조건은 동일하다.)\n<보  기>\n",
     "bbox": [
       446,
       642,
@@ -1174,16 +1180,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9524,
+      "similarity": 0.9259,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1611,
-      "end_orig": 1686,
-      "reason": "anchor_rescue"
+      "end_orig": 1692,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "<보  기>",
+    "text": "<보기>",
     "bbox": [
       573,
       697,
@@ -1196,14 +1202,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2363,
-      "end_orig": 2369,
+      "start_orig": 1976,
+      "end_orig": 1980,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "7. 은RuBP이다.",
+    "text": "ㄱ. ㉠은 RuBP이다.",
     "bbox": [
       456,
       717,
@@ -1213,12 +1219,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9524,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1692,
+      "end_orig": 1705,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1243,7 +1249,7 @@
   },
   {
     "type": "text",
-    "text": "드.캘빈 회로에서",
+    "text": "ㄷ. 캘빈  회로에서",
     "bbox": [
       456,
       750,
@@ -1253,12 +1259,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1724,
+      "end_orig": 1735,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1523,7 +1529,7 @@
   },
   {
     "type": "text",
-    "text": "7.A는 최초의 단세포 진핵생물이다.",
+    "text": "ㄱ. A는 최초의 단세포 진핵생물이다.",
     "bbox": [
       456,
       988,
@@ -1533,12 +1539,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2003,
+      "end_orig": 2024,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1603,7 +1609,7 @@
   },
   {
     "type": "text",
-    "text": "7. 그림은 효모의 알코올 발효에서 물질 전환 과정 Ⅰ～Ⅲ을,  표는 Ⅰ～Ⅲ에서 생성되는",
+    "text": "7. 그림은 효모의 알코올 발효에서 물질 전환 과정 Ⅰ～Ⅲ을,  표는 Ⅰ～Ⅲ에서 생성되는 물질 ㉠～㉣",
     "bbox": [
       86,
       159,
@@ -1614,11 +1620,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.8718,
+      "similarity": 0.8434,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2094,
-      "end_orig": 2143,
-      "reason": "passed_threshold_no_ws"
+      "end_orig": 2150,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -1858,7 +1864,7 @@
   },
   {
     "type": "text",
-    "text": "7. ㄴ은 NAD+이다.",
+    "text": ". ㉡은 NAD 이다. ",
     "bbox": [
       107,
       374,
@@ -1868,12 +1874,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2371,
+      "end_orig": 2384,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1978,7 +1984,7 @@
   },
   {
     "type": "text",
-    "text": "8.그림은 어떤 식물에서 ⑦ 과",
+    "text": "8. 그림은 어떤 식물에서 ㉠과",
     "bbox": [
       86,
       489,
@@ -1988,12 +1994,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9231,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2489,
+      "end_orig": 2506,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2049,11 +2055,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2550,
+      "end_orig": 2552,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2288,7 +2294,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       108,
       716,
@@ -2298,12 +2304,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8153,
-      "end_orig": 8155,
-      "reason": "low_similarity"
+      "start_orig": 7075,
+      "end_orig": 7077,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2319,11 +2325,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2593,
+      "end_orig": 2594,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2667,18 +2673,64 @@
     }
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "골수에서 세포 추출 →(가) 뼈 배양",
     "bbox": [
-      134,
-      874,
-      366,
-      938
+      146,
+      876,
+      367,
+      905
     ],
     "page_idx": 1,
-    "image_path": "0fd29da1d83e8043687717069728975cd1bd70116ee47af998288e13843256d0.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circledcirc",
+    "bbox": [
+      144,
+      912,
+      158,
+      927
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "역분화를 일으키는 유전자 삼입 →(4) 체세포 배양",
+    "bbox": [
+      138,
+      910,
+      367,
+      939
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
   },
   {
     "type": "text",
@@ -2962,7 +3014,7 @@
   },
   {
     "type": "text",
-    "text": "① 을 순차적으로 첨가한다.",
+    "text": "을 순차적으로 첨가한다. ",
     "bbox": [
       531,
       284,
@@ -2972,17 +3024,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9565,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3262,
+      "end_orig": 3276,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 과 ① 은X와Y를 순서 없이 나타낸 것이다.",
+    "text": "과 ㉡은 X와 Y를 순서 없이 나타낸 것이다. ",
     "bbox": [
       477,
       284,
@@ -2992,12 +3044,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9189,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3278,
+      "end_orig": 3304,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3131,7 +3183,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을 <보기>",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
       456,
       470,
@@ -3142,10 +3194,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9697,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3417,
-      "end_orig": 3439,
+      "end_orig": 3438,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3191,7 +3243,7 @@
   },
   {
     "type": "text",
-    "text": "7. ㄴ은 Y이다.",
+    "text": ". ㉡은 Y이다.\n",
     "bbox": [
       456,
       528,
@@ -3201,12 +3253,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3507,
+      "end_orig": 3517,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3625,7 +3677,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       456,
       989,
@@ -3635,17 +3687,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8153,
-      "end_orig": 8155,
-      "reason": "low_similarity"
+      "start_orig": 4032,
+      "end_orig": 4034,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 은 아데닌(A)이다.",
+    "text": "은 아데닌(A)이다.\n",
     "bbox": [
       472,
       989,
@@ -3655,12 +3707,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9524,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4036,
+      "end_orig": 4048,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3985,7 +4037,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       108,
       501,
@@ -3995,17 +4047,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8153,
-      "end_orig": 8155,
-      "reason": "low_similarity"
+      "start_orig": 5161,
+      "end_orig": 5163,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 과 ① 은 모두 유전자풀의 변화 요인이다.",
+    "text": "과 ㉡은 모두 유전자풀의 변화 요인이다.\n",
     "bbox": [
       123,
       501,
@@ -4015,17 +4067,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9143,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4567,
+      "end_orig": 4590,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       106,
       517,
@@ -4035,17 +4087,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5742,
-      "end_orig": 5743,
-      "reason": "low_similarity"
+      "start_orig": 5181,
+      "end_orig": 5183,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 은환경 변화에 대한 개체의적응능력과 무관하게일어난다.",
+    "text": "은 환경 변화에 대한 개체의 적응 능력과 무관하게 일어난다.\n",
     "bbox": [
       123,
       517,
@@ -4055,12 +4107,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9804,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4594,
+      "end_orig": 4628,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4265,7 +4317,7 @@
   },
   {
     "type": "text",
-    "text": "는프라이머 X를,는프라이머 Y를,는프라이머Z를 가진다",
+    "text": "는프라이머 X를,는프라이머 Y를,는 프라이머Z를 가진다",
     "bbox": [
       116,
       727,
@@ -4345,7 +4397,7 @@
   },
   {
     "type": "text",
-    "text": "5'- ⑦0CAATATGO⑦GOCTCACTCOG⑦C-3' 나와를구성하는염기를모두합쳐서구한",
+    "text": "5'- ⑦0CAATATGOGOCTCACTCOG⑦C-3' 나와를구성하는염기를모두합쳐서구한",
     "bbox": [
       105,
       823,
@@ -4777,7 +4829,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       455,
       369,
@@ -4787,17 +4839,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8153,
-      "end_orig": 8155,
-      "reason": "low_similarity"
+      "start_orig": 7742,
+      "end_orig": 7744,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 은 동물계이다.",
+    "text": "은 동물계이다.\n",
     "bbox": [
       472,
       369,
@@ -4807,17 +4859,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5515,
+      "end_orig": 5524,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       387,
@@ -4827,12 +4879,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7755,
+      "end_orig": 7757,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4909,7 +4961,7 @@
   },
   {
     "type": "text",
-    "text": "16.다음은이중 가닥DNA x와 제한 효소에 대한 자료이다.",
+    "text": "16.다음은 이중 가닥DNAx와 제한 효소에 대한 자료이다.",
     "bbox": [
       434,
       569,
@@ -5029,7 +5081,7 @@
   },
   {
     "type": "text",
-    "text": "5'-AjGATCT-3' 5'-GGTACiC-3' 5-CiTCGAG-3' 3-TCTAGA-5' 3'-CICATGG-5' 3'-GAGCTC-5' BglⅡ KpnI XhoI : 절단위치",
+    "text": "5'-AjGATCT-3' 5'-GGTACiC-3' 5-CiTCGAG-3' 3-TCTAGA-5' 3'-CICATGG-5 3'-GAGCTC-5' BglⅡ KpnI XhoI : 절단위치",
     "bbox": [
       493,
       731,
@@ -5049,7 +5101,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇx를 시험관 I~IV에 넣고 제한 효소를 첨가하여 완전히 자른결과 생성된DNA 조각 수와 각 DNA 조각의 염기 수는 표와 같다.",
+    "text": "ㅇx를 시험관 I~IV에 넣고 제한 효소를 첨가하여 완전히 자른결과생성된DNA 조각 수와 각 DNA 조각의 염기 수는 표와 같다.",
     "bbox": [
       455,
       792,
@@ -5080,11 +5132,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.5,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5637,
+      "end_orig": 5639,
+      "reason": "low_similarity"
     }
   },
   {
@@ -5136,7 +5188,7 @@
       915
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>시험관</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>V</td></tr><tr><td rowspan=1 colspan=1>첨가한제한효소</td><td rowspan=1 colspan=1>BglⅡ</td><td rowspan=1 colspan=1>Kpn I</td><td rowspan=1 colspan=1>Xho I</td><td rowspan=1 colspan=1>BglⅡ, Kpn I</td></tr><tr><td rowspan=1 colspan=1>생성된DNA 조각 수</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=1>생성된 각 DNA조각의 염기 수</td><td rowspan=1 colspan=1>12, a, b</td><td rowspan=1 colspan=1>30, 38</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>12, 18, 18, 20</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>시험관</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>V</td></tr><tr><td rowspan=1 colspan=1>첨가한제한효소</td><td rowspan=1 colspan=1>BglⅡ</td><td rowspan=1 colspan=1>Kpn I</td><td rowspan=1 colspan=1>Xho I</td><td rowspan=1 colspan=1>BglⅡ, Kpn I</td></tr><tr><td rowspan=1 colspan=1>생성된DNA 조각수</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=1>생성된 각 DNA조각의 염기 수</td><td rowspan=1 colspan=1>12, a, b</td><td rowspan=1 colspan=1>30, 38</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>12, 18, 18, 20</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "a53eeb1af753e2089ee5e81670496735bd37b610c323598591fee439e6a96461.jpg",
@@ -5144,7 +5196,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은? ",
+    "text": "이에 대한설명으로 옮은 것만을<보기>에서 있는 대로 고른 것은?",
     "bbox": [
       456,
       930,
@@ -5154,17 +5206,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7669,
-      "end_orig": 7707,
-      "reason": "anchor_rescue"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "<보  기>",
+    "text": "<보기>",
     "bbox": [
       573,
       953,
@@ -5174,17 +5226,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7735,
-      "end_orig": 7741,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       455,
       972,
@@ -5197,14 +5249,14 @@
       "replaced": false,
       "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8153,
-      "end_orig": 8155,
+      "start_orig": 7784,
+      "end_orig": 7786,
       "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 의 5'말단 염기는 사이토신(C)이다.",
+    "text": "의 5′ 말단 염기는 사이토신(C)이다.\n",
     "bbox": [
       472,
       972,
@@ -5214,12 +5266,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9189,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6050,
+      "end_orig": 6073,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5324,7 +5376,7 @@
   },
   {
     "type": "text",
-    "text": ";",
+    "text": ",",
     "bbox": [
       280,
       158,
@@ -5604,7 +5656,7 @@
   },
   {
     "type": "text",
-    "text": "와(나)를 순서 없이 나타낸 것이다.",
+    "text": "와(나)를 순서없이 나타낸 것이다.",
     "bbox": [
       135,
       258,
@@ -5635,11 +5687,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.5,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6119,
+      "end_orig": 6121,
+      "reason": "low_similarity"
     }
   },
   {
@@ -5744,7 +5796,7 @@
   },
   {
     "type": "text",
-    "text": "개의 피리미딘 계열 염기와 2개의 퓨린 계열 염기로 구성된다.",
+    "text": "개의 피리미딘 계열 염기와 2개의 퓨린 계열 염기로 구성된다.\n",
     "bbox": [
       118,
       274,
@@ -5754,12 +5806,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6429,
+      "end_orig": 6464,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5771,7 +5823,7 @@
       357
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td>구분</td><td colspan=\"2\">염기 서열</td></tr><tr><td>I</td><td colspan=\"2\">5&#x27;- CGCTACGTCACGCATGCG</td></tr><tr><td>I</td><td>@- CTTACGACTAG[</td><td>7 AT</td></tr></table>",
+    "table_body": "<table><tr><td>구분</td><td colspan=\"2\">염기 서열</td></tr><tr><td>I</td><td colspan=\"2\">5&#x27;- CGCTACGTCACGCATGCG</td></tr><tr><td>I</td><td>@- CTTACGACTAGl</td><td>7 AT</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "3717823e10b39048bbcc70c2b9dd2a8ecf4755319f9d4acc9cb313fdf8163fc6.jpg",
@@ -5779,7 +5831,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇX는8개의 아미노산으로구성되고,1개의세린,1개의 아스파트산을 가진다.",
+    "text": "ㅇX는8개의 아미노산으로구성되고,1개의 세린,1개의 아스파트산을 가진다.",
     "bbox": [
       107,
       360,
@@ -5819,7 +5871,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇY는9개의 아미노산으로구성된다.",
+    "text": "◦ Y는 9개의 아미노산으로 구성된다.\n",
     "bbox": [
       106,
       425,
@@ -5829,12 +5881,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9697,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6578,
+      "end_orig": 6600,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5914,7 +5966,7 @@
   },
   {
     "type": "text",
-    "text": "에서 있는 대로 고른 것은?(단,제시된 돌연변이 이외의 핵산 염기 서열 변화는 고려 하지 않는다.) [3점]",
+    "text": "에서 있는 대로 고른 것은?  (단,  제시된 돌연변이 이외의 핵산 염기 서열 변화는 고려 하지 않는다.)  [3점]\n",
     "bbox": [
       97,
       585,
@@ -5924,17 +5976,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6689,
+      "end_orig": 6755,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       108,
       660,
@@ -5947,8 +5999,8 @@
       "replaced": false,
       "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8153,
-      "end_orig": 8155,
+      "start_orig": 7784,
+      "end_orig": 7786,
       "reason": "low_similarity"
     }
   },
@@ -5965,11 +6017,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.8235,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6766,
+      "end_orig": 6776,
+      "reason": "low_similarity"
     }
   },
   {
@@ -6034,7 +6086,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ.Y의 5번째 아미노산은세린이다.",
+    "text": "ㄷ. Y의 5번째 아미노산은 세린이다.\n",
     "bbox": [
       107,
       693,
@@ -6044,12 +6096,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6817,
+      "end_orig": 6839,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6074,7 +6126,7 @@
   },
   {
     "type": "text",
-    "text": "18.표는 생물의 4가지 특징과 생물",
+    "text": "8. 표는 생물의 4가지 특징과 생물",
     "bbox": [
       87,
       807,
@@ -6084,12 +6136,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9677,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6873,
+      "end_orig": 6893,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6479,7 +6531,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을<보>",
+    "text": "이에 대한 설명으로 옳은것만을<보>",
     "bbox": [
       456,
       463,
@@ -6579,7 +6631,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       538,
@@ -6639,7 +6691,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ.Y는C에 결합한다.",
+    "text": "ㄷ.Y는 C에 결합한다.",
     "bbox": [
       456,
       555,
@@ -6879,18 +6931,18 @@
   },
   {
     "type": "text",
-    "text": "Ⅱ서",
+    "text": ", Ⅱ서",
     "bbox": [
       467,
-      816,
-      500,
+      790,
+      749,
       847
     ],
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.4,
+      "similarity": 0.3333,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8101,
       "end_orig": 8103,
@@ -6975,26 +7027,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
-    }
-  },
-  {
-    "type": "text",
-    "text": ".",
-    "bbox": [
-      639,
-      846,
-      644,
-      876
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
     }
   },
   {

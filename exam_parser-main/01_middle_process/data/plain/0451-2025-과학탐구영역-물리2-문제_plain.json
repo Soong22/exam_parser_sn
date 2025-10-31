@@ -210,7 +210,7 @@
                     406,
                     272
                   ],
-                  "score": 0.964,
+                  "score": 0.968,
                   "content": "1.그림은 수소 원자 모형에 대하여 학생 A,B,C가 대화하는 모습",
                   "type": "text"
                 }
@@ -282,7 +282,7 @@
                     406,
                     289
                   ],
-                  "score": 0.957,
+                  "score": 0.953,
                   "content": "은 보어의 원자 모형과 현대 원자 모형을 순서 없이",
                   "type": "text"
                 }
@@ -388,12 +388,23 @@
             },
             {
               "bbox": [
-                312,
+                205,
                 358,
                 374,
                 374
               ],
               "spans": [
+                {
+                  "bbox": [
+                    205,
+                    364,
+                    208,
+                    367
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     312,
@@ -491,7 +502,7 @@
                     254,
                     397
                   ],
-                  "score": 0.94,
+                  "score": 0.948,
                   "content": "상태일 때 전자가 발견될",
                   "type": "text"
                 },
@@ -513,7 +524,7 @@
                     394,
                     397
                   ],
-                  "score": 0.994,
+                  "score": 0.991,
                   "content": "인 상태일 때 양자 조건을 만족하는",
                   "type": "text"
                 }
@@ -536,7 +547,7 @@
                     190,
                     406
                   ],
-                  "score": 0.951,
+                  "score": 0.956,
                   "content": "확률 분포를 나타낸 것.",
                   "type": "text"
                 },
@@ -547,7 +558,7 @@
                     393,
                     407
                   ],
-                  "score": 0.918,
+                  "score": 0.928,
                   "content": "원 궤도를 따라 운동하는 전자를 나타낸 것.",
                   "type": "text"
                 }
@@ -693,7 +704,7 @@
                     388,
                     445
                   ],
-                  "score": 0.967,
+                  "score": 0.969,
                   "content": "할 때 전자기파가 방출돼.",
                   "type": "text"
                 }
@@ -778,7 +789,7 @@
                     360,
                     514
                   ],
-                  "score": 0.92,
+                  "score": 0.919,
                   "content": "제시한 내용이 옳은 학생만을 있는 대로 고른 것은?",
                   "type": "text"
                 }
@@ -820,6 +831,17 @@
                   ],
                   "score": 0.922,
                   "content": "① A",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    156,
+                    519,
+                    158,
+                    540
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -895,6 +917,17 @@
                   ],
                   "score": 0.708,
                   "content": "B, C",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    335,
+                    520,
+                    342,
+                    538
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -998,7 +1031,7 @@
                     304,
                     612
                   ],
-                  "score": 0.94,
+                  "score": 0.947,
                   "content": "안테나에 수신된 전자기파에 의해 1차",
                   "type": "text"
                 }
@@ -1020,12 +1053,12 @@
                     304,
                     630
                   ],
-                  "score": 0.973,
+                  "score": 0.965,
                   "content": "코일에 교류 전류가 발생하고, 전자기",
                   "type": "text"
                 }
               ],
-              "index": 23,
+              "index": 24,
               "is_list_start_line": true
             },
             {
@@ -1043,12 +1076,12 @@
                     304,
                     647
                   ],
-                  "score": 0.958,
+                  "score": 0.966,
                   "content": "유도에 의해 수신 회로의 2차 코일에",
                   "type": "text"
                 }
               ],
-              "index": 25,
+              "index": 26,
               "is_list_start_line": true
             },
             {
@@ -1077,12 +1110,12 @@
                     303,
                     664
                   ],
-                  "score": 0.971,
+                  "score": 0.969,
                   "content": "가 흐른다.그리고 수신 회로의",
                   "type": "text"
                 }
               ],
-              "index": 26
+              "index": 27
             },
             {
               "bbox": [
@@ -1110,15 +1143,15 @@
                     304,
                     684
                   ],
-                  "score": 0.946,
+                  "score": 0.96,
                   "content": "|를 전자기파의 진동수와 같게",
                   "type": "text"
                 }
               ],
-              "index": 27
+              "index": 29
             }
           ],
-          "index": 25,
+          "index": 26,
           "bbox_fs": [
             104,
             599,
@@ -1127,72 +1160,154 @@
           ]
         },
         {
-          "type": "image",
+          "type": "text",
           "bbox": [
             314,
             593,
             402,
             684
           ],
-          "blocks": [
+          "lines": [
             {
-              "type": "image_body",
               "bbox": [
-                314,
-                593,
-                402,
-                684
+                322,
+                601,
+                350,
+                614
               ],
-              "group_id": 3,
-              "lines": [
+              "spans": [
                 {
                   "bbox": [
-                    314,
-                    593,
-                    402,
-                    684
+                    322,
+                    601,
+                    350,
+                    614
                   ],
-                  "spans": [
-                    {
-                      "bbox": [
-                        314,
-                        593,
-                        402,
-                        684
-                      ],
-                      "score": 0.47,
-                      "type": "image",
-                      "image_path": "605b13cd0fbacc2421f4c80a037f263d751d098c1f994e1b54009008759a09de.jpg"
-                    }
-                  ]
+                  "score": 0.907,
+                  "content": "안텐나",
+                  "type": "text"
                 }
               ],
-              "index": 26.0,
-              "virtual_lines": [
+              "index": 23
+            },
+            {
+              "bbox": [
+                354,
+                614,
+                371,
+                630
+              ],
+              "spans": [
                 {
                   "bbox": [
-                    314,
-                    593,
-                    402,
-                    638.5
+                    354,
+                    614,
+                    371,
+                    630
                   ],
-                  "spans": [],
-                  "index": 24
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 25
+            },
+            {
+              "bbox": [
+                315,
+                630,
+                372,
+                660
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    315,
+                    645,
+                    325,
+                    655
+                  ],
+                  "score": 0.959,
+                  "content": "코",
+                  "type": "text"
                 },
                 {
                   "bbox": [
-                    314,
-                    638.5,
-                    402,
-                    684.0
+                    328,
+                    632,
+                    344,
+                    660
                   ],
-                  "spans": [],
-                  "index": 28
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    630,
+                    354,
+                    660
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    347,
+                    630,
+                    372,
+                    660
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
-              ]
+              ],
+              "index": 28
+            },
+            {
+              "bbox": [
+                345,
+                668,
+                380,
+                680
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    345,
+                    669,
+                    365,
+                    680
+                  ],
+                  "score": 0.994,
+                  "content": "수신",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    361,
+                    668,
+                    380,
+                    680
+                  ],
+                  "score": 0.996,
+                  "content": "회로",
+                  "type": "text"
+                }
+              ],
+              "index": 30
             }
           ],
-          "index": 26.0
+          "index": 26.5,
+          "bbox_fs": [
+            315,
+            601,
+            380,
+            680
+          ]
         },
         {
           "type": "text",
@@ -1218,15 +1333,15 @@
                     396,
                     703
                   ],
-                  "score": 0.891,
+                  "score": 0.883,
                   "content": "하면 공명이 일어나 수신 회로에 흐르는 전류의 세기가최대가된다.",
                   "type": "text"
                 }
               ],
-              "index": 29
+              "index": 31
             }
           ],
-          "index": 29,
+          "index": 31,
           "bbox_fs": [
             104,
             686,
@@ -1258,15 +1373,15 @@
                     239,
                     733
                   ],
-                  "score": 0.922,
+                  "score": 0.928,
                   "content": "A, B로 가장 적절한 것은?",
                   "type": "text"
                 }
               ],
-              "index": 30
+              "index": 32
             }
           ],
-          "index": 30,
+          "index": 32,
           "bbox_fs": [
             108,
             717,
@@ -1336,7 +1451,7 @@
                   "type": "text"
                 }
               ],
-              "index": 31
+              "index": 33
             },
             {
               "bbox": [
@@ -1367,7 +1482,7 @@
                     235,
                     776
                   ],
-                  "score": 0.957,
+                  "score": 0.963,
                   "content": "유도 전류 공명 진동수",
                   "type": "text"
                 },
@@ -1392,12 +1507,12 @@
                     394,
                     777
                   ],
-                  "score": 0.89,
-                  "content": "유도 전류 문탁 진동수",
+                  "score": 0.904,
+                  "content": "유도 전류 문턱 진동수",
                   "type": "text"
                 }
               ],
-              "index": 32
+              "index": 34
             },
             {
               "bbox": [
@@ -1480,7 +1595,7 @@
                   "type": "text"
                 }
               ],
-              "index": 33
+              "index": 35
             },
             {
               "bbox": [
@@ -1516,10 +1631,10 @@
                   "type": "text"
                 }
               ],
-              "index": 34
+              "index": 36
             }
           ],
-          "index": 31,
+          "index": 33,
           "bbox_fs": [
             134,
             742,
@@ -1536,7 +1651,7 @@
             811
           ],
           "lines": [],
-          "index": 33,
+          "index": 35,
           "bbox_fs": [
             97,
             761,
@@ -1569,12 +1684,12 @@
                     242,
                     857
                   ],
-                  "score": 0.96,
+                  "score": 0.956,
                   "content": "3.그림과 같이 초점 거리가f인",
                   "type": "text"
                 }
               ],
-              "index": 35
+              "index": 37
             },
             {
               "bbox": [
@@ -1591,12 +1706,12 @@
                     243,
                     875
                   ],
-                  "score": 0.956,
+                  "score": 0.957,
                   "content": "볼록 렌즈로부터 10cm만큼",
                   "type": "text"
                 }
               ],
-              "index": 36
+              "index": 38
             },
             {
               "bbox": [
@@ -1613,12 +1728,12 @@
                     243,
                     892
                   ],
-                  "score": 0.951,
+                  "score": 0.952,
                   "content": "떨어진 지점에 크기가h인물체를",
                   "type": "text"
                 }
               ],
-              "index": 38
+              "index": 40
             },
             {
               "bbox": [
@@ -1662,10 +1777,10 @@
                   "type": "text"
                 }
               ],
-              "index": 39
+              "index": 41
             }
           ],
-          "index": 37.0,
+          "index": 39.0,
           "bbox_fs": [
             86,
             844,
@@ -1714,7 +1829,7 @@
                   ]
                 }
               ],
-              "index": 38.5,
+              "index": 40.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -1724,7 +1839,7 @@
                     877.5
                   ],
                   "spans": [],
-                  "index": 37
+                  "index": 39
                 },
                 {
                   "bbox": [
@@ -1734,12 +1849,12 @@
                     910.0
                   ],
                   "spans": [],
-                  "index": 40
+                  "index": 42
                 }
               ]
             }
           ],
-          "index": 38.5
+          "index": 40.5
         },
         {
           "type": "text",
@@ -1814,10 +1929,10 @@
                   "type": "text"
                 }
               ],
-              "index": 41
+              "index": 43
             }
           ],
-          "index": 41,
+          "index": 43,
           "bbox_fs": [
             96,
             912,
@@ -1849,15 +1964,15 @@
                     407,
                     964
                   ],
-                  "score": 0.872,
+                  "score": 0.873,
                   "content": "이에 대한 설명으로옳은 것만을<보기>에서 있는 대로 고른 것은?",
                   "type": "text"
                 }
               ],
-              "index": 42
+              "index": 44
             }
           ],
-          "index": 42,
+          "index": 44,
           "bbox_fs": [
             107,
             945,
@@ -1894,7 +2009,7 @@
                   "type": "text"
                 }
               ],
-              "index": 43,
+              "index": 45,
               "is_list_end_line": true
             },
             {
@@ -1939,7 +2054,7 @@
                   "type": "text"
                 }
               ],
-              "index": 44,
+              "index": 46,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -1985,12 +2100,12 @@
                   "type": "text"
                 }
               ],
-              "index": 45,
+              "index": 47,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 44,
+          "index": 46,
           "bbox_fs": [
             106,
             988,
@@ -2024,6 +2139,17 @@
                   ],
                   "score": 0.994,
                   "content": "①7",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    156,
+                    1050,
+                    158,
+                    1071
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -2074,10 +2200,10 @@
                   "type": "text"
                 }
               ],
-              "index": 46
+              "index": 48
             }
           ],
-          "index": 46,
+          "index": 48,
           "bbox_fs": [
             95,
             1050,
@@ -2109,7 +2235,7 @@
                     577,
                     271
                   ],
-                  "score": 0.978,
+                  "score": 0.975,
                   "content": "4.그림(가)는스크린으로부터",
                   "type": "text"
                 },
@@ -2136,7 +2262,7 @@
                   "type": "text"
                 }
               ],
-              "index": 47
+              "index": 49
             },
             {
               "bbox": [
@@ -2158,7 +2284,7 @@
                   "type": "text"
                 }
               ],
-              "index": 48
+              "index": 50
             },
             {
               "bbox": [
@@ -2241,7 +2367,7 @@
                     669,
                     306
                   ],
-                  "score": 0.537,
+                  "score": 0.963,
                   "content": ",",
                   "type": "text"
                 },
@@ -2268,7 +2394,7 @@
                   "type": "text"
                 }
               ],
-              "index": 49
+              "index": 51
             },
             {
               "bbox": [
@@ -2290,7 +2416,7 @@
                   "type": "text"
                 }
               ],
-              "index": 50
+              "index": 52
             },
             {
               "bbox": [
@@ -2329,12 +2455,12 @@
                     755,
                     341
                   ],
-                  "score": 0.866,
+                  "score": 0.87,
                   "content": "때 O로부터 세 번째밝은 무니의 중심이,",
                   "type": "text"
                 }
               ],
-              "index": 51
+              "index": 53
             },
             {
               "bbox": [
@@ -2362,15 +2488,15 @@
                     741,
                     358
                   ],
-                  "score": 0.967,
+                  "score": 0.962,
                   "content": "일 때 O로부터 두 번째 어두운 무늬의 중심이 생긴다.",
                   "type": "text"
                 }
               ],
-              "index": 52
+              "index": 54
             }
           ],
-          "index": 49.5,
+          "index": 51.5,
           "bbox_fs": [
             435,
             256,
@@ -2419,7 +2545,7 @@
                   ]
                 }
               ],
-              "index": 53.5,
+              "index": 55.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -2429,7 +2555,7 @@
                     406.0
                   ],
                   "spans": [],
-                  "index": 53
+                  "index": 55
                 },
                 {
                   "bbox": [
@@ -2439,12 +2565,12 @@
                     445.0
                   ],
                   "spans": [],
-                  "index": 54
+                  "index": 56
                 }
               ]
             }
           ],
-          "index": 53.5
+          "index": 55.5
         },
         {
           "type": "text",
@@ -2481,15 +2607,15 @@
                     605,
                     468
                   ],
-                  "score": 0.973,
+                  "score": 0.968,
                   "content": "로 가장 적절한 것은?[3점]",
                   "type": "text"
                 }
               ],
-              "index": 55
+              "index": 57
             }
           ],
-          "index": 55,
+          "index": 57,
           "bbox_fs": [
             456,
             452,
@@ -2529,7 +2655,7 @@
               ]
             }
           ],
-          "index": 56,
+          "index": 58,
           "virtual_lines": [
             {
               "bbox": [
@@ -2539,7 +2665,7 @@
                 505
               ],
               "spans": [],
-              "index": 56
+              "index": 58
             }
           ]
         },
@@ -2584,6 +2710,17 @@
                 },
                 {
                   "bbox": [
+                    558,
+                    531,
+                    562,
+                    547
+                  ],
+                  "score": 0.977,
+                  "content": ",",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     563,
                     532,
                     577,
@@ -2600,12 +2737,12 @@
                     756,
                     547
                   ],
-                  "score": 0.958,
+                  "score": 0.971,
                   "content": "인실에연결된질량이같은추A,B를",
                   "type": "text"
                 }
               ],
-              "index": 57
+              "index": 59
             },
             {
               "bbox": [
@@ -2649,7 +2786,7 @@
                   "type": "text"
                 }
               ],
-              "index": 58
+              "index": 60
             },
             {
               "bbox": [
@@ -2666,12 +2803,12 @@
                     754,
                     581
                   ],
-                  "score": 0.934,
+                  "score": 0.943,
                   "content": "단진동을 하였다.A,B가 놓인 순간부터 p,q에 동시에 도달하는 데",
                   "type": "text"
                 }
               ],
-              "index": 59
+              "index": 61
             },
             {
               "bbox": [
@@ -2710,7 +2847,7 @@
                     695,
                     599
                   ],
-                  "score": 0.93,
+                  "score": 0.923,
                   "content": "다.A,B의 진동 주기는각각",
                   "type": "text"
                 },
@@ -2732,7 +2869,7 @@
                     716,
                     599
                   ],
-                  "score": 0.544,
+                  "score": 0.974,
                   "content": ",",
                   "type": "text"
                 },
@@ -2759,13 +2896,13 @@
                   "type": "text"
                 }
               ],
-              "index": 60
+              "index": 62
             },
             {
               "bbox": [
                 445,
                 603,
-                525,
+                528,
                 635
               ],
               "spans": [
@@ -2780,12 +2917,23 @@
                   "content": "\\frac { L _ { \\mathrm { B } } } { L _ { \\mathrm { A } } } = \\frac { 1 0 0 } { 1 2 1 } \\diamondsuit | \\mathfrak { L } | .",
                   "type": "inline_equation",
                   "image_path": "34e2cb37cbf76e421cccb22b99cc9e118505cf787849cff7a8105bcd68d3d258.jpg"
+                },
+                {
+                  "bbox": [
+                    525,
+                    608,
+                    528,
+                    628
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 61
+              "index": 63
             }
           ],
-          "index": 59,
+          "index": 61,
           "bbox_fs": [
             434,
             531,
@@ -2834,7 +2982,7 @@
                   ]
                 }
               ],
-              "index": 62.5,
+              "index": 64.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -2844,7 +2992,7 @@
                     688.5
                   ],
                   "spans": [],
-                  "index": 62
+                  "index": 64
                 },
                 {
                   "bbox": [
@@ -2854,12 +3002,12 @@
                     731.0
                   ],
                   "spans": [],
-                  "index": 63
+                  "index": 65
                 }
               ]
             }
           ],
-          "index": 62.5
+          "index": 64.5
         },
         {
           "type": "text",
@@ -2885,8 +3033,8 @@
                     644,
                     757
                   ],
-                  "score": 0.851,
-                  "content": "이에대한설명으로 옳은 것만을<보기",
+                  "score": 0.884,
+                  "content": "이에대한설명으로 옳은것만을<보기",
                   "type": "text"
                 },
                 {
@@ -2912,7 +3060,7 @@
                   "type": "text"
                 }
               ],
-              "index": 64
+              "index": 66
             },
             {
               "bbox": [
@@ -2929,15 +3077,15 @@
                     673,
                     772
                   ],
-                  "score": 0.935,
+                  "score": 0.938,
                   "content": "것은?(단, 추의 크기와 실의 질량은 무시한다.)",
                   "type": "text"
                 }
               ],
-              "index": 65
+              "index": 67
             }
           ],
-          "index": 64.5,
+          "index": 66.5,
           "bbox_fs": [
             446,
             740,
@@ -2958,7 +3106,7 @@
               "bbox": [
                 459,
                 799,
-                546,
+                551,
                 831
               ],
               "spans": [
@@ -2984,9 +3132,20 @@
                   "content": "\\frac { T _ { \\mathrm { B } } } { T _ { \\mathrm { A } } } = \\frac { 1 0 } { 1 1 } \\diamondsuit | \\mathfrak { c } | .",
                   "type": "inline_equation",
                   "image_path": "51489f25e0175f3528a330de29885318d108589ad14fc348a533ad5d8e37306d.jpg"
+                },
+                {
+                  "bbox": [
+                    547,
+                    802,
+                    551,
+                    826
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 66,
+              "index": 68,
               "is_list_end_line": true
             },
             {
@@ -3031,7 +3190,7 @@
                   "type": "text"
                 }
               ],
-              "index": 67,
+              "index": 69,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -3050,17 +3209,17 @@
                     644,
                     867
                   ],
-                  "score": 0.95,
+                  "score": 0.972,
                   "content": "ㄷ.A와 B의 최대 운동 에너지는 같다.",
                   "type": "text"
                 }
               ],
-              "index": 68,
+              "index": 70,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 67,
+          "index": 69,
           "bbox_fs": [
             455,
             799,
@@ -3130,10 +3289,10 @@
                   "type": "text"
                 }
               ],
-              "index": 69
+              "index": 71
             }
           ],
-          "index": 69,
+          "index": 71,
           "bbox_fs": [
             444,
             881,
@@ -3165,12 +3324,12 @@
                     637,
                     939
                   ],
-                  "score": 0.933,
+                  "score": 0.928,
                   "content": "6.그림과 같이 저항값이 같은 저항 4개,",
                   "type": "text"
                 }
               ],
-              "index": 70
+              "index": 72
             },
             {
               "bbox": [
@@ -3187,12 +3346,12 @@
                     638,
                     957
                   ],
-                  "score": 0.992,
+                  "score": 0.975,
                   "content": "스위치,전류계,전압이 일정한 전원으로",
                   "type": "text"
                 }
               ],
-              "index": 71
+              "index": 73
             },
             {
               "bbox": [
@@ -3214,7 +3373,7 @@
                   "type": "text"
                 }
               ],
-              "index": 73
+              "index": 75
             },
             {
               "bbox": [
@@ -3231,12 +3390,12 @@
                     637,
                     990
                   ],
-                  "score": 0.987,
+                  "score": 0.971,
                   "content": "했을 때,전류계에 흐르는 전류의 세기는",
                   "type": "text"
                 }
               ],
-              "index": 74
+              "index": 76
             },
             {
               "bbox": [
@@ -3269,10 +3428,10 @@
                   "type": "text"
                 }
               ],
-              "index": 76
+              "index": 78
             }
           ],
-          "index": 73,
+          "index": 75,
           "bbox_fs": [
             435,
             924,
@@ -3321,7 +3480,7 @@
                   ]
                 }
               ],
-              "index": 73.5,
+              "index": 75.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -3331,7 +3490,7 @@
                     963.5
                   ],
                   "spans": [],
-                  "index": 72
+                  "index": 74
                 },
                 {
                   "bbox": [
@@ -3341,12 +3500,12 @@
                     1002.0
                   ],
                   "spans": [],
-                  "index": 75
+                  "index": 77
                 }
               ]
             }
           ],
-          "index": 73.5
+          "index": 75.5
         },
         {
           "type": "text",
@@ -3372,15 +3531,15 @@
                     757,
                     1032
                   ],
-                  "score": 0.936,
-                  "content": "스위치를b에 연결했을 때, 전류계에 흐르는 전류의 세기는?[3점]",
+                  "score": 0.932,
+                  "content": "스위치를 b에 연결했을 때, 전류계에 흐르는 전류의 세기는?[3점]",
                   "type": "text"
                 }
               ],
-              "index": 77
+              "index": 79
             }
           ],
-          "index": 77,
+          "index": 79,
           "bbox_fs": [
             456,
             1015,
@@ -3420,7 +3579,7 @@
               ]
             }
           ],
-          "index": 78,
+          "index": 80,
           "virtual_lines": [
             {
               "bbox": [
@@ -3430,7 +3589,7 @@
                 1067
               ],
               "spans": [],
-              "index": 78
+              "index": 80
             }
           ]
         }
@@ -3467,7 +3626,7 @@
                     405,
                     174
                   ],
-                  "score": 0.925,
+                  "score": 0.929,
                   "content": "7.그림(가)는 텅 빈 우주 공간에서 정지한 관찰자 P에 대해 우주선이",
                   "type": "text"
                 }
@@ -3500,7 +3659,7 @@
                     406,
                     191
                   ],
-                  "score": 0.949,
+                  "score": 0.944,
                   "content": "방향으로 직선 운동하고 있는 모습을, (나)는 우주선이 운동하는",
                   "type": "text"
                 }
@@ -3522,7 +3681,7 @@
                     275,
                     208
                   ],
-                  "score": 0.982,
+                  "score": 0.98,
                   "content": "동안 P가 관찰한 저울에서 측정된 힘",
                   "type": "text"
                 },
@@ -3747,7 +3906,7 @@
                     298,
                     361
                   ],
-                  "score": 0.946,
+                  "score": 0.945,
                   "content": "동안P가 관찰한 우주선의 속도",
                   "type": "text"
                 },
@@ -3813,7 +3972,7 @@
                     225,
                     381
                   ],
-                  "score": 0.957,
+                  "score": 0.958,
                   "content": "것으로 가장 적절한 것은?",
                   "type": "text"
                 }
@@ -3971,7 +4130,7 @@
                     294,
                     574
                   ],
-                  "score": 0.942,
+                  "score": 0.954,
                   "content": "8.그림과 같이 트랜지스터, 저항, 전압이",
                   "type": "text"
                 }
@@ -3993,7 +4152,7 @@
                     294,
                     592
                   ],
-                  "score": 0.975,
+                  "score": 0.973,
                   "content": "일정한 전원을 연결하여 구성된 회로에서",
                   "type": "text"
                 }
@@ -4015,7 +4174,7 @@
                     295,
                     610
                   ],
-                  "score": 0.889,
+                  "score": 0.89,
                   "content": "전류가 증폭되고 있다. B, C,E는 각각",
                   "type": "text"
                 }
@@ -4037,7 +4196,7 @@
                     294,
                     626
                   ],
-                  "score": 0.997,
+                  "score": 0.991,
                   "content": "베이스,컬렉터,이미터에 연결된 단자이고,",
                   "type": "text"
                 }
@@ -4059,7 +4218,7 @@
                     213,
                     644
                   ],
-                  "score": 0.913,
+                  "score": 0.929,
                   "content": "B, C에는 세기가 각각",
                   "type": "text"
                 },
@@ -4073,6 +4232,17 @@
                   "score": 0.43,
                   "content": "I _ { \\mathrm { B } }",
                   "type": "inline_equation"
+                },
+                {
+                  "bbox": [
+                    226,
+                    628,
+                    232,
+                    644
+                  ],
+                  "score": 0.538,
+                  "content": ",",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -4097,7 +4267,7 @@
                   "type": "text"
                 }
               ],
-              "index": 24
+              "index": 25
             },
             {
               "bbox": [
@@ -4114,12 +4284,12 @@
                     216,
                     662
                   ],
-                  "score": 0.957,
+                  "score": 0.95,
                   "content": "화살표 방향으로 흐른다.",
                   "type": "text"
                 }
               ],
-              "index": 26
+              "index": 27
             }
           ],
           "index": 22.5,
@@ -4131,72 +4301,88 @@
           ]
         },
         {
-          "type": "image",
+          "type": "text",
           "bbox": [
             304,
             561,
             404,
             656
           ],
-          "blocks": [
+          "lines": [
             {
-              "type": "image_body",
               "bbox": [
-                304,
-                561,
-                404,
-                656
+                347,
+                560,
+                385,
+                608
               ],
-              "group_id": 2,
-              "lines": [
+              "spans": [
                 {
                   "bbox": [
-                    304,
-                    561,
-                    404,
-                    656
+                    347,
+                    560,
+                    385,
+                    608
                   ],
-                  "spans": [
-                    {
-                      "bbox": [
-                        304,
-                        561,
-                        404,
-                        656
-                      ],
-                      "score": 0.934,
-                      "type": "image",
-                      "image_path": "dde6c11e6b6025989b7edab2fcb0bac18d37df548b1cad57d6e6325506aad9c9.jpg"
-                    }
-                  ]
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 23.0,
-              "virtual_lines": [
+              "index": 21
+            },
+            {
+              "bbox": [
+                339,
+                595,
+                353,
+                626
+              ],
+              "spans": [
                 {
                   "bbox": [
-                    304,
-                    561,
-                    404,
-                    608.5
+                    339,
+                    595,
+                    353,
+                    626
                   ],
-                  "spans": [],
-                  "index": 21
-                },
-                {
-                  "bbox": [
-                    304,
-                    608.5,
-                    404,
-                    656.0
-                  ],
-                  "spans": [],
-                  "index": 25
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
-              ]
+              ],
+              "index": 24
+            },
+            {
+              "bbox": [
+                366,
+                623,
+                381,
+                637
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    366,
+                    623,
+                    381,
+                    637
+                  ],
+                  "score": 0.977,
+                  "content": "E",
+                  "type": "text"
+                }
+              ],
+              "index": 26
             }
           ],
-          "index": 23.0
+          "index": 24,
+          "bbox_fs": [
+            339,
+            560,
+            385,
+            637
+          ]
         },
         {
           "type": "text",
@@ -4222,7 +4408,7 @@
                     296,
                     685
                   ],
-                  "score": 0.87,
+                  "score": 0.873,
                   "content": "이에 대한 설명으로 옮은것만을<보기",
                   "type": "text"
                 },
@@ -4249,7 +4435,7 @@
                   "type": "text"
                 }
               ],
-              "index": 27
+              "index": 28
             },
             {
               "bbox": [
@@ -4271,10 +4457,10 @@
                   "type": "text"
                 }
               ],
-              "index": 28
+              "index": 29
             }
           ],
-          "index": 27.5,
+          "index": 28.5,
           "bbox_fs": [
             97,
             668,
@@ -4311,10 +4497,10 @@
                   "type": "text"
                 }
               ],
-              "index": 29
+              "index": 30
             }
           ],
-          "index": 29,
+          "index": 30,
           "bbox_fs": [
             225,
             706,
@@ -4346,12 +4532,12 @@
                     260,
                     740
                   ],
-                  "score": 0.955,
+                  "score": 0.958,
                   "content": "ㄱ.트랜지스터는 p-n-p형이다.",
                   "type": "text"
                 }
               ],
-              "index": 30,
+              "index": 31,
               "is_list_end_line": true
             },
             {
@@ -4369,12 +4555,12 @@
                     279,
                     757
                   ],
-                  "score": 0.97,
+                  "score": 0.963,
                   "content": "ㄴ.B의 전위는 C의 전위보다 높다.",
                   "type": "text"
                 }
               ],
-              "index": 31,
+              "index": 32,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -4420,12 +4606,12 @@
                   "type": "text"
                 }
               ],
-              "index": 32,
+              "index": 33,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 31,
+          "index": 32,
           "bbox_fs": [
             105,
             725,
@@ -4479,15 +4665,15 @@
                     407,
                     808
                   ],
-                  "score": 0.808,
-                  "content": "③ 7,L ④ㄴ,ㄷ ⑤7,L,ㄷ",
+                  "score": 0.818,
+                  "content": "③ 7,L ④L,ㄷ ⑤7,L,ㄷ",
                   "type": "text"
                 }
               ],
-              "index": 33
+              "index": 34
             }
           ],
-          "index": 33,
+          "index": 34,
           "bbox_fs": [
             94,
             788,
@@ -4524,7 +4710,7 @@
                   "type": "text"
                 }
               ],
-              "index": 34
+              "index": 35
             },
             {
               "bbox": [
@@ -4546,7 +4732,7 @@
                   "type": "text"
                 }
               ],
-              "index": 35
+              "index": 36
             },
             {
               "bbox": [
@@ -4568,7 +4754,7 @@
                   "type": "text"
                 }
               ],
-              "index": 37
+              "index": 38
             },
             {
               "bbox": [
@@ -4585,12 +4771,12 @@
                     249,
                     918
                   ],
-                  "score": 0.953,
+                  "score": 0.954,
                   "content": "있다.점 p는A,B가 행성으로",
                   "type": "text"
                 }
               ],
-              "index": 38
+              "index": 39
             },
             {
               "bbox": [
@@ -4612,7 +4798,7 @@
                   "type": "text"
                 }
               ],
-              "index": 39
+              "index": 40
             },
             {
               "bbox": [
@@ -4629,12 +4815,12 @@
                     250,
                     951
                   ],
-                  "score": 0.959,
+                  "score": 0.956,
                   "content": "작용하는 중력의 크기는 A가",
                   "type": "text"
                 }
               ],
-              "index": 41
+              "index": 42
             },
             {
               "bbox": [
@@ -4673,12 +4859,12 @@
                     405,
                     968
                   ],
-                  "score": 0.955,
+                  "score": 0.944,
                   "content": "고 가장 먼 지점에서",
                   "type": "text"
                 }
               ],
-              "index": 42
+              "index": 43
             },
             {
               "bbox": [
@@ -4706,7 +4892,7 @@
                     262,
                     988
                   ],
-                  "score": 0.96,
+                  "score": 0.955,
                   "content": "다.A,B의 공전 주기는각각",
                   "type": "text"
                 },
@@ -4733,7 +4919,7 @@
                   "type": "text"
                 }
               ],
-              "index": 43
+              "index": 44
             },
             {
               "bbox": [
@@ -4750,7 +4936,7 @@
                     212,
                     1006
                   ],
-                  "score": 0.922,
+                  "score": 0.923,
                   "content": "중력의 크기의 최솟값은",
                   "type": "text"
                 },
@@ -4777,10 +4963,10 @@
                   "type": "text"
                 }
               ],
-              "index": 44
+              "index": 45
             }
           ],
-          "index": 37.5,
+          "index": 38.5,
           "bbox_fs": [
             86,
             852,
@@ -4829,7 +5015,7 @@
                   ]
                 }
               ],
-              "index": 38.0,
+              "index": 39.0,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -4839,7 +5025,7 @@
                     899.0
                   ],
                   "spans": [],
-                  "index": 36
+                  "index": 37
                 },
                 {
                   "bbox": [
@@ -4849,12 +5035,12 @@
                     946.0
                   ],
                   "spans": [],
-                  "index": 40
+                  "index": 41
                 }
               ]
             }
           ],
-          "index": 38.0
+          "index": 39.0
         },
         {
           "type": "text",
@@ -4865,7 +5051,7 @@
             1007
           ],
           "lines": [],
-          "index": 43,
+          "index": 44,
           "bbox_fs": [
             97,
             952,
@@ -4909,15 +5095,15 @@
                     389,
                     1031
                   ],
-                  "score": 0.933,
+                  "score": 0.931,
                   "content": "는?(단, 위성에는 행성에 의한 중력만 작용한다.) [3점]",
                   "type": "text"
                 }
               ],
-              "index": 45
+              "index": 46
             }
           ],
-          "index": 45,
+          "index": 46,
           "bbox_fs": [
             108,
             1014,
@@ -4957,7 +5143,7 @@
               ]
             }
           ],
-          "index": 46,
+          "index": 47,
           "virtual_lines": [
             {
               "bbox": [
@@ -4967,7 +5153,7 @@
                 1067
               ],
               "spans": [],
-              "index": 46
+              "index": 47
             }
           ]
         },
@@ -4995,15 +5181,15 @@
                     617,
                     176
                   ],
-                  "score": 0.905,
+                  "score": 0.911,
                   "content": "10. 다음은 구심력에 대한 실험이다.",
                   "type": "text"
                 }
               ],
-              "index": 47
+              "index": 48
             }
           ],
-          "index": 47,
+          "index": 48,
           "bbox_fs": [
             434,
             157,
@@ -5040,10 +5226,10 @@
                   "type": "text"
                 }
               ],
-              "index": 48
+              "index": 49
             }
           ],
-          "index": 48,
+          "index": 49,
           "bbox_fs": [
             455,
             191,
@@ -5086,7 +5272,7 @@
                     611,
                     222
                   ],
-                  "score": 0.94,
+                  "score": 0.936,
                   "content": "그림과 같이줄의 한쪽은질량",
                   "type": "text"
                 },
@@ -5113,7 +5299,7 @@
                   "type": "text"
                 }
               ],
-              "index": 49,
+              "index": 50,
               "is_list_start_line": true
             },
             {
@@ -5136,7 +5322,7 @@
                   "type": "text"
                 }
               ],
-              "index": 50
+              "index": 51
             },
             {
               "bbox": [
@@ -5180,7 +5366,7 @@
                   "type": "text"
                 }
               ],
-              "index": 51
+              "index": 52
             },
             {
               "bbox": [
@@ -5197,7 +5383,7 @@
                     565,
                     272
                   ],
-                  "score": 0.867,
+                  "score": 0.857,
                   "content": "(나) 원 궤도의 반지름",
                   "type": "text"
                 },
@@ -5224,7 +5410,7 @@
                   "type": "text"
                 }
               ],
-              "index": 52,
+              "index": 53,
               "is_list_start_line": true
             },
             {
@@ -5242,12 +5428,12 @@
                     659,
                     289
                   ],
-                  "score": 0.956,
+                  "score": 0.945,
                   "content": "하면서 고무마개를 등속 원운동시켜",
                   "type": "text"
                 }
               ],
-              "index": 53
+              "index": 54
             },
             {
               "bbox": [
@@ -5269,7 +5455,7 @@
                   "type": "text"
                 }
               ],
-              "index": 54,
+              "index": 56,
               "is_list_end_line": true
             },
             {
@@ -5287,12 +5473,12 @@
                     656,
                     322
                   ],
-                  "score": 0.936,
+                  "score": 0.934,
                   "content": "(다) 추의 개수를 바꾸어(나)를 반복한다.",
                   "type": "text"
                 }
               ],
-              "index": 56,
+              "index": 57,
               "is_list_start_line": true
             },
             {
@@ -5359,12 +5545,12 @@
                   "type": "text"
                 }
               ],
-              "index": 57,
+              "index": 58,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 52.5,
+          "index": 53.5,
           "bbox_fs": [
             455,
             207,
@@ -5459,10 +5645,10 @@
                   "type": "text"
                 }
               ],
-              "index": 58
+              "index": 59
             }
           ],
-          "index": 58,
+          "index": 59,
           "bbox_fs": [
             455,
             346,
@@ -5512,7 +5698,7 @@
                   ]
                 }
               ],
-              "index": 60,
+              "index": 61,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -5522,7 +5708,7 @@
                     383.0
                   ],
                   "spans": [],
-                  "index": 59
+                  "index": 60
                 },
                 {
                   "bbox": [
@@ -5532,7 +5718,7 @@
                     403.0
                   ],
                   "spans": [],
-                  "index": 60
+                  "index": 61
                 },
                 {
                   "bbox": [
@@ -5542,12 +5728,12 @@
                     423.0
                   ],
                   "spans": [],
-                  "index": 61
+                  "index": 62
                 }
               ]
             }
           ],
-          "index": 60
+          "index": 61
         },
         {
           "type": "text",
@@ -5573,7 +5759,7 @@
                     644,
                     455
                   ],
-                  "score": 0.848,
+                  "score": 0.843,
                   "content": "이에 대한 설명으로 옳은것만을<보>",
                   "type": "text"
                 },
@@ -5600,7 +5786,7 @@
                   "type": "text"
                 }
               ],
-              "index": 62
+              "index": 63
             },
             {
               "bbox": [
@@ -5622,10 +5808,10 @@
                   "type": "text"
                 }
               ],
-              "index": 63
+              "index": 64
             }
           ],
-          "index": 62.5,
+          "index": 63.5,
           "bbox_fs": [
             446,
             438,
@@ -5662,10 +5848,10 @@
                   "type": "text"
                 }
               ],
-              "index": 64
+              "index": 65
             }
           ],
-          "index": 64
+          "index": 65
         },
         {
           "type": "list",
@@ -5696,7 +5882,7 @@
                   "type": "text"
                 }
               ],
-              "index": 65,
+              "index": 66,
               "is_list_start_line": true
             },
             {
@@ -5714,12 +5900,12 @@
                     592,
                     527
                   ],
-                  "score": 0.93,
+                  "score": 0.932,
                   "content": "때가 1개일 때보다 크다.",
                   "type": "text"
                 }
               ],
-              "index": 66,
+              "index": 67,
               "is_list_end_line": true
             },
             {
@@ -5759,12 +5945,12 @@
                     744,
                     543
                   ],
-                  "score": 0.921,
+                  "score": 0.934,
                   "content": "일 때, 고무마개의 속력은 추의 개수가 2개일 때가",
                   "type": "text"
                 }
               ],
-              "index": 67,
+              "index": 68,
               "is_list_start_line": true
             },
             {
@@ -5787,7 +5973,7 @@
                   "type": "text"
                 }
               ],
-              "index": 68,
+              "index": 69,
               "is_list_end_line": true
             },
             {
@@ -5832,12 +6018,12 @@
                   "type": "text"
                 }
               ],
-              "index": 69,
+              "index": 70,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 67,
+          "index": 68,
           "bbox_fs": [
             455,
             495,
@@ -5889,6 +6075,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    593,
+                    506,
+                    614
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     596,
                     520,
@@ -5910,6 +6107,17 @@
                   ],
                   "score": 0.955,
                   "content": "L",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    566,
+                    592,
+                    568,
+                    613
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -5988,10 +6196,10 @@
                   "type": "text"
                 }
               ],
-              "index": 70
+              "index": 71
             }
           ],
-          "index": 70,
+          "index": 71,
           "bbox_fs": [
             445,
             592,
@@ -6012,7 +6220,7 @@
               "bbox": [
                 435,
                 668,
-                753,
+                755,
                 685
               ],
               "spans": [
@@ -6045,7 +6253,7 @@
                     628,
                     685
                   ],
-                  "score": 0.952,
+                  "score": 0.953,
                   "content": "와 같이xy평면에 수직으로",
                   "type": "text"
                 },
@@ -6089,7 +6297,7 @@
                     710,
                     685
                   ],
-                  "score": 0.605,
+                  "score": 0.928,
                   "content": ",",
                   "type": "text"
                 },
@@ -6103,9 +6311,20 @@
                   "score": 0.82,
                   "content": "y = 3 d \\circ \\Vert",
                   "type": "inline_equation"
+                },
+                {
+                  "bbox": [
+                    754,
+                    668,
+                    755,
+                    685
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 71
+              "index": 72
             },
             {
               "bbox": [
@@ -6122,7 +6341,7 @@
                     680,
                     702
                   ],
-                  "score": 0.954,
+                  "score": 0.964,
                   "content": "고정된 무한히 긴 직선 도선 A,B에는 세기가 각각",
                   "type": "text"
                 },
@@ -6149,7 +6368,7 @@
                   "type": "text"
                 }
               ],
-              "index": 72
+              "index": 73
             },
             {
               "bbox": [
@@ -6166,7 +6385,7 @@
                     543,
                     721
                   ],
-                  "score": 0.946,
+                  "score": 0.98,
                   "content": "전류가 흐르고 있다.",
                   "type": "text"
                 },
@@ -6210,12 +6429,12 @@
                     754,
                     721
                   ],
-                  "score": 0.917,
+                  "score": 0.919,
                   "content": "점p에서 A,B에 의한",
                   "type": "text"
                 }
               ],
-              "index": 73
+              "index": 74
             },
             {
               "bbox": [
@@ -6276,7 +6495,7 @@
                     714,
                     738
                   ],
-                  "score": 0.925,
+                  "score": 0.926,
                   "content": "방향이다. 그림(나)는",
                   "type": "text"
                 },
@@ -6303,7 +6522,7 @@
                   "type": "text"
                 }
               ],
-              "index": 74
+              "index": 75
             },
             {
               "bbox": [
@@ -6391,7 +6610,7 @@
                   "type": "text"
                 }
               ],
-              "index": 75
+              "index": 76
             },
             {
               "bbox": [
@@ -6413,10 +6632,10 @@
                   "type": "text"
                 }
               ],
-              "index": 76
+              "index": 77
             }
           ],
-          "index": 73.5,
+          "index": 74.5,
           "bbox_fs": [
             435,
             668,
@@ -6465,7 +6684,7 @@
                   ]
                 }
               ],
-              "index": 77.5,
+              "index": 78.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -6475,7 +6694,7 @@
                     852.0
                   ],
                   "spans": [],
-                  "index": 77
+                  "index": 78
                 },
                 {
                   "bbox": [
@@ -6485,12 +6704,12 @@
                     920.0
                   ],
                   "spans": [],
-                  "index": 78
+                  "index": 79
                 }
               ]
             }
           ],
-          "index": 77.5
+          "index": 78.5
         },
         {
           "type": "text",
@@ -6516,7 +6735,7 @@
                     601,
                     946
                   ],
-                  "score": 0.931,
+                  "score": 0.927,
                   "content": "이에대한설명으로옳은것만을",
                   "type": "text"
                 },
@@ -6543,10 +6762,10 @@
                   "type": "text"
                 }
               ],
-              "index": 79
+              "index": 80
             }
           ],
-          "index": 79,
+          "index": 80,
           "bbox_fs": [
             456,
             927,
@@ -6583,10 +6802,10 @@
                   "type": "text"
                 }
               ],
-              "index": 80
+              "index": 81
             }
           ],
-          "index": 80,
+          "index": 81,
           "bbox_fs": [
             573,
             950,
@@ -6645,7 +6864,7 @@
                   "type": "text"
                 }
               ],
-              "index": 81,
+              "index": 82,
               "is_list_end_line": true
             },
             {
@@ -6663,7 +6882,7 @@
                     569,
                     1004
                   ],
-                  "score": 0.859,
+                  "score": 0.861,
                   "content": "ㄴ. (가)의 원점 O에서 A,",
                   "type": "text"
                 },
@@ -6734,7 +6953,7 @@
                   "type": "text"
                 }
               ],
-              "index": 82,
+              "index": 83,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -6775,7 +6994,7 @@
                     678,
                     1029
                   ],
-                  "score": 0.947,
+                  "score": 0.946,
                   "content": "의한 자기장의세기는",
                   "type": "text"
                 },
@@ -6802,12 +7021,12 @@
                   "type": "text"
                 }
               ],
-              "index": 83,
+              "index": 84,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 82,
+          "index": 83,
           "bbox_fs": [
             455,
             970,
@@ -6847,7 +7066,7 @@
               ]
             }
           ],
-          "index": 84,
+          "index": 85,
           "virtual_lines": [
             {
               "bbox": [
@@ -6857,7 +7076,7 @@
                 1068
               ],
               "spans": [],
-              "index": 84
+              "index": 85
             }
           ]
         }
@@ -6944,6 +7163,17 @@
                 },
                 {
                   "bbox": [
+                    375,
+                    176,
+                    380,
+                    193
+                  ],
+                  "score": 0.829,
+                  "content": ",",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     380,
                     178,
                     393,
@@ -6982,7 +7212,7 @@
                     282,
                     211
                   ],
-                  "score": 0.935,
+                  "score": 0.934,
                   "content": "같은방향으로운동하는 모습을, (나)는",
                   "type": "text"
                 },
@@ -7048,7 +7278,7 @@
                     280,
                     228
                   ],
-                  "score": 0.959,
+                  "score": 0.949,
                   "content": "S로부터 멀어지는 모습을 나타낸 것이다.",
                   "type": "text"
                 },
@@ -7092,7 +7322,7 @@
                     196,
                     246
                   ],
-                  "score": 0.958,
+                  "score": 0.956,
                   "content": "B의 음파의 진동수는",
                   "type": "text"
                 },
@@ -7114,7 +7344,7 @@
                     406,
                     246
                   ],
-                  "score": 0.962,
+                  "score": 0.961,
                   "content": "로 같고,S가 측정한 A의 음파의 진동수는",
                   "type": "text"
                 }
@@ -7125,7 +7355,7 @@
               "bbox": [
                 97,
                 250,
-                201,
+                204,
                 277
               ],
               "spans": [
@@ -7150,6 +7380,17 @@
                   "score": 0.56,
                   "content": "\\frac { 5 } { 4 } f _ { \\mathrm { B } } , \\frac { 5 } { 7 } f _ { \\mathrm { B } } \\diamondsuit | \\tau | .",
                   "type": "inline_equation"
+                },
+                {
+                  "bbox": [
+                    202,
+                    252,
+                    204,
+                    274
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 5
@@ -7164,7 +7405,7 @@
           ]
         },
         {
-          "type": "text",
+          "type": "list",
           "bbox": [
             100,
             286,
@@ -7203,7 +7444,8 @@
                   "type": "text"
                 }
               ],
-              "index": 6
+              "index": 6,
+              "is_list_end_line": true
             },
             {
               "bbox": [
@@ -7280,16 +7522,39 @@
                   "type": "text"
                 }
               ],
-              "index": 7
+              "index": 7,
+              "is_list_start_line": true
             },
             {
               "bbox": [
-                203,
+                108,
                 303,
                 385,
-                324
+                332
               ],
               "spans": [
+                {
+                  "bbox": [
+                    108,
+                    303,
+                    140,
+                    332
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    161,
+                    305,
+                    181,
+                    324
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     203,
@@ -7314,6 +7579,17 @@
                 },
                 {
                   "bbox": [
+                    315,
+                    303,
+                    338,
+                    331
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     359,
                     304,
                     385,
@@ -7324,13 +7600,15 @@
                   "type": "text"
                 }
               ],
-              "index": 8
+              "index": 8,
+              "is_list_start_line": true,
+              "is_list_end_line": true
             },
             {
               "bbox": [
                 177,
                 318,
-                377,
+                396,
                 335
               ],
               "spans": [
@@ -7387,6 +7665,17 @@
                   ],
                   "score": 0.771,
                   "content": "5",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    380,
+                    319,
+                    396,
+                    333
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 }
               ],
@@ -7456,7 +7745,8 @@
                   "type": "text"
                 }
               ],
-              "index": 11
+              "index": 11,
+              "is_list_end_line": true
             }
           ],
           "index": 8.5,
@@ -7478,12 +7768,23 @@
           "lines": [
             {
               "bbox": [
-                108,
+                106,
                 366,
                 408,
                 385
               ],
               "spans": [
+                {
+                  "bbox": [
+                    106,
+                    366,
+                    107,
+                    385
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     108,
@@ -7546,7 +7847,7 @@
                     408,
                     385
                   ],
-                  "score": 0.922,
+                  "score": 0.92,
                   "content": "이고,S,A,B는동일 직선상에 있다.) [3점]",
                   "type": "text"
                 }
@@ -7556,7 +7857,7 @@
           ],
           "index": 12,
           "bbox_fs": [
-            108,
+            106,
             366,
             408,
             385
@@ -7654,7 +7955,7 @@
                     405,
                     484
                   ],
-                  "score": 0.971,
+                  "score": 0.965,
                   "content": "세기를 측정하는 것을 나타낸 것이다.표는 금속판을 비추는 단색광",
                   "type": "text"
                 }
@@ -7676,7 +7977,7 @@
                     405,
                     500
                   ],
-                  "score": 0.959,
+                  "score": 0.96,
                   "content": "A,B에 따른 광전류의 최댓값 I와 정지 전압으로부터 구한 광전자의",
                   "type": "text"
                 }
@@ -7698,7 +7999,7 @@
                     398,
                     517
                   ],
-                  "score": 0.94,
+                  "score": 0.939,
                   "content": "최대 운동 에너지에 해당하는 물질파 파장 λ를 나타낸 것이다.",
                   "type": "text"
                 }
@@ -7817,7 +8118,7 @@
                         608
                       ],
                       "score": 0.919,
-                      "html": "<table><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>3λ</td></tr><tr><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=4>(O:단색광 있음, ×:단색광 없음)</td></tr></table>",
+                      "html": "<table><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>3λ</td></tr><tr><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>λ</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=4>(O:단색광 있음,×:단색광 없음)</td></tr></table>",
                       "type": "table",
                       "image_path": "cce546092b5a7a14ca70063a18a35e45072d56dfb70cde993bd65ce99cddc170.jpg"
                     }
@@ -7875,8 +8176,8 @@
                     295,
                     635
                   ],
-                  "score": 0.862,
-                  "content": "이에 대한설명으로옳은 것만을<보>",
+                  "score": 0.838,
+                  "content": "이에 대한 설명으로옳은 것만을<보기",
                   "type": "text"
                 },
                 {
@@ -8130,7 +8431,7 @@
                     754,
                     173
                   ],
-                  "score": 0.952,
+                  "score": 0.972,
                   "content": "15.그림(가)는 극판 사이의 간격,극판의 면적이 같은 평행판",
                   "type": "text"
                 }
@@ -8196,7 +8497,7 @@
                     713,
                     208
                   ],
-                  "score": 0.919,
+                  "score": 0.946,
                   "content": "유전체로 채워져 있다.그림(나)는",
                   "type": "text"
                 },
@@ -8279,6 +8580,17 @@
                 },
                 {
                   "bbox": [
+                    499,
+                    229,
+                    502,
+                    244
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     502,
                     229,
                     515,
@@ -8298,7 +8610,7 @@
                     647,
                     244
                   ],
-                  "score": 0.936,
+                  "score": 0.931,
                   "content": "은 각각 A,B 중 하나이다.",
                   "type": "text"
                 }
@@ -8606,8 +8918,8 @@
                     554,
                     446
                   ],
-                  "score": 0.835,
-                  "content": ".",
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 }
               ],
@@ -8738,12 +9050,23 @@
           "lines": [
             {
               "bbox": [
-                446,
+                443,
                 497,
                 757,
                 517
               ],
               "spans": [
+                {
+                  "bbox": [
+                    443,
+                    497,
+                    445,
+                    516
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -8771,6 +9094,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    497,
+                    506,
+                    517
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     500,
                     520,
@@ -8792,6 +9126,17 @@
                   ],
                   "score": 0.927,
                   "content": "L",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    567,
+                    497,
+                    568,
+                    517
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -8896,6 +9241,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    742,
+                    158,
+                    763
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     745,
                     171,
@@ -8917,6 +9273,17 @@
                   ],
                   "score": 0.922,
                   "content": "L",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    217,
+                    741,
+                    219,
+                    762
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -9000,7 +9367,7 @@
           ],
           "index": 44,
           "bbox_fs": [
-            446,
+            443,
             497,
             757,
             517
@@ -9048,7 +9415,7 @@
                     380,
                     805
                   ],
-                  "score": 0.953,
+                  "score": 0.954,
                   "content": "14.그림과 같이경사면을따라내려오던물체 A가점p를속력",
                   "type": "text"
                 },
@@ -9092,7 +9459,7 @@
                     406,
                     823
                   ],
-                  "score": 0.918,
+                  "score": 0.913,
                   "content": "지나는 순간,물체 B를 경사면과 수평면이 만나는 점 q에서 수평면에",
                   "type": "text"
                 }
@@ -9158,7 +9525,7 @@
                     406,
                     839
                   ],
-                  "score": 0.942,
+                  "score": 0.94,
                   "content": "속력으로던졌다.A는등가속도 직선 운동을",
                   "type": "text"
                 }
@@ -9180,7 +9547,7 @@
                     405,
                     858
                   ],
-                  "score": 0.942,
+                  "score": 0.944,
                   "content": "하고B는포물선운동을하여경사면위의 점 r에서서로만난다.p,r의",
                   "type": "text"
                 }
@@ -9224,7 +9591,7 @@
                     366,
                     875
                   ],
-                  "score": 0.932,
+                  "score": 0.934,
                   "content": "이고,q에서 r까지 B의 수평 이동 거리는",
                   "type": "text"
                 },
@@ -9384,7 +9751,7 @@
                     563,
                     763
                   ],
-                  "score": 0.901,
+                  "score": 0.927,
                   "content": "16.그림과 같이 막대 A,",
                   "type": "text"
                 },
@@ -9472,7 +9839,7 @@
                     661,
                     798
                   ],
-                  "score": 0.93,
+                  "score": 0.914,
                   "content": "이루며,길이가 6L인 B는b에 매달려 A와",
                   "type": "text"
                 },
@@ -9516,7 +9883,7 @@
                     606,
                     814
                   ],
-                  "score": 0.945,
+                  "score": 0.947,
                   "content": "정지해 있다.A,B의 질량은 각각",
                   "type": "text"
                 },
@@ -9538,7 +9905,7 @@
                     754,
                     814
                   ],
-                  "score": 0.957,
+                  "score": 0.958,
                   "content": "다.a가 A를 당기는",
                   "type": "text"
                 }
@@ -9560,7 +9927,7 @@
                     678,
                     831
                   ],
-                  "score": 0.929,
+                  "score": 0.928,
                   "content": "힘의 크기와 b가B를 당기는힘의크기는각각",
                   "type": "text"
                 },
@@ -9574,6 +9941,17 @@
                   "score": 0.79,
                   "content": "T _ { \\mathfrak { a } }",
                   "type": "inline_equation"
+                },
+                {
+                  "bbox": [
+                    692,
+                    815,
+                    700,
+                    831
+                  ],
+                  "score": 0.936,
+                  "content": ",",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -9712,7 +10090,7 @@
                     407,
                     1005
                   ],
-                  "score": 0.922,
+                  "score": 0.925,
                   "content": "(단,물체는동일 연직면상에서 운동하고,물체의크기,",
                   "type": "text"
                 }
@@ -9863,7 +10241,7 @@
                     559,
                     1032
                   ],
-                  "score": 0.971,
+                  "score": 0.932,
                   "content": "실의 질량은 무시한다.)",
                   "type": "text"
                 }
@@ -9980,7 +10358,7 @@
                     405,
                     173
                   ],
-                  "score": 0.963,
+                  "score": 0.959,
                   "content": ")와 같이 반원 모양의 금속 고리를 균일한 자기장 영역",
                   "type": "text"
                 }
@@ -10002,7 +10380,7 @@
                     406,
                     190
                   ],
-                  "score": 0.925,
+                  "score": 0.927,
                   "content": "I,II가 있는xy 평면상에서 원점 O를 중심으로 시계 방향으로 회전",
                   "type": "text"
                 }
@@ -10024,7 +10402,7 @@
                     313,
                     208
                   ],
-                  "score": 0.938,
+                  "score": 0.948,
                   "content": "시킨다.O와 고리상의 점 A가 이루는 선분이",
                   "type": "text"
                 },
@@ -10121,6 +10499,28 @@
             },
             {
               "bbox": [
+                245,
+                225,
+                249,
+                235
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    245,
+                    225,
+                    249,
+                    235
+                  ],
+                  "score": 0.995,
+                  "content": "'",
+                  "type": "text"
+                }
+              ],
+              "index": 4
+            },
+            {
+              "bbox": [
                 98,
                 241,
                 406,
@@ -10134,7 +10534,7 @@
                     284,
                     255
                   ],
-                  "score": 0.964,
+                  "score": 0.965,
                   "content": "일정한 각속도로 회전한다.그림(나)는",
                   "type": "text"
                 },
@@ -10156,12 +10556,12 @@
                     406,
                     255
                   ],
-                  "score": 0.972,
+                  "score": 0.973,
                   "content": "에서 고리에 유도되는",
                   "type": "text"
                 }
               ],
-              "index": 4
+              "index": 5
             },
             {
               "bbox": [
@@ -10183,7 +10583,7 @@
                   "type": "text"
                 }
               ],
-              "index": 5
+              "index": 6
             },
             {
               "bbox": [
@@ -10222,7 +10622,7 @@
                     142,
                     289
                   ],
-                  "score": 0.535,
+                  "score": 0.98,
                   "content": ",",
                   "type": "text"
                 },
@@ -10266,7 +10666,7 @@
                     352,
                     289
                   ],
-                  "score": 0.948,
+                  "score": 0.95,
                   "content": "장의 방향은xy 평면에 수직이다.",
                   "type": "text"
                 },
@@ -10293,7 +10693,7 @@
                   "type": "text"
                 }
               ],
-              "index": 6
+              "index": 7
             },
             {
               "bbox": [
@@ -10310,7 +10710,7 @@
                     341,
                     308
                   ],
-                  "score": 0.942,
+                  "score": 0.955,
                   "content": "I,ⅡI의 자기장이 고리면을 통과하는 자기 선속은",
                   "type": "text"
                 },
@@ -10337,10 +10737,10 @@
                   "type": "text"
                 }
               ],
-              "index": 7
+              "index": 8
             }
           ],
-          "index": 3.5,
+          "index": 4,
           "bbox_fs": [
             88,
             159,
@@ -10389,7 +10789,7 @@
                   ]
                 }
               ],
-              "index": 9.0,
+              "index": 10.0,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -10399,7 +10799,7 @@
                     362.5
                   ],
                   "spans": [],
-                  "index": 8
+                  "index": 9
                 },
                 {
                   "bbox": [
@@ -10409,7 +10809,7 @@
                     406.0
                   ],
                   "spans": [],
-                  "index": 10
+                  "index": 11
                 }
               ]
             },
@@ -10443,13 +10843,13 @@
                       "type": "text"
                     }
                   ],
-                  "index": 12
+                  "index": 13
                 }
               ],
-              "index": 12
+              "index": 13
             }
           ],
-          "index": 10.5
+          "index": 11.5
         },
         {
           "type": "image",
@@ -10492,7 +10892,7 @@
                   ]
                 }
               ],
-              "index": 10.0,
+              "index": 11.0,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -10502,7 +10902,7 @@
                     362.0
                   ],
                   "spans": [],
-                  "index": 9
+                  "index": 10
                 },
                 {
                   "bbox": [
@@ -10512,7 +10912,7 @@
                     405.0
                   ],
                   "spans": [],
-                  "index": 11
+                  "index": 12
                 }
               ]
             },
@@ -10546,13 +10946,13 @@
                       "type": "text"
                     }
                   ],
-                  "index": 13
+                  "index": 14
                 }
               ],
-              "index": 13
+              "index": 14
             }
           ],
-          "index": 11.5
+          "index": 12.5
         },
         {
           "type": "text",
@@ -10578,8 +10978,8 @@
                     296,
                     452
                   ],
-                  "score": 0.904,
-                  "content": "이에 대한설명으로옳은것만을<보기",
+                  "score": 0.862,
+                  "content": "이에 대한설명으로 옳은 것만을<보기",
                   "type": "text"
                 },
                 {
@@ -10605,7 +11005,7 @@
                   "type": "text"
                 }
               ],
-              "index": 14
+              "index": 15
             },
             {
               "bbox": [
@@ -10627,10 +11027,10 @@
                   "type": "text"
                 }
               ],
-              "index": 15
+              "index": 16
             }
           ],
-          "index": 14.5,
+          "index": 15.5,
           "bbox_fs": [
             97,
             434,
@@ -10667,10 +11067,10 @@
                   "type": "text"
                 }
               ],
-              "index": 16
+              "index": 17
             }
           ],
-          "index": 16,
+          "index": 17,
           "bbox_fs": [
             225,
             474,
@@ -10724,12 +11124,12 @@
                     200,
                     516
                   ],
-                  "score": 0.908,
-                  "content": ".",
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 }
               ],
-              "index": 17,
+              "index": 18,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -10775,7 +11175,7 @@
                   "type": "text"
                 }
               ],
-              "index": 18,
+              "index": 19,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -10821,7 +11221,7 @@
                   "type": "text"
                 }
               ],
-              "index": 19,
+              "index": 20,
               "is_list_start_line": true
             },
             {
@@ -10845,11 +11245,11 @@
                   "image_path": "14133c7341e40465da451e21e04e82df47835b037f87c9f3ef8cf79071bc1207.jpg"
                 }
               ],
-              "index": 20,
+              "index": 21,
               "is_list_end_line": true
             }
           ],
-          "index": 18.5,
+          "index": 19.5,
           "bbox_fs": [
             106,
             495,
@@ -10883,6 +11283,17 @@
                   ],
                   "score": 0.984,
                   "content": "①7",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    156,
+                    617,
+                    158,
+                    637
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -10933,10 +11344,10 @@
                   "type": "text"
                 }
               ],
-              "index": 21
+              "index": 22
             }
           ],
-          "index": 21,
+          "index": 22,
           "bbox_fs": [
             95,
             617,
@@ -11012,12 +11423,12 @@
                     406,
                     766
                   ],
-                  "score": 0.968,
+                  "score": 0.965,
                   "content": "인 경사면이 수평면과",
                   "type": "text"
                 }
               ],
-              "index": 22
+              "index": 23
             },
             {
               "bbox": [
@@ -11034,8 +11445,8 @@
                     207,
                     785
                   ],
-                  "score": 0.971,
-                  "content": "만나는점p에서질량",
+                  "score": 0.888,
+                  "content": "만나는 점p에서 질량",
                   "type": "text"
                 },
                 {
@@ -11083,7 +11494,7 @@
                   "type": "text"
                 }
               ],
-              "index": 23
+              "index": 24
             },
             {
               "bbox": [
@@ -11100,7 +11511,7 @@
                     295,
                     803
                   ],
-                  "score": 0.96,
+                  "score": 0.959,
                   "content": "물체는 경사면을 따라 운동하는 동안 길이가",
                   "type": "text"
                 },
@@ -11127,7 +11538,7 @@
                   "type": "text"
                 }
               ],
-              "index": 24
+              "index": 25
             },
             {
               "bbox": [
@@ -11166,7 +11577,7 @@
                     384,
                     820
                   ],
-                  "score": 0.99,
+                  "score": 0.98,
                   "content": "속력으로 포물선 운동을 시작하여 경사각이",
                   "type": "text"
                 },
@@ -11182,7 +11593,7 @@
                   "type": "inline_equation"
                 }
               ],
-              "index": 25
+              "index": 26
             },
             {
               "bbox": [
@@ -11199,12 +11610,12 @@
                     406,
                     839
                   ],
-                  "score": 0.945,
+                  "score": 0.954,
                   "content": "경사면 위에 수직으로 도달한다.물체는S를 지나는 동안 크기가",
                   "type": "text"
                 }
               ],
-              "index": 26
+              "index": 27
             },
             {
               "bbox": [
@@ -11249,6 +11660,17 @@
                 },
                 {
                   "bbox": [
+                    306,
+                    848,
+                    307,
+                    863
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     307,
                     842,
                     363,
@@ -11270,10 +11692,10 @@
                   "type": "text"
                 }
               ],
-              "index": 27
+              "index": 28
             }
           ],
-          "index": 24.5,
+          "index": 25.5,
           "bbox_fs": [
             88,
             752,
@@ -11322,7 +11744,7 @@
                   ]
                 }
               ],
-              "index": 28.5,
+              "index": 29.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -11332,7 +11754,7 @@
                     926.5
                   ],
                   "spans": [],
-                  "index": 28
+                  "index": 29
                 },
                 {
                   "bbox": [
@@ -11342,12 +11764,12 @@
                     975.0
                   ],
                   "spans": [],
-                  "index": 29
+                  "index": 30
                 }
               ]
             }
           ],
-          "index": 28.5
+          "index": 29.5
         },
         {
           "type": "text",
@@ -11378,7 +11800,7 @@
                   "type": "text"
                 }
               ],
-              "index": 30
+              "index": 31
             },
             {
               "bbox": [
@@ -11417,12 +11839,12 @@
                     406,
                     1015
                   ],
-                  "score": 0.985,
+                  "score": 0.978,
                   "content": "는 중력 가속도이고,물체의 크기,",
                   "type": "text"
                 }
               ],
-              "index": 31
+              "index": 32
             },
             {
               "bbox": [
@@ -11439,15 +11861,15 @@
                     274,
                     1032
                   ],
-                  "score": 0.953,
+                  "score": 0.961,
                   "content": "구간 S 외의 모든 마찰은 무시한다.)",
                   "type": "text"
                 }
               ],
-              "index": 32
+              "index": 33
             }
           ],
-          "index": 31,
+          "index": 32,
           "bbox_fs": [
             98,
             983,
@@ -11466,12 +11888,23 @@
           "lines": [
             {
               "bbox": [
-                120,
+                114,
                 1039,
                 390,
-                1067
+                1068
               ],
               "spans": [
+                {
+                  "bbox": [
+                    114,
+                    1040,
+                    127,
+                    1068
+                  ],
+                  "score": 0.547,
+                  "content": "$\\",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     120,
@@ -11619,15 +12052,15 @@
                   "type": "text"
                 }
               ],
-              "index": 33
+              "index": 34
             }
           ],
-          "index": 33,
+          "index": 34,
           "bbox_fs": [
-            120,
+            114,
             1039,
             390,
-            1067
+            1068
           ]
         },
         {
@@ -11654,12 +12087,12 @@
                     642,
                     174
                   ],
-                  "score": 0.948,
+                  "score": 0.942,
                   "content": "19.그림과 같이 점전하 A,B,C가 xy 평면",
                   "type": "text"
                 }
               ],
-              "index": 34
+              "index": 35
             },
             {
               "bbox": [
@@ -11747,7 +12180,7 @@
                   "type": "text"
                 }
               ],
-              "index": 35
+              "index": 36
             },
             {
               "bbox": [
@@ -11775,7 +12208,7 @@
                     642,
                     208
                   ],
-                  "score": 0.989,
+                  "score": 0.987,
                   "content": "에 각각 고정되어 있다.전하량이",
                   "type": "text"
                 }
@@ -11808,7 +12241,7 @@
                     642,
                     224
                   ],
-                  "score": 0.957,
+                  "score": 0.956,
                   "content": "A에 작용하는 전기력은 크기가",
                   "type": "text"
                 }
@@ -11912,7 +12345,7 @@
                   "type": "text"
                 }
               ],
-              "index": 41
+              "index": 40
             }
           ],
           "index": 37.5,
@@ -11924,72 +12357,165 @@
           ]
         },
         {
-          "type": "image",
+          "type": "text",
           "bbox": [
             653,
             159,
             754,
             251
           ],
-          "blocks": [
+          "lines": [
             {
-              "type": "image_body",
               "bbox": [
-                653,
-                159,
-                754,
-                251
+                671,
+                160,
+                684,
+                172
               ],
-              "group_id": 2,
-              "lines": [
+              "spans": [
                 {
                   "bbox": [
-                    653,
-                    159,
-                    754,
-                    251
+                    671,
+                    160,
+                    684,
+                    172
                   ],
-                  "spans": [
-                    {
-                      "bbox": [
-                        653,
-                        159,
-                        754,
-                        251
-                      ],
-                      "score": 0.932,
-                      "type": "image",
-                      "image_path": "4a0540d620b04368269d2d5c11f69743bc6ba9375448dd1bc2e5b3af6cbb6d76.jpg"
-                    }
-                  ]
+                  "score": 0.607,
+                  "content": "y(",
+                  "type": "text"
                 }
               ],
-              "index": 38.0,
-              "virtual_lines": [
+              "index": 41
+            },
+            {
+              "bbox": [
+                655,
+                171,
+                740,
+                189
+              ],
+              "spans": [
                 {
                   "bbox": [
-                    653,
-                    159,
-                    754,
-                    205.0
+                    655,
+                    171,
+                    694,
+                    189
                   ],
-                  "spans": [],
-                  "index": 36
+                  "score": 0.922,
+                  "content": "FA+q",
+                  "type": "text"
                 },
                 {
                   "bbox": [
-                    653,
-                    205.0,
-                    754,
-                    251.0
+                    735,
+                    176,
+                    740,
+                    184
                   ],
-                  "spans": [],
-                  "index": 40
+                  "score": 0.957,
+                  "content": "p",
+                  "type": "text"
                 }
-              ]
+              ],
+              "index": 42
+            },
+            {
+              "bbox": [
+                669,
+                185,
+                678,
+                194
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    669,
+                    185,
+                    678,
+                    194
+                  ],
+                  "score": 0.995,
+                  "content": "d",
+                  "type": "text"
+                }
+              ],
+              "index": 43
+            },
+            {
+              "bbox": [
+                666,
+                220,
+                747,
+                254
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    666,
+                    222,
+                    704,
+                    240
+                  ],
+                  "score": 0.811,
+                  "content": "B450",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    731,
+                    220,
+                    747,
+                    254
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 45
+            },
+            {
+              "bbox": [
+                670,
+                234,
+                754,
+                249
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    670,
+                    236,
+                    682,
+                    249
+                  ],
+                  "score": 0.888,
+                  "content": "이",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    744,
+                    234,
+                    754,
+                    246
+                  ],
+                  "score": 0.995,
+                  "content": "x",
+                  "type": "text"
+                }
+              ],
+              "index": 46
             }
           ],
-          "index": 38.0
+          "index": 43,
+          "bbox_fs": [
+            655,
+            160,
+            754,
+            254
+          ]
         },
         {
           "type": "text",
@@ -12015,7 +12541,7 @@
                     605,
                     275
                   ],
-                  "score": 0.971,
+                  "score": 0.972,
                   "content": "xy평면상의 점p는A,C로부터",
                   "type": "text"
                 },
@@ -12042,10 +12568,10 @@
                   "type": "text"
                 }
               ],
-              "index": 42
+              "index": 44
             }
           ],
-          "index": 42,
+          "index": 44,
           "bbox_fs": [
             444,
             259,
@@ -12077,15 +12603,15 @@
                     605,
                     298
                   ],
-                  "score": 0.967,
+                  "score": 0.97,
                   "content": "p에서 전기장의 세기는?[3점]",
                   "type": "text"
                 }
               ],
-              "index": 43
+              "index": 47
             }
           ],
-          "index": 43,
+          "index": 47,
           "bbox_fs": [
             454,
             281,
@@ -12125,7 +12651,7 @@
               ]
             }
           ],
-          "index": 44,
+          "index": 48,
           "virtual_lines": [
             {
               "bbox": [
@@ -12135,7 +12661,7 @@
                 335
               ],
               "spans": [],
-              "index": 44
+              "index": 48
             }
           ]
         },
@@ -12234,7 +12760,7 @@
                   "type": "text"
                 }
               ],
-              "index": 45
+              "index": 49
             },
             {
               "bbox": [
@@ -12317,7 +12843,7 @@
                     713,
                     540
                   ],
-                  "score": 0.955,
+                  "score": 0.962,
                   "content": "인점을지나고,물체B는",
                   "type": "text"
                 },
@@ -12344,7 +12870,7 @@
                   "type": "text"
                 }
               ],
-              "index": 46
+              "index": 50
             },
             {
               "bbox": [
@@ -12427,12 +12953,12 @@
                     755,
                     558
                   ],
-                  "score": 0.931,
+                  "score": 0.928,
                   "content": "점을지난다. A와B는각각",
                   "type": "text"
                 }
               ],
-              "index": 47
+              "index": 51
             },
             {
               "bbox": [
@@ -12449,7 +12975,7 @@
                     566,
                     577
                   ],
-                  "score": 0.934,
+                  "score": 0.996,
                   "content": "등가속도 운동을 하다가,",
                   "type": "text"
                 },
@@ -12520,13 +13046,13 @@
                   "type": "text"
                 }
               ],
-              "index": 48
+              "index": 52
             },
             {
               "bbox": [
                 446,
                 580,
-                752,
+                756,
                 607
               ],
               "spans": [
@@ -12595,9 +13121,20 @@
                   "score": 0.78,
                   "content": "\\frac { 9 } { 4 } \\sharp \\sharp \\diamondsuit \\tau \\sharp .",
                   "type": "inline_equation"
+                },
+                {
+                  "bbox": [
+                    752,
+                    580,
+                    756,
+                    605
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 49
+              "index": 53
             },
             {
               "bbox": [
@@ -12631,6 +13168,17 @@
                 },
                 {
                   "bbox": [
+                    633,
+                    610,
+                    639,
+                    627
+                  ],
+                  "score": 0.764,
+                  "content": ",",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     640,
                     612,
                     658,
@@ -12639,6 +13187,17 @@
                   "score": 0.72,
                   "content": "\\mathrm { A } _ { y } )",
                   "type": "inline_equation"
+                },
+                {
+                  "bbox": [
+                    658,
+                    610,
+                    666,
+                    627
+                  ],
+                  "score": 0.967,
+                  "content": ",",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -12663,7 +13222,7 @@
                   "type": "text"
                 }
               ],
-              "index": 50
+              "index": 54
             },
             {
               "bbox": [
@@ -12691,7 +13250,7 @@
                     513,
                     645
                   ],
-                  "score": 0.532,
+                  "score": 0.539,
                   "content": ",",
                   "type": "text"
                 },
@@ -12735,15 +13294,15 @@
                     707,
                     645
                   ],
-                  "score": 0.971,
+                  "score": 0.982,
                   "content": "에 따라 나타낸 것이다.",
                   "type": "text"
                 }
               ],
-              "index": 51
+              "index": 55
             }
           ],
-          "index": 48,
+          "index": 52,
           "bbox_fs": [
             435,
             506,
@@ -12792,7 +13351,7 @@
                   ]
                 }
               ],
-              "index": 55,
+              "index": 59,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -12802,7 +13361,7 @@
                     673.2857142857143
                   ],
                   "spans": [],
-                  "index": 52
+                  "index": 56
                 },
                 {
                   "bbox": [
@@ -12812,7 +13371,7 @@
                     690.5714285714287
                   ],
                   "spans": [],
-                  "index": 53
+                  "index": 57
                 },
                 {
                   "bbox": [
@@ -12822,7 +13381,7 @@
                     707.857142857143
                   ],
                   "spans": [],
-                  "index": 54
+                  "index": 58
                 },
                 {
                   "bbox": [
@@ -12832,7 +13391,7 @@
                     725.1428571428573
                   ],
                   "spans": [],
-                  "index": 55
+                  "index": 59
                 },
                 {
                   "bbox": [
@@ -12842,7 +13401,7 @@
                     742.4285714285717
                   ],
                   "spans": [],
-                  "index": 56
+                  "index": 60
                 },
                 {
                   "bbox": [
@@ -12852,7 +13411,7 @@
                     759.714285714286
                   ],
                   "spans": [],
-                  "index": 57
+                  "index": 61
                 },
                 {
                   "bbox": [
@@ -12862,12 +13421,12 @@
                     777.0000000000003
                   ],
                   "spans": [],
-                  "index": 58
+                  "index": 62
                 }
               ]
             }
           ],
-          "index": 55
+          "index": 59
         },
         {
           "type": "text",
@@ -12909,10 +13468,10 @@
                   "type": "text"
                 }
               ],
-              "index": 59
+              "index": 63
             }
           ],
-          "index": 59,
+          "index": 63,
           "bbox_fs": [
             456,
             782,
@@ -12952,7 +13511,7 @@
               ]
             }
           ],
-          "index": 60,
+          "index": 64,
           "virtual_lines": [
             {
               "bbox": [
@@ -12962,7 +13521,7 @@
                 835
               ],
               "spans": [],
-              "index": 60
+              "index": 64
             }
           ]
         },
@@ -12995,10 +13554,10 @@
                   "type": "text"
                 }
               ],
-              "index": 61
+              "index": 65
             }
           ],
-          "index": 61,
+          "index": 65,
           "bbox_fs": [
             445,
             1006,
@@ -13030,12 +13589,12 @@
                     744,
                     1045
                   ],
-                  "score": 0.97,
+                  "score": 0.971,
                   "content": "ㅇ답안지의 해당란에 필요한 내용을 정확히 기입(표기) 했는지 확인",
                   "type": "text"
                 }
               ],
-              "index": 62
+              "index": 66
             },
             {
               "bbox": [
@@ -13057,10 +13616,10 @@
                   "type": "text"
                 }
               ],
-              "index": 63
+              "index": 67
             }
           ],
-          "index": 62.5,
+          "index": 66.5,
           "bbox_fs": [
             447,
             1031,
@@ -13072,5 +13631,5 @@
     }
   ],
   "_backend": "pipeline",
-  "_version_name": "2.5.4"
+  "_version_name": "2.6.2"
 }

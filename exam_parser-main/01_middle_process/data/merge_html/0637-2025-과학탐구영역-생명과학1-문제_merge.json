@@ -96,7 +96,7 @@
   },
   {
     "type": "text",
-    "text": "① 장거리 비행에 필요한 에너지를 얻으며,",
+    "text": " 장거리 비행에 필요한 에너지를 얻으며,",
     "bbox": [
       104,
       337,
@@ -106,12 +106,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9714,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 198,
+      "end_orig": 220,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "type": "text",
-    "text": "이 자료에 대한 설명으로 옳은 것만을 <보기>",
+    "text": "이 자료에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
       107,
       385,
@@ -167,10 +167,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.973,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 257,
-      "end_orig": 282,
+      "end_orig": 281,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -236,7 +236,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       108,
       443,
@@ -249,14 +249,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2246,
-      "end_orig": 2248,
+      "start_orig": 305,
+      "end_orig": 307,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 과정에서 유전 물질이 자손에게 전달된다.",
+    "text": " 과정에서 유전 물질이 자손에게 전달된다.",
     "bbox": [
       123,
       443,
@@ -266,17 +266,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.973,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 309,
+      "end_orig": 332,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       107,
       461,
@@ -286,17 +286,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4992,
-      "end_orig": 4994,
-      "reason": "low_similarity"
+      "start_orig": 333,
+      "end_orig": 335,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "① 과정에서 물질대사가 일어난다.",
+    "text": " 과정에서 물질대사가 일어난다.",
     "bbox": [
       123,
       461,
@@ -306,12 +306,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9655,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 337,
+      "end_orig": 354,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -329,8 +329,8 @@
       "replaced": false,
       "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4014,
-      "end_orig": 4015,
+      "start_orig": 826,
+      "end_orig": 827,
       "reason": "low_similarity"
     }
   },
@@ -389,14 +389,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3367,
-      "end_orig": 3407,
+      "start_orig": 378,
+      "end_orig": 418,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "2. 그림 (가)는 정상인 A와 B에서 시간에  따라  측정한  체중을, (나)는 시점",
+    "text": ". 그림 (가)는 정상인 A와 B에서 시간에  따라  측정한  체중을, (나)는 시점",
     "bbox": [
       86,
       554,
@@ -407,9 +407,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9851,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 419,
+      "start_orig": 420,
       "end_orig": 467,
       "reason": "passed_threshold_no_ws"
     }
@@ -449,8 +449,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3466,
-      "end_orig": 3467,
+      "start_orig": 471,
+      "end_orig": 472,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -496,22 +496,42 @@
   },
   {
     "type": "text",
-    "text": "으로 운동을 한 사람'과'운동을 (상) A 혈중지질농도 (0) A B B 시간 0 t t2 (가) (나)",
+    "text": "으로 운동을 한 사람’과 ‘운동을",
     "bbox": [
       98,
-      556,
-      407,
+      637,
+      248,
       653
     ],
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.359,
+      "replaced": true,
+      "similarity": 0.8571,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 523,
-      "end_orig": 572,
-      "reason": "low_similarity"
+      "end_orig": 541,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A A B B 시간 0 t t2 (가) (나)",
+    "bbox": [
+      284,
+      558,
+      407,
+      642
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -549,8 +569,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3550,
-      "end_orig": 3574,
+      "start_orig": 568,
+      "end_orig": 592,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -609,8 +629,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3625,
-      "end_orig": 3631,
+      "start_orig": 646,
+      "end_orig": 652,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -689,8 +709,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 9444,
-      "end_orig": 9484,
+      "start_orig": 757,
+      "end_orig": 797,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1113,7 +1133,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.조작 변인은 곤충 개체 수이다.",
+    "text": "ㄱ. 조작 변인은 곤충 개체 수이다.",
     "bbox": [
       457,
       461,
@@ -1123,17 +1143,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1407,
+      "end_orig": 1427,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       456,
       478,
@@ -1143,12 +1163,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4992,
-      "end_orig": 4994,
-      "reason": "low_similarity"
+      "start_orig": 1770,
+      "end_orig": 1772,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1183,17 +1203,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1432,
+      "end_orig": 1452,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄷ.곤충 개체 수 감소에 미치는 영향은 새가 박쥐보다 크다.",
+    "text": "ㄷ. 곤충 개체 수 감소에 미치는 영향은 새가 박쥐보다 크다.",
     "bbox": [
       456,
       494,
@@ -1203,17 +1223,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1453,
+      "end_orig": 1487,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄷ ④ㄱ, ㄷ ⑤ㄴ, ㄷ",
+    "text": "①  ㄱ ②  ㄴ ③  ㄷ ④  ㄱ,  ㄷ ⑤  ㄴ,  ㄷ",
     "bbox": [
       443,
       523,
@@ -1223,17 +1243,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1488,
+      "end_orig": 1520,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "5.그림은 동물 종 X에서 ⑦ 섭취량에 따른 혈장 삼투압을 나타낸 것이다.",
+    "text": "5. 그림은 동물 종 X에서 ㉠ 섭취량에 따른 혈장 삼투압을 나타낸 것이다.  ㉠은 ",
     "bbox": [
       435,
       558,
@@ -1243,17 +1263,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9375,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1521,
+      "end_orig": 1568,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 은 물과 소금 중 하나 이고,I과 Ⅱ는'항이뇨 호르몬(ADH)이 정상적 으로분비되는개체'와‘항이뇨호르몬(ADH)이",
+    "text": "은 물과 소금 중 하나 이고,  Ⅰ과 Ⅱ는 ‘항이뇨 호르몬(ADH)이 정상적 으로 분비되는 개체’와 ‘항이뇨 호르몬(ADH)이 ",
     "bbox": [
       446,
       576,
@@ -1263,20 +1283,20 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.955,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1566,
+      "end_orig": 1637,
+      "reason": "anchor_rescue"
     }
   },
   {
     "type": "text",
-    "text": "혈장삼투압 () 0i 2 (ㄱ선취라(사대간)",
+    "text": "0i 2 (ㄱ선취라(사대간)",
     "bbox": [
-      668,
-      555,
+      681,
+      595,
       756,
       624
     ],
@@ -1293,7 +1313,7 @@
   },
   {
     "type": "text",
-    "text": "정상보다 적게 분비되는 개체'를 순서 없이 나타낸 것이다.",
+    "text": "정상보다 적게 분비되는 개체’를 순서 없이 나타낸 것이다.",
     "bbox": [
       447,
       625,
@@ -1303,12 +1323,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.3673,
+      "replaced": true,
+      "similarity": 0.96,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1965,
-      "end_orig": 1998,
-      "reason": "low_similarity"
+      "start_orig": 1637,
+      "end_orig": 1669,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1393,7 +1413,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.콩팥은 ADH의 표적 기관이다.",
+    "text": "ㄱ. 콩팥은 ADH의 표적 기관이다.",
     "bbox": [
       456,
       705,
@@ -1403,17 +1423,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1749,
+      "end_orig": 1769,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄴ.I은'ADH가 정상적으로 분비되는 개체'이다.",
+    "text": "ㄴ. Ⅰ은 ‘ADH가 정상적으로 분비되는 개체’이다.",
     "bbox": [
       456,
       722,
@@ -1423,17 +1443,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9167,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1770,
+      "end_orig": 1799,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄷ.ⅡI에서 단위 시간당 오즘 생성량은",
+    "text": "ㄷ.ⅡI에서 단위 시간당 오즘생성량은",
     "bbox": [
       456,
       739,
@@ -1523,12 +1543,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1833,
+      "end_orig": 1840,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1553,7 +1573,7 @@
   },
   {
     "type": "text",
-    "text": "6.그림은 생태계를 구성하는 요소 사이의 상호 관계를,표는 상호 작용의 예를 나타낸 것이다.(가)와 (나)는 순위제의 예와",
+    "text": "6. 그림은 생태계를 구성하는 요소 사이의 상호 관계를,  표는 상호 작용의 예를 나타낸 것이다.  (가)와 (나)는 순위제의 예와",
     "bbox": [
       434,
       801,
@@ -1563,12 +1583,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1882,
+      "end_orig": 1955,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1583,22 +1603,22 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1956,
+      "end_orig": 1977,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "생물군집 개체군A 생태계 개체군B 비생물적요인 C 2",
+    "text": "개체군A 생태계 개체군B C 2",
     "bbox": [
-      452,
+      466,
       861,
-      573,
-      920
+      556,
+      910
     ],
     "page_idx": 0,
     "_xhtml_replace": {
@@ -1613,7 +1633,7 @@
   },
   {
     "type": "text",
-    "text": "(가)갈색벌새는 꿀을 확보하기 위해 다른 갈색 벌새가 서식 공간에 접근하는 것을 막는다.",
+    "text": "\n갈색벌새는 꿀을 확보하기 위해 다른 갈색 벌새가 서식 공간에 접근하는 것을 막는다 ",
     "bbox": [
       583,
       868,
@@ -1623,17 +1643,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9444,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1977,
+      "end_orig": 2024,
+      "reason": "anchor_rescue"
     }
   },
   {
     "type": "text",
-    "text": "(나)유럽산비둘기 무리에서는 서열이 높은 개체 일수록 무리의 가운데 위치를 차지한다.",
+    "text": "다 유럽산비둘기 무리에서는 서열이 높은 개체 일수록 무리의 가운데 위치를 차지한다\n",
     "bbox": [
       583,
       892,
@@ -1643,12 +1663,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9315,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2022,
+      "end_orig": 2068,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -1664,7 +1684,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9643,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5674,
       "end_orig": 5711,
@@ -1703,17 +1723,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2113,
+      "end_orig": 2129,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄴ.(나)의 상호 작용은 ⑦ 에 해당한다.",
+    "text": "ㄴ. (나)의 상호 작용은 ㉠에 해당한다.\n",
     "bbox": [
       456,
       990,
@@ -1723,17 +1743,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9444,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2130,
+      "end_orig": 2154,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "드.거북이의 성별이 발생 시기 알의 주변 온도에 의해 결정되는 것은 ⑦ 의 예에 해당한다.",
+    "text": "ㄷ. 거북이의 성별이 발생 시기 알의 주변 온도에 의해 결정되는 것은 ㉣의 예에 해당한다.\n① ",
     "bbox": [
       456,
       1006,
@@ -1743,12 +1763,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.96,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2154,
+      "end_orig": 2207,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1773,7 +1793,7 @@
   },
   {
     "type": "text",
-    "text": "7.그림은 사람 면역 결핍 바이러스(HIV)에 감염된사람에서체내HIV의 수 ④ 와HIV에 감염된 사람이 결핵의 병원체에 노출되었을 때 결핵 발병 확률",
+    "text": "7. 그림은  사람 면역  결핍 바이러스(HIV)에 감염된 사람에서 체내 HIV의 수(ⓐ)와 HIV에 감염된 사람이 결핵의 병원체에 노출되었을 때 결핵  발병  확률",
     "bbox": [
       87,
       160,
@@ -1783,12 +1803,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9552,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2246,
+      "end_orig": 2338,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -1813,7 +1833,7 @@
   },
   {
     "type": "text",
-    "text": "을시간에 따라 각각 나타낸 것이다.",
+    "text": "을  시간에  따라  각각 나타낸 것이다.",
     "bbox": [
       98,
       210,
@@ -1823,21 +1843,21 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2341,
+      "end_orig": 2364,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "(상) d ②(상) 시간(년)",
+    "text": "d 시간(년)",
     "bbox": [
-      310,
-      159,
-      405,
+      336,
+      195,
+      396,
       240
     ],
     "page_idx": 1,
@@ -1853,7 +1873,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로옳은 것만을<보기>에서 있는 대로 고른 것은?",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
     "bbox": [
       108,
       247,
@@ -1863,17 +1883,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2365,
+      "end_orig": 2402,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄱ.결핵의 치료에 항생제가 사용된다.",
+    "text": "ㄱ. 결핵의 치료에 항생제가 사용된다.",
     "bbox": [
       108,
       290,
@@ -1883,17 +1903,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2410,
+      "end_orig": 2431,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄴ.HIV는 살아 있는 숙주 세포 안에서만 증식할 수 있다.",
+    "text": "ㄴ. HIV는 살아 있는 숙주 세포 안에서만 증식할 수 있다.",
     "bbox": [
       107,
       307,
@@ -1903,12 +1923,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2432,
+      "end_orig": 2466,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1924,11 +1944,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4014,
+      "end_orig": 4015,
+      "reason": "low_similarity"
     }
   },
   {
@@ -1953,7 +1973,7 @@
   },
   {
     "type": "text",
-    "text": "는 구간I에서가구간Ⅱ에서보다높다.",
+    "text": "는 구간 Ⅰ에서가 구간 Ⅱ에서보다 높다.",
     "bbox": [
       136,
       323,
@@ -1963,12 +1983,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2471,
+      "end_orig": 2493,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1993,7 +2013,7 @@
   },
   {
     "type": "text",
-    "text": "8.그림은사람의 체세포 세포 주기를,표는 이 사람의 체세포 세포 주기의",
+    "text": "8. 그림은 사람의 체세포 세포 주기를,  표는 이 사람의 체세포 세포 주기의",
     "bbox": [
       86,
       406,
@@ -2003,12 +2023,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2535,
+      "end_orig": 2578,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2043,12 +2063,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2582,
+      "end_orig": 2602,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2083,12 +2103,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2607,
+      "end_orig": 2608,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2113,12 +2133,32 @@
   },
   {
     "type": "text",
-    "text": "M기(분열기),S기를 순서 없이 나타낸 것이다.",
+    "text": ", M기(분열기),  S기를 순서 없이 나타낸 것이다.",
     "bbox": [
       97,
-      441,
-      320,
+      423,
+      407,
       455
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2612,
+      "end_orig": 2642,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "G1기 세포 주기 L C",
+    "bbox": [
+      159,
+      470,
+      200,
+      522
     ],
     "page_idx": 1,
     "_xhtml_replace": {
@@ -2132,20 +2172,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      120,
-      465,
-      209,
-      532
-    ],
-    "page_idx": 1,
-    "image_path": "e68c4122c67013b1e8d2cfa99c5a9cb2c3c5494c2e5407debc467ad69166af6c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "table",
     "bbox": [
       221,
@@ -2154,7 +2180,7 @@
       524
     ],
     "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>특징</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>?</td></tr><tr><td rowspan=1 colspan=1>L</td><td rowspan=1 colspan=1>핵에서DNA복제가 일어난다.</td></tr><tr><td rowspan=1 colspan=1>©</td><td rowspan=1 colspan=1>핵막이관찰된다.</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>특징</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>?</td></tr><tr><td rowspan=1 colspan=1>L</td><td rowspan=1 colspan=1>핵에서 DNA복제가 일어난다.</td></tr><tr><td rowspan=1 colspan=1>©</td><td rowspan=1 colspan=1>핵막이관찰된다.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "4b2936e86f8494d3e5644339691d7e0e097e30a3169cca482516210ba26ffa29.jpg",
@@ -2162,7 +2188,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을<보기>에서 있는 대로 고른 것은?",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
     "bbox": [
       107,
       539,
@@ -2172,12 +2198,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2685,
+      "end_orig": 2722,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2196,7 +2222,7 @@
   },
   {
     "type": "text",
-    "text": "7.세포 주기는 I 방향으로 진행된다.",
+    "text": "ㄱ. 세포 주기는 Ⅰ 방향으로 진행된다.",
     "bbox": [
       108,
       582,
@@ -2206,17 +2232,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2730,
+      "end_orig": 2752,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       108,
       599,
@@ -2226,17 +2252,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2753,
+      "end_orig": 2755,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 시기에 상동 염색체의 접합이 일어난다.",
+    "text": " 시기에 상동 염색체의 접합이 일어난다.",
     "bbox": [
       123,
       599,
@@ -2246,12 +2272,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9714,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2757,
+      "end_orig": 2779,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2267,11 +2293,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4014,
+      "end_orig": 4015,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2287,11 +2313,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2784,
+      "end_orig": 2785,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2326,12 +2352,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2787,
+      "end_orig": 2800,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2356,7 +2382,7 @@
   },
   {
     "type": "text",
-    "text": "9.다음은병원체 ⑦ 과",
+    "text": "9. 다음은 병원체 ㉠과",
     "bbox": [
       84,
       697,
@@ -2366,12 +2392,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2842,
+      "end_orig": 2855,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2406,12 +2432,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2859,
+      "end_orig": 2877,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2426,17 +2452,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2878,
+      "end_orig": 2890,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "(가) 유전적으로 동일하고 가슴샘이 없는 생쥐 I~V을 준비 한다.I~V은",
+    "text": "(가) 유전적으로 동일하고 가슴샘이 없는 생쥐 Ⅰ～Ⅵ을 준비 한다.  Ⅰ～Ⅵ은",
     "bbox": [
       105,
       747,
@@ -2446,17 +2472,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9706,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2891,
+      "end_orig": 2934,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 과 ① 에 노출된 적이 없다.",
+    "text": "과 ㉡에 노출된 적이 없다. ",
     "bbox": [
       199,
       763,
@@ -2466,17 +2492,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.8696,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2936,
+      "end_orig": 2952,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "(나) I과Ⅱ에 ⑦ 을,Ⅲ과IV에 ① 을,V와V에 ⑦ 과 ① 모두를 감염시키고,ⅡI,IV,VI에 ② 에 대한 보조 T 림프구를 각각 주사한다.",
+    "text": "나) Ⅰ과 Ⅱ에 ㉠을,  Ⅲ과 Ⅳ에 ㉡을,  Ⅴ와 Ⅵ에 ㉠과 ㉡ 모두를 감염시키고,  Ⅱ,  Ⅳ,  Ⅵ에 ⓐ에 대한 보조 T  림프구를 각각 주사한다.  ⓐ는 ㉠과 ㉡ ",
     "bbox": [
       105,
       780,
@@ -2486,12 +2512,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.8657,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2953,
+      "end_orig": 3047,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -2516,7 +2542,7 @@
   },
   {
     "type": "text",
-    "text": "(다)일정 시간이 지난 후,I~VI에서 ② 에 대한 항원 항체 반응 여부와 생존 여부를 확인한 결과는 표와 같다.",
+    "text": " (다) 일정 시간이 지난 후,  Ⅰ～Ⅵ에서 ⓐ에 대한 항원 항체 반응 여부와 생존 여부를 확인한 결과는 표와 같다.\n",
     "bbox": [
       105,
       830,
@@ -2526,12 +2552,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9677,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3054,
+      "end_orig": 3120,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2551,7 +2577,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은것만을<보>",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>",
     "bbox": [
       107,
       930,
@@ -2561,12 +2587,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9697,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3202,
+      "end_orig": 3224,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2591,7 +2617,7 @@
   },
   {
     "type": "text",
-    "text": "에서 있는 대로 고른 것은?  (단,  제시된 조건 이외는 고려하지 않는다.)  [3점]",
+    "text": "에서 있는 대로 고른 것은?  (단,  제시된 조건 이외는 고려하지 않는다.)  [3점]\n",
     "bbox": [
       98,
       930,
@@ -2604,14 +2630,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1692,
-      "end_orig": 1741,
+      "start_orig": 3224,
+      "end_orig": 3274,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       107,
       988,
@@ -2621,17 +2647,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3281,
+      "end_orig": 3283,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 는",
+    "text": "4는",
     "bbox": [
       123,
       988,
@@ -2641,12 +2667,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7496,
+      "end_orig": 7498,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2681,12 +2707,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7520,
+      "end_orig": 7522,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2731,7 +2757,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
     "bbox": [
       94,
       1051,
@@ -2741,17 +2767,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8355,
+      "end_orig": 8395,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "10.그림은 어떤 동물에게 호르몬 X를 투여한 후 시간에 따른 ② 와",
+    "text": " 그림은 어떤 동물에게 호르몬 X를 투여한 후 시간에 따른 ⓐ와",
     "bbox": [
       437,
       160,
@@ -2761,12 +2787,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9057,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3411,
+      "end_orig": 3446,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2801,17 +2827,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8599,
+      "end_orig": 8609,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "X는 글루카곤과 인슐린 중 하나이고, ② 와",
+    "text": "X는 글루카곤과 인슐린 중 하나이고, ⓐ와",
     "bbox": [
       446,
       195,
@@ -2821,12 +2847,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9444,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3459,
+      "end_orig": 3482,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2851,12 +2877,32 @@
   },
   {
     "type": "text",
-    "text": "는'간에서 단위 시간당 글리코젠 으로부터 생성되는 포도당의 양'과'혈중 포도당 농도'를 순서 없이 나타낸 것이다 (상) 1 ②(상) 0 시간 X투여",
+    "text": "는'간에서 단위 시간당 글리코젠 으로부터 생성되는 포도당의 양'과'혈중 포도당 농도'를 순서 없이 나타낸 것이다",
     "bbox": [
       446,
-      160,
-      754,
+      210,
+      642,
       258
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.1404,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8696,
+      "end_orig": 8796,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "1 0 시간 X투여",
+    "bbox": [
+      654,
+      163,
+      742,
+      241
     ],
     "page_idx": 1,
     "_xhtml_replace": {
@@ -2911,7 +2957,7 @@
   },
   {
     "type": "text",
-    "text": "에서 있는 대로 고른 것은?  (단,  제시된 조건 이외는 고려하지 않는다.)  [3점]\n",
+    "text": "에서 있는 대로 고른 것은?(단,제시된 조건 이외는 고려하지 않는다.) [3점]",
     "bbox": [
       446,
       265,
@@ -2921,17 +2967,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6087,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3224,
-      "end_orig": 3274,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 8877,
+      "end_orig": 8926,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "<보 기>",
+    "text": "<보기>",
     "bbox": [
       573,
       303,
@@ -2941,12 +2987,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8873,
+      "end_orig": 8877,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3042,16 +3088,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.5909,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9321,
+      "end_orig": 9385,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "<보기>",
+    "text": "<보  기>",
     "bbox": [
       574,
       465,
@@ -3061,17 +3107,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8966,
+      "end_orig": 8972,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄱ.녹말이포도당으로 분해되는과정에서 이화 작용이 일어난다.",
+    "text": "ㄱ.녹말이 포도당으로 분해되는과정에서 이화 작용이 일어난다.",
     "bbox": [
       457,
       484,
@@ -3102,11 +3148,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.3636,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9426,
+      "end_orig": 9477,
+      "reason": "low_similarity"
     }
   },
   {
@@ -3351,7 +3397,7 @@
   },
   {
     "type": "text",
-    "text": "각각d2, d3, d4 중 하나이고,",
+    "text": "각각 d ,  d ,  d 중 하나이고, ",
     "bbox": [
       467,
       685,
@@ -3361,12 +3407,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.8966,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4160,
+      "end_orig": 4183,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3410,20 +3456,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      463,
-      704,
-      592,
-      779
-    ],
-    "page_idx": 1,
-    "image_path": "802e8995b177ef2d2be842d600c586b3c41254171d920eecda90305aa1fb6e74.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "table",
     "bbox": [
       605,
@@ -3440,7 +3472,27 @@
   },
   {
     "type": "text",
-    "text": "ㅇA를 구성하는모든 뉴런의 흥분 전도 속도는1 cm/ms로 같다.",
+    "text": "d d2 $\\frac}$ d5 L 0 1 4(cm)",
+    "bbox": [
+      487,
+      752,
+      589,
+      780
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇA를 구성하는모든 뉴런의 흥분 전도 속도는1 cm/ms로같다.",
     "bbox": [
       456,
       783,
@@ -3571,11 +3623,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.3158,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9237,
+      "end_orig": 9276,
+      "reason": "low_similarity"
     }
   },
   {
@@ -3590,12 +3642,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9423,
+      "end_orig": 9424,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3620,7 +3672,7 @@
   },
   {
     "type": "text",
-    "text": "각각에서활동 전위가발생하였을 때, 각지점에서의막전위 변화는그림과 같다.",
+    "text": "각각에서활동 전위가발생하였을 때, 각지점에서의 막전위 변화는그림과 같다.",
     "bbox": [
       466,
       866,
@@ -3640,10 +3692,10 @@
   },
   {
     "type": "text",
-    "text": "막전위 +30f 0 (mV) 60 70 −80 1 2..3 4 시간(ms) 자극",
+    "text": "+30f 0 (mV) 60 70 −80 1 ㄹ..3 4 시간(ms) 자극",
     "bbox": [
       647,
-      816,
+      818,
       747,
       897
     ],
@@ -3740,7 +3792,7 @@
   },
   {
     "type": "text",
-    "text": "서 흥분의 전도는 각각 1 회 일어났고,휴지 전위는",
+    "text": "서 흥분의 전도는 각각 1 회 일어났고,  휴지 전위는",
     "bbox": [
       446,
       931,
@@ -3750,12 +3802,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4514,
+      "end_orig": 4544,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3820,7 +3872,7 @@
   },
   {
     "type": "text",
-    "text": "7. a는 +30이다.",
+    "text": "ㄱ. a는 +30이다.",
     "bbox": [
       455,
       988,
@@ -3840,7 +3892,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       1006,
@@ -3851,16 +3903,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9461,
+      "end_orig": 9463,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "① 에 시냅스가 있다.",
+    "text": "에 시냅스가 있다.\n",
     "bbox": [
       472,
       1006,
@@ -3870,12 +3922,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9412,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4586,
+      "end_orig": 4597,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4265,11 +4317,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.8148,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4891,
+      "end_orig": 4911,
+      "reason": "low_similarity"
     }
   },
   {
@@ -4419,12 +4471,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9441,
+      "end_orig": 9443,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4449,7 +4501,7 @@
   },
   {
     "type": "text",
-    "text": "7.H대의길이는",
+    "text": "ㄱ.H대의길이는",
     "bbox": [
       108,
       455,
@@ -4969,7 +5021,7 @@
   },
   {
     "type": "text",
-    "text": "유무와a, B, D의 DNA 상대량을 더한 값",
+    "text": "유무와 a, B, D의 DNA 상대량을 더한 값",
     "bbox": [
       98,
       680,
@@ -5189,12 +5241,12 @@
   },
   {
     "type": "text",
-    "text": "π-O ' a O→ 'O→ O→",
+    "text": "π-O ' a",
     "bbox": [
       308,
       802,
-      377,
-      890
+      357,
+      856
     ],
     "page_idx": 2,
     "_xhtml_replace": {
@@ -5226,7 +5278,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을보기>에서 있는 대로 고른 것은?",
+    "text": "이에 대한 설명으로 옳은 것만을<보기>에서 있는 대로 고른 것은?",
     "bbox": [
       108,
       914,
@@ -5286,7 +5338,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       107,
       988,
@@ -5297,16 +5349,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9447,
+      "end_orig": 9449,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "① 은 A이다.",
+    "text": "은 A이다.\n",
     "bbox": [
       123,
       988,
@@ -5316,12 +5368,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9091,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5803,
+      "end_orig": 5810,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5446,7 +5498,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇ(가)는1쌍의 대립유전자에 의해 결정되며,대립유전자에는 D,E,F가 있다.(가)의 표현형은3가지이며,각 대립유전자",
+    "text": "ㅇ(가)는1쌍의 대립유전자에 의해 결정되며,대립유전자에는 D,E,F가 있다.(가)의 표현형은3가지이며, 각 대립유전자",
     "bbox": [
       455,
       191,
@@ -5466,7 +5518,7 @@
   },
   {
     "type": "text",
-    "text": "사이의 우열 관계는 분명하다.",
+    "text": "사이의 우열 관계는분명하다.",
     "bbox": [
       466,
       223,
@@ -5526,7 +5578,7 @@
   },
   {
     "type": "text",
-    "text": "그림은남자Ⅰ,Ⅱ와여자Ⅲ,IV의체세포각각에들어있는 일부 염색체와 유전자를 나타낸 것이다.",
+    "text": "그림은남자I,Ⅱ와여자Ⅲ,IV의체세포각각에들어있는 일부 염색체와 유전자를 나타낸 것이다.",
     "bbox": [
       455,
       290,
@@ -5566,7 +5618,7 @@
   },
   {
     "type": "text",
-    "text": "은 D,E, F를 순서 없이 나타낸 것이고, ① 과 ① 은 각각 H,R,T 중 하나이다.",
+    "text": "은 D,  E,  F를 순서 없이 나타낸 것이고,  ㉣과 ㉤은 각각 H,  R,  T  중 하나이다.\n",
     "bbox": [
       467,
       308,
@@ -5576,12 +5628,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9429,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6206,
+      "end_orig": 6263,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5660,7 +5712,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을<보기",
+    "text": "이에대한 설명으로 옳은 것만을<보>",
     "bbox": [
       456,
       555,
@@ -5740,7 +5792,7 @@
   },
   {
     "type": "text",
-    "text": "7. 은 D이다.",
+    "text": "ㄱ. 은 D이다.",
     "bbox": [
       456,
       613,
@@ -5780,7 +5832,7 @@
   },
   {
     "type": "text",
-    "text": "② 의 (가)와 (나)의 표현형이 모두Ⅱ와 같을확률은",
+    "text": "의 (가)와 (나)의 표현형이 모두 Ⅱ와 같을 확률은 ",
     "bbox": [
       472,
       649,
@@ -5790,12 +5842,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9787,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6518,
+      "end_orig": 6548,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5920,7 +5972,7 @@
   },
   {
     "type": "text",
-    "text": "⑦ 은A와 B 중 하나이고,A와 B는 양수림과 음수림을 순서 없이 나타낸 것이다.종I과Ⅱ는침엽수(양수)에 속하고,종 과IV는",
+    "text": "⑦ 은A와 B 중 하나이고, A와 B는 양수림과 음수림을 순서 없이 나타낸 것이다.종I과Ⅱ는침엽수(양수)에 속하고,종 과IV는",
     "bbox": [
       445,
       804,
@@ -6049,7 +6101,7 @@
   },
   {
     "type": "text",
-    "text": "이자료에 대한 설명으로옳은것만을<보기",
+    "text": "이자료에대한 설명으로옳은것만을<보기",
     "bbox": [
       456,
       930,
@@ -6109,7 +6161,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       456,
       988,
@@ -6120,16 +6172,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9447,
+      "end_orig": 9449,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "⑦ 은 B이다.",
+    "text": "은 B이다.\n",
     "bbox": [
       472,
       988,
@@ -6139,17 +6191,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9091,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6946,
+      "end_orig": 6953,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       1005,
@@ -6160,11 +6212,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9461,
+      "end_orig": 9463,
+      "reason": "low_similarity"
     }
   },
   {
@@ -6604,7 +6656,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       108,
       513,
@@ -6615,16 +6667,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9447,
+      "end_orig": 9449,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "① 은 아버지이다.",
+    "text": "은 아버지이다.\n",
     "bbox": [
       123,
       513,
@@ -6634,12 +6686,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7702,
+      "end_orig": 7711,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6684,7 +6736,7 @@
   },
   {
     "type": "text",
-    "text": "⑦ 에게서a,b,D를 모두 갖는 생식세포가 형성될 수 있다.",
+    "text": "에게서 a,  b,  D를 모두 갖는 생식세포가 형성될 수 있다.\n",
     "bbox": [
       123,
       546,
@@ -6694,12 +6746,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9804,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7743,
+      "end_orig": 7780,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -7119,7 +7171,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ. I과 의 핵상은 같다.",
+    "text": "ㄴ.I과 의 핵상은 같다.",
     "bbox": [
       107,
       1006,
@@ -7419,7 +7471,7 @@
   },
   {
     "type": "text",
-    "text": "체세포1개당a와B의DNA상대량을 나타낸 것이다.ㄱ~ㄷ은0,1,2를 순서없이 나타낸 것이다.",
+    "text": "체세포1개당a와B의DNA상대량을 나타낸 것이다.~ㄷ은0,1,2를 순서없이나타낸 것이다.",
     "bbox": [
       466,
       366,
@@ -7786,7 +7838,7 @@
   },
   {
     "type": "text",
-    "text": "7. (가)는 우성 형질이다.",
+    "text": "ㄱ. (가)는 우성 형질이다.",
     "bbox": [
       456,
       578,
@@ -7902,26 +7954,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
-    }
-  },
-  {
-    "type": "text",
-    "text": ".",
-    "bbox": [
-      586,
-      647,
-      593,
-      671
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
     }
   },
   {

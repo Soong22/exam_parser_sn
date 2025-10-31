@@ -80,26 +80,6 @@
     }
   },
   {
-    "type": "text",
-    "text": "1.",
-    "bbox": [
-      85,
-      281,
-      105,
-      300
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 2097,
-      "end_orig": 2099,
-      "reason": "low_similarity"
-    }
-  },
-  {
     "type": "inline_equation",
     "content": "{ \\sqrt [ 3 ] { 2 4 } } \\times 3 ^ { \\frac { 2 } { 3 } }",
     "bbox": [
@@ -117,6 +97,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "1.",
+    "bbox": [
+      85,
+      281,
+      105,
+      300
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2097,
+      "end_orig": 2099,
+      "reason": "low_similarity"
     }
   },
   {
@@ -313,7 +313,7 @@
   },
   {
     "type": "text",
-    "text": "2. 함수",
+    "text": "ㄹ.함수",
     "bbox": [
       84,
       665,
@@ -323,12 +323,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6121,
-      "end_orig": 6126,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 68,
+      "end_orig": 71,
+      "reason": "low_similarity"
     }
   },
   {
@@ -366,8 +366,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6130,
-      "end_orig": 6133,
+      "start_orig": 3666,
+      "end_orig": 3669,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -406,8 +406,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6140,
-      "end_orig": 6150,
+      "start_orig": 4630,
+      "end_orig": 4640,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -673,7 +673,7 @@
   },
   {
     "type": "text",
-    "text": "7. 함수",
+    "text": "ㄱ.함수",
     "bbox": [
       434,
       163,
@@ -683,12 +683,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6339,
-      "end_orig": 6344,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 68,
+      "end_orig": 71,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2733,11 +2733,11 @@
   },
   {
     "type": "text",
-    "text": "삼각형 ACD 의 넓이를",
+    "text": ",\n삼각형 ACD 의 넓이를",
     "bbox": [
       98,
-      255,
-      211,
+      232,
+      360,
       270
     ],
     "page_idx": 4,
@@ -2746,7 +2746,7 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6992,
+      "start_orig": 6990,
       "end_orig": 7005,
       "reason": "passed_threshold_no_ws"
     }
@@ -4079,6 +4079,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      177,
+      156,
+      185,
+      174
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
     }
   },
   {
@@ -5510,6 +5530,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      523,
+      302,
+      528,
+      343
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "f ^ { \\prime } \\left( \\frac { 1 } { 4 } \\right) < 0",
     "bbox": [
@@ -5995,7 +6035,7 @@
   },
   {
     "type": "text",
-    "text": "25.슷자1,2,3,4,5,6이 하나씩 적혀 있는 6장의 카드가 있다.",
+    "text": "25.슷자1,2,3,4,5,6이 하나씩 적혀 있는6장의 카드가 있다.",
     "bbox": [
       87,
       158,
@@ -6035,7 +6075,7 @@
   },
   {
     "type": "text",
-    "text": "① 2 30 ③ 1 4 5 1",
+    "text": "① 2 30 ③ 1 4 $5fc$ 5 1",
     "bbox": [
       99,
       245,
@@ -6827,7 +6867,7 @@
   },
   {
     "type": "text",
-    "text": "29.다음 조건을 만족시키는 6 이하의 자연수",
+    "text": "9. 다음 조건을 만족시키는  이하의 자연수",
     "bbox": [
       85,
       201,
@@ -6837,12 +6877,12 @@
     "page_idx": 11,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9474,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9109,
+      "end_orig": 9133,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -7394,10 +7434,10 @@
   },
   {
     "type": "text",
-    "text": "① 2 $\\frac$ ③ 4 ⑤ 1",
+    "text": "① $\\frc$ 2 $\\frac$ ③ $\\rac$ 4 ⑤ 1",
     "bbox": [
       98,
-      320,
+      319,
       370,
       349
     ],
@@ -7634,6 +7674,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      163,
+      183,
+      169,
+      199
+    ],
+    "page_idx": 13,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
     }
   },
   {
@@ -7950,10 +8010,30 @@
   },
   {
     "type": "text",
-    "text": "의 값은? [3점] ① 36 ② 40 ③ 44 ④ 48 ⑤ 52",
+    "text": "의 값은?  [3점]\n",
+    "bbox": [
+      222,
+      297,
+      298,
+      315
+    ],
+    "page_idx": 13,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 9745,
+      "end_orig": 9757,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① 36 ② 40 ③ 44 ④ 48 ⑤ 52",
     "bbox": [
       97,
-      297,
+      326,
       376,
       347
     ],
@@ -7961,11 +8041,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.4,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 9538,
-      "end_orig": 9548,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -8066,6 +8146,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "'",
+    "bbox": [
+      566,
+      198,
+      572,
+      219
+    ],
+    "page_idx": 13,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
     }
   },
   {
@@ -8896,11 +8996,11 @@
   },
   {
     "type": "text",
-    "text": "큰값을",
+    "text": ", 큰값을",
     "bbox": [
       446,
-      239,
-      487,
+      219,
+      755,
       253
     ],
     "page_idx": 14,
@@ -9272,7 +9372,7 @@
   },
   {
     "type": "text",
-    "text": "2n−1+b3n+1= S일때, 120S의 값을 구하시오.[4점]",
+    "text": "b2n-−1+b3n+1 = S일 때, 120S의 값을 구하시오.[4점]",
     "bbox": [
       98,
       369,
@@ -9283,10 +9383,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.3793,
+      "similarity": 0.3607,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 10291,
-      "end_orig": 10327,
+      "end_orig": 10329,
       "reason": "low_similarity"
     }
   },
@@ -9915,6 +10015,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      262,
+      273,
+      269,
+      289
+    ],
+    "page_idx": 16,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "\\mathrm { B } \\left( 9 , 2 , b \\right)",
     "bbox": [
@@ -10511,6 +10631,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      678,
+      178,
+      684,
+      194
+    ],
+    "page_idx": 17,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "\\mathrm { B ^ { ' } } { \\circ } \\rceil",
     "bbox": [
@@ -10859,7 +10999,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9808,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 11048,
       "end_orig": 11127,
@@ -12081,6 +12221,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      262,
+      203,
+      268,
+      218
+    ],
+    "page_idx": 19,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "\\mathrm { F } ^ { \\prime } ( - c , 0 )",
     "bbox": [
@@ -12122,7 +12282,7 @@
   },
   {
     "type": "text",
-    "text": "만족시키는 서로 다른 두 점P,",
+    "text": "만족시키는 서로 다른 두 점 P,",
     "bbox": [
       98,
       241,
@@ -12601,26 +12761,6 @@
     }
   },
   {
-    "type": "text",
-    "text": "1.",
-    "bbox": [
-      85,
-      281,
-      105,
-      300
-    ],
-    "page_idx": 20,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
     "type": "inline_equation",
     "content": "{ \\sqrt [ 3 ] { 2 4 } } \\times 3 ^ { \\frac { 2 } { 3 } }",
     "bbox": [
@@ -12638,6 +12778,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "1.",
+    "bbox": [
+      85,
+      281,
+      105,
+      300
+    ],
+    "page_idx": 20,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -12834,7 +12994,7 @@
   },
   {
     "type": "text",
-    "text": "2.함수",
+    "text": "ㄹ.함수",
     "bbox": [
       84,
       665,
@@ -13194,7 +13354,7 @@
   },
   {
     "type": "text",
-    "text": "7.함수",
+    "text": "ㄱ.함수",
     "bbox": [
       434,
       163,
@@ -15254,11 +15414,11 @@
   },
   {
     "type": "text",
-    "text": "삼각형 ACD의 넓이를",
+    "text": ", 삼각형 ACD의 넓이를",
     "bbox": [
       98,
-      255,
-      211,
+      232,
+      360,
       270
     ],
     "page_idx": 24,
@@ -16603,6 +16763,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      177,
+      156,
+      185,
+      174
+    ],
+    "page_idx": 26,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "\\left\\{ b _ { n } \\right\\}",
     "bbox": [
@@ -17128,7 +17308,7 @@
   },
   {
     "type": "text",
-    "text": "위의 점A에서의 접선이",
+    "text": "위의 점A에서의접선이",
     "bbox": [
       514,
       258,
@@ -18031,6 +18211,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      523,
+      302,
+      528,
+      343
+    ],
+    "page_idx": 27,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "f ^ { \\prime } \\left( \\frac { 1 } { 4 } \\right) < 0",
     "bbox": [
@@ -18536,7 +18736,7 @@
   },
   {
     "type": "text",
-    "text": "① 2 30 ③ 1 4 5 1",
+    "text": "① 2 30 ③ 1 4 $5fc$ 5 1",
     "bbox": [
       99,
       245,
@@ -19895,10 +20095,10 @@
   },
   {
     "type": "text",
-    "text": "① 2 $\\frac$ ③ 4 ⑤ 1",
+    "text": "① $\\frc$ 2 $\\frac$ ③ $\\rac$ 4 ⑤ 1",
     "bbox": [
       98,
-      320,
+      319,
       370,
       349
     ],
@@ -20135,6 +20335,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      163,
+      183,
+      169,
+      199
+    ],
+    "page_idx": 33,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
     }
   },
   {
@@ -20451,10 +20671,30 @@
   },
   {
     "type": "text",
-    "text": "의 값은? [3점] ① 36 ② 40 ③ 44 ④ 48 ⑤ 52",
+    "text": "의 값은? [3점]",
+    "bbox": [
+      222,
+      297,
+      298,
+      315
+    ],
+    "page_idx": 33,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① 36 ② 40 ③ 44 ④ 48 ⑤ 52",
     "bbox": [
       97,
-      297,
+      326,
       376,
       347
     ],
@@ -20471,7 +20711,7 @@
   },
   {
     "type": "text",
-    "text": "26.그림과같이 곡선",
+    "text": "26.그림과같이곡선",
     "bbox": [
       434,
       162,
@@ -20570,6 +20810,26 @@
     }
   },
   {
+    "type": "text",
+    "text": "'",
+    "bbox": [
+      566,
+      198,
+      572,
+      219
+    ],
+    "page_idx": 33,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "x = \\frac { 5 } { 4 } \\pi",
     "bbox": [
@@ -20631,7 +20891,7 @@
   },
   {
     "type": "text",
-    "text": "축에 수직인 평면으로 자른 단면이 모두 정사각형일 때, 이 입체도형의 부피는?[3점]",
+    "text": "축에 수직인 평면으로 자른 단면이 모두 정사각형일 때,이 입체도형의 부피는?[3점]",
     "bbox": [
       447,
       224,
@@ -21397,11 +21657,11 @@
   },
   {
     "type": "text",
-    "text": "큰값을",
+    "text": ", 큰값을",
     "bbox": [
       446,
-      239,
-      487,
+      219,
+      755,
       253
     ],
     "page_idx": 34,
@@ -22416,6 +22676,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      262,
+      273,
+      269,
+      289
+    ],
+    "page_idx": 36,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "\\mathrm { B } \\left( 9 , 2 , b \\right)",
     "bbox": [
@@ -23012,6 +23292,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      678,
+      178,
+      684,
+      194
+    ],
+    "page_idx": 37,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "\\mathrm { B ^ { ' } } { \\circ } \\rceil",
     "bbox": [
@@ -23237,7 +23537,7 @@
   },
   {
     "type": "text",
-    "text": "삼각형 A'B'P의 평면ABP 위로의정사영의 넓이가",
+    "text": "삼각형 A'B'P의평면ABP 위로의정사영의 넓이가",
     "bbox": [
       446,
       326,
@@ -23349,7 +23649,7 @@
   },
   {
     "type": "text",
-    "text": "위의 한 점 A에서 포물선의 준선에 내린 수선의 발을 B라 하고,직선 BF 와 포물선이 만나는 두 점을각각C,D라 하자.BO",
+    "text": "위의 한 점A에서 포물선의 준선에 내린 수선의 발을 B라 하고,직선 BF 와 포물선이 만나는 두 점을각각C,D라 하자.BO",
     "bbox": [
       98,
       158,
@@ -23629,7 +23929,7 @@
   },
   {
     "type": "text",
-    "text": "두 점 A,B가있다.선분AB를 지름으로 하는",
+    "text": "두 점 A,B가있다.선분 AB를 지름으로 하는",
     "bbox": [
       501,
       179,
@@ -24582,6 +24882,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      262,
+      203,
+      268,
+      218
+    ],
+    "page_idx": 39,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "inline_equation",
     "content": "\\mathrm { F } ^ { \\prime } ( - c , 0 )",
     "bbox": [
@@ -24723,7 +25043,7 @@
   },
   {
     "type": "text",
-    "text": "(가) 점P는 제1사분면 위에 있고, 점 Q는 직선 PF'위에 있다.",
+    "text": "(가) 점P는 제1사분면위에있고, 점 Q는 직선 PF'위에 있다.",
     "bbox": [
       108,
       299,

@@ -75,6 +75,20 @@
     }
   },
   {
+    "type": "image",
+    "bbox": [
+      97,
+      279,
+      308,
+      387
+    ],
+    "page_idx": 0,
+    "image_path": "9725edf4216fe8746df8beb894991914ad1097fdc358949818c31a04f9112ca2.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
     "type": "text",
     "text": "6. 빈간에 들어갈 말로 알맞은 것은?",
     "bbox": [
@@ -93,20 +107,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      279,
-      308,
-      387
-    ],
-    "page_idx": 0,
-    "image_path": "9725edf4216fe8746df8beb894991914ad1097fdc358949818c31a04f9112ca2.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -190,7 +190,7 @@
   },
   {
     "type": "text",
-    "text": "2. 밑줄 친 부분과 발음이 같은 것은?  [1점]\n",
+    "text": ". 밑줄 친 부분과 발음이 같은 것은?  [1점]\n",
     "bbox": [
       84,
       434,
@@ -201,30 +201,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9744,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 52,
+      "start_orig": 53,
       "end_orig": 81,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "7. 빈칸 (a),  (b)에 들어갈 말로 알맞은 것은?",
-    "bbox": [
-      434,
-      430,
-      661,
-      448
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 665,
-      "end_orig": 696,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -241,6 +221,26 @@
     "alt": "",
     "caption": null,
     "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": ". 빈칸 (a),  (b)에 들어갈 말로 알맞은 것은? ",
+    "bbox": [
+      434,
+      430,
+      661,
+      448
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9778,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 666,
+      "end_orig": 697,
+      "reason": "passed_threshold_no_ws"
+    }
   },
   {
     "type": "text",
@@ -304,7 +304,7 @@
   },
   {
     "type": "text",
-    "text": "3. □에 들어갈 글자의 성조 표기가 옳은 것은?",
+    "text": "3.에 들어갈 글자의 성조 표기가 옳은 것은?",
     "bbox": [
       83,
       611,
@@ -314,12 +314,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9744,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 119,
-      "end_orig": 146,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -432,12 +432,52 @@
   },
   {
     "type": "text",
-    "text": "① t ② bat ③ doi ④ ㄷhai ⑤ quyén ① dn ② gi ③ ④ ㄷhay ⑤ khoi",
+    "text": "① dn ② gi ③ ④ ㄷhay ⑤ khoi",
     "bbox": [
       97,
+      903,
+      384,
+      926
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.4545,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1705,
+      "end_orig": 1710,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① t ② bat ③ doi ④ ㄷhai ⑤ quyén",
+    "bbox": [
+      446,
       855,
       741,
-      926
+      875
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.3846,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1705,
+      "end_orig": 1710,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "5.빈칸에 공통으로 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      84,
+      970,
+      320,
+      987
     ],
     "page_idx": 0,
     "_xhtml_replace": {
@@ -452,12 +492,12 @@
   },
   {
     "type": "text",
-    "text": "5. 빈칸에 공통으로 들어갈 말로 알맞은 것은?",
+    "text": "9. 문장 표현이 옳은 것만을 고른 것은?",
     "bbox": [
-      84,
-      970,
-      320,
-      987
+      434,
+      932,
+      636,
+      951
     ],
     "page_idx": 0,
     "_xhtml_replace": {
@@ -465,8 +505,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 338,
-      "end_orig": 364,
+      "start_orig": 992,
+      "end_orig": 1015,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -512,22 +552,22 @@
   },
   {
     "type": "text",
-    "text": "9. 문장 표현이 옳은 것만을 고른 것은?",
+    "text": "① nm ② tt ③ hong ④ mang ⑤ ngn",
     "bbox": [
-      434,
-      932,
-      636,
-      951
+      96,
+      1047,
+      387,
+      1072
     ],
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.4,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 992,
-      "end_orig": 1015,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 1705,
+      "end_orig": 1710,
+      "reason": "low_similarity"
     }
   },
   {
@@ -552,7 +592,7 @@
   },
   {
     "type": "text",
-    "text": "b. Ca tuan nay to vui vi ngay nao cüng duoc me khen.",
+    "text": "b. Ca tuan nay tó vui vi ngay nao cüng duoc me khen.",
     "bbox": [
       453,
       983,
@@ -572,7 +612,7 @@
   },
   {
     "type": "text",
-    "text": "c. Tó hoc luat dé biét chúr khóng muón tro nén luat su.",
+    "text": "ㄷ. Tó hoc luat dé biét chúr khóng muón tro nén luat su.",
     "bbox": [
       453,
       1001,
@@ -612,22 +652,22 @@
   },
   {
     "type": "text",
-    "text": "① nm ② tt ③ hong ④ mang ⑤ ngn ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
-      96,
-      1047,
+      445,
+      1049,
       732,
-      1072
+      1070
     ],
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.4,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1705,
+      "end_orig": 1710,
+      "reason": "low_similarity"
     }
   },
   {
@@ -860,7 +900,7 @@
   },
   {
     "type": "text",
-    "text": "Lan la nhan vien cöng ti. Lan dang sóng thanh phó Da Nng. Lan rat thich nghe K-pop. He nm sau, Lan sé di du lich Han Quóc.",
+    "text": "Lan la nhan vien cöng ti. Lan dang sóng ó thanh phó Da Nng. Lan rat thich nghe K-pop. He nm sau, Lan sé di du lich Han Quóc.",
     "bbox": [
       453,
       187,
@@ -994,7 +1034,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄷ nay hét röi ② anh hoi ti gi di ③ anh dang doi mü ④ toi",
+    "text": "① ② ③ ④",
     "bbox": [
       446,
       450,
@@ -1004,12 +1044,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
+      "replaced": true,
       "similarity": 0.1778,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3015,
       "end_orig": 3022,
-      "reason": "low_similarity"
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -1034,7 +1074,7 @@
   },
   {
     "type": "text",
-    "text": "trién lam ⑤ dé toi khám cho anh",
+    "text": "trién lam ⑤ dé toi khm cho anh",
     "bbox": [
       446,
       470,
@@ -1045,16 +1085,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.08,
+      "similarity": 0.0833,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2547,
-      "end_orig": 2548,
+      "start_orig": 3022,
+      "end_orig": 3024,
       "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "16. 빈칸에 들어갈 말로 알맞은 것을",
+    "text": "16.빈칸에 들어갈 말로 알맞은 것을",
     "bbox": [
       435,
       545,
@@ -1064,12 +1104,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2574,
-      "end_orig": 2595,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1094,7 +1134,7 @@
   },
   {
     "type": "text",
-    "text": "서 찾아 순서대로 바르게 배열한 것은?",
+    "text": "서찾아 순서대로 바르게 배열한 것은?",
     "bbox": [
       446,
       545,
@@ -1104,12 +1144,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2601,
-      "end_orig": 2622,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1225,11 +1265,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.3429,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2709,
-      "end_orig": 2717,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1247,8 +1287,8 @@
       "replaced": false,
       "similarity": 0.0952,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2741,
-      "end_orig": 2744,
+      "start_orig": 3129,
+      "end_orig": 3132,
       "reason": "low_similarity"
     }
   },
@@ -1274,7 +1314,7 @@
   },
   {
     "type": "text",
-    "text": "a. Em mua 2 can b. 1 can cam bao nhiéu tin c. Anh giam gi cho em duoc khóng",
+    "text": "a. Em mua 2 can b. 1 can cam bao nhiéu tién ㄷ. Anh giam gi cho em duoc khóng",
     "bbox": [
       453,
       738,
@@ -1285,7 +1325,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.069,
+      "similarity": 0.0678,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3519,
       "end_orig": 3521,
@@ -1294,7 +1334,7 @@
   },
   {
     "type": "text",
-    "text": "①  a - b - c ② a - c - b ③ b - a - c\n④  b - c - a ⑤ c - b - a",
+    "text": "① ② ③ ④ ⑤",
     "bbox": [
       445,
       804,
@@ -1305,11 +1345,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9,
+      "similarity": 0.2857,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2851,
-      "end_orig": 2912,
-      "reason": "anchor_rescue"
+      "start_orig": 3128,
+      "end_orig": 3137,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -1334,7 +1374,7 @@
   },
   {
     "type": "text",
-    "text": "A: So thich cua chi la gi?",
+    "text": "A: Só thich cua chi la gi?",
     "bbox": [
       105,
       907,
@@ -1405,10 +1445,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1667,
+      "similarity": 0.1538,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2913,
-      "end_orig": 2914,
+      "start_orig": 3135,
+      "end_orig": 3139,
       "reason": "low_similarity"
     }
   },
@@ -1425,10 +1465,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1,
+      "similarity": 0.1053,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3015,
-      "end_orig": 3019,
+      "start_orig": 3346,
+      "end_orig": 3348,
       "reason": "low_similarity"
     }
   },
@@ -1445,10 +1485,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0909,
+      "similarity": 0.0952,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3016,
-      "end_orig": 3021,
+      "start_orig": 3355,
+      "end_orig": 3357,
       "reason": "low_similarity"
     }
   },
@@ -1465,10 +1505,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.087,
+      "similarity": 0.0909,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3018,
-      "end_orig": 3023,
+      "start_orig": 3364,
+      "end_orig": 3366,
       "reason": "low_similarity"
     }
   },
@@ -1485,16 +1525,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.087,
+      "similarity": 0.0909,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3020,
-      "end_orig": 3025,
+      "start_orig": 3373,
+      "end_orig": 3375,
       "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "17. 대화의 내용으로 보아 Mũi  Né의 오늘 날씨는?  [1점]\n",
+    "text": "17. 대화의 내용으로 보아 Mui Ne의 오늘 날씨는? [1점]",
     "bbox": [
       434,
       880,
@@ -1504,12 +1544,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9286,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2913,
-      "end_orig": 2952,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1538,12 +1578,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3025,
-      "end_orig": 3059,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1662,7 +1702,7 @@
   },
   {
     "type": "text",
-    "text": "A: Bay gio, ban di n pho voi minh nhé.",
+    "text": "A: Bay gi, ban di n pho vói minh nhe.",
     "bbox": [
       105,
       404,
@@ -1722,10 +1762,30 @@
   },
   {
     "type": "text",
-    "text": "a. da goi nham b. có viéc khác c. chon mau nay d. phai lam bai tap ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a. da goi nham b. có viéc khác ㄷ. chon mau nay d. phai lam bai tap",
+    "bbox": [
+      104,
+      491,
+      359,
+      527
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
       97,
-      491,
+      540,
       383,
       560
     ],
@@ -1733,11 +1793,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1333,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3128,
-      "end_orig": 3137,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1796,7 +1856,7 @@
   },
   {
     "type": "text",
-    "text": "21.빈간에 들어갈 말로알맞은것만을",
+    "text": "21. 빈칸에 들어갈 말로 알맞은 것만을",
     "bbox": [
       86,
       901,
@@ -1806,12 +1866,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3519,
+      "end_orig": 3541,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1856,7 +1916,7 @@
   },
   {
     "type": "text",
-    "text": "A: Tur day dn siéu thi ABC ?",
+    "text": "A: Tur day dén siéu thi ABC ?",
     "bbox": [
       105,
       931,
@@ -1916,7 +1976,7 @@
   },
   {
     "type": "text",
-    "text": "a. bao  xa b. có  xa  không\nc. đi  đường  nào d. có  ngã  năm  à\n①  a,  b ②  a,  d ③  b,  c ④  b,  d ⑤  c,  d",
+    "text": "a. bao  xa b. có  xa  không\nc. đi  đường  nào d. có  ngã  năm  à\n①  a,  b ②  a,  d ③  b,  c ④  b,  d ⑤",
     "bbox": [
       96,
       999,
@@ -1927,11 +1987,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.85,
+      "similarity": 0.8205,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3661,
-      "end_orig": 3770,
-      "reason": "anchor_rescue"
+      "end_orig": 3763,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -2010,7 +2070,7 @@
   },
   {
     "type": "text",
-    "text": "Gia dinh cüa Ha có ng, bó me, em trai va Ha. Ong cüa Ha vn con khoe. Bó cüa Ha la cóng an, con me cüa Ha la giáo vién. Em trai cüa Ha la sinh vién nm thú 4 cúa Trurong Dai hoc HN.",
+    "text": "Gia dinh cüa Ha có ng, bó me, em trai va Ha. Ong cüa Ha vn con khoe. Bó cüa Ha la cóng an, con me cüa Ha la giáo vién. Em trai cüa Ha la sinh vién nm thúr 4 cúa Trurong Dai hoc HN.",
     "bbox": [
       453,
       503,
@@ -2021,7 +2081,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0148,
+      "similarity": 0.0147,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4168,
       "end_orig": 4171,
@@ -2324,7 +2384,7 @@
   },
   {
     "type": "text",
-    "text": "B: Chi gúri nhanh hay güui thuong?",
+    "text": "B : Chi gúri nhanh hay güuri thuong?",
     "bbox": [
       538,
       955,
@@ -2335,10 +2395,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.5172,
+      "similarity": 0.5,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4563,
-      "end_orig": 4605,
+      "end_orig": 4606,
       "reason": "low_similarity"
     }
   },
@@ -2444,7 +2504,7 @@
   },
   {
     "type": "text",
-    "text": "* am lich: 음력 * hang nm: 매년 ① Tét Nguyen dan ② Ngay Sách Viet Nam ③ Nm Du lich Quóc gia ④ Nm Quóc té Gia dinh ⑤ Ngay Thé thao Viet Nam",
+    "text": "* am lich: 음력 * hàng nm: 매년 ① Tét Nguyen dan ② Ngay Sách Viet Nam ③ Nm Du lich Quóc gia ④ Nm Quóc té Gia dinh ⑤ Ngay Thé thao Viet Nam",
     "bbox": [
       96,
       248,
@@ -2524,7 +2584,7 @@
   },
   {
     "type": "text",
-    "text": "4 Cho Bén Thanh la möt cho lón nm ö trung tam Thanh phó H Chi Minh. Ö day bán nhiéu loai hang hoá nhu hoa qua, quan áo,. va cón bán dó luu niém danh cho du khách. Ngoai ra, cón có cho dém thurong duoc mö xung quanh cho Bén Thanh.",
+    "text": "4 Cho Bén Thanh la möt cho lón nm trung tam Thanh phó H Chi Minh. Ö day bán nhiéu loai hang hoá nhu hoa qua, quan áo,. va con bán do luu niém danh cho du khách. Ngoai ra, cón có cho dém thurong duoc mó xung quanh cho Bén Thanh.",
     "bbox": [
       105,
       432,
@@ -2535,7 +2595,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0112,
+      "similarity": 0.0113,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5639,
       "end_orig": 5641,
@@ -2664,7 +2724,7 @@
   },
   {
     "type": "text",
-    "text": "c. Du khách có thé mua dó luu niém ó day.",
+    "text": "ㄷ. Du khách có thé mua dó luu niém ó day.",
     "bbox": [
       105,
       632,
@@ -2675,11 +2735,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.7419,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5511,
-      "end_orig": 5561,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2784,7 +2844,7 @@
   },
   {
     "type": "text",
-    "text": "Day la duong Ba Trieu a? Ba Triéu có nghia la gi?",
+    "text": "Day la duong Ba Triéu a? Ba Triéu có nghia la gi?",
     "bbox": [
       143,
       780,
@@ -2804,7 +2864,7 @@
   },
   {
     "type": "text",
-    "text": "Tuán : Ba Triéu la nü anh hung dan töc cua Viet Nam.",
+    "text": "Tuán : Ba Triéu la nür anh hung dan toc cua Viet Nam.",
     "bbox": [
       105,
       798,
@@ -3272,7 +3332,7 @@
   },
   {
     "type": "text",
-    "text": "Nhüng chiéc tröng dong nay da duroc tim thay khp nuoc Viet Nam. Tröng dong Dong Son cho thay ki thuat luyén kim rat cao cua ván hoá Dong Son, cách ngay nay khoáng 2.500 nm.",
+    "text": "Nhüng chiéc tröng dong nay da duroc tim thay khp nuoc Viet Nam. Tröng dong Dong Son cho thay ki thuat luyén kim rat cao cua ván hoá Dong Son, cách ngay nay khoáng ㄹ.500 nm.",
     "bbox": [
       454,
       708,
@@ -3283,9 +3343,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0704,
+      "similarity": 0.0567,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7153,
+      "start_orig": 7155,
       "end_orig": 7160,
       "reason": "low_similarity"
     }
@@ -3412,7 +3472,7 @@
   },
   {
     "type": "text",
-    "text": "c. La thúr duoc su dung dé lam nón lá binh dan.",
+    "text": "ㄷ. La thúr duoc su dung dé lam nón lá binh dan.",
     "bbox": [
       453,
       887,

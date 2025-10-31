@@ -256,7 +256,7 @@
   },
   {
     "type": "text",
-    "text": "① ㉠과 같은 현상은 가치 함축적이다.",
+    "text": "① ㉠과 같은 현상은 가치 함축적이다.\n",
     "bbox": [
       97,
       400,
@@ -270,7 +270,7 @@
       "similarity": 0.9677,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 366,
-      "end_orig": 387,
+      "end_orig": 388,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -356,7 +356,7 @@
   },
   {
     "type": "text",
-    "text": "④ ②과 같은현상은개연성의 원리가 적용된다.",
+    "text": "과 같은 현상은 개연성의 원리가 적용된다.\n",
     "bbox": [
       97,
       450,
@@ -366,17 +366,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9474,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 448,
+      "end_orig": 472,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ ① 과 같은 현상은 확실성의 원리가 적용된다.",
+    "text": "과 같은 현상은 확실성의 원리가 적용된다.\n",
     "bbox": [
       97,
       465,
@@ -386,17 +386,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9474,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 475,
+      "end_orig": 499,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "2. 다음 글에서 개인과 사회의 관계를 바라보는 필자의 관점에 대한 옳은 설명만을 <보기>에서 고른 것은?",
+    "text": ". 다음 글에서 개인과 사회의 관계를 바라보는 필자의 관점에 대한 옳은 설명만을 <보기>에서 고른 것은?\n",
     "bbox": [
       86,
       505,
@@ -407,10 +407,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9888,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 499,
-      "end_orig": 558,
+      "start_orig": 500,
+      "end_orig": 559,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -596,7 +596,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 사회는 개인의 외부에 존재하는 독자적인 실체라고 본다.\n",
+    "text": "ㄷ. 사회는 개인의 외부에 존재하는 독자적인 실체라고 본다.",
     "bbox": [
       107,
       714,
@@ -607,11 +607,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9615,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 879,
-      "end_orig": 913,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 912,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1516,7 +1516,7 @@
   },
   {
     "type": "text",
-    "text": "②  유형 B에 응답한 사람들은 통제 집단,  유형 C에 응답한 사람들은 실험 집단이다.",
+    "text": "②  유형 B에 응답한 사람들은 통제 집단,  유형 C에 응답한 사람들은 실험 집단이다.\n",
     "bbox": [
       446,
       967,
@@ -1530,7 +1530,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2519,
-      "end_orig": 2568,
+      "end_orig": 2569,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1547,11 +1547,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.4,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2499,
+      "end_orig": 2501,
+      "reason": "low_similarity"
     }
   },
   {
@@ -1796,7 +1796,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음 자료에 대한 설명으로 옳은 것은?",
+    "text": ". 다음 자료에 대한 설명으로 옳은 것은? ",
     "bbox": [
       86,
       651,
@@ -1807,10 +1807,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9714,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2989,
-      "end_orig": 3013,
+      "start_orig": 2681,
+      "end_orig": 2705,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2076,7 +2076,7 @@
   },
   {
     "type": "text",
-    "text": "① [장면 1]에 적혀 있는 내용에는 성취 지위가,  [장면 3]에 적혀 있는 내용에는 비공식 조직이 있다.",
+    "text": "① [장면 1]에 적혀 있는 내용에는 성취 지위가,  [장면 3]에 적혀 있는 내용에는 비공식 조직이 있다.\n",
     "bbox": [
       97,
       902,
@@ -2090,7 +2090,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3014,
-      "end_orig": 3074,
+      "end_orig": 3075,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2112,7 +2112,7 @@
   },
   {
     "type": "text",
-    "text": "② [장면 2]에 적혀 있는 이익 사회의 개수는 [장면 4]에 적혀 있는 비공식적 사회화 기관의 개수보다 적다.",
+    "text": "② [장면 2]에 적혀 있는 이익 사회의 개수는 [장면 4]에 적혀 있는 비공식적 사회화 기관의 개수보다 적다.\n",
     "bbox": [
       97,
       934,
@@ -2126,13 +2126,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3075,
-      "end_orig": 3137,
+      "end_orig": 3138,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 갑은 을과 달리 역할 갈등이 해소되어 준거 집단과 소속 집단이 일치한다.",
+    "text": "③ 갑은 을과 달리 역할 갈등이 해소되어 준거 집단과 소속 집단이 일치한다.\n",
     "bbox": [
       97,
       969,
@@ -2146,7 +2146,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3138,
-      "end_orig": 3180,
+      "end_orig": 3181,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2172,7 +2172,7 @@
   },
   {
     "type": "text",
-    "text": "⑤ 대본에는 갑의 재사회화와 을,  병의 예기 사회화 내용이 적혀 있다.",
+    "text": "⑤ 대본에는 갑의 재사회화와 을,  병의 예기 사회화 내용이 적혀 있다.\n",
     "bbox": [
       97,
       1035,
@@ -2186,7 +2186,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3230,
-      "end_orig": 3270,
+      "end_orig": 3271,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2432,7 +2432,7 @@
   },
   {
     "type": "text",
-    "text": "① 반문화는 전체 사회에서 주류 문화가 된다.",
+    "text": "① 반문화는 전체 사회에서 주류 문화가 된다.\n",
     "bbox": [
       446,
       569,
@@ -2446,13 +2446,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3925,
-      "end_orig": 3950,
+      "end_orig": 3951,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 하위문화와 반문화는 모두 세대 간 갈등의 원인이 된다.",
+    "text": "② 하위문화와 반문화는 모두 세대 간 갈등의 원인이 된다.\n",
     "bbox": [
       446,
       585,
@@ -2466,13 +2466,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3951,
-      "end_orig": 3983,
+      "end_orig": 3984,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 주류 문화에 대항하는 구성원에 의해 반문화가 형성된다.",
+    "text": "③ 주류 문화에 대항하는 구성원에 의해 반문화가 형성된다.\n",
     "bbox": [
       446,
       602,
@@ -2486,13 +2486,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3984,
-      "end_orig": 4016,
+      "end_orig": 4017,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 주류 문화와 하위문화는 모두 사회의 안정과 통합에 기여한다.",
+    "text": "④ 주류 문화와 하위문화는 모두 사회의 안정과 통합에 기여한다.\n",
     "bbox": [
       446,
       618,
@@ -2506,13 +2506,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4017,
-      "end_orig": 4052,
+      "end_orig": 4053,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 반문화는 주류 문화로 변화하는 과정에서 정체성이 상실된다.",
+    "text": "⑤ 반문화는 주류 문화로 변화하는 과정에서 정체성이 상실된다.\n",
     "bbox": [
       446,
       635,
@@ -2526,7 +2526,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4053,
-      "end_orig": 4087,
+      "end_orig": 4088,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2639,7 +2639,7 @@
       901
     ],
     "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=2 colspan=2>구분</td><td rowspan=1 colspan=3>부모 세대</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=3 colspan=1>자녀세대</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>·</td><td rowspan=1 colspan=1>•</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>:</td><td rowspan=1 colspan=1>&#x27;</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>•</td><td rowspan=1 colspan=1>·</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=2 colspan=2>구분</td><td rowspan=1 colspan=3>부모 세대</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=3 colspan=1></td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>·</td><td rowspan=1 colspan=1>•</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>:</td><td rowspan=1 colspan=1>&#x27;</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>•</td><td rowspan=1 colspan=1>·</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "1ed86234af815f86050ccdb19dfd9cfa90ee6dd3d206f08a10fbb31abfe6cf29.jpg",
@@ -2654,7 +2654,7 @@
       901
     ],
     "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=2 colspan=2>구분</td><td rowspan=1 colspan=3>부모세대</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=3 colspan=1>자녀세대</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>&#x27;·</td><td rowspan=1 colspan=1>•</td><td rowspan=1 colspan=1>::</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>•</td><td rowspan=1 colspan=1>&#x27;&#x27;</td><td rowspan=1 colspan=1>·</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>••</td><td rowspan=1 colspan=1>•</td><td rowspan=1 colspan=1>•</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=2 colspan=2>구분</td><td rowspan=1 colspan=3>부모세대</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=3 colspan=1></td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>&#x27;·</td><td rowspan=1 colspan=1>•</td><td rowspan=1 colspan=1>::</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>•</td><td rowspan=1 colspan=1>&#x27;&#x27;</td><td rowspan=1 colspan=1>·</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>••</td><td rowspan=1 colspan=1>•</td><td rowspan=1 colspan=1>•</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "f8cc424a79585fcc23d13d4d4d69578966d4353ffa3724f129b6bcd51956a4fe.jpg",
@@ -2682,7 +2682,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑국은 자녀 세대에서 완전 평등한 계층 구조를 이루었다.",
+    "text": "① 갑국은 자녀 세대에서 완전 평등한 계층 구조를 이루었다.\n",
     "bbox": [
       446,
       936,
@@ -2696,13 +2696,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4216,
-      "end_orig": 4249,
+      "end_orig": 4250,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 을국의 자녀 세대에서 중층인 사람의 수는 갑국의 부모 세대에서 상층인 사람의 수보다 많다.",
+    "text": "② 을국의 자녀 세대에서 중층인 사람의 수는 갑국의 부모 세대에서 상층인 사람의 수보다 많다.\n",
     "bbox": [
       446,
       952,
@@ -2716,13 +2716,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4250,
-      "end_orig": 4302,
+      "end_orig": 4303,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 갑국은 을국과 달리 부모 세대 중층에서 세대 간 하강 이동이 발생하지 않았다.",
+    "text": "③ 갑국은 을국과 달리 부모 세대 중층에서 세대 간 하강 이동이 발생하지 않았다.\n",
     "bbox": [
       446,
       986,
@@ -2736,13 +2736,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4303,
-      "end_orig": 4348,
+      "end_orig": 4349,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 갑국은 개방적 계층 구조,  을국은 폐쇄적 계층 구조이다.",
+    "text": "④ 갑국은 개방적 계층 구조,  을국은 폐쇄적 계층 구조이다.\n",
     "bbox": [
       446,
       1019,
@@ -2756,13 +2756,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4349,
-      "end_orig": 4383,
+      "end_orig": 4384,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 갑국의 부모 세대 계층 구조는 피라미드형,  을국의 자녀 세대 계층 구조는 모래시계형이다.",
+    "text": "⑤ 갑국의 부모 세대 계층 구조는 피라미드형,  을국의 자녀 세대 계층 구조는 모래시계형이다.\n",
     "bbox": [
       446,
       1035,
@@ -2776,7 +2776,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4384,
-      "end_orig": 4436,
+      "end_orig": 4437,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2942,7 +2942,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑의 관점은 을의 관점과 달리 정상 집단과의 교류를 일탈 행동의 해결 방안으로 제시한다.",
+    "text": "① 갑의 관점은 을의 관점과 달리 정상 집단과의 교류를 일탈 행동의 해결 방안으로 제시한다.\n",
     "bbox": [
       97,
       375,
@@ -2956,13 +2956,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4869,
-      "end_orig": 4920,
+      "end_orig": 4921,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 을의 관점은 병의 관점과 달리 차별적인 사회적 제재를 일탈 행동의 원인으로 본다.",
+    "text": "② 을의 관점은 병의 관점과 달리 차별적인 사회적 제재를 일탈 행동의 원인으로 본다.\n",
     "bbox": [
       97,
       408,
@@ -2976,13 +2976,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4921,
-      "end_orig": 4968,
+      "end_orig": 4969,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 병의 관점은 갑의 관점과 달리 문화적 목표와 제도화된 수단의 괴리를 일탈 행동의 원인으로 본다.",
+    "text": "③ 병의 관점은 갑의 관점과 달리 문화적 목표와 제도화된 수단의 괴리를 일탈 행동의 원인으로 본다.\n",
     "bbox": [
       97,
       443,
@@ -2996,13 +2996,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4969,
-      "end_orig": 5024,
+      "end_orig": 5025,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 갑,  을의 관점은 병의 관점과 달리 사회 구조적 관점에서 일탈 행동을 설명한다.",
+    "text": "④ 갑,  을의 관점은 병의 관점과 달리 사회 구조적 관점에서 일탈 행동을 설명한다.\n",
     "bbox": [
       97,
       476,
@@ -3016,13 +3016,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5025,
-      "end_orig": 5072,
+      "end_orig": 5073,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 을,  병의 관점은 갑의 관점과 달리 개인이 타인과의 상호 작용을 통해 일탈자가 되어가는 과정에 주목한다.",
+    "text": "⑤ 을,  병의 관점은 갑의 관점과 달리 개인이 타인과의 상호 작용을 통해 일탈자가 되어가는 과정에 주목한다.\n",
     "bbox": [
       97,
       507,
@@ -3036,7 +3036,7 @@
       "similarity": 0.9888,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5073,
-      "end_orig": 5134,
+      "end_orig": 5135,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3469,7 +3469,7 @@
       361
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=3>OO국의 음식 문화 변동 양상에 대한 모둠 과제 우수 사례3</td></tr><tr><td></td><td rowspan=1 colspan=1>3          &lt;1모둠&gt;          $</td><td rowspan=1 colspan=1>$        &lt;2모둠&gt;       </td></tr><tr><td></td><td rowspan=1 colspan=1>OO국 내에 갑국 이주민 거주 지역에서나볼 수 있던 갑국의 전통 음식 A가 전국적으로유행함.특히 OO국 젊은세대 사이에서자극적인 맛으로 A가 인기임.</td><td rowspan=1 colspan=1>OO국 음료 회사는 다이어트 열풍으로을국의 무설탕 음료 B의 제조법에 자극받아 새로운 무열량 음료를 개발함.젊은층의 선호로OO국에서 전통음료와B의판매량을 추월함</td></tr><tr><td></td><td rowspan=1 colspan=1>$         &lt;3모둠&gt;          S</td><td rowspan=1 colspan=1>S$         &lt;4모둠&gt;</td></tr><tr><td></td><td rowspan=1 colspan=1>OO국 제과 회사가 만든 과자C는 병국의과자에OO국의 식재료인 황태가루를넣은새로운 과자임.병국의 유명 연예인이 C가병국 과자를 대체할 수 있을 만큼 맛있다고하자 OO국보다 병국에서 많이 판매됨.</td><td rowspan=1 colspan=1>막대기에 과일 사탕을 꽃은 정국의 디저트D가 SNS를통해 OO국에 알려짐.이후OO국 젊은이들이 인터넷에서 배운 조리법대로D를만들어먹기 시작하며D가젊은세대 문화로 스며듦.</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=3>OO국의 음식 문화 변동 양상에 대한 모둠 과제 우수 사례3</td></tr><tr><td></td><td rowspan=1 colspan=1>3          &lt;1모둠&gt;          $</td><td rowspan=1 colspan=1>$        &lt;2모둠&gt;       </td></tr><tr><td></td><td rowspan=1 colspan=1>OO국 내에 갑국 이주민 거주 지역에서나볼 수 있던 갑국의 전통 음식 A가 전국적으로유행함.특히 OO국 젊은세대 사이에서자극적인 맛으로 A가 인기임.</td><td rowspan=1 colspan=1>OO국 음료 회사는 다이어트 열풍으로을국의 무설탕 음료 B의 제조법에 자극받아 새로운 무열량 음료를 개발함.젊은층의 선호로OO국에서 전통음료와B의판매량을 추월함.</td></tr><tr><td></td><td rowspan=1 colspan=1>$         &lt;3모둠&gt;          S</td><td rowspan=1 colspan=1>S$         &lt;4모둠&gt;</td></tr><tr><td></td><td rowspan=1 colspan=1>OO국 제과 회사가 만든 과자C는 병국의과자에OO국의 식재료인 황태가루를넣은새로운 과자임.병국의 유명 연예인이 C가병국 과자를 대체할 수 있을 만큼 맛있다고하자 OO국보다 병국에서 많이 판매됨.</td><td rowspan=1 colspan=1>막대기에 과일 사탕을 꽃은 정국의 디저트D가 SNS를통해 OO국에 알려짐.이후OO국 젊은이들이 인터넷에서 배운 조리법대로D를만들어먹기시작하며D가젊은세대 문화로 스며들.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "b88578b9dd1b318af54bb000373e8ed6b6afda52aa463ffbeabfd88675964113.jpg",
@@ -4033,7 +4033,7 @@
   },
   {
     "type": "text",
-    "text": "A국 사람들은 동료들과 함께 식사해도 자신이먹은 음식 값은 각자 지불해.",
+    "text": "A국 사람들은 동료들과 함께식사해도자신이먹은 음식 값은 각자 지불해.",
     "bbox": [
       102,
       188,
@@ -4127,7 +4127,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑의 태도는 선진 문물 수용에 적극적이지 않다는 비판을 받는다.",
+    "text": "① 갑의 태도는 선진 문물 수용에 적극적이지 않다는 비판을 받는다.\n",
     "bbox": [
       97,
       320,
@@ -4141,13 +4141,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7005,
-      "end_orig": 7042,
+      "end_orig": 7043,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 을의 태도는 자국의 문화 정체성을 약화한다는 비판을 받는다.",
+    "text": "② 을의 태도는 자국의 문화 정체성을 약화한다는 비판을 받는다.\n",
     "bbox": [
       97,
       335,
@@ -4161,13 +4161,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7043,
-      "end_orig": 7078,
+      "end_orig": 7079,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 병의 태도는 문화 제국주의로 나아갈 수 있다는 비판을 받는다.",
+    "text": "③ 병의 태도는 문화 제국주의로 나아갈 수 있다는 비판을 받는다.\n",
     "bbox": [
       97,
       353,
@@ -4181,13 +4181,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7079,
-      "end_orig": 7115,
+      "end_orig": 7116,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 갑,  을의 태도는 모두 문화의 다양성을 저해할 수 있다는 비판을 받는다.",
+    "text": "④ 갑,  을의 태도는 모두 문화의 다양성을 저해할 수 있다는 비판을 받는다.\n",
     "bbox": [
       97,
       370,
@@ -4201,13 +4201,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7116,
-      "end_orig": 7159,
+      "end_orig": 7160,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 을,  병의태도는 모두 특정 문화를 기준으로 문화 간 우열을 가린다는 비판을 받는다.",
+    "text": "⑤ 을,  병의태도는 모두 특정 문화를 기준으로 문화 간 우열을 가린다는 비판을 받는다.\n",
     "bbox": [
       97,
       403,
@@ -4221,7 +4221,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7160,
-      "end_orig": 7209,
+      "end_orig": 7210,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4347,7 +4347,7 @@
   },
   {
     "type": "text",
-    "text": "② 우리나라에서 가구 소득이 중위 소득에 미치지 못하는 가구는 모두 B 가구이다.",
+    "text": "② 우리나라에서 가구 소득이 중위 소득에 미치지 못하는 가구는 모두 B 가구이다.\n",
     "bbox": [
       97,
       628,
@@ -4361,7 +4361,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7524,
-      "end_orig": 7569,
+      "end_orig": 7570,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4407,7 +4407,7 @@
   },
   {
     "type": "text",
-    "text": "⑤ 상대적 빈곤선이 절대적 빈곤선보다 높으면 A에 해당하는 모든 가구는 B에 해당한다.",
+    "text": "⑤ 상대적 빈곤선이 절대적 빈곤선보다 높으면 A에 해당하는 모든 가구는 B에 해당한다.\n",
     "bbox": [
       97,
       712,
@@ -4421,7 +4421,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7643,
-      "end_orig": 7691,
+      "end_orig": 7692,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4438,7 +4438,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9091,
+      "similarity": 0.9286,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7692,
       "end_orig": 7733,
@@ -4774,7 +4774,7 @@
       345
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>대답</td><td rowspan=1 colspan=1>대답에맞는 질문</td><td rowspan=1 colspan=1>채점결과</td></tr><tr><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>A는B에 비해        (가)        이/가 높은가?</td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>B는A에비해정보 제공자와수용자간구분이/가명확한가?</td><td rowspan=1 colspan=1>1점</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>대답</td><td rowspan=1 colspan=1>대답에 맞는 질문</td><td rowspan=1 colspan=1>채점결과</td></tr><tr><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>A는B에 비해        (가)        이/가 높은가?</td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>B는A에비해정보 제공자와수용자간구분이/가명확한가?</td><td rowspan=1 colspan=1>1점</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "fd23846d7291818e8414f69db2b1e6f7044cddd435e3629fbc390d2705c36003.jpg",

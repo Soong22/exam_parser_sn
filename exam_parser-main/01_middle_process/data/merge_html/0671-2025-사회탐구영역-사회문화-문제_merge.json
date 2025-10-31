@@ -316,7 +316,7 @@
   },
   {
     "type": "text",
-    "text": "① ㉠과 같은 현상은 확률의 원리가 적용된다.",
+    "text": "① ㉠과 같은 현상은 확률의 원리가 적용된다.\n",
     "bbox": [
       97,
       457,
@@ -330,13 +330,13 @@
       "similarity": 0.973,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 139,
-      "end_orig": 164,
+      "end_orig": 165,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② ① 과 같은 현상은인과 관계가 불분명하다.",
+    "text": "과 같은 현상은 인과 관계가 불분명하다.\n",
     "bbox": [
       97,
       473,
@@ -346,12 +346,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9444,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 168,
+      "end_orig": 191,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -456,7 +456,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음 글에서 사회․문화 현상을 바라보는 필자의 관점에 대한 옳은 설명만을",
+    "text": ". 다음 글에서 사회․문화 현상을 바라보는 필자의 관점에 대한 옳은 설명만을",
     "bbox": [
       85,
       568,
@@ -467,9 +467,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9697,
+      "similarity": 0.9538,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 286,
+      "start_orig": 287,
       "end_orig": 329,
       "reason": "passed_threshold_no_ws"
     }
@@ -636,7 +636,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 사회의 각 부분이 상호 의존적 관계를 맺는다고 본다.\n",
+    "text": "ㄷ. 사회의 각 부분이 상호 의존적 관계를 맺는다고 본다.",
     "bbox": [
       108,
       751,
@@ -647,11 +647,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9583,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 591,
-      "end_orig": 624,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 623,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1375,11 +1375,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9778,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1264,
       "end_orig": 1324,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1644,7 +1644,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑의 연구에서 모집단은 □□ 지역 고등학생이다.",
+    "text": "① 갑의 연구에서 모집단은 □□ 지역 고등학생이다.\n",
     "bbox": [
       446,
       986,
@@ -1658,7 +1658,7 @@
       "similarity": 0.9524,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1927,
-      "end_orig": 1955,
+      "end_orig": 1956,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1704,7 +1704,7 @@
   },
   {
     "type": "text",
-    "text": "④ ②은을의연구에서실험 처치에 해당한다.",
+    "text": "은 을의 연구에서 실험 처치에 해당한다. ",
     "bbox": [
       446,
       1035,
@@ -1714,12 +1714,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9444,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2027,
+      "end_orig": 2050,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1735,11 +1735,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.5,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2057,
+      "end_orig": 2058,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2144,7 +2144,7 @@
   },
   {
     "type": "text",
-    "text": "⑤ ㉤은 하위문화가 주류 문화로 변한 사례이다.",
+    "text": "⑤ ㉤은 하위문화가 주류 문화로 변한 사례이다.\n",
     "bbox": [
       97,
       404,
@@ -2158,13 +2158,13 @@
       "similarity": 0.9744,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2637,
-      "end_orig": 2663,
+      "end_orig": 2664,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "7. 다음 글에서 필자가 강조하는 현대 사회의 대중이 가져야 할 자세로 가장 적절한 것은?",
+    "text": ". 다음 글에서 필자가 강조하는 현대 사회의 대중이 가져야 할 자세로 가장 적절한 것은?\n",
     "bbox": [
       85,
       453,
@@ -2175,10 +2175,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9863,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2664,
-      "end_orig": 2714,
+      "start_orig": 2665,
+      "end_orig": 2715,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2344,7 +2344,7 @@
   },
   {
     "type": "text",
-    "text": "① 정보 기기에 대한 과도한 의존을 경계한다.",
+    "text": "① 정보 기기에 대한 과도한 의존을 경계한다.\n",
     "bbox": [
       97,
       664,
@@ -2358,13 +2358,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3125,
-      "end_orig": 3150,
+      "end_orig": 3151,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 정보를 비판적으로 분석하고 평가하는 능력을 함양한다.",
+    "text": "② 정보를 비판적으로 분석하고 평가하는 능력을 함양한다.\n",
     "bbox": [
       97,
       680,
@@ -2378,13 +2378,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3151,
-      "end_orig": 3182,
+      "end_orig": 3183,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 문화의 질적 저하 방지를 위해 지나친 상업성을 경계한다.",
+    "text": "③ 문화의 질적 저하 방지를 위해 지나친 상업성을 경계한다.\n",
     "bbox": [
       97,
       697,
@@ -2398,13 +2398,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3183,
-      "end_orig": 3216,
+      "end_orig": 3217,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 문화의 다양성 제고를 위해 콘텐츠 생산에 적극적으로 참여한다.",
+    "text": "④ 문화의 다양성 제고를 위해 콘텐츠 생산에 적극적으로 참여한다.\n",
     "bbox": [
       97,
       713,
@@ -2418,13 +2418,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3217,
-      "end_orig": 3253,
+      "end_orig": 3254,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 표현의 자유를 이유로 타인의 권리를 침해하지 않도록 유의한다.",
+    "text": "⑤ 표현의 자유를 이유로 타인의 권리를 침해하지 않도록 유의한다.\n",
     "bbox": [
       97,
       731,
@@ -2438,7 +2438,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3254,
-      "end_orig": 3290,
+      "end_orig": 3291,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2544,7 +2544,7 @@
   },
   {
     "type": "text",
-    "text": "다국적 기업에 대한 ⑦ 불매 운동을 전개하였다.",
+    "text": " ○○ 다국적 기업에 대한 ㉠불매 운동을 전개하였다.",
     "bbox": [
       107,
       813,
@@ -2554,12 +2554,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9048,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3353,
+      "end_orig": 3382,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2884,7 +2884,7 @@
   },
   {
     "type": "text",
-    "text": "⑤ ㉤은 세계 시민 의식을 바탕으로 하는 조직적인 사회 운동이다.",
+    "text": "⑤ ㉤은 세계 시민 의식을 바탕으로 하는 조직적인 사회 운동이다.\n",
     "bbox": [
       97,
       1053,
@@ -2898,7 +2898,7 @@
       "similarity": 0.9811,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3939,
-      "end_orig": 3975,
+      "end_orig": 3976,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3264,7 +3264,7 @@
   },
   {
     "type": "text",
-    "text": "① 문화가 한 사회 구성원의 공통된 생활 양식이라는 것을 의미하는 속성은 B가 아니라 A이다.",
+    "text": "① 문화가 한 사회 구성원의 공통된 생활 양식이라는 것을 의미하는 속성은 B가 아니라 A이다.\n",
     "bbox": [
       446,
       458,
@@ -3278,13 +3278,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4673,
-      "end_orig": 4725,
+      "end_orig": 4726,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 문화가 세대 간 전승되며 더욱 발전되고 풍부해지는 것을 의미하는 속성은 C가 아니라 D이다.",
+    "text": "② 문화가 세대 간 전승되며 더욱 발전되고 풍부해지는 것을 의미하는 속성은 C가 아니라 D이다.\n",
     "bbox": [
       446,
       492,
@@ -3298,7 +3298,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4726,
-      "end_orig": 4779,
+      "end_orig": 4780,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3881,7 +3881,7 @@
   },
   {
     "type": "text",
-    "text": "③ 을은 세대 간 상승 이동과 세대 내 하강 이동을 하였다.",
+    "text": "③ 을은 세대 간 상승 이동과 세대 내 하강 이동을 하였다.\n",
     "bbox": [
       446,
       1002,
@@ -3895,7 +3895,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5476,
-      "end_orig": 5509,
+      "end_orig": 5510,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4161,7 +4161,7 @@
   },
   {
     "type": "text",
-    "text": "① ㉠은 문화의 특수성을 나타낸다.",
+    "text": "① ㉠은 문화의 특수성을 나타낸다.\n",
     "bbox": [
       97,
       315,
@@ -4175,7 +4175,7 @@
       "similarity": 0.9655,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5883,
-      "end_orig": 5902,
+      "end_orig": 5903,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4192,11 +4192,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.8333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5906,
+      "end_orig": 5927,
+      "reason": "low_similarity"
     }
   },
   {
@@ -4241,7 +4241,7 @@
   },
   {
     "type": "text",
-    "text": "은비물질문화에, ① 은물질문화에해당한다.",
+    "text": "은 비물질문화에,  ㉤은 물질문화에 해당한다.\n",
     "bbox": [
       126,
       347,
@@ -4251,12 +4251,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.95,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5931,
+      "end_orig": 5957,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4481,7 +4481,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 사회는 개인 외부에 존재하는 독립적인 실체라고 본다.\n",
+    "text": "ㄷ. 사회는 개인 외부에 존재하는 독립적인 실체라고 본다.",
     "bbox": [
       108,
       604,
@@ -4492,11 +4492,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.96,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6332,
-      "end_orig": 6365,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 6364,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4632,7 +4632,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9592,
+      "similarity": 0.9694,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6625,
       "end_orig": 6754,
@@ -4661,7 +4661,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑과 달리 을은 표준화된 도구로 대량의 자료를 획득하기 용이한 자료 수집 방법을 사용하였다.",
+    "text": "① 갑과 달리 을은 표준화된 도구로 대량의 자료를 획득하기 용이한 자료 수집 방법을 사용하였다.\n",
     "bbox": [
       97,
       903,
@@ -4675,13 +4675,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6874,
-      "end_orig": 6927,
+      "end_orig": 6928,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 병과 달리 갑은 인위적으로 통제된 상황에서 변수의 효과를 관찰하는 자료 수집 방법을 사용하였다.",
+    "text": "② 병과 달리 갑은 인위적으로 통제된 상황에서 변수의 효과를 관찰하는 자료 수집 방법을 사용하였다.\n",
     "bbox": [
       97,
       937,
@@ -4695,13 +4695,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6928,
-      "end_orig": 6983,
+      "end_orig": 6984,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 갑과 을 모두 현지에서 연구 대상자와 함께 생활하며 관심을 갖는 연구 현상을 관찰하는 자료 수집 방법을 사용하였다.",
+    "text": "③ 갑과 을 모두 현지에서 연구 대상자와 함께 생활하며 관심을 갖는 연구 현상을 관찰하는 자료 수집 방법을 사용하였다.\n",
     "bbox": [
       97,
       970,
@@ -4715,13 +4715,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6984,
-      "end_orig": 7050,
+      "end_orig": 7051,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 갑과 병 모두 기존의 연구 결과물을 자신의 연구에 활용하는 자료 수집 방법을 사용하였다.",
+    "text": "④ 갑과 병 모두 기존의 연구 결과물을 자신의 연구에 활용하는 자료 수집 방법을 사용하였다.\n",
     "bbox": [
       97,
       1003,
@@ -4735,13 +4735,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7051,
-      "end_orig": 7102,
+      "end_orig": 7103,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 을과 병 모두 연구 대상자와의 정서적 교감 형성을 중시하는 자료 수집 방법을 사용하였다.",
+    "text": "⑤ 을과 병 모두 연구 대상자와의 정서적 교감 형성을 중시하는 자료 수집 방법을 사용하였다.\n",
     "bbox": [
       97,
       1037,
@@ -4755,7 +4755,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7103,
-      "end_orig": 7154,
+      "end_orig": 7155,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4801,7 +4801,7 @@
   },
   {
     "type": "text",
-    "text": "※질문에 따라 A, B, C,D를 ‘예'’, '아니요'로 분류하여 해당하는 칸에 적으시오.",
+    "text": "※질문에 따라 A,B, C,D를 ‘예'’, '아니요'로 분류하여 해당하는 칸에 적으시오.",
     "bbox": [
       455,
       241,
@@ -5197,7 +5197,7 @@
   },
   {
     "type": "text",
-    "text": "⑤  금전적 지원을 원칙으로 하는 제도의 수급자 수는 (다) 지역이 가장 많다.",
+    "text": "⑤  금전적 지원을 원칙으로 하는 제도의 수급자 수는 (다) 지역이 가장 많다.\n",
     "bbox": [
       446,
       1036,
@@ -5211,7 +5211,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8521,
-      "end_orig": 8565,
+      "end_orig": 8566,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -5304,7 +5304,7 @@
       321
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td>진위 판단</td><td colspan=\"2\">진위 판단에 부합하는 진술</td><td>채점 결과</td></tr><tr><td rowspan=\"2\">참</td><td>A와 달리 B는</td><td>희소자원의차등분배가 개인의</td><td rowspan=\"2\">0점</td></tr><tr><td>성취동기에</td><td>긍정적으로작용한다고 본다</td></tr><tr><td>거짓</td><td>B와달리 A는</td><td>(가)</td><td>7</td></tr></table>",
+    "table_body": "<table><tr><td>진위 판단</td><td colspan=\"2\">진위 판단에 부합하는 진술</td><td>채점 결과</td></tr><tr><td rowspan=\"2\">참</td><td>A와 달리 B는</td><td>희소자원의차등분배가개인의</td><td rowspan=\"2\">0점</td></tr><tr><td>성취동기에</td><td>긍정적으로작용한다고 본다</td></tr><tr><td>거짓</td><td>B와달리 A는</td><td>(가)</td><td>7</td></tr></table>",
     "table_caption": [
       "<확인 평가>"
     ],
@@ -5425,16 +5425,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.8911,
+      "similarity": 0.9109,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8927,
       "end_orig": 8992,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "2.",
+    "text": "ㄹ.",
     "bbox": [
       107,
       447,
@@ -5444,12 +5444,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 9949,
-      "end_orig": 9951,
-      "reason": "low_similarity"
+      "start_orig": 9910,
+      "end_orig": 9912,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5714,7 +5714,7 @@
   },
   {
     "type": "text",
-    "text": "① ⑦ 은 갑의 예기 사회화이다.",
+    "text": "은 갑의 예기 사회화이다.\n",
     "bbox": [
       97,
       721,
@@ -5724,12 +5724,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9167,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 9497,
+      "end_orig": 9512,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5794,7 +5794,7 @@
   },
   {
     "type": "text",
-    "text": "③ 갑은 생득적 요인과 후천적 요인에 따른 차별을 모두 경험하였다.",
+    "text": "③ 갑은 생득적 요인과 후천적 요인에 따른 차별을 모두 경험하였다.\n",
     "bbox": [
       97,
       753,
@@ -5808,7 +5808,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 9529,
-      "end_orig": 9566,
+      "end_orig": 9567,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -5961,7 +5961,7 @@
       384
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td colspan=\"3\"></td></tr><tr><td colspan=\"3\">Q A국 디저트 열풍에 대한 조사 Q • • • •</td></tr><tr><td>• A국에서 유행하는 B국의 고급 초콜릿 디저트 B국의 상류 사회에서즐겨 먹던 고급 초콜릿을 B국에 여행을 다녀온 A국 사람 들이 기념 선물로 들여 오면서 A국에서 다수가 좋아하는 디저트가 됨. 작성자:갑</td><td>o A국의 전통 음식을 재해석한복고풍 디저트 A국연예인이 자국의 인기 있는 TV프로그램에서 사라진 전통 음식을 찾아 젊은 세대의 입맛에 맞는 독특한 디저트를 만들어 소개함.이후이 디저트는 A국의 여러 세대에서 즐겨 먹는 다양한 디저트 중 하나가 됨 작성자:을</td><td>A국 사람들이 정보를 공유하며 즐겨먹는 C국디저트 C국 유명 요리사가 자국의 전통 디저트를 판매하는 카페를A국에 차리면서 SNS를 통해 카페 정보가 A국 사람들에게 공유됨. A국 사람들이 이 디저트를 즐겨 새로운 음식 문화로 정착됨 작성자:병</td></tr></table>",
+    "table_body": "<table><tr><td colspan=\"3\"></td></tr><tr><td colspan=\"3\">Q A국 디저트 열풍에 대한 조사 Q • • • •</td></tr><tr><td>• A국에서 유행하는 B국의 고급 초콜릿 디저트 B국의 상류 사회에서즐겨 먹던 고급 초콜릿을 B국에 여행을 다녀온 A국 사람 들이 기념 선물로 들여 오면서 A국에서 다수가 좋아하는 디저트가 됨. 작성자:갑</td><td>o A국의 전통 음식을 재해석한복고풍 디저트 A국연예인이 자국의 인기 있는 TV 프로그램에서 사라진 전통 음식을 찾아 젊은 세대의 입맛에 맞는 독특한 디저트를 만들어 소개함. 이후이 디저트는 A국의 여러 세대에서즐겨 먹는 다양한 디저트 중 하나가 됨 작성자:을</td><td>A국 사람들이 정보를 공유하며 즐겨먹는 C국디저트 C국 유명 요리사가 자국의 전통 디저트를 판매하는 카페를A국에 차리면서 SNS를 통해 카페 정보가 A국 사람들에게 공유됨. A국 사람들이 이 디저트를 즐겨 새로운 음식 문화로 정착됨 작성자:병</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "cc4e8487baff4f377aa3c322cbbe62e31351e4c21f97172ab34b344da402ea3e.jpg",
@@ -6009,7 +6009,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 지속적으로 발전하는 사회를 설명하기 용이하다.\n",
+    "text": "ㄷ. 지속적으로 발전하는 사회를 설명하기 용이하다.",
     "bbox": [
       108,
       1005,
@@ -6020,11 +6020,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9565,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 9881,
-      "end_orig": 9910,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 9909,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6069,7 +6069,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑이 작성한 내용에는 문화 동화가 나타난다.",
+    "text": "① 갑이 작성한 내용에는 문화 동화가 나타난다.\n",
     "bbox": [
       446,
       399,
@@ -6083,13 +6083,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 10009,
-      "end_orig": 10035,
+      "end_orig": 10036,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 을이 작성한 내용에는 자발적 문화 접변이 나타난다.",
+    "text": "② 을이 작성한 내용에는 자발적 문화 접변이 나타난다.\n",
     "bbox": [
       446,
       415,
@@ -6103,13 +6103,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 10036,
-      "end_orig": 10066,
+      "end_orig": 10067,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 병이 작성한 내용에는 직접 전파가 나타난다.",
+    "text": "③ 병이 작성한 내용에는 직접 전파가 나타난다.\n",
     "bbox": [
       446,
       432,
@@ -6123,13 +6123,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 10067,
-      "end_orig": 10093,
+      "end_orig": 10094,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 갑과 달리 을,  병이 작성한 내용에는 문화 공존이 나타난다.",
+    "text": "④ 갑과 달리 을,  병이 작성한 내용에는 문화 공존이 나타난다.\n",
     "bbox": [
       446,
       449,
@@ -6143,13 +6143,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 10094,
-      "end_orig": 10130,
+      "end_orig": 10131,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 갑,  을과 달리 병이 작성한 내용에는 문화 융합이 나타난다.",
+    "text": "⑤ 갑,  을과 달리 병이 작성한 내용에는 문화 융합이 나타난다.\n",
     "bbox": [
       446,
       466,
@@ -6163,7 +6163,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 10131,
-      "end_orig": 10167,
+      "end_orig": 10168,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -6399,7 +6399,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 10517,
       "end_orig": 10551,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {

@@ -136,7 +136,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음 기사에 나타난 드론의 활동과 유사한 어로 과정의 단계에 해당하는 사례로 적절한 것만을 <보기>에서 고른 것은?  [3점]\n",
+    "text": ". 다음 기사에 나타난 드론의 활동과 유사한 어로 과정의 단계에 해당하는 사례로 적절한 것만을 <보기>에서 고른 것은?  [3점]\n",
     "bbox": [
       86,
       521,
@@ -147,9 +147,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9908,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 188,
+      "start_orig": 189,
       "end_orig": 262,
       "reason": "passed_threshold_no_ws"
     }
@@ -415,20 +415,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      307,
-      896,
-      402,
-      998
-    ],
-    "page_idx": 0,
-    "image_path": "25185f2cc0e46b3d6ee9c0a6463cfe201d311076d91542b58c76c536d704e1fa.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "4. 다음 상황에서 A 씨가 컨테이너에 부착한 위험물 표찰로 옳은 것만을 <보기>에서 고른 것은?",
     "bbox": [
@@ -447,6 +433,20 @@
       "end_orig": 920,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      307,
+      896,
+      402,
+      998
+    ],
+    "page_idx": 0,
+    "image_path": "25185f2cc0e46b3d6ee9c0a6463cfe201d311076d91542b58c76c536d704e1fa.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   },
   {
     "type": "text",
@@ -501,22 +501,42 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ, ㄴ ②ㄱ, ㄷ ③ㄴ, ㄷ ④ㄴ, ㄹ ⑤ ① 등흘수 ② 만재흘수 ③ 선수홀수 ④ 선미흘수 ⑤ 중앙부흘수",
+    "text": "① 등흘수 ② 만재 흘수 ③ 선수 흘수\n④ 선미 흘수 ⑤ 중앙부 흘수",
     "bbox": [
       97,
-      583,
-      704,
+      1035,
+      368,
       1069
     ],
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.4318,
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 827,
+      "end_orig": 865,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① ㄱ,  ㄴ ② ㄱ,  ㄷ ③ ㄴ,  ㄷ ④ ㄴ,  ㄹ ⑤",
+    "bbox": [
+      445,
+      583,
+      704,
+      602
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 994,
-      "end_orig": 1070,
-      "reason": "low_similarity"
+      "end_orig": 1027,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -588,7 +608,7 @@
       1013
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td colspan=\"2\">[조사 보고서]</td></tr><tr><td>제목</td><td>OO섬의 선박조사하기</td></tr><tr><td>선박 사진</td><td></td></tr><tr><td>조사 내용</td><td>-선박아래가운데가 쁨뚫려 있다 -항해시 조파저항을 줄일수 있다 -갑판공간확보가용이하다 &quot;선생님의 보충설명* 모양이같은두개의선체를상부구조물로연결하여 만들었기 때문이야</td></tr></table>",
+    "table_body": "<table><tr><td colspan=\"2\">[조사 보고서]</td></tr><tr><td>제목</td><td>OO섬의 선박조사하기</td></tr><tr><td>선박 사진</td><td></td></tr><tr><td>조사 내용</td><td>-선박 아래가운데가 쁨뚫려 있다 -항해시 조파저항을 줄일수 있다 -갑판공간확보가용이하다 &quot;선생님의 보충설명* 모양이같은두개의선체를상부구조물로연결하여 만들었기 때문이야</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "9017bf1e159326fe167aba121c10eceb57adfaf2450418a627019a4b2ce85b7c.jpg",
@@ -643,7 +663,7 @@
       366
     ],
     "page_idx": 1,
-    "table_body": "<table><tr><td>답장 전체답장 전달삭제 안읽음 … 목록 </td></tr><tr><td>컨테이너 운임 할증료 부과 안내 보낸사람OO해운</td></tr><tr><td>받는 사람(주) 안녕하세요?O해운입니다.</td></tr><tr><td>해상 운송계약 체결 시운임 표기 화폐인미국달러에 대한 원화 환율이 US$1=W1,350이었으나, 화물 운송완료후 (주)로부터 운임을받는 현 시점의 미국 달러에 대한 원화환율은US$1=W1,250이 되었습니다. 이에 따라귀사로부터 받는운임을 원화로 즉시 환전할 때당사에 발생하는 손실을 보전하기 위해 귀사에 할증료를 부과하였음을 알려 드립니다.</td></tr></table>",
+    "table_body": "<table><tr><td>답장 전체답장 전달삭제 안읽음 … 목록 </td></tr><tr><td>컨테이너 운임 할증료 부과 안내 보낸사람OO해운</td></tr><tr><td>받는 사람(주) 안녕하세요? O해운입니다.</td></tr><tr><td>해상 운송계약 체결 시운임 표기 화폐인미국달러에 대한 원화 환율이 US$1=W1,350이었으나, 화물 운송완료후 (주)로부터 운임을받는 현 시점의 미국 달러에 대한 원화환율은US$1=W1,250이 되었습니다. 이에 따라귀사로부터 받는운임을 원화로 즉시 환전할 때당사에 발생하는 손실을 보전하기 위해 귀사에 할증료를 부과하였음을 알려 드립니다.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "3e1b1c6ef86b52f7b5fa1053c7881d2e5de185af066590c81df483feec03cd7c.jpg",
@@ -671,7 +691,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음 기사를 통해 알 수 있는 이동 수단을 활용한 해양 관광 상품으로 가장 적절한 것은?",
+    "text": ". 다음 기사를 통해 알 수 있는 이동 수단을 활용한 해양 관광 상품으로 가장 적절한 것은?\n",
     "bbox": [
       86,
       475,
@@ -682,10 +702,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9863,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1351,
-      "end_orig": 1403,
+      "start_orig": 1352,
+      "end_orig": 1404,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -702,7 +722,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9495,
+      "similarity": 0.9592,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1404,
       "end_orig": 1479,
@@ -1281,7 +1301,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 생산자가 직접 판매해야 하는 부담을 줄여 준다.\n",
+    "text": "ㄷ. 생산자가 직접 판매해야 하는 부담을 줄여 준다.",
     "bbox": [
       456,
       1022,
@@ -1292,11 +1312,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9545,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2554,
-      "end_orig": 2584,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 2583,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1341,7 +1361,7 @@
   },
   {
     "type": "text",
-    "text": "A군은'OO에서 생존하기'모바일 게임상에서섬 주변을 탐색하던 중 몸이 좌우 대칭이고 딱딱한 등딱지와 집게발을 가진 수산 생물을 발견하였다.기본 어구인 작살로 이 생물 열 마리를",
+    "text": "A군은'OO에서 생존하기'모바일 게임상에서 섬 주변을 탐색하던 중 몸이 좌우 대칭이고 딱딱한 등딱지와 집게발을 가진 수산 생물을 발견하였다.기본 어구인 작살로 이 생물 열 마리를",
     "bbox": [
       95,
       188,
@@ -1515,7 +1535,7 @@
   },
   {
     "type": "text",
-    "text": "14.다음은 인공 지능(AI)과의 대화이다. (가)에 들어갈 해운 정보",
+    "text": "14. 다음은 인공 지능(AI)과의 대화이다. (가)에 들어갈 해운 정보",
     "bbox": [
       435,
       157,
@@ -1675,7 +1695,7 @@
   },
   {
     "type": "text",
-    "text": "은/는전국의항만 및선박 운항에 관한정보를 통신망으로 연결하여 운영 효율성을 높이고, 이용자에게 편의를제공하는 해운항만 물류 정보 시스템입니다",
+    "text": "은/는전국의항만 및선박 운항에 관한정보를 통신망으로 연결하여 운영 효율성을 높이고, 이용자에게 편의를제공하는 해운항만 물류 정보 시스템입니다.",
     "bbox": [
       472,
       255,
@@ -1915,7 +1935,7 @@
   },
   {
     "type": "text",
-    "text": "① 나잠어업 ② 선망어업 ③ 주낙어업 ④ 봉수망어업 ⑤ 안강망어업",
+    "text": "① 나잠 어업 ② 선망 어업 ③ 주낙 어업\n④ 봉수망 어업 ⑤ 안강망 어업",
     "bbox": [
       97,
       699,
@@ -1925,17 +1945,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2861,
+      "end_orig": 2902,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "13.다음 게시판에서OO아쿠아리움이답변한 내용과 유사한 방식 으로 수질을 관리하는 양식 사례로 가장 적절한 것은? [3점]",
+    "text": "13.다음 게시판에서OO아쿠아리움이답변한 내용과 유사한 방식 으로 수질을 관리하는 양식 사례로 가장 적절한 것은?[3점]",
     "bbox": [
       87,
       768,
@@ -1962,7 +1982,7 @@
       976
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td colspan=\"4\">O0아쿠아리움</td><td></td><td></td><td></td><td>□</td><td></td><td>×</td></tr><tr><td colspan=\"4\">← → 0</td><td></td><td>$2$</td><td></td><td></td><td>:</td><td>···</td></tr><tr><td colspan=\"4\">HOME&gt;고객게시판&gt;Q&amp;A</td><td>고객게시판</td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td colspan=\"4\">@love_fish 아쿠아리움에서건강하게관리하고있는해양생물을 보고왔습니다.그런데 그곳은 내륙 지역에 위치하고있어 사육수를 새로운 바닷물로 교체하기어려울 것</td><td></td><td></td><td></td><td>2024. 9. 22. 10:25</td><td></td><td></td></tr><tr><td colspan=\"4\">같은데요. 수질을 어떻게 관리하시는지 궁금합니다. LAOO아쿠아리움</td><td>2024. 9. 23. 11:30</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"4\">저희는LSS(Life Support System) 설비를 이용해 사육 시설 내의 오염 물질을 제거하고살균 처리단계를통해 사육수를정화한 후다시사용하기때문에 해양</td><td colspan=\"3\">생물이 살아가는 데 안정적인 수질 환경을 제공합니다</td><td colspan=\"2\"></td><td></td></tr></table>",
+    "table_body": "<table><tr><td colspan=\"4\">O0아쿠아리움</td><td></td><td></td><td></td><td>□</td><td></td><td>×</td></tr><tr><td colspan=\"4\">← → 0</td><td></td><td>$2$</td><td></td><td></td><td>:</td><td>···</td></tr><tr><td colspan=\"4\">HOME&gt;고객게시판&gt;Q&amp;A</td><td>고객게시판</td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td colspan=\"4\">@love_fish 아쿠아리움에서건강하게관리하고있는해양생물을 보고왔습니다.그런데 그곳은 내륙 지역에 위치하고있어 사육수를 새로운 바닷물로 교체하기어려울 것</td><td></td><td></td><td></td><td>2024. 9. 22. 10:25</td><td></td><td></td></tr><tr><td colspan=\"4\">같은데요. 수질을 어떻게 관리하시는지 궁금합니다 LAOO아쿠아리움</td><td>2024. 9. 23. 11:30</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"4\">저희는LSS(Life Support System) 설비를 이용해 사육 시설 내의 오염 물질을 제거하고살균 처리단계를통해사육수를정화한 후다시사용하기때문에 해양</td><td colspan=\"3\">생물이 살아가는 데 안정적인 수질 환경을 제공합니다</td><td colspan=\"2\"></td><td></td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "05abc1d37ea9d663e74ad739f9d55a6457b61ed2088a111a5b92d2e4ab634fcc.jpg",
@@ -1970,7 +1990,7 @@
   },
   {
     "type": "text",
-    "text": "① 흐르는 계곡 물로 무지개송어를 양식한다.",
+    "text": "① 흐르는 계곡 물로 무지개송어를 양식한다.\n",
     "bbox": [
       97,
       986,
@@ -1980,17 +2000,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2976,
+      "end_orig": 3001,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 제방을쌓아 물을 가두어 두고 잉어를 양식한다.",
+    "text": "② 제방을 쌓아 물을 가두어 두고 잉어를 양식한다.\n",
     "bbox": [
       97,
       1002,
@@ -2000,17 +2020,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3001,
+      "end_orig": 3030,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 바다에 설치한 그물에 다랑어를 가두어 양식한다.",
+    "text": "③ 바다에 설치한 그물에 다랑어를 가두어 양식한다.\n",
     "bbox": [
       97,
       1019,
@@ -2020,17 +2040,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3030,
+      "end_orig": 3059,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 물리적,생물학적 여과를 거친 물에서 연어를 양식한다.",
+    "text": "④ 물리적,  생물학적 여과를 거친 물에서 연어를 양식한다.\n",
     "bbox": [
       97,
       1035,
@@ -2040,17 +2060,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3059,
+      "end_orig": 3093,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 줄에 매단 채롱에 참가리비를 넣어 바닷속에서 양식한다.",
+    "text": "⑤ 줄에 매단 채롱에 참가리비를 넣어 바닷속에서 양식한다.\n",
     "bbox": [
       97,
       1053,
@@ -2060,12 +2080,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3093,
+      "end_orig": 3126,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2398,7 +2418,7 @@
   },
   {
     "type": "text",
-    "text": "2.본교 실습선의 노후화로 인해 새로운소형 어선을건조하고자 합니다.",
+    "text": "ㄹ.본교 실습선의 노후화로 인해 새로운소형 어선을건조하고자 합니다.",
     "bbox": [
       114,
       930,
@@ -2418,7 +2438,7 @@
   },
   {
     "type": "text",
-    "text": "아래와 같은 조건을 모두 충족하는 선박을 추천해 주시기 바랍니다.",
+    "text": "아래와 같은 조건을 모두 충족하는 선박을 추천해 주시기바랍니다.",
     "bbox": [
       124,
       942,
@@ -2638,7 +2658,7 @@
   },
   {
     "type": "text",
-    "text": "컨테이너 터미널에서컨테이너를 들어서 이동시키거나,올리고 내리는하역설비이다.다리 모양의 기둥 사이에 7~9열의 컨테이너를",
+    "text": "컨테이너 터미널에서컨테이너를 들어서이동시키거나,올리고 내리는하역설비이다.다리 모양의 기둥 사이에 7~9열의 컨테이너를",
     "bbox": [
       479,
       266,
@@ -2678,7 +2698,7 @@
   },
   {
     "type": "text",
-    "text": "바퀴 방식과 레일을따라 앞뒤로 움직이는레일 방식이 있다.",
+    "text": "바퀴방식과 레일을따라 앞뒤로 움직이는레일 방식이 있다.",
     "bbox": [
       478,
       304,

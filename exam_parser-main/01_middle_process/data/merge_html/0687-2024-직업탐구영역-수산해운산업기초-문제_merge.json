@@ -107,7 +107,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9697,
+      "similarity": 0.96,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 166,
       "end_orig": 232,
@@ -370,7 +370,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음  [○○호 운항 보고서]에서 알 수 있는 전용선에 대한 설명으로 옳은 것만을",
+    "text": ". 다음  [○○호 운항 보고서]에서 알 수 있는 전용선에 대한 설명으로 옳은 것만을",
     "bbox": [
       85,
       646,
@@ -381,9 +381,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9429,
+      "similarity": 0.9275,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 565,
+      "start_orig": 566,
       "end_orig": 613,
       "reason": "passed_threshold_no_ws"
     }
@@ -490,7 +490,7 @@
   },
   {
     "type": "text",
-    "text": "2. 화물량 : 175,000톤",
+    "text": ". 화물량 : 175,000톤",
     "bbox": [
       105,
       739,
@@ -501,9 +501,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.963,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 680,
+      "start_orig": 681,
       "end_orig": 697,
       "reason": "passed_threshold_no_ws"
     }
@@ -589,20 +589,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      296,
-      742,
-      396,
-      906
-    ],
-    "page_idx": 0,
-    "image_path": "7bd8b1f24a9a1ab1c3244398719051b2c50d878f372f56b6ff3a88d5158db793.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "6. 주요 점검 내용 ∙수시로 선창 내 온도 측정 및 확인 ∙선적된  화물에서  발생하는  가연성 가스가 선창 내에 축적되지 않도록 적절히 표면 통풍 실시",
     "bbox": [
@@ -621,6 +607,20 @@
       "end_orig": 913,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      296,
+      742,
+      396,
+      906
+    ],
+    "page_idx": 0,
+    "image_path": "7bd8b1f24a9a1ab1c3244398719051b2c50d878f372f56b6ff3a88d5158db793.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   },
   {
     "type": "text",
@@ -791,7 +791,7 @@
       929
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=2>여정</td><td rowspan=1 colspan=1>충칭←↔ 이창(중간 기항지의 주요 명소 탐방 포함)</td></tr><tr><td rowspan=3 colspan=1>선박정보</td><td rowspan=1 colspan=1>총톤수</td><td rowspan=1 colspan=1>10,000톤</td></tr><tr><td rowspan=1 colspan=1>승객수</td><td rowspan=1 colspan=1>300명</td></tr><tr><td rowspan=1 colspan=1>주요시설</td><td rowspan=1 colspan=1>연회장 및 객실,레스토랑 등</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=2>여정</td><td rowspan=1 colspan=1>충칭←↔ 이창(중간 기항지의 주요 명소 탐방 포함)</td></tr><tr><td rowspan=3 colspan=1>선박정보</td><td rowspan=1 colspan=1>총톤수</td><td rowspan=1 colspan=1>10,000톤</td></tr><tr><td rowspan=1 colspan=1>승객수</td><td rowspan=1 colspan=1>300명</td></tr><tr><td rowspan=1 colspan=1>주요시설</td><td rowspan=1 colspan=1>연회장 및 객실, 레스토랑 등</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "1f5dff6db112c6c34246617cfe777b3767c52ad62b69949e70b3bf08c70393e9.jpg",
@@ -979,7 +979,7 @@
   },
   {
     "type": "text",
-    "text": "드. 항행 구역상으로 하천 크루즈에 해당한다.",
+    "text": "ㄷ. 항행 구역상으로 하천 크루즈에 해당한다.",
     "bbox": [
       456,
       1006,
@@ -989,12 +989,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1807,
+      "end_orig": 1832,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1133,7 +1133,7 @@
   },
   {
     "type": "text",
-    "text": "으로 학익진을 만들어 왜군을 크게 물리쳤다는 사실을 확인하였다",
+    "text": "으로 학익진을 만들어 왜군을 크게 물리쳤다는 사실을 확인하였다.",
     "bbox": [
       106,
       323,
@@ -1147,7 +1147,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2065,
-      "end_orig": 2099,
+      "end_orig": 2100,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1433,7 +1433,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음 상황에서 알 수 있는 삼촌의 수산․해운 분야 직업으로 가장 적절한 것은?",
+    "text": ". 다음 상황에서 알 수 있는 삼촌의 수산․해운 분야 직업으로 가장 적절한 것은?\n",
     "bbox": [
       86,
       821,
@@ -1444,10 +1444,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9706,
+      "similarity": 0.9552,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2630,
-      "end_orig": 2676,
+      "start_orig": 2631,
+      "end_orig": 2677,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1798,11 +1798,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9783,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3355,
       "end_orig": 3418,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -2267,7 +2267,7 @@
   },
   {
     "type": "text",
-    "text": "조선해양은브라질의 최대에너지기업으로부터해양 플랜트를 수주했다고 밝혔다.이번에 수주한 해양 플랜트는",
+    "text": "조선해양은브라질의 최대 에너지 기업으로부터해양 플랜트를 수주했다고 밝혔다.이번에 수주한 해양 플랜트는",
     "bbox": [
       106,
       557,
@@ -2287,7 +2287,7 @@
   },
   {
     "type": "text",
-    "text": "바다 위에 떠 있으면서 하루 18만 배럴의 원유와720만 m2의 천연 가스를 생산할 수 있으며,200만 배럴의 원유를 저장하고 다른 선박에 옮겨 실어주는 기능을 가지고있다.관계자는\"최근",
+    "text": "바다 위에 떠 있으면서 하루 18만 배럴의 원유와 720만m2의 천연 가스를 생산할 수 있으며,200만 배럴의 원유를 저장하고 다른 선박에 옮겨 실어주는 기능을 가지고있다.관계자는\"최근",
     "bbox": [
       106,
       591,
@@ -2587,7 +2587,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ②ㄱ, ㄷ ③ㄴ, ㄷ ④ ⑤ [13~14] 다음은 어느 해양 생물을 소개하는 글의 일부이다.물음에",
+    "text": "① ㄱ,  ㄴ ② ㄱ,  ㄷ ③ ㄴ,  ㄷ ④ ㄴ,  ㄹ ⑤ ㄷ,  ㄹ\n14. 윗글에서 소개하는 해양 생물과 동일한 이동 방식으",
     "bbox": [
       97,
       158,
@@ -2597,12 +2597,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
+      "replaced": true,
       "similarity": 0.4944,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5555,
       "end_orig": 5626,
-      "reason": "low_similarity"
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -2727,7 +2727,7 @@
   },
   {
     "type": "text",
-    "text": "<보  기>",
+    "text": "<보기>",
     "bbox": [
       573,
       450,
@@ -2740,8 +2740,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5483,
-      "end_orig": 5489,
+      "start_orig": 5740,
+      "end_orig": 5744,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2840,8 +2840,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5555,
-      "end_orig": 5588,
+      "start_orig": 6120,
+      "end_orig": 6153,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3007,7 +3007,7 @@
   },
   {
     "type": "text",
-    "text": "<보  기",
+    "text": "<보기",
     "bbox": [
       574,
       950,
@@ -3020,8 +3020,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6021,
-      "end_orig": 6026,
+      "start_orig": 6830,
+      "end_orig": 6833,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3087,7 +3087,7 @@
   },
   {
     "type": "text",
-    "text": "드.구조상 선박식,중력식으로 구분된다.",
+    "text": "ㄷ. 구조상 선박식,  중력식으로 구분된다.",
     "bbox": [
       456,
       1005,
@@ -3097,12 +3097,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6070,
+      "end_orig": 6094,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3207,7 +3207,7 @@
   },
   {
     "type": "text",
-    "text": "[절차 2] 바닥에 가지런히 펼쳐 놓은 장비를 넘어가 자신의 뒤쪽에 장비가 위치되도록 한다.",
+    "text": " [절차 2] 바닥에 가지런히 펼쳐 놓은 장비를 넘어가 자신의 뒤쪽에 장비가 위치되도록 한다. ",
     "bbox": [
       129,
       272,
@@ -3220,14 +3220,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6309,
-      "end_orig": 6360,
+      "start_orig": 6308,
+      "end_orig": 6361,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "[절차 3] 허리를 굽힌 상태에서 양손으로 장비를 잡고 허리에 착용한다.",
+    "text": " [절차 3] 허리를 굽힌 상태에서 양손으로 장비를 잡고 허리에 착용한다. ",
     "bbox": [
       130,
       305,
@@ -3240,14 +3240,14 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6361,
-      "end_orig": 6401,
+      "start_orig": 6360,
+      "end_orig": 6402,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "[절차 4] 똑바로 서서 버클이 가운데에 잘 채워져 있는지 확인한다.",
+    "text": " [절차 4] 똑바로 서서 버클이 가운데에 잘 채워져 있는지 확인한다.\n",
     "bbox": [
       129,
       338,
@@ -3260,8 +3260,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6402,
-      "end_orig": 6440,
+      "start_orig": 6401,
+      "end_orig": 6441,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3287,7 +3287,7 @@
   },
   {
     "type": "text",
-    "text": "17. 다음 상황에서 어로장과 항해사가 조작한 어업 기기를 사용 목적에 따라 분류했을 때 해당하는 범주로 옳은 것은?\n",
+    "text": "17. 다음 상황에서 어로장과 항해사가 조작한 어업 기기를 사용 목적에 따라 분류했을 때 해당하는 범주로 옳은 것은?",
     "bbox": [
       87,
       500,
@@ -3298,10 +3298,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9796,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6480,
-      "end_orig": 6546,
+      "end_orig": 6545,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3527,7 +3527,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 어도를 차단하여 어획하기 알맞은 장소로 유도한다.\n",
+    "text": "ㄷ. 어도를 차단하여 어획하기 알맞은 장소로 유도한다.",
     "bbox": [
       107,
       1005,
@@ -3538,11 +3538,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9583,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7157,
-      "end_orig": 7188,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 7187,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3614,7 +3614,7 @@
       540
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td>실험 목표</td><td colspan=\"2\">유조선의 하역 작업 시,화물 탱크에 사용하는 선박 시스템의 원리를 이해할 수 있다.</td></tr><tr><td>실험 재료</td><td>양초2개,유리병 2개,점화 장치,이산화탄소 공급 장치 1.유리병A, B내부에양초를</td><td>양초</td></tr><tr><td rowspan=\"2\">실험 과정</td><td>넣는다. 2.유리병 B에는이산화탄소 공급 장치를 이용하여</td><td>유리병A 유리병B 이산화탄소 공급 장치 23</td></tr><tr><td>이산화탄소를 가득 채운다. 3.점화 장치를 이용해서 유리병 A,B내부에있는</td><td>유리병A 유리병B 정화</td></tr><tr><td>실험 결과</td><td>유리병A 유리병 A내부의 양초는 불이 붙었으나,유리병 B내부의 양초는 불이 붙지 않았다.</td></tr></table>",
+    "table_body": "<table><tr><td>실험 목표</td><td colspan=\"2\">유조선의 하역 작업 시,화물 탱크에 사용하는 선박 시스템의 원리를이해할수 있다.</td></tr><tr><td>실험 재료</td><td>양초2개,유리병 2개,점화 장치,이산화탄소 공급 장치 1.유리병A, B내부에양초를</td><td>양초</td></tr><tr><td rowspan=\"2\">실험 과정</td><td>넣는다. ㄹ.유리병B에는이산화탄소 공급 장치를 이용하여</td><td>유리병A 유리병B 이산화탄소 공급 장치 23</td></tr><tr><td>이산화탄소를 가득 채운다. 3.점화 장치를 이용해서 유리병 A,B내부에있는</td><td>유리병A 유리병B 정화</td></tr><tr><td>실험 결과</td><td>유리병A 유리병 A내부의 양초는 불이 붙었으나,유리병 B내부의 양초는 불이 붙지 않았다.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "92b4fd4ae8e3ff00ef1e0f3485097e38015ae430ca01bad83acdee6d470c29e7.jpg",

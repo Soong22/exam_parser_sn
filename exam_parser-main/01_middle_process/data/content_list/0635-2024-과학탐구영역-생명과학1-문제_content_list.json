@@ -104,7 +104,7 @@
   },
   {
     "type": "text",
-    "text": "이자료에대한설명으로옳은것만을<보>",
+    "text": "이자료에대한설명으로 옳은것만을<보기",
     "bbox": [
       108,
       352,
@@ -302,7 +302,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ.글루카곤은 간에서 ① 을 촉진한다.",
+    "text": "ㄷ.글루카곤은간에서 ① 을 촉진한다.",
     "bbox": [
       106,
       682,
@@ -357,7 +357,7 @@
   },
   {
     "type": "text",
-    "text": "(가) S의 밀도가 낮은 호수에서보다 높은 호수에서 ⑦ 의농도가 낮은 것을 관찰하고,S가 ⑦ 을 분해할 것이라고 생각했다.",
+    "text": "(가) S의 밀도가 낮은 호수에서보다 높은 호수에서 ⑦ 의농도가 낮은것을 관찰하고,S가 ⑦ 을 분해할 것이라고 생각했다.",
     "bbox": [
       105,
       800,
@@ -390,7 +390,7 @@
   },
   {
     "type": "text",
-    "text": "들어 있는 수조I과 를 준비하고 한 수조에만 S를 넣었다.일정 시간이 지난 후I과 Ⅱ",
+    "text": "들어 있는 수조I과 I를 준비하고 한 수조에만 S를 넣었다.일정 시간이 지난 후I과 Ⅱ",
     "bbox": [
       127,
       834,
@@ -434,7 +434,7 @@
   },
   {
     "type": "text",
-    "text": "이자료에 대한 설명으로 옳은 것만을<보기",
+    "text": "이자료에대한설명으로 옳은것만을<보>",
     "bbox": [
       108,
       931,
@@ -577,7 +577,7 @@
   },
   {
     "type": "text",
-    "text": "이에대한설명으로옳은것만을<보>",
+    "text": "이에대한설명으로옳은것만을<보기",
     "bbox": [
       455,
       345,
@@ -874,10 +874,10 @@
   },
   {
     "type": "text",
-    "text": "체() 혈중지질농도 (상) 혼시간 A B C",
+    "text": "혼시간 A B C",
     "bbox": [
-      589,
-      617,
+      644,
+      663,
       738,
       693
     ],
@@ -885,7 +885,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을<보>",
+    "text": "이에 대한 설명으로옳은것만을<보기",
     "bbox": [
       456,
       704,
@@ -940,7 +940,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.구간I에서B는에너지소비량이에너지 섭취량보다많다.",
+    "text": "ㄴ.구간I에서B는에너지소비량이에너지섭취량보다많다.",
     "bbox": [
       455,
       780,
@@ -994,15 +994,18 @@
     "page_idx": 0
   },
   {
-    "type": "text",
-    "text": "생태계 생물군집 개체군 비생물적요인 A → C",
+    "type": "image",
     "bbox": [
-      626,
+      622,
       858,
       752,
-      925
+      931
     ],
-    "page_idx": 0
+    "page_idx": 0,
+    "image_path": "c16cbbfd93fdd85ab438abb029850172d71386a92caf69807dbdf84ca00c8497.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   },
   {
     "type": "text",
@@ -1121,7 +1124,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옮은것만을<보>",
+    "text": "이에 대한 설명으로 옮은것만을<보기",
     "bbox": [
       107,
       287,
@@ -1945,7 +1948,7 @@
   },
   {
     "type": "text",
-    "text": "유전자 중2개는서로 다른 상염색체에, 나머지 1개는 X 염색체에 있다.표는 이 동물 종의 개체 P와 Q의",
+    "text": "유전자 중2개는서로 다른 상염색체에, 나머지 1 개는 X 염색체에 있다.표는 이 동물 종의 개체 P와 Q의",
     "bbox": [
       447,
       709,
@@ -2062,7 +2065,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한설명으로 옳은 것만을<보기",
+    "text": "이에 대한 설명으로 옳은 것만을<보기",
     "bbox": [
       456,
       914,
@@ -2963,7 +2966,7 @@
   },
   {
     "type": "text",
-    "text": "우성이다 P의 유전자형은 AaBbDF이고,P와 Q는(나)의 표현형이 서로 다르다.",
+    "text": "우성이다 P의 유전자형은AaBbDF이고,P와 Q는(나)의 표현형이 서로 다르다.",
     "bbox": [
       106,
       839,
@@ -3013,17 +3016,6 @@
       910,
       293,
       935
-    ],
-    "page_idx": 2
-  },
-  {
-    "type": "text",
-    "text": ".",
-    "bbox": [
-      293,
-      909,
-      298,
-      936
     ],
     "page_idx": 2
   },
@@ -3173,7 +3165,7 @@
   },
   {
     "type": "text",
-    "text": "⑦ ~ㄷ은A~C를 순서 없이 나타낸 것이고, ④ 는",
+    "text": "⑦ ~ㄷ은A~C를 순서없이 나타낸 것이고, ④ 는",
     "bbox": [
       446,
       209,
@@ -3468,7 +3460,7 @@
   },
   {
     "type": "text",
-    "text": "h, T,t를 순서 없이 나타낸 것이다.",
+    "text": "h,T,t를 순서 없이 나타낸 것이다.",
     "bbox": [
       446,
       561,
@@ -3495,22 +3487,19 @@
     "original_type": "table"
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "①",
     "bbox": [
-      600,
-      603,
-      746,
-      663
+      673,
+      651,
+      684,
+      662
     ],
-    "page_idx": 2,
-    "image_path": "528fde03aaaba56ef550f29457eea62ff2c35487ea38b2b83b7b8a9df0bdab6d.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 2
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은것만을<보기",
+    "text": "이에 대한 설명으로 옳은 것만을<보기",
     "bbox": [
       457,
       673,
@@ -3675,7 +3664,7 @@
   },
   {
     "type": "text",
-    "text": "혈액형은 각각 서로 다르며,A형,AB형, 0형 중 하나이다.",
+    "text": "혈액형은 각각 서로 다르며, A형, AB형, 0형 중 하나이다.",
     "bbox": [
       446,
       909,
@@ -3703,7 +3692,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로옳은 것만을<보기>에서 있는 대로 고른 것은?",
+    "text": "이에 대한 설명으로 옳은 것만을<보기>에서 있는 대로 고른 것은?",
     "bbox": [
       456,
       946,
@@ -3868,7 +3857,7 @@
   },
   {
     "type": "text",
-    "text": "(가)의 유전자는 상염색체에 있고, (나)와(다)의 유전자는 모두X염색체에있다.",
+    "text": "(가)의 유전자는 상염색체에 있고, (나)와 (다)의 유전자는 모두X염색체에있다.",
     "bbox": [
       117,
       253,
@@ -3879,7 +3868,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇ표는이 가족 구성원의 성별과",
+    "text": "ㅇ표는 이 가족 구성원의 성별과",
     "bbox": [
       106,
       286,
@@ -3944,7 +3933,7 @@
     "table_body": "<table><tr><td rowspan=1 colspan=1>구성원</td><td rowspan=1 colspan=1>성별</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td><td rowspan=1 colspan=1>©</td></tr><tr><td rowspan=1 colspan=1>아버지</td><td rowspan=1 colspan=1>남</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>×</td></tr><tr><td rowspan=1 colspan=1>어머니</td><td rowspan=1 colspan=1>여</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>a</td></tr><tr><td rowspan=1 colspan=1>자녀1</td><td rowspan=1 colspan=1>남</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>자녀2</td><td rowspan=1 colspan=1>여</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td></tr><tr><td rowspan=1 colspan=1>자녀3</td><td rowspan=1 colspan=1>남</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>자녀4</td><td rowspan=1 colspan=1>남</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>×</td></tr></table>",
     "table_caption": [],
     "table_footnote": [
-      "(○ :발현됨, \\times :발현 안 됨)"
+      "(c ○ :발현됨, \\times :발현 안 됨)"
     ],
     "image_path": "c5965ff01344ed9429227b5e8629186f1a1baf4e94b227e6f1e1d9976bb8146d.jpg",
     "original_type": "table"
@@ -3984,7 +3973,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을<보>",
+    "text": "이에 대한 설명으로옳은것만을<보>",
     "bbox": [
       108,
       511,
@@ -4094,7 +4083,7 @@
   },
   {
     "type": "text",
-    "text": "(가)유전적으로 동일하고 X에 노출된 적이 없는 생쥐",
+    "text": "(가) 유전적으로 동일하고 X에 노출된 적이 없는 생쥐",
     "bbox": [
       105,
       732,
@@ -4226,7 +4215,7 @@
   },
   {
     "type": "text",
-    "text": "중B와D에X를 각각 주사한후A~D에서 ② X에 감염된 세포의 유무를확인한 결과,B와D에서만 ④ 가있었다.",
+    "text": "중B와D에X를 각각 주사한후A~D에서 ② X에 감염된 세포의유무를확인한 결과,B와D에서만 ④ 가있었다.",
     "bbox": [
       127,
       781,
@@ -4395,7 +4384,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇ(가)는 대립유전자 H와h에 의해,(나)는대립유전자 T와 t에 의해 결정된다.H는h에 대해,T는t에 대해 각각완전 우성이다.",
+    "text": "ㅇ(가)는 대립유전자 H와h에 의해, (나)는대립유전자 T와 t에 의해 결정된다.H는h에 대해,T는t에 대해 각각완전 우성이다.",
     "bbox": [
       455,
       204,
@@ -4541,7 +4530,7 @@
   },
   {
     "type": "text",
-    "text": "에서 체세포1개당 h의 DNA 상대량을나타낸 것이다.",
+    "text": "에서 체세포1개당 h의 DNA 상대량을 나타낸 것이다.",
     "bbox": [
       466,
       379,
@@ -4633,7 +4622,7 @@
   },
   {
     "type": "text",
-    "text": "에서 있는 대로 고른 것은?(단,돌연변이와 교차는 고려하지 않으며,H,h, T, t 각각의 1개당 DNA 상대량은1이다.)[3점]",
+    "text": "에서 있는 대로 고른 것은?(단,돌연변이와 교차는 고려하지 않으며,H,h, T,t 각각의 1개당 DNA 상대량은1이다.)[3점]",
     "bbox": [
       446,
       455,
@@ -4738,17 +4727,6 @@
       582,
       585,
       607
-    ],
-    "page_idx": 3
-  },
-  {
-    "type": "text",
-    "text": ".",
-    "bbox": [
-      585,
-      583,
-      591,
-      606
     ],
     "page_idx": 3
   },
@@ -4881,7 +4859,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ. (나)는 탄소 순환 과정이다.",
+    "text": "ㄱ.(나)는 탄소 순환 과정이다.",
     "bbox": [
       456,
       889,

@@ -162,7 +162,7 @@
                     344,
                     272
                   ],
-                  "score": 0.892,
+                  "score": 0.891,
                   "content": "1. 밑줄 친 부분과 같은 발음이 들어 있는 낱말은?",
                   "type": "text"
                 }
@@ -468,7 +468,7 @@
                     308,
                     457
                   ],
-                  "score": 0.842,
+                  "score": 0.848,
                   "content": "2. 밑줄 친 낱말의 철자가 옳지 않은 것은?",
                   "type": "text"
                 }
@@ -495,12 +495,23 @@
           "lines": [
             {
               "bbox": [
-                121,
-                473,
+                95,
+                465,
                 261,
-                488
+                537
               ],
               "spans": [
+                {
+                  "bbox": [
+                    95,
+                    465,
+                    117,
+                    537
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     121,
@@ -508,12 +519,12 @@
                     261,
                     488
                   ],
-                  "score": 0.932,
+                  "score": 0.93,
                   "content": "(a) Elle se léve a 6 heures.",
                   "type": "text"
                 }
               ],
-              "index": 14,
+              "index": 15,
               "is_list_end_line": true
             },
             {
@@ -536,7 +547,7 @@
                   "type": "text"
                 }
               ],
-              "index": 15,
+              "index": 14,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -555,7 +566,7 @@
                     289,
                     524
                   ],
-                  "score": 0.958,
+                  "score": 0.959,
                   "content": "(c) Je jete mes vieux vétements.",
                   "type": "text"
                 }
@@ -579,7 +590,7 @@
                     320,
                     541
                   ],
-                  "score": 0.941,
+                  "score": 0.942,
                   "content": "(d) Is finissent leurs devoirs d'anglais.",
                   "type": "text"
                 }
@@ -615,8 +626,8 @@
           ],
           "index": 16,
           "bbox_fs": [
-            120,
-            473,
+            95,
+            465,
             337,
             557
           ]
@@ -665,6 +676,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    572,
+                    158,
+                    592
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     575,
                     171,
@@ -686,6 +708,17 @@
                   ],
                   "score": 0.993,
                   "content": "(b)",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    217,
+                    572,
+                    219,
+                    592
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -715,6 +748,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    572,
+                    280,
+                    592
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     281,
                     575,
                     294,
@@ -736,6 +780,17 @@
                   ],
                   "score": 0.99,
                   "content": "(d)",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    572,
+                    342,
+                    592
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -799,7 +854,7 @@
                     352,
                     657
                   ],
-                  "score": 0.885,
+                  "score": 0.883,
                   "content": "3. 빈칸에 공통으로 들어갈 말로 알맞은 것은?[1점]",
                   "type": "text"
                 }
@@ -872,7 +927,7 @@
                     219,
                     702
                   ],
-                  "score": 0.946,
+                  "score": 0.94,
                   "content": "B : C'est un vendredi.",
                   "type": "text"
                 }
@@ -905,7 +960,7 @@
                     389,
                     720
                   ],
-                  "score": 0.959,
+                  "score": 0.957,
                   "content": "bien. On a un week–end de trois jours !",
                   "type": "text"
                 }
@@ -1099,7 +1154,7 @@
                     275,
                     816
                   ],
-                  "score": 0.915,
+                  "score": 0.925,
                   "content": "4.빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -1139,7 +1194,7 @@
                     327,
                     844
                   ],
-                  "score": 0.968,
+                  "score": 0.97,
                   "content": "A : Comment tu fais pour rester en forme ?",
                   "type": "text"
                 }
@@ -1161,7 +1216,7 @@
                     338,
                     862
                   ],
-                  "score": 0.965,
+                  "score": 0.945,
                   "content": "B : Je fais une heure de danse tous les jours.",
                   "type": "text"
                 }
@@ -1183,7 +1238,7 @@
                     291,
                     880
                   ],
-                  "score": 0.985,
+                  "score": 0.986,
                   "content": "Je ne mange pas trop, je mange",
                   "type": "text"
                 }
@@ -1205,7 +1260,7 @@
                     397,
                     897
                   ],
-                  "score": 0.971,
+                  "score": 0.972,
                   "content": "A : Ah, c'est pour ca que tu prends souvent de la salade.",
                   "type": "text"
                 }
@@ -1265,6 +1320,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    908,
+                    158,
+                    927
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     911,
                     171,
@@ -1286,6 +1352,17 @@
                   ],
                   "score": 0.968,
                   "content": "haut",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    216,
+                    907,
+                    219,
+                    928
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1399,7 +1476,7 @@
                     322,
                     993
                   ],
-                  "score": 0.874,
+                  "score": 0.873,
                   "content": "5.빈간에 공통으로 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -1498,7 +1575,7 @@
                     398,
                     1038
                   ],
-                  "score": 0.963,
+                  "score": 0.976,
                   "content": "sert de chambre d'amis.",
                   "type": "text"
                 }
@@ -1556,6 +1633,17 @@
                   ],
                   "score": 0.906,
                   "content": "vie",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    155,
+                    1048,
+                    158,
+                    1072
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -2107,7 +2195,7 @@
                     694,
                     504
                   ],
-                  "score": 0.978,
+                  "score": 0.976,
                   "content": "A : Tu peux me préter ton cahier d'exercices ?",
                   "type": "text"
                 }
@@ -2131,7 +2219,7 @@
                     573,
                     521
                   ],
-                  "score": 0.98,
+                  "score": 0.979,
                   "content": "B : Bien sür. Le voila!",
                   "type": "text"
                 }
@@ -2330,7 +2418,7 @@
                     743,
                     602
                   ],
-                  "score": 0.958,
+                  "score": 0.957,
                   "content": "Je ne suis pas d'accord",
                   "type": "text"
                 }
@@ -2406,7 +2494,7 @@
                     652,
                     695
                   ],
-                  "score": 0.88,
+                  "score": 0.883,
                   "content": "8.빈칸에 들어갈 말로 알맞은 것은? [1점]",
                   "type": "text"
                 }
@@ -2536,7 +2624,7 @@
                     729,
                     745
                   ],
-                  "score": 0.949,
+                  "score": 0.969,
                   "content": "mal. Tu préféres quelle couleur ?",
                   "type": "text"
                 }
@@ -3149,7 +3237,7 @@
                     345,
                     174
                   ],
-                  "score": 0.911,
+                  "score": 0.912,
                   "content": "10. 게시문을 이해한 내용으로 알맞은 것은?[1점]",
                   "type": "text"
                 }
@@ -3312,7 +3400,7 @@
                     392,
                     308
                   ],
-                  "score": 0.949,
+                  "score": 0.95,
                   "content": "Pour plus d'informations, téléphonez au 06 45 X X 65.",
                   "type": "text"
                 }
@@ -3366,7 +3454,7 @@
                     245,
                     344
                   ],
-                  "score": 0.959,
+                  "score": 0.95,
                   "content": "수업은 저녁 7시에 끝난다.",
                   "type": "text"
                 }
@@ -3441,7 +3529,7 @@
                     282,
                     378
                   ],
-                  "score": 0.984,
+                  "score": 0.983,
                   "content": "화요일과 목요일에는 수업이 없다.",
                   "type": "text"
                 }
@@ -3479,7 +3567,7 @@
                     287,
                     395
                   ],
-                  "score": 0.931,
+                  "score": 0.938,
                   "content": "추가 정보는 메일로 문의 가능하다.",
                   "type": "text"
                 }
@@ -3517,7 +3605,7 @@
                     319,
                     413
                   ],
-                  "score": 0.977,
+                  "score": 0.961,
                   "content": "수업을 도와줄 수 있는 학생을 찾고 있다.",
                   "type": "text"
                 }
@@ -3559,7 +3647,7 @@
                     284,
                     465
                   ],
-                  "score": 0.904,
+                  "score": 0.901,
                   "content": "11. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -3621,7 +3709,7 @@
                     264,
                     511
                   ],
-                  "score": 0.964,
+                  "score": 0.967,
                   "content": "B : Je vais prendre des fraises.",
                   "type": "text"
                 }
@@ -3755,7 +3843,7 @@
                     383,
                     575
                   ],
-                  "score": 0.915,
+                  "score": 0.945,
                   "content": "Je vous dois combien",
                   "type": "text"
                 }
@@ -3816,7 +3904,7 @@
                     402,
                     592
                   ],
-                  "score": 0.948,
+                  "score": 0.937,
                   "content": "Je vous en mets combien",
                   "type": "text"
                 }
@@ -3914,7 +4002,7 @@
                     284,
                     660
                   ],
-                  "score": 0.878,
+                  "score": 0.869,
                   "content": "12. 빈간에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -4077,7 +4165,7 @@
                     330,
                     725
                   ],
-                  "score": 0.972,
+                  "score": 0.992,
                   "content": "B : Devant le cinéma Gaumont.",
                   "type": "text"
                 }
@@ -4293,7 +4381,7 @@
                     368,
                     840
                   ],
-                  "score": 0.92,
+                  "score": 0.927,
                   "content": "13. 식당 방문 후기에서 불만을 표시하고 있는 사람은?",
                   "type": "text"
                 }
@@ -4786,7 +4874,7 @@
                     714,
                     227
                   ],
-                  "score": 0.976,
+                  "score": 0.977,
                   "content": "B : 50 euros. Vous payez comment ?",
                   "type": "text"
                 }
@@ -5035,7 +5123,7 @@
                     632,
                     361
                   ],
-                  "score": 0.863,
+                  "score": 0.856,
                   "content": "15. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -5075,7 +5163,7 @@
                     636,
                     389
                   ],
-                  "score": 0.978,
+                  "score": 0.973,
                   "content": "A : On est le combien aujourd'hui ?",
                   "type": "text"
                 }
@@ -5119,7 +5207,7 @@
                     723,
                     424
                   ],
-                  "score": 0.973,
+                  "score": 0.967,
                   "content": "A : Ah ! Je dois aller chez le dentiste cet aprés–midi.",
                   "type": "text"
                 }
@@ -5375,7 +5463,7 @@
                     601,
                     566
                   ],
-                  "score": 0.946,
+                  "score": 0.947,
                   "content": "A : Vous parlez bien francais.",
                   "type": "text"
                 },
@@ -5419,7 +5507,7 @@
                     597,
                     583
                   ],
-                  "score": 0.957,
+                  "score": 0.96,
                   "content": "Je suis belge. Et vous ?",
                   "type": "text"
                 }
@@ -5442,8 +5530,8 @@
                     573,
                     600
                   ],
-                  "score": 0.973,
-                  "content": "A : Moi, je suis suisse.",
+                  "score": 0.987,
+                  "content": "A: Moi, je suis suisse.",
                   "type": "text"
                 }
               ],
@@ -5523,7 +5611,7 @@
                     724,
                     629
                   ],
-                  "score": 0.953,
+                  "score": 0.95,
                   "content": "Quel age avez-vous",
                   "type": "text"
                 }
@@ -5532,12 +5620,23 @@
             },
             {
               "bbox": [
-                446,
+                444,
                 630,
                 755,
                 647
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    630,
+                    446,
+                    647
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -5559,7 +5658,7 @@
                     578,
                     647
                   ],
-                  "score": 0.939,
+                  "score": 0.931,
                   "content": "Quel est votre prénom",
                   "type": "text"
                 },
@@ -5584,7 +5683,7 @@
                     755,
                     646
                   ],
-                  "score": 0.958,
+                  "score": 0.959,
                   "content": "Quelle est votre profession",
                   "type": "text"
                 }
@@ -5630,7 +5729,7 @@
           ],
           "index": 63,
           "bbox_fs": [
-            446,
+            444,
             613,
             755,
             664
@@ -5660,8 +5759,8 @@
                     757,
                     714
                   ],
-                  "score": 0.915,
-                  "content": "17.기차 승강장 안내 방송을 이해한 내용으로 알맞지않은",
+                  "score": 0.899,
+                  "content": "17.기차 승강장 안내 방송을 이해한 내용으로 알맞지 않은",
                   "type": "text"
                 }
               ],
@@ -5753,12 +5852,23 @@
             },
             {
               "bbox": [
-                457,
+                447,
                 783,
                 539,
                 798
               ],
               "spans": [
+                {
+                  "bbox": [
+                    447,
+                    783,
+                    455,
+                    797
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     457,
@@ -5776,7 +5886,7 @@
           ],
           "index": 68,
           "bbox_fs": [
-            457,
+            447,
             748,
             694,
             798
@@ -5978,7 +6088,7 @@
                     559,
                     997
                   ],
-                  "score": 0.97,
+                  "score": 0.973,
                   "content": "기차는 Lyon행이다.",
                   "type": "text"
                 }
@@ -6053,7 +6163,7 @@
                     595,
                     1032
                   ],
-                  "score": 0.918,
+                  "score": 0.902,
                   "content": "기차는 5분 동안 정차한다.",
                   "type": "text"
                 }
@@ -6091,8 +6201,8 @@
                     631,
                     1049
                   ],
-                  "score": 0.962,
-                  "content": "기차는 오후3시30분에 출발한다.",
+                  "score": 0.943,
+                  "content": "기차는 오후 3시30분에 출발한다.",
                   "type": "text"
                 }
               ],
@@ -6129,7 +6239,7 @@
                     642,
                     1067
                   ],
-                  "score": 0.976,
+                  "score": 0.971,
                   "content": "기차는 7번 승강장에 들어오고 있다.",
                   "type": "text"
                 }
@@ -6180,7 +6290,7 @@
                     311,
                     176
                   ],
-                  "score": 0.865,
+                  "score": 0.871,
                   "content": "18. 빈칸에 들어갈 말로 알맞지 않은 것은?",
                   "type": "text"
                 }
@@ -6254,7 +6364,7 @@
                     392,
                     221
                   ],
-                  "score": 0.955,
+                  "score": 0.912,
                   "content": " Je suis sür que tu vas réussir.",
                   "type": "text"
                 }
@@ -6472,7 +6582,7 @@
                     283,
                     334
                   ],
-                  "score": 0.917,
+                  "score": 0.922,
                   "content": "19. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -6512,7 +6622,7 @@
                     340,
                     364
                   ],
-                  "score": 0.968,
+                  "score": 0.975,
                   "content": "A : Tu peux garder mon chien jusqu'a lundi ?",
                   "type": "text"
                 }
@@ -6547,7 +6657,7 @@
                     397,
                     381
                   ],
-                  "score": 0.945,
+                  "score": 0.947,
                   "content": "_. Mardi, je dois partir",
                   "type": "text"
                 }
@@ -6895,7 +7005,7 @@
                     384,
                     576
                   ],
-                  "score": 0.98,
+                  "score": 0.977,
                   "content": "A : Je visite la maison de Monet. Tu viens avec moi ?",
                   "type": "text"
                 }
@@ -6951,7 +7061,7 @@
                     229,
                     610
                   ],
-                  "score": 0.927,
+                  "score": 0.93,
                   "content": "A : Ce n'est pas a coté.",
                   "type": "text"
                 }
@@ -7010,7 +7120,7 @@
                     235,
                     646
                   ],
-                  "score": 0.962,
+                  "score": 0.963,
                   "content": "A : On prend ma voiture.",
                   "type": "text"
                 }
@@ -7069,7 +7179,7 @@
                     263,
                     681
                   ],
-                  "score": 0.962,
+                  "score": 0.961,
                   "content": "A : A peu prés trente minutes.",
                   "type": "text"
                 }
@@ -7184,7 +7294,7 @@
                     247,
                     745
                   ],
-                  "score": 0.95,
+                  "score": 0.938,
                   "content": "c. II faut combien de temps",
                   "type": "text"
                 }
@@ -7519,7 +7629,7 @@
                     284,
                     958
                   ],
-                  "score": 0.933,
+                  "score": 0.932,
                   "content": " Ne pas faire trop de sport",
                   "type": "text"
                 }
@@ -7565,7 +7675,7 @@
                     369,
                     992
                   ],
-                  "score": 0.956,
+                  "score": 0.945,
                   "content": " Prendre des douches plusieurs fois par jour",
                   "type": "text"
                 }
@@ -7645,7 +7755,7 @@
                     375,
                     1032
                   ],
-                  "score": 0.855,
+                  "score": 0.858,
                   "content": "밤에 창문 열어 놓기",
                   "type": "text"
                 }
@@ -7706,7 +7816,7 @@
                     391,
                     1049
                   ],
-                  "score": 0.926,
+                  "score": 0.951,
                   "content": "오전에는 외출하지 않기",
                   "type": "text"
                 }
@@ -7742,7 +7852,7 @@
                     237,
                     1067
                   ],
-                  "score": 0.983,
+                  "score": 0.987,
                   "content": "하루에 여러 번 샤워하기",
                   "type": "text"
                 }
@@ -7782,7 +7892,7 @@
                     635,
                     174
                   ],
-                  "score": 0.928,
+                  "score": 0.929,
                   "content": "22. 글에서 설명하고 있는 것은?[1점]",
                   "type": "text"
                 }
@@ -7822,7 +7932,7 @@
                     579,
                     203
                   ],
-                  "score": 0.95,
+                  "score": 0.945,
                   "content": "o C'est l'un des musées",
                   "type": "text"
                 }
@@ -8045,7 +8155,7 @@
                     747,
                     309
                   ],
-                  "score": 0.982,
+                  "score": 0.956,
                   "content": "des tableaux impressionnistes de Manet, Renoir et d'autres.",
                   "type": "text"
                 }
@@ -8243,7 +8353,7 @@
                     594,
                     392
                   ],
-                  "score": 0.976,
+                  "score": 0.979,
                   "content": "Le musée du Quai Branly",
                   "type": "text"
                 }
@@ -8301,7 +8411,7 @@
                     756,
                     463
                   ],
-                  "score": 0.877,
+                  "score": 0.891,
                   "content": "23. 대화의 내용으로 보아 밑줄 친 부분의 의미로 알맞은 것은?",
                   "type": "text"
                 }
@@ -8341,7 +8451,7 @@
                     675,
                     490
                   ],
-                  "score": 0.958,
+                  "score": 0.976,
                   "content": "A : Tu as vu le match de tennis de Noah ?",
                   "type": "text"
                 }
@@ -8436,7 +8546,7 @@
                     559,
                     561
                   ],
-                  "score": 0.992,
+                  "score": 0.994,
                   "content": "A: Ah, j'ai compris.",
                   "type": "text"
                 }
@@ -8460,7 +8570,7 @@
                     658,
                     582
                   ],
-                  "score": 0.906,
+                  "score": 0.91,
                   "content": "*doigt:손가락 * nez:코",
                   "type": "text"
                 },
@@ -8573,7 +8683,7 @@
                     562,
                     628
                   ],
-                  "score": 0.941,
+                  "score": 0.944,
                   "content": "Il a perdu le match",
                   "type": "text"
                 }
@@ -8582,12 +8692,23 @@
             },
             {
               "bbox": [
-                446,
+                444,
                 628,
                 572,
                 646
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    628,
+                    446,
+                    646
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -8681,7 +8802,7 @@
                     618,
                     680
                   ],
-                  "score": 0.929,
+                  "score": 0.939,
                   "content": "Il a gagné le match facilement",
                   "type": "text"
                 }
@@ -8691,7 +8812,7 @@
           ],
           "index": 62,
           "bbox_fs": [
-            446,
+            444,
             595,
             618,
             680
@@ -8721,7 +8842,7 @@
                     755,
                     749
                   ],
-                  "score": 0.937,
+                  "score": 0.96,
                   "content": "24.Pierre Soulages에 관한 글을 이해한 내용으로 알맞은",
                   "type": "text"
                 }
@@ -8871,7 +8992,7 @@
                     609,
                     850
                   ],
-                  "score": 0.96,
+                  "score": 0.968,
                   "content": "il s'est beaucoup servi du noir.",
                   "type": "text"
                 }
@@ -8915,7 +9036,7 @@
                     609,
                     885
                   ],
-                  "score": 0.964,
+                  "score": 0.965,
                   "content": "Dans cette ville, on trouve un",
                   "type": "text"
                 }
@@ -8937,7 +9058,7 @@
                     747,
                     902
                   ],
-                  "score": 0.962,
+                  "score": 0.955,
                   "content": "musée a son nom. En 2019, une exposition au musée du",
                   "type": "text"
                 }
@@ -9085,7 +9206,7 @@
                     651,
                     941
                   ],
-                  "score": 0.911,
+                  "score": 0.905,
                   "content": "* peintre: 화가 * ceuvre:작품",
                   "type": "text"
                 },
@@ -9181,7 +9302,7 @@
                     619,
                     987
                   ],
-                  "score": 0.956,
+                  "score": 0.964,
                   "content": "a. Il est devenu peintre en 1919.",
                   "type": "text"
                 }
@@ -9204,7 +9325,7 @@
                     645,
                     1005
                   ],
-                  "score": 0.966,
+                  "score": 0.963,
                   "content": "b. Un musée a Rodez porte son nom.",
                   "type": "text"
                 }
@@ -9228,7 +9349,7 @@
                     649,
                     1022
                   ],
-                  "score": 0.945,
+                  "score": 0.966,
                   "content": "c. Il a utilisé le noir dans ses euvres.",
                   "type": "text"
                 }
@@ -9252,7 +9373,7 @@
                     740,
                     1038
                   ],
-                  "score": 0.979,
+                  "score": 0.984,
                   "content": "d. Le musée du Louvre a refusé son exposition en 2019.",
                   "type": "text"
                 }
@@ -9347,6 +9468,17 @@
                 },
                 {
                   "bbox": [
+                    688,
+                    1051,
+                    690,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     691,
                     1053,
                     704,
@@ -9415,7 +9547,7 @@
                     407,
                     174
                   ],
-                  "score": 0.924,
+                  "score": 0.926,
                   "content": "25. Fete de la Musique에 관한 글을이해한 내용으로알맞은",
                   "type": "text"
                 }
@@ -9585,7 +9717,7 @@
                     398,
                     327
                   ],
-                  "score": 0.97,
+                  "score": 0.957,
                   "content": "La féte de la Musique a vu le jour en 1982, en France.",
                   "type": "text"
                 }
@@ -9629,7 +9761,7 @@
                     398,
                     362
                   ],
-                  "score": 0.959,
+                  "score": 0.961,
                   "content": "la musique !\", les gens sortent dans la rue pour jouer ou",
                   "type": "text"
                 }
@@ -9673,8 +9805,8 @@
                     398,
                     397
                   ],
-                  "score": 0.948,
-                  "content": "est gratuite. Aujourd'hui, cette féte s'étend a plusieurs",
+                  "score": 0.95,
+                  "content": "est gratuite. Aujourd'hui, cette fete s'étend a plusieurs",
                   "type": "text"
                 }
               ],
@@ -9735,8 +9867,8 @@
                     398,
                     434
                   ],
-                  "score": 0.944,
-                  "content": "*slogan:슬로건 *s´étendre:확대되다",
+                  "score": 0.92,
+                  "content": "*slogan:슬로건 *s´éetendre:확대되다",
                   "type": "text"
                 }
               ],
@@ -9864,7 +9996,7 @@
                     225,
                     496
                   ],
-                  "score": 0.926,
+                  "score": 0.931,
                   "content": "2년에 한 번씩 열린다.",
                   "type": "text"
                 }
@@ -9902,7 +10034,7 @@
                     273,
                     515
                   ],
-                  "score": 0.982,
+                  "score": 0.981,
                   "content": "Europe의 모든 나라가 참여한다.",
                   "type": "text"
                 }
@@ -9940,7 +10072,7 @@
                     282,
                     531
                   ],
-                  "score": 0.928,
+                  "score": 0.927,
                   "content": "슬로건이“모두 춤을 춥시다”이다.",
                   "type": "text"
                 }
@@ -10172,7 +10304,7 @@
                     328,
                     811
                   ],
-                  "score": 0.962,
+                  "score": 0.953,
                   "content": "Mia : Tu as voyagé ou pour les vacances ?",
                   "type": "text"
                 }
@@ -10196,7 +10328,7 @@
                     375,
                     828
                   ],
-                  "score": 0.963,
+                  "score": 0.964,
                   "content": "Noé : Je suis allé en Corse, au sud-est de la France.",
                   "type": "text"
                 }
@@ -10220,7 +10352,7 @@
                     398,
                     846
                   ],
-                  "score": 0.961,
+                  "score": 0.968,
                   "content": "Mia : Tu sais que Napoléon Bonaparte est né dans cette ile ?",
                   "type": "text"
                 }
@@ -10310,7 +10442,7 @@
                     398,
                     898
                   ],
-                  "score": 0.969,
+                  "score": 0.97,
                   "content": "Elles sont vraiment magnifiques ! C'est pourquoi on",
                   "type": "text"
                 }
@@ -10333,7 +10465,7 @@
                     295,
                     916
                   ],
-                  "score": 0.967,
+                  "score": 0.958,
                   "content": "appelle la Corse ile de Beauté.",
                   "type": "text"
                 }
@@ -10503,7 +10635,7 @@
                     242,
                     1004
                   ],
-                  "score": 0.948,
+                  "score": 0.93,
                   "content": "b. Ile de Beauté로 불린다.",
                   "type": "text"
                 }
@@ -10527,7 +10659,7 @@
                     242,
                     1019
                   ],
-                  "score": 0.955,
+                  "score": 0.951,
                   "content": "C.도보 여행지로 유명하다.",
                   "type": "text"
                 }
@@ -10551,7 +10683,7 @@
                     307,
                     1037
                   ],
-                  "score": 0.983,
+                  "score": 0.98,
                   "content": "d.Napoléon Bonaparte가 발견한 섬이다.",
                   "type": "text"
                 }
@@ -10613,6 +10745,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    1050,
+                    158,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     1052,
                     171,
@@ -10638,6 +10781,17 @@
                 },
                 {
                   "bbox": [
+                    217,
+                    1049,
+                    219,
+                    1070
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     219,
                     1052,
                     232,
@@ -10659,6 +10813,17 @@
                   ],
                   "score": 0.71,
                   "content": "b, c",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    278,
+                    1050,
+                    280,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -10733,7 +10898,7 @@
                     633,
                     174
                   ],
-                  "score": 0.865,
+                  "score": 0.87,
                   "content": "27. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -10784,7 +10949,7 @@
                     630,
                     203
                   ],
-                  "score": 0.977,
+                  "score": 0.978,
                   "content": "rencontres–tu ce soir ?",
                   "type": "text"
                 }
@@ -10806,7 +10971,7 @@
                     574,
                     221
                   ],
-                  "score": 0.978,
+                  "score": 0.966,
                   "content": "B : Mes amis du lycée.",
                   "type": "text"
                 }
@@ -10852,6 +11017,17 @@
                 },
                 {
                   "bbox": [
+                    504,
+                    231,
+                    506,
+                    252
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     235,
                     520,
@@ -10877,6 +11053,17 @@
                 },
                 {
                   "bbox": [
+                    566,
+                    231,
+                    568,
+                    252
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     568,
                     235,
                     581,
@@ -10898,6 +11085,17 @@
                   ],
                   "score": 0.981,
                   "content": "Quoi",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    627,
+                    231,
+                    629,
+                    252
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -11048,7 +11246,7 @@
                     584,
                     351
                   ],
-                  "score": 0.949,
+                  "score": 0.939,
                   "content": "A : Robert n'est plus la ?",
                   "type": "text"
                 }
@@ -11071,7 +11269,7 @@
                     557,
                     370
                   ],
-                  "score": 0.98,
+                  "score": 0.981,
                   "content": "B: Non, il est parti",
                   "type": "text"
                 },
@@ -11105,7 +11303,7 @@
                     639,
                     387
                   ],
-                  "score": 0.93,
+                  "score": 0.938,
                   "content": "A : J'avais quelque chose a lui dire.",
                   "type": "text"
                 }
@@ -11219,7 +11417,7 @@
                     544,
                     451
                   ],
-                  "score": 0.975,
+                  "score": 0.976,
                   "content": "c. a tout moment",
                   "type": "text"
                 },
@@ -11230,7 +11428,7 @@
                     722,
                     453
                   ],
-                  "score": 0.977,
+                  "score": 0.975,
                   "content": "d. dans quelque temps",
                   "type": "text"
                 }
@@ -11272,6 +11470,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    463,
+                    506,
+                    483
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     465,
                     520,
@@ -11308,6 +11517,17 @@
                 },
                 {
                   "bbox": [
+                    626,
+                    463,
+                    629,
+                    482
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     629,
                     465,
                     642,
@@ -11329,6 +11549,17 @@
                   ],
                   "score": 0.889,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    688,
+                    464,
+                    690,
+                    482
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -11450,7 +11681,7 @@
                     596,
                     583
                   ],
-                  "score": 0.947,
+                  "score": 0.931,
                   "content": "a. Elle s'est mise a sourire.",
                   "type": "text"
                 }
@@ -11497,7 +11728,7 @@
                     626,
                     618
                   ],
-                  "score": 0.948,
+                  "score": 0.926,
                   "content": "c. Ils se sont rappelé l'un l'autre.",
                   "type": "text"
                 }
@@ -11583,6 +11814,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    646,
+                    506,
+                    666
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     649,
                     520,
@@ -11619,6 +11861,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    646,
+                    629,
+                    665
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     629,
                     649,
                     642,
@@ -11640,6 +11893,17 @@
                   ],
                   "score": 0.879,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    688,
+                    647,
+                    690,
+                    665
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -11765,7 +12029,7 @@
                     734,
                     784
                   ],
-                  "score": 0.955,
+                  "score": 0.965,
                   "content": "a. Tu veux ce chocolat ? – Oui, je le prends une boite.",
                   "type": "text"
                 }
@@ -11882,6 +12146,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    830,
+                    629,
+                    850
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     630,
                     833,
                     642,
@@ -11903,6 +12178,17 @@
                   ],
                   "score": 0.637,
                   "content": "b, c",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    689,
+                    831,
+                    690,
+                    849
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -12048,5 +12334,5 @@
     }
   ],
   "_backend": "pipeline",
-  "_version_name": "2.5.4"
+  "_version_name": "2.6.2"
 }

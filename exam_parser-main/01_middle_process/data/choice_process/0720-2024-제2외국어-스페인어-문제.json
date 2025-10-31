@@ -59,18 +59,15 @@
     "page_idx": 0
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "PELIGRO ESTAMOS EN OBRAS",
     "bbox": [
-      142,
-      291,
-      239,
-      394
+      145,
+      360,
+      237,
+      392
     ],
-    "page_idx": 0,
-    "image_path": "1ad97393b3a62dee014b59375386c126b0b9fdda93c3becd5eeef1cc2f7ae2bd.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 0
   },
   {
     "type": "text",
@@ -129,7 +126,7 @@
   },
   {
     "type": "text",
-    "text": "2. 에 들어갈 글자를 모두 조합하여 만들 수 있는 낱말은?",
+    "text": "ㄹ. 에 들어갈 글자를 모두 조합하여 만들 수 있는 낱말은?",
     "bbox": [
       85,
       457,
@@ -140,7 +137,7 @@
   },
   {
     "type": "text",
-    "text": "7.빈칸에 들어갈 말로 알맞은 것은?",
+    "text": "ㄱ.빈칸에 들어갈 말로 알맞은 것은?",
     "bbox": [
       434,
       433,
@@ -151,55 +148,22 @@
   },
   {
     "type": "text",
-    "text": "A: Perdone, idónde hay una farmacia por aqu?",
-    "bbox": [
-      454,
-      463,
-      696,
-      480
-    ],
-    "page_idx": 0
-  },
-  {
-    "type": "text",
-    "text": "B: Siga todo recto y en la primera calle. Alli, en la esquina, hay una farmacia.",
-    "bbox": [
-      454,
-      482,
-      747,
-      514
-    ],
-    "page_idx": 0
-  },
-  {
-    "type": "text",
-    "text": "A: Gracias. Muy amable.",
-    "bbox": [
-      455,
-      517,
-      581,
-      532
-    ],
-    "page_idx": 0
-  },
-  {
-    "type": "text",
-    "text": "ga abri patos camisea ① gato ② ㄴago ③ nube ④ pera ⑤ rosa",
+    "text": "① gato ② ㄴago ③ nube ④ pera ⑤ rosa",
     "bbox": [
       97,
-      534,
-      398,
+      560,
+      384,
       583
     ],
     "page_idx": 0
   },
   {
     "type": "text",
-    "text": "3.빈칸에 공통으로 들어갈 말로 알맞은 것은? [1점]",
+    "text": "3.빈칸에 공통으로 들어갈 말로 알맞은 것은? [1점] ga abri patos camisea",
     "bbox": [
       85,
-      626,
-      352,
+      534,
+      398,
       644
     ],
     "page_idx": 0
@@ -327,6 +291,39 @@
   },
   {
     "type": "text",
+    "text": "A: Perdone, idónde hay una farmacia por aqu?",
+    "bbox": [
+      454,
+      463,
+      696,
+      480
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "B: Siga todo recto y en la primera calle. Alli, en la esquina, hay una farmacia.",
+    "bbox": [
+      454,
+      482,
+      747,
+      514
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A: Gracias. Muy amable.",
+    "bbox": [
+      455,
+      517,
+      581,
+      532
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
     "text": "① no soy de aqui ② gire a la derecha ③ ㄴevántese temprano ④ me cuesta mucho andar ⑤ quiero hacer una reserva",
     "bbox": [
       446,
@@ -415,7 +412,7 @@
   },
   {
     "type": "text",
-    "text": "a. claro b. silencio c. imposible d. por supuesto ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a. claro b. silencio ㄷ. imposible d. por supuesto ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
       446,
       742,
@@ -462,7 +459,7 @@
   },
   {
     "type": "text",
-    "text": "10. 빈칸에 들어갈 말로 알맞은 것은?",
+    "text": "10.빈칸에 들어갈 말로 알맞은 것은?",
     "bbox": [
       85,
       156,
@@ -726,7 +723,7 @@
   },
   {
     "type": "text",
-    "text": "a. qué hace b. qué tiene c. qué prefiere d. en qué trabaja ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a. qué hace b. qué tiene ㄷ. qué prefiere d. en qué trabaja ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
       97,
       1006,
@@ -1021,7 +1018,7 @@
   },
   {
     "type": "text",
-    "text": "18.빈칸에 들어갈 말로 알맞은것을<보기",
+    "text": "18.빈칸에 들어갈 말로알맞은것을<보기",
     "bbox": [
       87,
       447,
@@ -1131,7 +1128,7 @@
   },
   {
     "type": "text",
-    "text": "a. Cual le interesa b. Qué horario tiene c. En qué puedo servirle",
+    "text": "a. Cual le interesa b. Qué horario tiene ㄷ. En qué puedo servirle",
     "bbox": [
       104,
       628,
@@ -1574,7 +1571,7 @@
   },
   {
     "type": "text",
-    "text": "c.화가의 모습이 거울 속에 등장한다.",
+    "text": "ㄷ.화가의 모습이 거울 속에 등장한다.",
     "bbox": [
       453,
       1006,
@@ -1785,20 +1782,6 @@
     "page_idx": 3
   },
   {
-    "type": "image",
-    "bbox": [
-      103,
-      790,
-      219,
-      874
-    ],
-    "page_idx": 3,
-    "image_path": "1f11ee00b47edb076ed5b6d8d136586c5d015d2e9bd226f4fe7adc04c7b11a06.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "Es una obra maestra de la ingeniería romana. Se encuentra en la ciudad de Segovia, España.",
     "bbox": [
@@ -1828,17 +1811,6 @@
       917,
       377,
       930
-    ],
-    "page_idx": 3
-  },
-  {
-    "type": "text",
-    "text": ".",
-    "bbox": [
-      378,
-      917,
-      380,
-      931
     ],
     "page_idx": 3
   },

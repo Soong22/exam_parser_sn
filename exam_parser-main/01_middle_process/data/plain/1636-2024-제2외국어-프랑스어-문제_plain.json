@@ -86,7 +86,7 @@
                     707,
                     200
                   ],
-                  "score": 0.983,
+                  "score": 0.981,
                   "content": "제2외국어/한문 영역(프랑스어 I)",
                   "type": "text"
                 }
@@ -210,8 +210,8 @@
                     373,
                     272
                   ],
-                  "score": 0.93,
-                  "content": "1. 밑줄 친 부분과 같은 발음이 들어 있는 낱말은?[1점]",
+                  "score": 0.916,
+                  "content": "1. 밑줄 친 부분과 같은 발음이 들어 있는 낱말은? [1점]",
                   "type": "text"
                 }
               ],
@@ -418,7 +418,7 @@
             {
               "bbox": [
                 308,
-                321,
+                320,
                 358,
                 337
               ],
@@ -436,6 +436,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    321,
+                    320,
+                    323,
+                    336
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -489,12 +500,23 @@
             },
             {
               "bbox": [
-                308,
+                306,
                 353,
                 372,
                 372
               ],
               "spans": [
+                {
+                  "bbox": [
+                    306,
+                    353,
+                    307,
+                    372
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     308,
@@ -526,7 +548,7 @@
           ],
           "index": 12,
           "bbox_fs": [
-            308,
+            306,
             285,
             372,
             372
@@ -556,8 +578,8 @@
                     395,
                     448
                   ],
-                  "score": 0.861,
-                  "content": "2. 에 들어갈 글자를 모두 조합하여 만들 수있는 낱말은?",
+                  "score": 0.85,
+                  "content": "2. 에 들어갈 글자를 모두 조합하여 만들 수 있는 낱말은?",
                   "type": "text"
                 }
               ],
@@ -729,6 +751,17 @@
                 },
                 {
                   "bbox": [
+                    217,
+                    538,
+                    219,
+                    557
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     219,
                     541,
                     232,
@@ -754,6 +787,17 @@
                 },
                 {
                   "bbox": [
+                    278,
+                    537,
+                    280,
+                    557
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     281,
                     541,
                     293,
@@ -775,6 +819,17 @@
                   ],
                   "score": 0.998,
                   "content": "main",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    538,
+                    342,
+                    557
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -922,7 +977,7 @@
                     232,
                     684
                   ],
-                  "score": 0.912,
+                  "score": 0.901,
                   "content": "Il faut y aller a tout",
                   "type": "text"
                 }
@@ -982,6 +1037,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    694,
+                    158,
+                    714
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     697,
                     171,
@@ -1007,6 +1073,17 @@
                 },
                 {
                   "bbox": [
+                    217,
+                    694,
+                    219,
+                    714
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     219,
                     698,
                     232,
@@ -1028,6 +1105,17 @@
                   ],
                   "score": 0.943,
                   "content": "prix",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    278,
+                    694,
+                    280,
+                    714
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1156,7 +1244,7 @@
                     230,
                     806
                   ],
-                  "score": 0.944,
+                  "score": 0.923,
                   "content": "A : Ca va prendre une",
                   "type": "text"
                 },
@@ -1167,7 +1255,7 @@
                     398,
                     806
                   ],
-                  "score": 0.935,
+                  "score": 0.938,
                   "content": "demi-journée pour aller",
                   "type": "text"
                 }
@@ -1189,7 +1277,7 @@
                     270,
                     823
                   ],
-                  "score": 0.978,
+                  "score": 0.982,
                   "content": "jusqu'a Marseille en voiture.",
                   "type": "text"
                 }
@@ -1222,7 +1310,7 @@
                     397,
                     839
                   ],
-                  "score": 0.986,
+                  "score": 0.982,
                   "content": "heure demain matin.",
                   "type": "text"
                 }
@@ -1456,7 +1544,7 @@
                     354,
                     965
                   ],
-                  "score": 0.897,
+                  "score": 0.896,
                   "content": " Ce beau temps nous  (a)  a la promenade.",
                   "type": "text"
                 }
@@ -1479,7 +1567,7 @@
                     339,
                     984
                   ],
-                  "score": 0.895,
+                  "score": 0.904,
                   "content": " Suivez–moi, je vous  (b)  a votre table.",
                   "type": "text"
                 }
@@ -2026,7 +2114,7 @@
                     756,
                     435
                   ],
-                  "score": 0.924,
+                  "score": 0.926,
                   "content": "7.대화의 내용으로 보아 Elsa가 할 일을<보기>에서 찾아",
                   "type": "text"
                 }
@@ -2136,7 +2224,7 @@
                     747,
                     517
                   ],
-                  "score": 0.969,
+                  "score": 0.947,
                   "content": "Mére : Je travaille tard ce soir. Tu peux aller chercher ta",
                   "type": "text"
                 }
@@ -2159,7 +2247,7 @@
                     747,
                     534
                   ],
-                  "score": 0.961,
+                  "score": 0.926,
                   "content": "soeur a l'école ? Aprés, passez a la boulangerie pour",
                   "type": "text"
                 }
@@ -2181,7 +2269,7 @@
                     735,
                     551
                   ],
-                  "score": 0.985,
+                  "score": 0.981,
                   "content": "acheter du pain, et puis vous dinez a la maison.",
                   "type": "text"
                 }
@@ -2512,7 +2600,7 @@
                     605,
                     791
                   ],
-                  "score": 0.94,
+                  "score": 0.939,
                   "content": "A : Tu as mal quelque part ?",
                   "type": "text"
                 },
@@ -2545,7 +2633,7 @@
                     720,
                     808
                   ],
-                  "score": 0.97,
+                  "score": 0.969,
                   "content": "B : J'ai mal a la jambe. J'ai couru et je suis tombé.",
                   "type": "text"
                 }
@@ -2721,8 +2809,8 @@
                     595,
                     872
                   ],
-                  "score": 0.952,
-                  "content": "Qu'est-ce qui t'est arrivé",
+                  "score": 0.955,
+                  "content": "Qu'estce qui t'est arrivé",
                   "type": "text"
                 }
               ],
@@ -2761,7 +2849,7 @@
                     623,
                     907
                   ],
-                  "score": 0.87,
+                  "score": 0.871,
                   "content": "9. 빈간에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -2869,7 +2957,7 @@
                     724,
                     943
                   ],
-                  "score": 0.978,
+                  "score": 0.971,
                   "content": "A : Bonjour, j'aimerais visiter Nantes.",
                   "type": "text"
                 }
@@ -3166,7 +3254,7 @@
                     298,
                     176
                   ],
-                  "score": 0.913,
+                  "score": 0.929,
                   "content": "10. SNS에서 언급되지 않은 것은?[1점]",
                   "type": "text"
                 }
@@ -3302,7 +3390,7 @@
                     304,
                     239
                   ],
-                  "score": 0.965,
+                  "score": 0.944,
                   "content": "y habiter a partir du",
                   "type": "text"
                 },
@@ -3388,7 +3476,7 @@
                     349,
                     284
                   ],
-                  "score": 0.947,
+                  "score": 0.945,
                   "content": "o Vue sur le parc Montsouris",
                   "type": "text"
                 }
@@ -3434,7 +3522,7 @@
                     397,
                     300
                   ],
-                  "score": 0.911,
+                  "score": 0.912,
                   "content": "et trés claire avec une",
                   "type": "text"
                 }
@@ -3514,6 +3602,17 @@
                   ],
                   "score": 0.993,
                   "content": "방의전망",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    197,
+                    355,
+                    199,
+                    373
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -3663,8 +3762,8 @@
                     316,
                     444
                   ],
-                  "score": 0.914,
-                  "content": "11.빈간에들어갈말로알맞은것만을<보기",
+                  "score": 0.901,
+                  "content": "11.빈간에 들어갈말로알맞은것만을<보기",
                   "type": "text"
                 },
                 {
@@ -3747,7 +3846,7 @@
                     241,
                     491
                   ],
-                  "score": 0.971,
+                  "score": 0.974,
                   "content": "B : Oui, plus de deux ans.",
                   "type": "text"
                 }
@@ -3802,7 +3901,7 @@
                     262,
                     524
                   ],
-                  "score": 0.957,
+                  "score": 0.976,
                   "content": "A : Moi, j'ai changé de travail.",
                   "type": "text"
                 }
@@ -3893,7 +3992,7 @@
                     391,
                     573
                   ],
-                  "score": 0.983,
+                  "score": 0.982,
                   "content": "b. comment tu le trouves",
                   "type": "text"
                 }
@@ -3915,7 +4014,7 @@
                     249,
                     590
                   ],
-                  "score": 0.936,
+                  "score": 0.927,
                   "content": "c. qu'est–ce que tu deviens",
                   "type": "text"
                 },
@@ -3927,7 +4026,7 @@
                     590
                   ],
                   "score": 0.941,
-                  "content": "d. qu'est–ce que tu en dis",
+                  "content": "d. qu'est-ce que tu en dis",
                   "type": "text"
                 }
               ],
@@ -3968,6 +4067,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    602,
+                    158,
+                    621
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     604,
                     171,
@@ -3989,6 +4099,17 @@
                   ],
                   "score": 0.604,
                   "content": "a, c",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    218,
+                    601,
+                    219,
+                    621
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -4018,6 +4139,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    601,
+                    280,
+                    620
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     603,
                     294,
@@ -4039,6 +4171,17 @@
                   ],
                   "score": 0.899,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    601,
+                    342,
+                    621
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -4120,7 +4263,7 @@
                     284,
                     672
                   ],
-                  "score": 0.873,
+                  "score": 0.87,
                   "content": "12. 빈간에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -4160,7 +4303,7 @@
                     397,
                     702
                   ],
-                  "score": 0.974,
+                  "score": 0.971,
                   "content": "A : Allo ? Je voudrais réserver une table pour demain midi.",
                   "type": "text"
                 }
@@ -4216,7 +4359,7 @@
                     226,
                     736
                   ],
-                  "score": 0.962,
+                  "score": 0.976,
                   "content": "A : Nous sommes trois.",
                   "type": "text"
                 }
@@ -4434,7 +4577,7 @@
                     368,
                     855
                   ],
-                  "score": 0.907,
+                  "score": 0.905,
                   "content": "13. Pau의 개인 방송을 이해한 내용으로 알맞은 것은?",
                   "type": "text"
                 }
@@ -4542,7 +4685,7 @@
                     398,
                     882
                   ],
-                  "score": 0.988,
+                  "score": 0.989,
                   "content": "Salut, mes amis coréens ! C'est Paul. Me",
                   "type": "text"
                 }
@@ -4586,7 +4729,7 @@
                     398,
                     918
                   ],
-                  "score": 0.968,
+                  "score": 0.977,
                   "content": "a la tour Eiffel ce soir. Paris est encore",
                   "type": "text"
                 }
@@ -4608,7 +4751,7 @@
                     397,
                     934
                   ],
-                  "score": 0.97,
+                  "score": 0.969,
                   "content": "plus beau la nuit. Cet aprés–midi,",
                   "type": "text"
                 }
@@ -4630,7 +4773,7 @@
                     397,
                     951
                   ],
-                  "score": 0.983,
+                  "score": 0.988,
                   "content": "chocolat chaud au café de Flore et visite",
                   "type": "text"
                 }
@@ -4706,7 +4849,7 @@
                     248,
                     996
                   ],
-                  "score": 0.932,
+                  "score": 0.947,
                   "content": "Paris를 처음으로 방문했다.",
                   "type": "text"
                 }
@@ -4743,7 +4886,7 @@
                     268,
                     1014
                   ],
-                  "score": 0.944,
+                  "score": 0.928,
                   "content": "Tour Eiffel에서 방금 내려왔다.",
                   "type": "text"
                 }
@@ -4781,7 +4924,7 @@
                     279,
                     1032
                   ],
-                  "score": 0.952,
+                  "score": 0.943,
                   "content": "Musée d'Orsay를 관람할 것이다.",
                   "type": "text"
                 }
@@ -4819,7 +4962,7 @@
                     308,
                     1049
                   ],
-                  "score": 0.937,
+                  "score": 0.939,
                   "content": "Café de Flore에서 커피를 마실 것이다.",
                   "type": "text"
                 }
@@ -4857,7 +5000,7 @@
                     327,
                     1067
                   ],
-                  "score": 0.963,
+                  "score": 0.931,
                   "content": "Paris는 밤보다 낮이 더 아름답다고 말했다.",
                   "type": "text"
                 }
@@ -4899,8 +5042,8 @@
                     632,
                     174
                   ],
-                  "score": 0.868,
-                  "content": "14. 빈간에 들어갈 말로 알맞은 것은?",
+                  "score": 0.864,
+                  "content": "14. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
@@ -5263,7 +5406,7 @@
                     592,
                     477
                   ],
-                  "score": 0.965,
+                  "score": 0.96,
                   "content": "Quelle jupe me va mieux",
                   "type": "text"
                 }
@@ -5303,7 +5446,7 @@
                     688,
                     542
                   ],
-                  "score": 0.892,
+                  "score": 0.893,
                   "content": "15. 빈칸에 들어갈 말로 알맞지 않은 것은?[1점]",
                   "type": "text"
                 }
@@ -5433,7 +5576,7 @@
                     730,
                     603
                   ],
-                  "score": 0.988,
+                  "score": 0.981,
                   "content": "B : C'est ton cadeau d'anniversaire.",
                   "type": "text"
                 }
@@ -5671,7 +5814,7 @@
                     661,
                     765
                   ],
-                  "score": 0.881,
+                  "score": 0.885,
                   "content": "16. 빈칸에 들어갈 말로 알맞은 것은?[1점]",
                   "type": "text"
                 }
@@ -5946,7 +6089,7 @@
                     707,
                     941
                   ],
-                  "score": 0.923,
+                  "score": 0.924,
                   "content": "17. 밑줄 친 부분과 의미상 바꾸어 쓸 수 있는 것은?",
                   "type": "text"
                 }
@@ -5986,7 +6129,7 @@
                     644,
                     969
                   ],
-                  "score": 0.917,
+                  "score": 0.921,
                   "content": "Mére : Qu'est–ce qu'on offre a Léo ?",
                   "type": "text"
                 }
@@ -6030,7 +6173,7 @@
                     611,
                     1004
                   ],
-                  "score": 0.95,
+                  "score": 0.953,
                   "content": "Mere : Non, certainement pas!",
                   "type": "text"
                 }
@@ -6363,7 +6506,7 @@
                     353,
                     203
                   ],
-                  "score": 0.973,
+                  "score": 0.934,
                   "content": "A : Alors, le plat vous a plu ?",
                   "type": "text"
                 }
@@ -6385,8 +6528,8 @@
                     329,
                     220
                   ],
-                  "score": 0.955,
-                  "content": "B : Oui, c'était trés bon!",
+                  "score": 0.973,
+                  "content": "B: Oui, c'était trés bon!",
                   "type": "text"
                 }
               ],
@@ -6602,7 +6745,7 @@
                     401,
                     319
                   ],
-                  "score": 0.963,
+                  "score": 0.964,
                   "content": "Vous désirez autre chose",
                   "type": "text"
                 }
@@ -6638,7 +6781,7 @@
                     235,
                     337
                   ],
-                  "score": 0.942,
+                  "score": 0.947,
                   "content": "Que me conseillez-vous",
                   "type": "text"
                 }
@@ -6762,7 +6905,7 @@
                     333,
                     455
                   ],
-                  "score": 0.958,
+                  "score": 0.964,
                   "content": "A : Tu comptes faire quoi aprés tes études ?",
                   "type": "text"
                 }
@@ -6831,7 +6974,7 @@
                     250,
                     507
                   ],
-                  "score": 0.959,
+                  "score": 0.956,
                   "content": "Tu sais comment faire ?",
                   "type": "text"
                 }
@@ -7164,7 +7307,7 @@
                     340,
                     742
                   ],
-                  "score": 0.859,
+                  "score": 0.858,
                   "content": "20. 빈간에 들어갈 말로 알맞지 않은 것은? [1점]",
                   "type": "text"
                 }
@@ -7204,7 +7347,7 @@
                     348,
                     770
                   ],
-                  "score": 0.971,
+                  "score": 0.972,
                   "content": "A : Quel match formidable hier soir ! J'ai adoré.",
                   "type": "text"
                 }
@@ -7453,7 +7596,7 @@
                     284,
                     923
                   ],
-                  "score": 0.885,
+                  "score": 0.884,
                   "content": "21. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -7493,8 +7636,8 @@
                     374,
                     952
                   ],
-                  "score": 0.985,
-                  "content": "A : Bonjour, madame. Vous cherchez quelque chose?",
+                  "score": 0.977,
+                  "content": "A : Bonjour, madame. Vous cherchez quelque chose ?",
                   "type": "text"
                 }
               ],
@@ -7515,7 +7658,7 @@
                     398,
                     970
                   ],
-                  "score": 0.977,
+                  "score": 0.97,
                   "content": "B : Oui, je voudrais acheter un nouvel ordinateur portable.",
                   "type": "text"
                 }
@@ -7688,7 +7831,7 @@
                     225,
                     1051
                   ],
-                  "score": 0.94,
+                  "score": 0.948,
                   "content": "Je vous dois combien",
                   "type": "text"
                 },
@@ -7713,7 +7856,7 @@
                     388,
                     1051
                   ],
-                  "score": 0.943,
+                  "score": 0.911,
                   "content": "Vous en avez combien",
                   "type": "text"
                 }
@@ -7749,7 +7892,7 @@
                     258,
                     1068
                   ],
-                  "score": 0.974,
+                  "score": 0.973,
                   "content": "Vous voulez mettre combien",
                   "type": "text"
                 }
@@ -7789,7 +7932,7 @@
                     635,
                     174
                   ],
-                  "score": 0.927,
+                  "score": 0.93,
                   "content": "22. 글에서 설명하고 있는 것은?[1점]",
                   "type": "text"
                 }
@@ -7811,8 +7954,8 @@
                     628,
                     204
                   ],
-                  "score": 0.877,
-                  "content": "o C'est  une des  fétes les plus",
+                  "score": 0.866,
+                  "content": "o C'est  une des fétes les plus",
                   "type": "text"
                 }
               ],
@@ -7833,7 +7976,7 @@
                     620,
                     221
                   ],
-                  "score": 0.977,
+                  "score": 0.98,
                   "content": "importantes pour les Francais.",
                   "type": "text"
                 }
@@ -7855,7 +7998,7 @@
                     628,
                     239
                   ],
-                  "score": 0.917,
+                  "score": 0.919,
                   "content": " Pour cette féte, on décore la",
                   "type": "text"
                 }
@@ -7877,7 +8020,7 @@
                     613,
                     255
                   ],
-                  "score": 0.945,
+                  "score": 0.946,
                   "content": "ville et on ouvre un marché.",
                   "type": "text"
                 }
@@ -7899,12 +8042,12 @@
                     628,
                     272
                   ],
-                  "score": 0.957,
+                  "score": 0.959,
                   "content": "Le plus ancien est celui de",
                   "type": "text"
                 }
               ],
-              "index": 44
+              "index": 45
             },
             {
               "bbox": [
@@ -7926,7 +8069,7 @@
                   "type": "text"
                 }
               ],
-              "index": 45
+              "index": 46
             }
           ],
           "index": 39,
@@ -7956,72 +8099,44 @@
           "lines_deleted": true
         },
         {
-          "type": "image",
+          "type": "text",
           "bbox": [
             632,
             190,
             747,
             267
           ],
-          "blocks": [
+          "lines": [
             {
-              "type": "image_body",
               "bbox": [
-                632,
-                190,
-                747,
-                267
+                636,
+                227,
+                741,
+                266
               ],
-              "group_id": 1,
-              "lines": [
+              "spans": [
                 {
                   "bbox": [
-                    632,
-                    190,
-                    747,
-                    267
+                    636,
+                    227,
+                    741,
+                    266
                   ],
-                  "spans": [
-                    {
-                      "bbox": [
-                        632,
-                        190,
-                        747,
-                        267
-                      ],
-                      "score": 0.938,
-                      "type": "image",
-                      "image_path": "690a19267b4ff4e278a1786b1db5e360dda65287c7e4a8ffe83490041481ee08.jpg"
-                    }
-                  ]
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 46.5,
-              "virtual_lines": [
-                {
-                  "bbox": [
-                    632,
-                    190,
-                    747,
-                    228.5
-                  ],
-                  "spans": [],
-                  "index": 46
-                },
-                {
-                  "bbox": [
-                    632,
-                    228.5,
-                    747,
-                    267.0
-                  ],
-                  "spans": [],
-                  "index": 47
-                }
-              ]
+              "index": 44
             }
           ],
-          "index": 46.5
+          "index": 44,
+          "bbox_fs": [
+            636,
+            227,
+            741,
+            266
+          ]
         },
         {
           "type": "text",
@@ -8047,15 +8162,15 @@
                     660,
                     309
                   ],
-                  "score": 0.944,
+                  "score": 0.934,
                   "content": "Cette fete est le vingt-cinq décembre.",
                   "type": "text"
                 }
               ],
-              "index": 48
+              "index": 47
             }
           ],
-          "index": 48,
+          "index": 47,
           "bbox_fs": [
             456,
             290,
@@ -8092,10 +8207,10 @@
                   "type": "text"
                 }
               ],
-              "index": 49
+              "index": 48
             }
           ],
-          "index": 49,
+          "index": 48,
           "bbox_fs": [
             655,
             314,
@@ -8171,7 +8286,7 @@
                   "type": "text"
                 }
               ],
-              "index": 50
+              "index": 49
             },
             {
               "bbox": [
@@ -8232,7 +8347,7 @@
                   "type": "text"
                 }
               ],
-              "index": 51
+              "index": 50
             },
             {
               "bbox": [
@@ -8268,10 +8383,10 @@
                   "type": "text"
                 }
               ],
-              "index": 52
+              "index": 51
             }
           ],
-          "index": 51,
+          "index": 50,
           "bbox_fs": [
             446,
             340,
@@ -8303,12 +8418,12 @@
                     756,
                     437
                   ],
-                  "score": 0.94,
+                  "score": 0.943,
                   "content": "23. Les Frigos solidaires에 관한 대화를 이해한 내용으로",
                   "type": "text"
                 }
               ],
-              "index": 53
+              "index": 52
             },
             {
               "bbox": [
@@ -8352,10 +8467,10 @@
                   "type": "text"
                 }
               ],
-              "index": 54
+              "index": 53
             }
           ],
-          "index": 53.5,
+          "index": 52.5,
           "bbox_fs": [
             434,
             419,
@@ -8387,12 +8502,12 @@
                     694,
                     484
                   ],
-                  "score": 0.959,
+                  "score": 0.946,
                   "content": "A : Qu'est–ce que c'est, ce frigo devant le",
                   "type": "text"
                 }
               ],
-              "index": 55,
+              "index": 54,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8416,7 +8531,7 @@
                   "type": "text"
                 }
               ],
-              "index": 56,
+              "index": 55,
               "is_list_end_line": true
             },
             {
@@ -8450,7 +8565,7 @@
                   "type": "text"
                 }
               ],
-              "index": 57
+              "index": 56
             },
             {
               "bbox": [
@@ -8472,7 +8587,7 @@
                   "type": "text"
                 }
               ],
-              "index": 58
+              "index": 57
             },
             {
               "bbox": [
@@ -8505,7 +8620,7 @@
                   "type": "text"
                 }
               ],
-              "index": 59,
+              "index": 58,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8529,7 +8644,7 @@
                   "type": "text"
                 }
               ],
-              "index": 60
+              "index": 59
             },
             {
               "bbox": [
@@ -8546,12 +8661,12 @@
                     668,
                     552
                   ],
-                  "score": 0.972,
+                  "score": 0.975,
                   "content": "A : Méme quand le restaurant est fermé ?",
                   "type": "text"
                 }
               ],
-              "index": 61,
+              "index": 60,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8575,7 +8690,7 @@
                   "type": "text"
                 }
               ],
-              "index": 62,
+              "index": 61,
               "is_list_start_line": true
             },
             {
@@ -8593,12 +8708,12 @@
                     734,
                     588
                   ],
-                  "score": 0.988,
+                  "score": 0.967,
                   "content": "sur 24 et 7 jours sur 7. Ca aide beaucoup de gens.",
                   "type": "text"
                 }
               ],
-              "index": 63
+              "index": 62
             },
             {
               "bbox": [
@@ -8626,7 +8741,7 @@
                     673,
                     608
                   ],
-                  "score": 0.96,
+                  "score": 0.958,
                   "content": "solidaire :함께하는",
                   "type": "text"
                 },
@@ -8653,10 +8768,10 @@
                   "type": "text"
                 }
               ],
-              "index": 64
+              "index": 63
             }
           ],
-          "index": 59.5,
+          "index": 58.5,
           "bbox_fs": [
             453,
             470,
@@ -8693,10 +8808,10 @@
                   "type": "text"
                 }
               ],
-              "index": 65
+              "index": 64
             }
           ],
-          "index": 65,
+          "index": 64,
           "bbox_fs": [
             575,
             621,
@@ -8728,12 +8843,12 @@
                     594,
                     655
                   ],
-                  "score": 0.974,
+                  "score": 0.962,
                   "content": "a. C'est fermé le dimanche.",
                   "type": "text"
                 }
               ],
-              "index": 66,
+              "index": 65,
               "is_list_end_line": true
             },
             {
@@ -8751,12 +8866,12 @@
                     620,
                     673
                   ],
-                  "score": 0.973,
+                  "score": 0.972,
                   "content": "b. On peut l'utiliser jour et nuit.",
                   "type": "text"
                 }
               ],
-              "index": 67,
+              "index": 66,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8775,12 +8890,12 @@
                     703,
                     690
                   ],
-                  "score": 0.972,
+                  "score": 0.973,
                   "content": "c. C'est seulement pour les clients du restaurant.",
                   "type": "text"
                 }
               ],
-              "index": 68,
+              "index": 67,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8799,17 +8914,17 @@
                     721,
                     708
                   ],
-                  "score": 0.975,
+                  "score": 0.972,
                   "content": "d. Les gens peuvent prendre ou laisser des aliments.",
                   "type": "text"
                 }
               ],
-              "index": 69,
+              "index": 68,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 67.5,
+          "index": 66.5,
           "bbox_fs": [
             453,
             642,
@@ -8861,6 +8976,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    719,
+                    506,
+                    740
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     722,
                     520,
@@ -8897,6 +9023,17 @@
                 },
                 {
                   "bbox": [
+                    626,
+                    719,
+                    629,
+                    738
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     630,
                     722,
                     642,
@@ -8918,6 +9055,17 @@
                   ],
                   "score": 0.889,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    688,
+                    720,
+                    690,
+                    738
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -8946,10 +9094,10 @@
                   "type": "text"
                 }
               ],
-              "index": 70
+              "index": 69
             }
           ],
-          "index": 70,
+          "index": 69,
           "bbox_fs": [
             446,
             719,
@@ -8981,15 +9129,15 @@
                     727,
                     783
                   ],
-                  "score": 0.924,
+                  "score": 0.928,
                   "content": "24. Montreal에 관한 글을 이해한 내용으로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 71
+              "index": 70
             }
           ],
-          "index": 71,
+          "index": 70,
           "bbox_fs": [
             435,
             763,
@@ -9038,7 +9186,7 @@
                   ]
                 }
               ],
-              "index": 73.5,
+              "index": 72.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -9048,7 +9196,7 @@
                     825.0
                   ],
                   "spans": [],
-                  "index": 72
+                  "index": 71
                 },
                 {
                   "bbox": [
@@ -9058,12 +9206,12 @@
                     860.0
                   ],
                   "spans": [],
-                  "index": 75
+                  "index": 74
                 }
               ]
             }
           ],
-          "index": 73.5
+          "index": 72.5
         },
         {
           "type": "text",
@@ -9094,7 +9242,7 @@
                   "type": "text"
                 }
               ],
-              "index": 73
+              "index": 72
             },
             {
               "bbox": [
@@ -9111,12 +9259,12 @@
                     748,
                     829
                   ],
-                  "score": 0.878,
-                  "content": "Canada  apreés  Toronto  par  sa",
+                  "score": 0.845,
+                  "content": "Canada   apreés   Toronto  par   sa",
                   "type": "text"
                 }
               ],
-              "index": 74
+              "index": 73
             },
             {
               "bbox": [
@@ -9138,7 +9286,7 @@
                   "type": "text"
                 }
               ],
-              "index": 76
+              "index": 75
             },
             {
               "bbox": [
@@ -9160,10 +9308,10 @@
                   "type": "text"
                 }
               ],
-              "index": 77
+              "index": 76
             }
           ],
-          "index": 75.0,
+          "index": 74.0,
           "bbox_fs": [
             569,
             795,
@@ -9200,7 +9348,7 @@
                   "type": "text"
                 }
               ],
-              "index": 78
+              "index": 77
             },
             {
               "bbox": [
@@ -9222,7 +9370,7 @@
                   "type": "text"
                 }
               ],
-              "index": 79
+              "index": 78
             },
             {
               "bbox": [
@@ -9239,12 +9387,12 @@
                     748,
                     915
                   ],
-                  "score": 0.942,
+                  "score": 0.943,
                   "content": "Par exemple, en été, on peut voir un festival de jazz et",
                   "type": "text"
                 }
               ],
-              "index": 80
+              "index": 79
             },
             {
               "bbox": [
@@ -9261,15 +9409,15 @@
                     732,
                     932
                   ],
-                  "score": 0.985,
+                  "score": 0.977,
                   "content": "en hiver, Igloofest, un festival de musique électronique.",
                   "type": "text"
                 }
               ],
-              "index": 81
+              "index": 80
             }
           ],
-          "index": 79.5,
+          "index": 78.5,
           "bbox_fs": [
             453,
             865,
@@ -9301,7 +9449,7 @@
                     614,
                     952
                   ],
-                  "score": 0.939,
+                  "score": 0.942,
                   "content": "* population :인구",
                   "type": "text"
                 },
@@ -9323,12 +9471,12 @@
                     747,
                     952
                   ],
-                  "score": 0.996,
+                  "score": 0.995,
                   "content": "francophone:프랑스어권의",
                   "type": "text"
                 }
               ],
-              "index": 82
+              "index": 81
             },
             {
               "bbox": [
@@ -9345,15 +9493,15 @@
                     746,
                     969
                   ],
-                  "score": 0.982,
+                  "score": 0.984,
                   "content": "*électronique:전자의",
                   "type": "text"
                 }
               ],
-              "index": 83
+              "index": 82
             }
           ],
-          "index": 82.5,
+          "index": 81.5,
           "bbox_fs": [
             524,
             938,
@@ -9399,12 +9547,12 @@
                     590,
                     997
                   ],
-                  "score": 0.974,
+                  "score": 0.955,
                   "content": "Toronto보다 인구가 많다.",
                   "type": "text"
                 }
               ],
-              "index": 84,
+              "index": 83,
               "is_list_end_line": true
             },
             {
@@ -9436,12 +9584,12 @@
                     631,
                     1014
                   ],
-                  "score": 0.953,
+                  "score": 0.959,
                   "content": "재즈 페스티벌은 겨울에 개최된다.",
                   "type": "text"
                 }
               ],
-              "index": 85,
+              "index": 84,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -9474,12 +9622,12 @@
                     639,
                     1034
                   ],
-                  "score": 0.967,
+                  "score": 0.968,
                   "content": "1535년에 Jacques Cartier가 세웠다.",
                   "type": "text"
                 }
               ],
-              "index": 86,
+              "index": 85,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -9517,7 +9665,7 @@
                   "type": "text"
                 }
               ],
-              "index": 87,
+              "index": 86,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -9550,17 +9698,17 @@
                     678,
                     1066
                   ],
-                  "score": 0.991,
+                  "score": 0.987,
                   "content": "Igloofest에서는 전자 악기 전시회가 열린다.",
                   "type": "text"
                 }
               ],
-              "index": 88,
+              "index": 87,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 86,
+          "index": 85,
           "bbox_fs": [
             446,
             983,
@@ -9801,7 +9949,7 @@
                     387,
                     367
                   ],
-                  "score": 0.94,
+                  "score": 0.937,
                   "content": "A : Regarde ce chateau. On l'appelle le < chateau des Dames",
                   "type": "text"
                 },
@@ -9823,7 +9971,7 @@
                     398,
                     367
                   ],
-                  "score": 0.896,
+                  "score": 0.816,
                   "content": ".",
                   "type": "text"
                 }
@@ -9846,7 +9994,7 @@
                     241,
                     383
                   ],
-                  "score": 0.97,
+                  "score": 0.969,
                   "content": "B : C'est vrai ? Pourquoi?",
                   "type": "text"
                 }
@@ -9870,7 +10018,7 @@
                     398,
                     401
                   ],
-                  "score": 0.962,
+                  "score": 0.965,
                   "content": "A : Parce que surtout des femmes y ont habité. Diane de",
                   "type": "text"
                 }
@@ -9893,7 +10041,7 @@
                     398,
                     418
                   ],
-                  "score": 0.929,
+                  "score": 0.938,
                   "content": "Poitiers a eu l'idée de faire construire un pont, et",
                   "type": "text"
                 }
@@ -9915,7 +10063,7 @@
                     398,
                     435
                   ],
-                  "score": 0.949,
+                  "score": 0.946,
                   "content": "plus tard, Catherine de Médicis a décidé d'ajouter",
                   "type": "text"
                 }
@@ -9937,7 +10085,7 @@
                     269,
                     452
                   ],
-                  "score": 0.962,
+                  "score": 0.964,
                   "content": "plusieurs étages sur le pont.",
                   "type": "text"
                 }
@@ -9994,7 +10142,7 @@
                     273,
                     487
                   ],
-                  "score": 0.973,
+                  "score": 0.968,
                   "content": "A : Non, c'est le seul en France.",
                   "type": "text"
                 }
@@ -10036,8 +10184,8 @@
                     398,
                     509
                   ],
-                  "score": 0.897,
-                  "content": "* pont: 다리 * ajouter :추가하다",
+                  "score": 0.917,
+                  "content": "* pont: 다리 * ajouter:추가하다",
                   "type": "text"
                 }
               ],
@@ -10209,7 +10357,7 @@
                     364,
                     572
                   ],
-                  "score": 0.937,
+                  "score": 0.942,
                   "content": "Diane de Poitiers a ajouté des étages au chateau.",
                   "type": "text"
                 }
@@ -10220,12 +10368,23 @@
             },
             {
               "bbox": [
-                97,
+                96,
                 572,
                 372,
                 591
               ],
               "spans": [
+                {
+                  "bbox": [
+                    96,
+                    572,
+                    97,
+                    591
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     97,
@@ -10285,7 +10444,7 @@
                     389,
                     607
                   ],
-                  "score": 0.938,
+                  "score": 0.94,
                   "content": "II n'y a pas d'autres chateaux sur un pont en France.",
                   "type": "text"
                 }
@@ -10297,7 +10456,7 @@
           ],
           "index": 22,
           "bbox_fs": [
-            97,
+            96,
             522,
             389,
             607
@@ -10327,7 +10486,7 @@
                     407,
                     716
                   ],
-                  "score": 0.941,
+                  "score": 0.942,
                   "content": "26. LePetit Prince에 관한 글을이해한 내용으로 알맞은것만을",
                   "type": "text"
                 }
@@ -10349,7 +10508,7 @@
                     217,
                     736
                   ],
-                  "score": 0.963,
+                  "score": 0.97,
                   "content": "<보기>에서 고른 것은?",
                   "type": "text"
                 }
@@ -10389,7 +10548,7 @@
                     398,
                     762
                   ],
-                  "score": 0.933,
+                  "score": 0.954,
                   "content": "Le Petit Prince est un livre de",
                   "type": "text"
                 }
@@ -10399,7 +10558,7 @@
             {
               "bbox": [
                 145,
-                766,
+                758,
                 397,
                 783
               ],
@@ -10417,13 +10576,24 @@
                 },
                 {
                   "bbox": [
+                    173,
+                    758,
+                    187,
+                    783
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     212,
                     766,
                     397,
                     780
                   ],
-                  "score": 0.968,
-                  "content": "Saint-Exupéry, sorti aux États-Unis",
+                  "score": 0.969,
+                  "content": "Saint–Exupéry, sorti aux États-Unis",
                   "type": "text"
                 }
               ],
@@ -10431,10 +10601,43 @@
             },
             {
               "bbox": [
-                145,
+                188,
                 783,
                 398,
                 798
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    188,
+                    789,
+                    191,
+                    791
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    211,
+                    783,
+                    398,
+                    798
+                  ],
+                  "score": 0.95,
+                  "content": "il y a 80 ans. C'est l'un des livres",
+                  "type": "text"
+                }
+              ],
+              "index": 30
+            },
+            {
+              "bbox": [
+                145,
+                792,
+                167,
+                796
               ],
               "spans": [
                 {
@@ -10450,13 +10653,13 @@
                 },
                 {
                   "bbox": [
-                    211,
-                    783,
-                    398,
-                    798
+                    164,
+                    793,
+                    167,
+                    796
                   ],
-                  "score": 0.95,
-                  "content": "il y a 80 ans. C'est l'un des livres",
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 }
               ],
@@ -10488,21 +10691,32 @@
                     398,
                     815
                   ],
-                  "score": 0.957,
+                  "score": 0.932,
                   "content": "les plus vendus au monde. On peut",
                   "type": "text"
                 }
               ],
-              "index": 30
+              "index": 31
             },
             {
               "bbox": [
-                211,
+                171,
                 817,
                 398,
                 833
               ],
               "spans": [
+                {
+                  "bbox": [
+                    171,
+                    817,
+                    181,
+                    825
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     211,
@@ -10515,11 +10729,33 @@
                   "type": "text"
                 }
               ],
-              "index": 31
+              "index": 32
             },
             {
               "bbox": [
-                212,
+                181,
+                831,
+                189,
+                838
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    181,
+                    831,
+                    189,
+                    838
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 33
+            },
+            {
+              "bbox": [
+                121,
                 834,
                 397,
                 849
@@ -10527,17 +10763,28 @@
               "spans": [
                 {
                   "bbox": [
+                    121,
+                    838,
+                    128,
+                    846
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     212,
                     834,
                     397,
                     849
                   ],
-                  "score": 0.92,
+                  "score": 0.933,
                   "content": "différentes. On en a fait des films",
                   "type": "text"
                 }
               ],
-              "index": 32
+              "index": 34
             },
             {
               "bbox": [
@@ -10554,12 +10801,12 @@
                     398,
                     867
                   ],
-                  "score": 0.951,
+                  "score": 0.953,
                   "content": "et des dessins animés. Cette histoire d'une rencontre",
                   "type": "text"
                 }
               ],
-              "index": 33
+              "index": 35
             },
             {
               "bbox": [
@@ -10577,11 +10824,11 @@
                     884
                   ],
                   "score": 0.902,
-                  "content": "entre  un  pilote et  un  petit  gargon  nous apprend a",
+                  "content": "entre  un  pilote et  un  petit  gargon  nous  apprend a",
                   "type": "text"
                 }
               ],
-              "index": 34
+              "index": 36
             },
             {
               "bbox": [
@@ -10598,15 +10845,15 @@
                     284,
                     901
                   ],
-                  "score": 0.971,
+                  "score": 0.972,
                   "content": "retrouver l'imagination des enfants.",
                   "type": "text"
                 }
               ],
-              "index": 35
+              "index": 37
             }
           ],
-          "index": 31,
+          "index": 32,
           "bbox_fs": [
             105,
             749,
@@ -10643,7 +10890,7 @@
                   "type": "text"
                 }
               ],
-              "index": 36
+              "index": 38
             },
             {
               "bbox": [
@@ -10660,15 +10907,15 @@
                     397,
                     938
                   ],
-                  "score": 0.973,
+                  "score": 0.974,
                   "content": "* imagination:상상력",
                   "type": "text"
                 }
               ],
-              "index": 37
+              "index": 39
             }
           ],
-          "index": 36.5,
+          "index": 38.5,
           "bbox_fs": [
             191,
             908,
@@ -10705,10 +10952,10 @@
                   "type": "text"
                 }
               ],
-              "index": 38
+              "index": 40
             }
           ],
-          "index": 38,
+          "index": 40,
           "bbox_fs": [
             225,
             953,
@@ -10745,7 +10992,7 @@
                   "type": "text"
                 }
               ],
-              "index": 39,
+              "index": 41,
               "is_list_end_line": true
             },
             {
@@ -10768,7 +11015,7 @@
                   "type": "text"
                 }
               ],
-              "index": 40,
+              "index": 42,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -10787,12 +11034,12 @@
                     313,
                     1020
                   ],
-                  "score": 0.964,
+                  "score": 0.956,
                   "content": "C.영화와 애니메이션으로도 만날 수 있다.",
                   "type": "text"
                 }
               ],
-              "index": 41,
+              "index": 43,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -10811,17 +11058,17 @@
                     320,
                     1037
                   ],
-                  "score": 0.958,
+                  "score": 0.972,
                   "content": "d.다양한 언어의 번역본으로 읽을 수 있다.",
                   "type": "text"
                 }
               ],
-              "index": 42,
+              "index": 44,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 40.5,
+          "index": 42.5,
           "bbox_fs": [
             104,
             972,
@@ -10873,6 +11120,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    1050,
+                    158,
+                    1070
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     1053,
                     171,
@@ -10894,6 +11152,17 @@
                   ],
                   "score": 0.682,
                   "content": "a, c",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    218,
+                    1050,
+                    219,
+                    1070
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -10923,6 +11192,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    1050,
+                    280,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     1053,
                     294,
@@ -10944,6 +11224,17 @@
                   ],
                   "score": 0.888,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    1051,
+                    342,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -10972,10 +11263,10 @@
                   "type": "text"
                 }
               ],
-              "index": 43
+              "index": 45
             }
           ],
-          "index": 43,
+          "index": 45,
           "bbox_fs": [
             97,
             1050,
@@ -11007,15 +11298,15 @@
                     662,
                     174
                   ],
-                  "score": 0.881,
+                  "score": 0.887,
                   "content": "27. 빈칸에 들어갈 말로 알맞은 것은? [1점]",
                   "type": "text"
                 }
               ],
-              "index": 44
+              "index": 46
             }
           ],
-          "index": 44,
+          "index": 46,
           "bbox_fs": [
             434,
             156,
@@ -11047,12 +11338,12 @@
                     600,
                     204
                   ],
-                  "score": 0.963,
+                  "score": 0.964,
                   "content": "A: A qui est cette maison ?",
                   "type": "text"
                 }
               ],
-              "index": 45
+              "index": 47
             },
             {
               "bbox": [
@@ -11085,10 +11376,10 @@
                   "type": "text"
                 }
               ],
-              "index": 46
+              "index": 48
             }
           ],
-          "index": 45.5,
+          "index": 47.5,
           "bbox_fs": [
             453,
             187,
@@ -11140,6 +11431,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    232,
+                    506,
+                    252
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     235,
                     520,
@@ -11172,6 +11474,17 @@
                   ],
                   "score": 0.968,
                   "content": "③ leur",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    627,
+                    232,
+                    629,
+                    251
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -11225,55 +11538,15 @@
                   "type": "text"
                 }
               ],
-              "index": 47
+              "index": 49
             }
           ],
-          "index": 47,
+          "index": 49,
           "bbox_fs": [
             446,
             232,
             738,
             252
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            435,
-            281,
-            663,
-            298
-          ],
-          "lines": [
-            {
-              "bbox": [
-                433,
-                280,
-                664,
-                298
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    433,
-                    280,
-                    664,
-                    298
-                  ],
-                  "score": 0.863,
-                  "content": "28. 밑줄 친 부분의 쓰임이 옳지 않은 것은?",
-                  "type": "text"
-                }
-              ],
-              "index": 48
-            }
-          ],
-          "index": 48,
-          "bbox_fs": [
-            433,
-            280,
-            664,
-            298
           ]
         },
         {
@@ -11314,12 +11587,12 @@
                     578,
                     318
                   ],
-                  "score": 0.971,
+                  "score": 0.97,
                   "content": "Je n'aime pas le sport.",
                   "type": "text"
                 }
               ],
-              "index": 49,
+              "index": 50,
               "is_list_end_line": true
             },
             {
@@ -11356,7 +11629,7 @@
                   "type": "text"
                 }
               ],
-              "index": 50,
+              "index": 51,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -11389,12 +11662,12 @@
                     597,
                     353
                   ],
-                  "score": 0.94,
+                  "score": 0.964,
                   "content": "Je ne prends plus de café.",
                   "type": "text"
                 }
               ],
-              "index": 51,
+              "index": 52,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -11427,12 +11700,12 @@
                     610,
                     371
                   ],
-                  "score": 0.943,
+                  "score": 0.94,
                   "content": "Ce ne sont pas des poissons.",
                   "type": "text"
                 }
               ],
-              "index": 52,
+              "index": 53,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -11465,22 +11738,62 @@
                     627,
                     389
                   ],
-                  "score": 0.951,
+                  "score": 0.94,
                   "content": "Elle ne mange jamais de viande.",
                   "type": "text"
                 }
               ],
-              "index": 53,
+              "index": 54,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 51,
+          "index": 52,
           "bbox_fs": [
             446,
             303,
             627,
             389
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            435,
+            281,
+            663,
+            298
+          ],
+          "lines": [
+            {
+              "bbox": [
+                433,
+                280,
+                664,
+                298
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    433,
+                    280,
+                    664,
+                    298
+                  ],
+                  "score": 0.864,
+                  "content": "28. 밑줄 친 부분의 쓰임이 옳지 않은 것은?",
+                  "type": "text"
+                }
+              ],
+              "index": 55
+            }
+          ],
+          "index": 55,
+          "bbox_fs": [
+            433,
+            280,
+            664,
+            298
           ]
         },
         {
@@ -11534,7 +11847,7 @@
                   "type": "text"
                 }
               ],
-              "index": 54
+              "index": 56
             },
             {
               "bbox": [
@@ -11556,10 +11869,10 @@
                   "type": "text"
                 }
               ],
-              "index": 55
+              "index": 57
             }
           ],
-          "index": 54.5,
+          "index": 56.5,
           "bbox_fs": [
             435,
             419,
@@ -11596,10 +11909,10 @@
                   "type": "text"
                 }
               ],
-              "index": 56
+              "index": 58
             }
           ],
-          "index": 56,
+          "index": 58,
           "bbox_fs": [
             461,
             480,
@@ -11631,7 +11944,7 @@
                     611,
                     532
                   ],
-                  "score": 0.934,
+                  "score": 0.951,
                   "content": "Elle est arrivée a la soirée",
                   "type": "text"
                 },
@@ -11647,7 +11960,7 @@
                   "type": "text"
                 }
               ],
-              "index": 57
+              "index": 59
             },
             {
               "bbox": [
@@ -11680,7 +11993,7 @@
                   "type": "text"
                 }
               ],
-              "index": 58
+              "index": 60
             },
             {
               "bbox": [
@@ -11713,10 +12026,10 @@
                   "type": "text"
                 }
               ],
-              "index": 59
+              "index": 61
             }
           ],
-          "index": 58,
+          "index": 60,
           "bbox_fs": [
             461,
             515,
@@ -11765,7 +12078,7 @@
                   ]
                 }
               ],
-              "index": 60,
+              "index": 62,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -11775,12 +12088,12 @@
                     659
                   ],
                   "spans": [],
-                  "index": 60
+                  "index": 62
                 }
               ]
             }
           ],
-          "index": 60
+          "index": 62
         },
         {
           "type": "text",
@@ -11811,10 +12124,10 @@
                   "type": "text"
                 }
               ],
-              "index": 61
+              "index": 63
             }
           ],
-          "index": 61,
+          "index": 63,
           "bbox_fs": [
             573,
             667,
@@ -11873,10 +12186,10 @@
                   "type": "text"
                 }
               ],
-              "index": 62
+              "index": 64
             }
           ],
-          "index": 62,
+          "index": 64,
           "bbox_fs": [
             500,
             683,
@@ -11935,7 +12248,7 @@
                   "type": "text"
                 }
               ],
-              "index": 63,
+              "index": 65,
               "is_list_start_line": true
             },
             {
@@ -11969,11 +12282,11 @@
                   "type": "text"
                 }
               ],
-              "index": 64,
+              "index": 66,
               "is_list_start_line": true
             }
           ],
-          "index": 63.5,
+          "index": 65.5,
           "bbox_fs": [
             445,
             712,
@@ -12005,15 +12318,15 @@
                     754,
                     795
                   ],
-                  "score": 0.875,
+                  "score": 0.87,
                   "content": "30. 밑줄 친 부분의 쓰임이 옳은 것만을 있는 대로 고른 것은?",
                   "type": "text"
                 }
               ],
-              "index": 65
+              "index": 67
             }
           ],
-          "index": 65,
+          "index": 67,
           "bbox_fs": [
             435,
             777,
@@ -12045,12 +12358,12 @@
                     582,
                     824
                   ],
-                  "score": 0.95,
+                  "score": 0.952,
                   "content": "a. Elle est tout heureuse.",
                   "type": "text"
                 }
               ],
-              "index": 66,
+              "index": 68,
               "is_list_end_line": true
             },
             {
@@ -12073,7 +12386,7 @@
                   "type": "text"
                 }
               ],
-              "index": 67,
+              "index": 69,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -12092,17 +12405,17 @@
                     616,
                     859
                   ],
-                  "score": 0.967,
+                  "score": 0.968,
                   "content": "c. La bibliothéque est tout prés.",
                   "type": "text"
                 }
               ],
-              "index": 68,
+              "index": 70,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 67,
+          "index": 69,
           "bbox_fs": [
             453,
             809,
@@ -12162,6 +12475,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    869,
+                    629,
+                    889
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     630,
                     872,
                     642,
@@ -12183,6 +12507,17 @@
                   ],
                   "score": 0.637,
                   "content": "b, c",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    689,
+                    870,
+                    690,
+                    889
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -12211,10 +12546,10 @@
                   "type": "text"
                 }
               ],
-              "index": 69
+              "index": 71
             }
           ],
-          "index": 69,
+          "index": 71,
           "bbox_fs": [
             444,
             869,
@@ -12251,10 +12586,10 @@
                   "type": "text"
                 }
               ],
-              "index": 70
+              "index": 72
             }
           ],
-          "index": 70,
+          "index": 72,
           "bbox_fs": [
             446,
             1007,
@@ -12291,7 +12626,7 @@
                   "type": "text"
                 }
               ],
-              "index": 71
+              "index": 73
             },
             {
               "bbox": [
@@ -12313,10 +12648,10 @@
                   "type": "text"
                 }
               ],
-              "index": 72
+              "index": 74
             }
           ],
-          "index": 71.5,
+          "index": 73.5,
           "bbox_fs": [
             447,
             1031,
@@ -12328,5 +12663,5 @@
     }
   ],
   "_backend": "pipeline",
-  "_version_name": "2.5.4"
+  "_version_name": "2.6.2"
 }

@@ -86,7 +86,7 @@
                     707,
                     200
                   ],
-                  "score": 0.977,
+                  "score": 0.978,
                   "content": "제2외국어/한문 영역(스페인어 I)",
                   "type": "text"
                 }
@@ -210,7 +210,7 @@
                     346,
                     272
                   ],
-                  "score": 0.906,
+                  "score": 0.911,
                   "content": "1. 밑줄 친 낱말과 강세의 위치가 다른 것은?[1점]",
                   "type": "text"
                 }
@@ -250,7 +250,7 @@
                     653,
                     272
                   ],
-                  "score": 0.89,
+                  "score": 0.904,
                   "content": "6.빈칸에 들어갈 말로 알맞은 것은? [1점]",
                   "type": "text"
                 }
@@ -267,72 +267,88 @@
           ]
         },
         {
-          "type": "image",
+          "type": "text",
           "bbox": [
             142,
             291,
             239,
             394
           ],
-          "blocks": [
+          "lines": [
             {
-              "type": "image_body",
               "bbox": [
-                142,
-                291,
-                239,
-                394
+                165,
+                326,
+                216,
+                351
               ],
-              "group_id": 0,
-              "lines": [
+              "spans": [
                 {
                   "bbox": [
-                    142,
-                    291,
-                    239,
-                    394
+                    165,
+                    326,
+                    216,
+                    351
                   ],
-                  "spans": [
-                    {
-                      "bbox": [
-                        142,
-                        291,
-                        239,
-                        394
-                      ],
-                      "score": 0.815,
-                      "type": "image",
-                      "image_path": "1ad97393b3a62dee014b59375386c126b0b9fdda93c3becd5eeef1cc2f7ae2bd.jpg"
-                    }
-                  ]
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 8.5,
-              "virtual_lines": [
+              "index": 8
+            },
+            {
+              "bbox": [
+                159,
+                360,
+                223,
+                377
+              ],
+              "spans": [
                 {
                   "bbox": [
-                    142,
-                    291,
-                    239,
-                    342.5
+                    159,
+                    360,
+                    223,
+                    377
                   ],
-                  "spans": [],
-                  "index": 8
-                },
-                {
-                  "bbox": [
-                    142,
-                    342.5,
-                    239,
-                    394.0
-                  ],
-                  "spans": [],
-                  "index": 9
+                  "score": 0.998,
+                  "content": "PELIGRO",
+                  "type": "text"
                 }
-              ]
+              ],
+              "index": 9
+            },
+            {
+              "bbox": [
+                145,
+                381,
+                237,
+                392
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    145,
+                    381,
+                    237,
+                    392
+                  ],
+                  "score": 0.979,
+                  "content": "ESTAMOS EN OBRAS",
+                  "type": "text"
+                }
+              ],
+              "index": 10
             }
           ],
-          "index": 8.5
+          "index": 9,
+          "bbox_fs": [
+            145,
+            326,
+            237,
+            392
+          ]
         },
         {
           "type": "text",
@@ -345,12 +361,23 @@
           "lines": [
             {
               "bbox": [
-                281,
+                280,
                 298,
                 333,
                 318
               ],
               "spans": [
+                {
+                  "bbox": [
+                    280,
+                    298,
+                    281,
+                    318
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     281,
@@ -377,7 +404,7 @@
                   "type": "text"
                 }
               ],
-              "index": 10
+              "index": 11
             },
             {
               "bbox": [
@@ -413,7 +440,7 @@
                   "type": "text"
                 }
               ],
-              "index": 11
+              "index": 12
             },
             {
               "bbox": [
@@ -449,12 +476,12 @@
                   "type": "text"
                 }
               ],
-              "index": 12
+              "index": 13
             },
             {
               "bbox": [
                 281,
-                352,
+                351,
                 338,
                 368
               ],
@@ -475,6 +502,17 @@
                 },
                 {
                   "bbox": [
+                    294,
+                    351,
+                    297,
+                    366
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     295,
                     352,
                     338,
@@ -485,16 +523,27 @@
                   "type": "text"
                 }
               ],
-              "index": 13
+              "index": 14
             },
             {
               "bbox": [
-                282,
+                280,
                 366,
                 345,
                 387
               ],
               "spans": [
+                {
+                  "bbox": [
+                    280,
+                    366,
+                    281,
+                    387
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     282,
@@ -521,12 +570,12 @@
                   "type": "text"
                 }
               ],
-              "index": 14
+              "index": 15
             }
           ],
-          "index": 12,
+          "index": 13,
           "bbox_fs": [
-            281,
+            280,
             298,
             345,
             387
@@ -561,7 +610,7 @@
                   "type": "text"
                 }
               ],
-              "index": 15
+              "index": 16
             },
             {
               "bbox": [
@@ -583,7 +632,7 @@
                   "type": "text"
                 }
               ],
-              "index": 16,
+              "index": 17,
               "is_list_end_line": true
             },
             {
@@ -606,7 +655,7 @@
                   "type": "text"
                 }
               ],
-              "index": 17,
+              "index": 18,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -630,12 +679,12 @@
                   "type": "text"
                 }
               ],
-              "index": 18,
+              "index": 19,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 16.5,
+          "index": 17.5,
           "bbox_fs": [
             453,
             286,
@@ -736,7 +785,7 @@
                   "type": "text"
                 }
               ],
-              "index": 19
+              "index": 20
             },
             {
               "bbox": [
@@ -773,6 +822,17 @@
                 },
                 {
                   "bbox": [
+                    546,
+                    382,
+                    547,
+                    400
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     547,
                     384,
                     561,
@@ -797,10 +857,10 @@
                   "type": "text"
                 }
               ],
-              "index": 20
+              "index": 21
             }
           ],
-          "index": 19.5,
+          "index": 20.5,
           "bbox_fs": [
             446,
             363,
@@ -832,15 +892,15 @@
                     394,
                     475
                   ],
-                  "score": 0.886,
+                  "score": 0.891,
                   "content": "2. 에 들어갈 글자를 모두 조합하여 만들 수 있는 낱말은?",
                   "type": "text"
                 }
               ],
-              "index": 21
+              "index": 22
             }
           ],
-          "index": 21,
+          "index": 22,
           "bbox_fs": [
             85,
             457,
@@ -872,15 +932,15 @@
                     624,
                     451
                   ],
-                  "score": 0.876,
+                  "score": 0.881,
                   "content": "7.빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 22
+              "index": 23
             }
           ],
-          "index": 22,
+          "index": 23,
           "bbox_fs": [
             434,
             433,
@@ -891,173 +951,12 @@
         {
           "type": "text",
           "bbox": [
-            452,
-            464,
-            748,
-            532
+            97,
+            563,
+            380,
+            578
           ],
           "lines": [
-            {
-              "bbox": [
-                454,
-                463,
-                696,
-                480
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    454,
-                    463,
-                    696,
-                    480
-                  ],
-                  "score": 0.974,
-                  "content": "A: Perdone, idónde hay una farmacia por aqu?",
-                  "type": "text"
-                }
-              ],
-              "index": 23
-            },
-            {
-              "bbox": [
-                454,
-                482,
-                747,
-                497
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    454,
-                    482,
-                    573,
-                    497
-                  ],
-                  "score": 0.92,
-                  "content": "B: Siga todo  recto y",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    713,
-                    482,
-                    747,
-                    496
-                  ],
-                  "score": 0.865,
-                  "content": "en  la",
-                  "type": "text"
-                }
-              ],
-              "index": 24
-            },
-            {
-              "bbox": [
-                470,
-                499,
-                732,
-                514
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    470,
-                    499,
-                    732,
-                    514
-                  ],
-                  "score": 0.95,
-                  "content": "primera calle. Alli, en la esquina, hay una farmacia.",
-                  "type": "text"
-                }
-              ],
-              "index": 25
-            },
-            {
-              "bbox": [
-                455,
-                517,
-                581,
-                532
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    455,
-                    517,
-                    581,
-                    532
-                  ],
-                  "score": 0.99,
-                  "content": "A: Gracias. Muy amable.",
-                  "type": "text"
-                }
-              ],
-              "index": 26
-            }
-          ],
-          "index": 24.5,
-          "bbox_fs": [
-            454,
-            463,
-            747,
-            532
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            96,
-            482,
-            404,
-            558
-          ],
-          "lines": [
-            {
-              "bbox": [
-                111,
-                534,
-                398,
-                562
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    111,
-                    536,
-                    158,
-                    560
-                  ],
-                  "score": 0.578,
-                  "content": "ga",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    187,
-                    534,
-                    237,
-                    561
-                  ],
-                  "score": 0.973,
-                  "content": "abri",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    259,
-                    534,
-                    398,
-                    562
-                  ],
-                  "score": 0.877,
-                  "content": "patos camisea",
-                  "type": "text"
-                }
-              ],
-              "index": 27
-            },
             {
               "bbox": [
                 97,
@@ -1089,6 +988,17 @@
                   ],
                   "score": 0.971,
                   "content": "gato",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    156,
+                    560,
+                    158,
+                    583
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1143,6 +1053,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    562,
+                    280,
+                    581
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     563,
                     294,
@@ -1192,34 +1113,16 @@
                   "type": "text"
                 }
               ],
-              "index": 28
+              "index": 24
             }
           ],
-          "index": 27,
-          "bbox_fs": [
-            111,
-            534,
-            398,
-            562
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            97,
-            563,
-            380,
-            578
-          ],
-          "lines": [],
-          "index": 28,
+          "index": 24,
           "bbox_fs": [
             97,
             560,
             384,
             583
-          ],
-          "lines_deleted": true
+          ]
         },
         {
           "type": "text",
@@ -1245,21 +1148,83 @@
                     352,
                     644
                   ],
-                  "score": 0.893,
+                  "score": 0.902,
                   "content": "3.빈칸에 공통으로 들어갈 말로 알맞은 것은? [1점]",
                   "type": "text"
                 }
               ],
-              "index": 29
+              "index": 25
+            },
+            {
+              "bbox": [
+                111,
+                534,
+                398,
+                562
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    111,
+                    536,
+                    158,
+                    560
+                  ],
+                  "score": 0.578,
+                  "content": "ga",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    187,
+                    534,
+                    237,
+                    561
+                  ],
+                  "score": 0.973,
+                  "content": "abri",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    259,
+                    534,
+                    398,
+                    562
+                  ],
+                  "score": 0.877,
+                  "content": "patos camisea",
+                  "type": "text"
+                }
+              ],
+              "index": 26
             }
           ],
-          "index": 29,
+          "index": 25,
           "bbox_fs": [
             85,
             626,
             352,
             644
           ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            96,
+            482,
+            404,
+            558
+          ],
+          "lines": [],
+          "index": 26,
+          "bbox_fs": [
+            111,
+            534,
+            398,
+            562
+          ],
+          "lines_deleted": true
         },
         {
           "type": "list",
@@ -1296,12 +1261,12 @@
                     326,
                     673
                   ],
-                  "score": 0.947,
+                  "score": 0.954,
                   "content": "roja va bien con esta blusa.",
                   "type": "text"
                 }
               ],
-              "index": 30,
+              "index": 27,
               "is_list_end_line": true
             },
             {
@@ -1319,7 +1284,7 @@
                     268,
                     690
                   ],
-                  "score": 0.897,
+                  "score": 0.893,
                   "content": "o La casa de mi tio est en la",
                   "type": "text"
                 },
@@ -1335,12 +1300,12 @@
                   "type": "text"
                 }
               ],
-              "index": 31,
+              "index": 28,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 30.5,
+          "index": 27.5,
           "bbox_fs": [
             106,
             656,
@@ -1392,6 +1357,17 @@
                 },
                 {
                   "bbox": [
+                    150,
+                    701,
+                    158,
+                    721
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     703,
                     171,
@@ -1413,6 +1389,17 @@
                   ],
                   "score": 0.885,
                   "content": "sopa",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    217,
+                    700,
+                    219,
+                    721
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1442,6 +1429,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    701,
+                    280,
+                    720
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     281,
                     703,
                     293,
@@ -1463,6 +1461,17 @@
                   ],
                   "score": 0.996,
                   "content": "falda",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    335,
+                    700,
+                    342,
+                    720
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1491,10 +1500,10 @@
                   "type": "text"
                 }
               ],
-              "index": 32
+              "index": 29
             }
           ],
-          "index": 32,
+          "index": 29,
           "bbox_fs": [
             97,
             700,
@@ -1526,15 +1535,15 @@
                     275,
                     784
                   ],
-                  "score": 0.873,
+                  "score": 0.87,
                   "content": "4. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 33
+              "index": 30
             }
           ],
-          "index": 33,
+          "index": 30,
           "bbox_fs": [
             86,
             766,
@@ -1571,7 +1580,7 @@
                   "type": "text"
                 }
               ],
-              "index": 34
+              "index": 31
             },
             {
               "bbox": [
@@ -1599,12 +1608,12 @@
                     398,
                     829
                   ],
-                  "score": 0.974,
+                  "score": 0.973,
                   "content": "al mar. Todos los dias puedo ver la salida",
                   "type": "text"
                 }
               ],
-              "index": 35
+              "index": 32
             },
             {
               "bbox": [
@@ -1626,10 +1635,10 @@
                   "type": "text"
                 }
               ],
-              "index": 36
+              "index": 33
             }
           ],
-          "index": 35,
+          "index": 32,
           "bbox_fs": [
             104,
             796,
@@ -1677,6 +1686,17 @@
                   ],
                   "score": 0.951,
                   "content": "da",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    198,
+                    857,
+                    199,
+                    878
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1730,16 +1750,27 @@
                   "type": "text"
                 }
               ],
-              "index": 37
+              "index": 35
             },
             {
               "bbox": [
-                97,
+                96,
                 875,
                 251,
                 895
               ],
               "spans": [
+                {
+                  "bbox": [
+                    96,
+                    876,
+                    97,
+                    894
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     97,
@@ -1763,6 +1794,17 @@
                   ],
                   "score": 0.994,
                   "content": "opina",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    197,
+                    875,
+                    199,
+                    895
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1791,12 +1833,12 @@
                   "type": "text"
                 }
               ],
-              "index": 39
+              "index": 34
             }
           ],
-          "index": 38.0,
+          "index": 34.5,
           "bbox_fs": [
-            97,
+            96,
             857,
             349,
             895
@@ -1826,15 +1868,15 @@
                     275,
                     959
                   ],
-                  "score": 0.877,
+                  "score": 0.879,
                   "content": "5.빈간에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 38
+              "index": 36
             }
           ],
-          "index": 38,
+          "index": 36,
           "bbox_fs": [
             86,
             940,
@@ -1871,7 +1913,7 @@
                   "type": "text"
                 }
               ],
-              "index": 40
+              "index": 37
             },
             {
               "bbox": [
@@ -1904,7 +1946,7 @@
                   "type": "text"
                 }
               ],
-              "index": 41
+              "index": 38
             },
             {
               "bbox": [
@@ -1926,10 +1968,10 @@
                   "type": "text"
                 }
               ],
-              "index": 42
+              "index": 39
             }
           ],
-          "index": 41,
+          "index": 38,
           "bbox_fs": [
             104,
             972,
@@ -2030,7 +2072,7 @@
                   "type": "text"
                 }
               ],
-              "index": 43
+              "index": 40
             },
             {
               "bbox": [
@@ -2091,15 +2133,132 @@
                   "type": "text"
                 }
               ],
-              "index": 44
+              "index": 41
             }
           ],
-          "index": 43.5,
+          "index": 40.5,
           "bbox_fs": [
             97,
             1032,
             354,
             1068
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            452,
+            464,
+            748,
+            532
+          ],
+          "lines": [
+            {
+              "bbox": [
+                454,
+                463,
+                696,
+                480
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    454,
+                    463,
+                    696,
+                    480
+                  ],
+                  "score": 0.975,
+                  "content": "A: Perdone, idónde hay una farmacia por aqu?",
+                  "type": "text"
+                }
+              ],
+              "index": 44
+            },
+            {
+              "bbox": [
+                454,
+                482,
+                747,
+                497
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    454,
+                    482,
+                    573,
+                    497
+                  ],
+                  "score": 0.945,
+                  "content": "B: Siga todo  recto y",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    713,
+                    482,
+                    747,
+                    496
+                  ],
+                  "score": 0.865,
+                  "content": "en  la",
+                  "type": "text"
+                }
+              ],
+              "index": 42
+            },
+            {
+              "bbox": [
+                470,
+                499,
+                732,
+                514
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    470,
+                    499,
+                    732,
+                    514
+                  ],
+                  "score": 0.986,
+                  "content": "primera calle. Alli, en la esquina, hay una farmacia.",
+                  "type": "text"
+                }
+              ],
+              "index": 43
+            },
+            {
+              "bbox": [
+                455,
+                517,
+                581,
+                532
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    455,
+                    517,
+                    581,
+                    532
+                  ],
+                  "score": 0.983,
+                  "content": "A: Gracias. Muy amable.",
+                  "type": "text"
+                }
+              ],
+              "index": 45
+            }
+          ],
+          "index": 43.5,
+          "bbox_fs": [
+            454,
+            463,
+            747,
+            532
           ]
         },
         {
@@ -2170,7 +2329,7 @@
                   "type": "text"
                 }
               ],
-              "index": 45
+              "index": 46
             },
             {
               "bbox": [
@@ -2226,12 +2385,12 @@
                     743,
                     577
                   ],
-                  "score": 0.971,
+                  "score": 0.97,
                   "content": "me cuesta mucho andar",
                   "type": "text"
                 }
               ],
-              "index": 46
+              "index": 47
             },
             {
               "bbox": [
@@ -2267,10 +2426,10 @@
                   "type": "text"
                 }
               ],
-              "index": 47
+              "index": 48
             }
           ],
-          "index": 46,
+          "index": 47,
           "bbox_fs": [
             446,
             544,
@@ -2302,7 +2461,7 @@
                     630,
                     647
                   ],
-                  "score": 0.919,
+                  "score": 0.915,
                   "content": "8.빈칸에들어갈말로알맞은것만을",
                   "type": "text"
                 },
@@ -2329,10 +2488,10 @@
                   "type": "text"
                 }
               ],
-              "index": 48
+              "index": 49
             }
           ],
-          "index": 48,
+          "index": 49,
           "bbox_fs": [
             434,
             629,
@@ -2364,12 +2523,12 @@
                     685,
                     675
                   ],
-                  "score": 0.972,
+                  "score": 0.965,
                   "content": "A: iQué calor hace! iPuedo abrir la ventana?",
                   "type": "text"
                 }
               ],
-              "index": 49
+              "index": 50
             },
             {
               "bbox": [
@@ -2402,7 +2561,7 @@
                   "type": "text"
                 }
               ],
-              "index": 50
+              "index": 51
             },
             {
               "bbox": [
@@ -2419,15 +2578,15 @@
                     652,
                     710
                   ],
-                  "score": 0.974,
+                  "score": 0.971,
                   "content": "A: Asi es. Ya casi estamos en verano.",
                   "type": "text"
                 }
               ],
-              "index": 51
+              "index": 52
             }
           ],
-          "index": 50,
+          "index": 51,
           "bbox_fs": [
             453,
             661,
@@ -2464,10 +2623,10 @@
                   "type": "text"
                 }
               ],
-              "index": 52
+              "index": 53
             }
           ],
-          "index": 52,
+          "index": 53,
           "bbox_fs": [
             573,
             723,
@@ -2515,7 +2674,7 @@
                   "type": "text"
                 }
               ],
-              "index": 53
+              "index": 54
             },
             {
               "bbox": [
@@ -2548,7 +2707,7 @@
                   "type": "text"
                 }
               ],
-              "index": 54
+              "index": 55
             },
             {
               "bbox": [
@@ -2581,6 +2740,17 @@
                   ],
                   "score": 0.708,
                   "content": "a, b",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    504,
+                    785,
+                    506,
+                    804
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -2621,6 +2791,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    786,
+                    629,
+                    804
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     630,
                     788,
                     642,
@@ -2642,6 +2823,17 @@
                   ],
                   "score": 0.888,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    687,
+                    785,
+                    690,
+                    805
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -2670,10 +2862,10 @@
                   "type": "text"
                 }
               ],
-              "index": 55
+              "index": 56
             }
           ],
-          "index": 53.5,
+          "index": 54.5,
           "bbox_fs": [
             452,
             742,
@@ -2690,7 +2882,7 @@
             803
           ],
           "lines": [],
-          "index": 55,
+          "index": 56,
           "bbox_fs": [
             446,
             785,
@@ -2723,15 +2915,15 @@
                     623,
                     856
                   ],
-                  "score": 0.859,
+                  "score": 0.858,
                   "content": "9.빈간에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 56
+              "index": 57
             }
           ],
-          "index": 56,
+          "index": 57,
           "bbox_fs": [
             434,
             837,
@@ -2780,7 +2972,7 @@
                   ]
                 }
               ],
-              "index": 60.5,
+              "index": 61.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -2790,7 +2982,7 @@
                     880.625
                   ],
                   "spans": [],
-                  "index": 57
+                  "index": 58
                 },
                 {
                   "bbox": [
@@ -2800,7 +2992,7 @@
                     899.25
                   ],
                   "spans": [],
-                  "index": 58
+                  "index": 59
                 },
                 {
                   "bbox": [
@@ -2810,7 +3002,7 @@
                     917.875
                   ],
                   "spans": [],
-                  "index": 59
+                  "index": 60
                 },
                 {
                   "bbox": [
@@ -2820,7 +3012,7 @@
                     936.5
                   ],
                   "spans": [],
-                  "index": 60
+                  "index": 61
                 },
                 {
                   "bbox": [
@@ -2830,7 +3022,7 @@
                     955.125
                   ],
                   "spans": [],
-                  "index": 61
+                  "index": 62
                 },
                 {
                   "bbox": [
@@ -2840,7 +3032,7 @@
                     973.75
                   ],
                   "spans": [],
-                  "index": 62
+                  "index": 63
                 },
                 {
                   "bbox": [
@@ -2850,7 +3042,7 @@
                     992.375
                   ],
                   "spans": [],
-                  "index": 63
+                  "index": 64
                 },
                 {
                   "bbox": [
@@ -2860,12 +3052,12 @@
                     1011.0
                   ],
                   "spans": [],
-                  "index": 64
+                  "index": 65
                 }
               ]
             }
           ],
-          "index": 60.5
+          "index": 61.5
         },
         {
           "type": "text",
@@ -2935,16 +3127,27 @@
                   "type": "text"
                 }
               ],
-              "index": 65
+              "index": 66
             },
             {
               "bbox": [
-                446,
+                444,
                 1032,
                 698,
                 1050
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    1032,
+                    446,
+                    1050
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -2996,7 +3199,7 @@
                   "type": "text"
                 }
               ],
-              "index": 66
+              "index": 67
             },
             {
               "bbox": [
@@ -3032,12 +3235,12 @@
                   "type": "text"
                 }
               ],
-              "index": 67
+              "index": 68
             }
           ],
-          "index": 66,
+          "index": 67,
           "bbox_fs": [
-            446,
+            444,
             1015,
             698,
             1067
@@ -3076,8 +3279,8 @@
                     284,
                     174
                   ],
-                  "score": 0.839,
-                  "content": "10. 빈칸에 들어갈 말로 알맞은 것은?",
+                  "score": 0.863,
+                  "content": "10.빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
@@ -3116,7 +3319,7 @@
                     399,
                     204
                   ],
-                  "score": 0.959,
+                  "score": 0.957,
                   "content": "A: Buenos dias. Llamo para pedir hora para cortarme el",
                   "type": "text"
                 }
@@ -3185,7 +3388,7 @@
                     283,
                     255
                   ],
-                  "score": 0.959,
+                  "score": 0.958,
                   "content": "A: iNo es la peluqueria Rapunzel?",
                   "type": "text"
                 }
@@ -3209,7 +3412,7 @@
                     223,
                     272
                   ],
-                  "score": 0.942,
+                  "score": 0.947,
                   "content": "B: No. Es una libreria.",
                   "type": "text"
                 }
@@ -3451,7 +3654,7 @@
                     284,
                     400
                   ],
-                  "score": 0.904,
+                  "score": 0.903,
                   "content": "11. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -3513,7 +3716,7 @@
                     241,
                     447
                   ],
-                  "score": 0.975,
+                  "score": 0.961,
                   "content": "B: Si. Me duele la cabeza.",
                   "type": "text"
                 }
@@ -3568,7 +3771,7 @@
                     367,
                     481
                   ],
-                  "score": 0.952,
+                  "score": 0.943,
                   "content": "B: No es para tanto. Solo voy a descansar un rato.",
                   "type": "text"
                 }
@@ -3694,7 +3897,7 @@
                     246,
                     544
                   ],
-                  "score": 0.958,
+                  "score": 0.95,
                   "content": "Por qué no vas al médico",
                   "type": "text"
                 }
@@ -3730,7 +3933,7 @@
                     257,
                     561
                   ],
-                  "score": 0.971,
+                  "score": 0.973,
                   "content": "Puedes decirme tu dirección",
                   "type": "text"
                 }
@@ -3766,7 +3969,7 @@
                     268,
                     578
                   ],
-                  "score": 0.955,
+                  "score": 0.957,
                   "content": "Me das tu nümero de teléfono",
                   "type": "text"
                 }
@@ -3806,7 +4009,7 @@
                     284,
                     627
                   ],
-                  "score": 0.873,
+                  "score": 0.869,
                   "content": "12. 빈간에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -3879,7 +4082,7 @@
                     381,
                     669
                   ],
-                  "score": 0.954,
+                  "score": 0.951,
                   "content": "iVamos a ver la nueva pelicula de Almodóvar?",
                   "type": "text"
                 }
@@ -3934,7 +4137,7 @@
                     352,
                     729
                   ],
-                  "score": 0.949,
+                  "score": 0.945,
                   "content": "iQué tal en la Plaza Mayor a las ocho?",
                   "type": "text"
                 }
@@ -3956,7 +4159,7 @@
                     351,
                     758
                   ],
-                  "score": 0.94,
+                  "score": 0.945,
                   "content": "Perfecto. Nos vemos alli.",
                   "type": "text"
                 }
@@ -4194,7 +4397,7 @@
                     216,
                     894
                   ],
-                  "score": 0.948,
+                  "score": 0.945,
                   "content": "<보기>에서 고른 것은?",
                   "type": "text"
                 }
@@ -4279,7 +4482,7 @@
                     266,
                     957
                   ],
-                  "score": 0.972,
+                  "score": 0.986,
                   "content": "A: Entonces, ia qué se dedica?",
                   "type": "text"
                 }
@@ -4471,6 +4674,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    1050,
+                    158,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     1052,
                     171,
@@ -4492,6 +4706,17 @@
                   ],
                   "score": 0.865,
                   "content": "a, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    216,
+                    1050,
+                    219,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -4521,6 +4746,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    1050,
+                    280,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     1052,
                     294,
@@ -4542,6 +4778,17 @@
                   ],
                   "score": 0.894,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    1050,
+                    341,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -4663,7 +4910,7 @@
                     612,
                     203
                   ],
-                  "score": 0.954,
+                  "score": 0.968,
                   "content": "A: Mira, alli esta mi hijo Luis.",
                   "type": "text"
                 }
@@ -4707,7 +4954,7 @@
                     675,
                     238
                   ],
-                  "score": 0.962,
+                  "score": 0.961,
                   "content": "A: El chico que esta jugando con la pelota.",
                   "type": "text"
                 }
@@ -4934,6 +5181,17 @@
                 },
                 {
                   "bbox": [
+                    688,
+                    427,
+                    690,
+                    446
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     691,
                     429,
                     704,
@@ -5056,7 +5314,7 @@
                     634,
                     564
                   ],
-                  "score": 0.982,
+                  "score": 0.975,
                   "content": "B: iLas has buscado en tu cuarto?",
                   "type": "text"
                 }
@@ -5253,7 +5511,7 @@
                     608,
                     680
                   ],
-                  "score": 0.966,
+                  "score": 0.955,
                   "content": "ms ven cuatro ojos que dos",
                   "type": "text"
                 }
@@ -5289,7 +5547,7 @@
                     610,
                     696
                   ],
-                  "score": 0.954,
+                  "score": 0.971,
                   "content": "voz del pueblo, voz del cielo",
                   "type": "text"
                 }
@@ -5361,7 +5619,7 @@
                     633,
                     731
                   ],
-                  "score": 0.961,
+                  "score": 0.956,
                   "content": "a buena hambre no hay pan duro",
                   "type": "text"
                 }
@@ -5401,7 +5659,7 @@
                     726,
                     804
                   ],
-                  "score": 0.905,
+                  "score": 0.902,
                   "content": "16. 식당 방문 후기이다. 화면에서 찾을 수 없는 정보는?",
                   "type": "text"
                 }
@@ -5441,7 +5699,7 @@
                     680,
                     857
                   ],
-                  "score": 0.985,
+                  "score": 0.971,
                   "content": " Escrito hace una semana",
                   "type": "text"
                 }
@@ -5583,7 +5841,7 @@
                     722,
                     911
                   ],
-                  "score": 0.958,
+                  "score": 0.97,
                   "content": "El restaurante queda cerca del metro.",
                   "type": "text"
                 }
@@ -5605,7 +5863,7 @@
                     722,
                     928
                   ],
-                  "score": 0.907,
+                  "score": 0.897,
                   "content": "El ambiente  es moderno y agradable.",
                   "type": "text"
                 }
@@ -5627,7 +5885,7 @@
                     721,
                     942
                   ],
-                  "score": 0.969,
+                  "score": 0.987,
                   "content": "Los camareros son amables y la comida",
                   "type": "text"
                 }
@@ -5649,7 +5907,7 @@
                     711,
                     957
                   ],
-                  "score": 0.974,
+                  "score": 0.973,
                   "content": "es muy buena. Te recomiendo visitarlo.",
                   "type": "text"
                 }
@@ -5903,7 +6161,7 @@
                     313,
                     174
                   ],
-                  "score": 0.878,
+                  "score": 0.881,
                   "content": "17. 빈칸에 들어갈 말로 알맞은 것은? [1점]",
                   "type": "text"
                 }
@@ -6240,8 +6498,8 @@
                     302,
                     462
                   ],
-                  "score": 0.913,
-                  "content": "18.빈칸에 들어갈 말로 알맞은것을<보기",
+                  "score": 0.936,
+                  "content": "18.빈칸에 들어갈 말로알맞은것을<보기",
                   "type": "text"
                 },
                 {
@@ -6284,7 +6542,7 @@
                     201,
                     482
                   ],
-                  "score": 0.969,
+                  "score": 0.971,
                   "content": "바르게 배열한 것은?",
                   "type": "text"
                 }
@@ -6397,7 +6655,7 @@
                     389,
                     545
                   ],
-                  "score": 0.968,
+                  "score": 0.958,
                   "content": "B: jHola! Necesito información sobre uno de los cursos.",
                   "type": "text"
                 }
@@ -6452,7 +6710,7 @@
                     226,
                     579
                   ],
-                  "score": 0.954,
+                  "score": 0.961,
                   "content": "B: El curso de yoga. i",
                   "type": "text"
                 },
@@ -6587,7 +6845,7 @@
                     209,
                     660
                   ],
-                  "score": 0.968,
+                  "score": 0.974,
                   "content": "b. Qué horario tiene",
                   "type": "text"
                 }
@@ -6609,7 +6867,7 @@
                     231,
                     677
                   ],
-                  "score": 0.956,
+                  "score": 0.98,
                   "content": "c. En qué puedo servirle",
                   "type": "text"
                 }
@@ -6746,7 +7004,7 @@
                     368,
                     819
                   ],
-                  "score": 0.902,
+                  "score": 0.909,
                   "content": "19. 임대 광고문을 이해한 내용으로 알맞지 않은 것은?",
                   "type": "text"
                 }
@@ -6786,7 +7044,7 @@
                     351,
                     871
                   ],
-                  "score": 0.974,
+                  "score": 0.973,
                   "content": "Busco dos compañeros de piso",
                   "type": "text"
                 }
@@ -6820,7 +7078,7 @@
                     364,
                     897
                   ],
-                  "score": 0.99,
+                  "score": 0.991,
                   "content": "Lindo piso. Nuevo. Quinta planta. Bastante luz.",
                   "type": "text"
                 }
@@ -6980,7 +7238,7 @@
                     250,
                     983
                   ],
-                  "score": 0.969,
+                  "score": 0.965,
                   "content": "Móvil: 665454589 (José)",
                   "type": "text"
                 }
@@ -7121,7 +7379,7 @@
                     399,
                     1048
                   ],
-                  "score": 0.943,
+                  "score": 0.96,
                   "content": "교통이 편리한 곳에 있다.",
                   "type": "text"
                 }
@@ -7159,7 +7417,7 @@
                     245,
                     1065
                   ],
-                  "score": 0.946,
+                  "score": 0.961,
                   "content": "월세는1인당 500유로이다.",
                   "type": "text"
                 }
@@ -7201,7 +7459,7 @@
                     635,
                     174
                   ],
-                  "score": 0.936,
+                  "score": 0.917,
                   "content": "20. 글의 목적으로 알맞은 것은?[1점]",
                   "type": "text"
                 }
@@ -7339,7 +7597,7 @@
                     709,
                     239
                   ],
-                  "score": 0.986,
+                  "score": 0.971,
                   "content": "Eres el mejor amigo del mundo.",
                   "type": "text"
                 }
@@ -7461,6 +7719,17 @@
                 },
                 {
                   "bbox": [
+                    504,
+                    294,
+                    506,
+                    312
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     506,
                     296,
                     520,
@@ -7482,6 +7751,17 @@
                   ],
                   "score": 0.999,
                   "content": "사과",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    567,
+                    295,
+                    568,
+                    311
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -7511,6 +7791,17 @@
                 },
                 {
                   "bbox": [
+                    626,
+                    294,
+                    629,
+                    312
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     629,
                     296,
                     642,
@@ -7532,6 +7823,17 @@
                   ],
                   "score": 0.979,
                   "content": "축하",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    688,
+                    294,
+                    690,
+                    312
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -7595,7 +7897,7 @@
                     632,
                     357
                   ],
-                  "score": 0.87,
+                  "score": 0.881,
                   "content": "21. 빈간에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -7635,7 +7937,7 @@
                     747,
                     385
                   ],
-                  "score": 0.927,
+                  "score": 0.933,
                   "content": "A: iQué te parece si invitamos a Felipe a cenar este",
                   "type": "text"
                 }
@@ -7692,7 +7994,7 @@
                     747,
                     420
                   ],
-                  "score": 0.951,
+                  "score": 0.953,
                   "content": ". Creo que le va a gustar. Mañana le",
                   "type": "text"
                 }
@@ -7715,7 +8017,7 @@
                     595,
                     436
                   ],
-                  "score": 0.989,
+                  "score": 0.988,
                   "content": "pregunto si puede venir.",
                   "type": "text"
                 }
@@ -7945,7 +8247,7 @@
                     720,
                     545
                   ],
-                  "score": 0.902,
+                  "score": 0.901,
                   "content": "22. 대화의 내용으로 보아 빈칸에 들어갈 나라는?[1점]",
                   "type": "text"
                 }
@@ -7985,7 +8287,7 @@
                     609,
                     574
                   ],
-                  "score": 0.951,
+                  "score": 0.948,
                   "content": "A: iSabes que el nombre de",
                   "type": "text"
                 },
@@ -8019,7 +8321,7 @@
                     647,
                     589
                   ],
-                  "score": 0.978,
+                  "score": 0.979,
                   "content": "con el apellido de Cristóbal Colón?",
                   "type": "text"
                 }
@@ -8042,7 +8344,7 @@
                     747,
                     608
                   ],
-                  "score": 0.93,
+                  "score": 0.926,
                   "content": "B: Si, lo sé. También sé que la capital de este pais es",
                   "type": "text"
                 }
@@ -8065,7 +8367,7 @@
                     747,
                     625
                   ],
-                  "score": 0.953,
+                  "score": 0.946,
                   "content": "Bogotá. Y es conocido por el café y por Gabriel",
                   "type": "text"
                 }
@@ -8265,7 +8567,7 @@
                     756,
                     734
                   ],
-                  "score": 0.911,
+                  "score": 0.901,
                   "content": "23. Lasmeninas에 관한 글을 이해한 내용으로 알맞은 것만을",
                   "type": "text"
                 }
@@ -8349,7 +8651,7 @@
                     747,
                     780
                   ],
-                  "score": 0.913,
+                  "score": 0.882,
                   "content": "Es  una gran obra del pintor",
                   "type": "text"
                 }
@@ -8371,7 +8673,7 @@
                     747,
                     797
                   ],
-                  "score": 0.975,
+                  "score": 0.986,
                   "content": "español Diego Velazquez. En esta",
                   "type": "text"
                 }
@@ -8393,7 +8695,7 @@
                     746,
                     814
                   ],
-                  "score": 0.994,
+                  "score": 0.984,
                   "content": "obra aparecen la infanta Margarita,",
                   "type": "text"
                 }
@@ -8415,7 +8717,7 @@
                     747,
                     833
                   ],
-                  "score": 0.911,
+                  "score": 0.903,
                   "content": "las meninas, el mismo pintor y",
                   "type": "text"
                 }
@@ -8459,7 +8761,7 @@
                     747,
                     866
                   ],
-                  "score": 0.956,
+                  "score": 0.954,
                   "content": "puede ver la imagen de los reyes",
                   "type": "text"
                 }
@@ -8481,7 +8783,7 @@
                     747,
                     883
                   ],
-                  "score": 0.951,
+                  "score": 0.959,
                   "content": "en el espejo que está al fondo. El",
                   "type": "text"
                 }
@@ -8503,7 +8805,7 @@
                     747,
                     900
                   ],
-                  "score": 0.973,
+                  "score": 0.969,
                   "content": "cuadro fue pintado en 1656 y está",
                   "type": "text"
                 }
@@ -8565,7 +8867,7 @@
                     628,
                     918
                   ],
-                  "score": 0.957,
+                  "score": 0.96,
                   "content": "en el Museo del Prado en Madrid.",
                   "type": "text"
                 }
@@ -8623,7 +8925,7 @@
                     676,
                     941
                   ],
-                  "score": 0.927,
+                  "score": 0.928,
                   "content": "*aparecer:등장하다 * infanta:공주",
                   "type": "text"
                 },
@@ -8725,7 +9027,7 @@
                     592,
                     984
                   ],
-                  "score": 0.969,
+                  "score": 0.971,
                   "content": "a. Museo del Prado에 있다.",
                   "type": "text"
                 }
@@ -8748,7 +9050,7 @@
                     612,
                     1002
                   ],
-                  "score": 0.971,
+                  "score": 0.969,
                   "content": "b. Diego Velazquez의 걸작이다.",
                   "type": "text"
                 }
@@ -8772,7 +9074,7 @@
                     641,
                     1019
                   ],
-                  "score": 0.982,
+                  "score": 0.987,
                   "content": "c.화가의 모습이 거울 속에 등장한다.",
                   "type": "text"
                 }
@@ -8796,7 +9098,7 @@
                     653,
                     1036
                   ],
-                  "score": 0.957,
+                  "score": 0.96,
                   "content": "d. Margarita 공주는1656년에 태어났다.",
                   "type": "text"
                 }
@@ -8858,6 +9160,17 @@
                 },
                 {
                   "bbox": [
+                    504,
+                    1049,
+                    506,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     1051,
                     520,
@@ -8879,6 +9192,17 @@
                   ],
                   "score": 0.594,
                   "content": "a, C",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    567,
+                    1049,
+                    568,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -8908,6 +9232,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    1049,
+                    629,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     629,
                     1051,
                     643,
@@ -8929,6 +9264,17 @@
                   ],
                   "score": 0.896,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    688,
+                    1048,
+                    690,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -9001,7 +9347,7 @@
                     407,
                     176
                   ],
-                  "score": 0.927,
+                  "score": 0.925,
                   "content": "24. Ciudad de Ushuaia에 관한 글에서 언급되지 않은 것은? [1점]",
                   "type": "text"
                 }
@@ -9063,7 +9409,7 @@
                     398,
                     221
                   ],
-                  "score": 0.937,
+                  "score": 0.935,
                   "content": "Como esta ciudad se encuentra en el extremo sur de",
                   "type": "text"
                 }
@@ -9085,7 +9431,7 @@
                     397,
                     237
                   ],
-                  "score": 0.949,
+                  "score": 0.946,
                   "content": "América, también la llaman el <fin del mundo». El clima",
                   "type": "text"
                 }
@@ -9107,7 +9453,7 @@
                     398,
                     255
                   ],
-                  "score": 0.966,
+                  "score": 0.965,
                   "content": "es frio y hace mucho viento. Sin embargo, para estar",
                   "type": "text"
                 }
@@ -9129,7 +9475,7 @@
                     398,
                     272
                   ],
-                  "score": 0.941,
+                  "score": 0.935,
                   "content": "cerca de la naturaleza üunica de este lugar, los turistas",
                   "type": "text"
                 }
@@ -9173,7 +9519,7 @@
                     398,
                     306
                   ],
-                  "score": 0.974,
+                  "score": 0.966,
                   "content": "el canal de Beagle y visitar el Parque Nacional de Tierra",
                   "type": "text"
                 }
@@ -9257,7 +9603,7 @@
                     398,
                     347
                   ],
-                  "score": 0.959,
+                  "score": 0.96,
                   "content": "extremo:극단의 *canal:해협",
                   "type": "text"
                 }
@@ -9299,6 +9645,17 @@
                 },
                 {
                   "bbox": [
+                    155,
+                    356,
+                    158,
+                    375
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     358,
                     171,
@@ -9320,6 +9677,17 @@
                   ],
                   "score": 0.999,
                   "content": "기후",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    218,
+                    356,
+                    219,
+                    375
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -9349,6 +9717,17 @@
                 },
                 {
                   "bbox": [
+                    278,
+                    356,
+                    280,
+                    375
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     358,
                     294,
@@ -9370,6 +9749,17 @@
                   ],
                   "score": 0.999,
                   "content": "위치",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    340,
+                    356,
+                    342,
+                    374
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -9451,7 +9841,7 @@
                     407,
                     427
                   ],
-                  "score": 0.92,
+                  "score": 0.921,
                   "content": "25. Día de Muertos에 관한 글을 이해한 내용으로 알맞은 것은?",
                   "type": "text"
                 }
@@ -9581,7 +9971,7 @@
                     399,
                     473
                   ],
-                  "score": 0.956,
+                  "score": 0.974,
                   "content": "México. Se celebra principalmente el",
                   "type": "text"
                 }
@@ -9603,7 +9993,7 @@
                     398,
                     490
                   ],
-                  "score": 0.98,
+                  "score": 0.977,
                   "content": "1 y 2 de noviembre. Los mexicanos",
                   "type": "text"
                 }
@@ -9625,8 +10015,8 @@
                     398,
                     506
                   ],
-                  "score": 0.928,
-                  "content": "creen que  durante  estos  dias  los",
+                  "score": 0.923,
+                  "content": "creen que  durante estos  dias  los",
                   "type": "text"
                 }
               ],
@@ -9647,7 +10037,7 @@
                     398,
                     524
                   ],
-                  "score": 0.975,
+                  "score": 0.971,
                   "content": "familiares muertos vuelven a casa, asi que para recibirlos",
                   "type": "text"
                 }
@@ -9669,7 +10059,7 @@
                     398,
                     542
                   ],
-                  "score": 0.965,
+                  "score": 0.967,
                   "content": "preparan un altar con sus fotos, comida, flores y otras",
                   "type": "text"
                 }
@@ -9691,7 +10081,7 @@
                     398,
                     559
                   ],
-                  "score": 0.983,
+                  "score": 0.98,
                   "content": "cosas. Hay gente que va a la tumba de sus familiares y",
                   "type": "text"
                 }
@@ -9714,7 +10104,7 @@
                     576
                   ],
                   "score": 0.933,
-                  "content": "alli pasa la noche comiendo, hablando y cantando para",
+                  "content": "alli pasa la noche comiendo,  hablando y cantando para",
                   "type": "text"
                 }
               ],
@@ -9793,7 +10183,7 @@
                     397,
                     616
                   ],
-                  "score": 0.925,
+                  "score": 0.92,
                   "content": "*principalmente:주로 * altar: 제단 * tumba:묘지",
                   "type": "text"
                 }
@@ -9847,7 +10237,7 @@
                     219,
                     642
                   ],
-                  "score": 0.954,
+                  "score": 0.956,
                   "content": "9월에 이틀간 열린다.",
                   "type": "text"
                 }
@@ -9884,7 +10274,7 @@
                     240,
                     659
                   ],
-                  "score": 0.902,
+                  "score": 0.904,
                   "content": "첫째 날에는 금식을 한다.",
                   "type": "text"
                 }
@@ -9922,7 +10312,7 @@
                     261,
                     676
                   ],
-                  "score": 0.918,
+                  "score": 0.916,
                   "content": "축제가 끝나면 제단을 태운다.",
                   "type": "text"
                 }
@@ -9960,7 +10350,7 @@
                     277,
                     694
                   ],
-                  "score": 0.941,
+                  "score": 0.949,
                   "content": "죽은 자들을 잊기 위한 축제이다.",
                   "type": "text"
                 }
@@ -9998,7 +10388,7 @@
                     298,
                     711
                   ],
-                  "score": 0.944,
+                  "score": 0.947,
                   "content": "묘지에서 밤을 보내는 사람들도 있다.",
                   "type": "text"
                 }
@@ -10040,7 +10430,7 @@
                     406,
                     765
                   ],
-                  "score": 0.918,
+                  "score": 0.932,
                   "content": "26. Acueducto de Segovia에 관한 글을 이해한 내용으로 알맞지",
                   "type": "text"
                 }
@@ -10079,72 +10469,44 @@
           ]
         },
         {
-          "type": "image",
+          "type": "text",
           "bbox": [
             103,
             790,
             219,
             874
           ],
-          "blocks": [
+          "lines": [
             {
-              "type": "image_body",
               "bbox": [
-                103,
-                790,
-                219,
-                874
+                100,
+                793,
+                232,
+                886
               ],
-              "group_id": 3,
-              "lines": [
+              "spans": [
                 {
                   "bbox": [
-                    103,
-                    790,
-                    219,
-                    874
+                    100,
+                    793,
+                    232,
+                    886
                   ],
-                  "spans": [
-                    {
-                      "bbox": [
-                        103,
-                        790,
-                        219,
-                        874
-                      ],
-                      "score": 0.941,
-                      "type": "image",
-                      "image_path": "1f11ee00b47edb076ed5b6d8d136586c5d015d2e9bd226f4fe7adc04c7b11a06.jpg"
-                    }
-                  ]
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 33.0,
-              "virtual_lines": [
-                {
-                  "bbox": [
-                    103,
-                    790,
-                    219,
-                    832.0
-                  ],
-                  "spans": [],
-                  "index": 31
-                },
-                {
-                  "bbox": [
-                    103,
-                    832.0,
-                    219,
-                    874.0
-                  ],
-                  "spans": [],
-                  "index": 35
-                }
-              ]
+              "index": 31
             }
           ],
-          "index": 33.0
+          "index": 31,
+          "bbox_fs": [
+            100,
+            793,
+            232,
+            886
+          ]
         },
         {
           "type": "text",
@@ -10170,7 +10532,7 @@
                     398,
                     811
                   ],
-                  "score": 0.934,
+                  "score": 0.939,
                   "content": "Es  una obra maestra de la",
                   "type": "text"
                 }
@@ -10192,7 +10554,7 @@
                     398,
                     828
                   ],
-                  "score": 0.959,
+                  "score": 0.965,
                   "content": "ingeniería romana. Se encuentra",
                   "type": "text"
                 }
@@ -10214,7 +10576,7 @@
                     397,
                     846
                   ],
-                  "score": 0.972,
+                  "score": 0.966,
                   "content": "en la ciudad de Segovia, España.",
                   "type": "text"
                 }
@@ -10236,12 +10598,12 @@
                     398,
                     864
                   ],
-                  "score": 0.956,
+                  "score": 0.954,
                   "content": "Fue construido por los romanos en",
                   "type": "text"
                 }
               ],
-              "index": 36
+              "index": 35
             },
             {
               "bbox": [
@@ -10258,12 +10620,12 @@
                     398,
                     880
                   ],
-                  "score": 0.949,
+                  "score": 0.963,
                   "content": "el siglo II y su función era llevar",
                   "type": "text"
                 }
               ],
-              "index": 37
+              "index": 36
             },
             {
               "bbox": [
@@ -10280,12 +10642,12 @@
                     398,
                     897
                   ],
-                  "score": 0.974,
+                  "score": 0.975,
                   "content": "el agua desde las montañas próximas hasta la ciudad. A",
                   "type": "text"
                 }
               ],
-              "index": 38
+              "index": 37
             },
             {
               "bbox": [
@@ -10307,7 +10669,7 @@
                   "type": "text"
                 }
               ],
-              "index": 39
+              "index": 38
             },
             {
               "bbox": [
@@ -10324,7 +10686,7 @@
                     353,
                     931
                   ],
-                  "score": 0.956,
+                  "score": 0.957,
                   "content": "Patrimonio de la Humanidad de la Unesco desde",
                   "type": "text"
                 },
@@ -10346,12 +10708,12 @@
                     380,
                     931
                   ],
-                  "score": 0.548,
-                  "content": ".",
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 }
               ],
-              "index": 40
+              "index": 39
             }
           ],
           "index": 34,
@@ -10371,7 +10733,7 @@
             933
           ],
           "lines": [],
-          "index": 39,
+          "index": 38,
           "bbox_fs": [
             105,
             883,
@@ -10437,12 +10799,12 @@
                     398,
                     954
                   ],
-                  "score": 0.994,
+                  "score": 0.995,
                   "content": "conservar:보존하다",
                   "type": "text"
                 }
               ],
-              "index": 41
+              "index": 40
             },
             {
               "bbox": [
@@ -10464,10 +10826,10 @@
                   "type": "text"
                 }
               ],
-              "index": 42
+              "index": 41
             }
           ],
-          "index": 41.5,
+          "index": 40.5,
           "bbox_fs": [
             207,
             941,
@@ -10513,12 +10875,12 @@
                     316,
                     997
                   ],
-                  "score": 0.975,
+                  "score": 0.968,
                   "content": "Podemos verlo en la ciudad de Segovia.",
                   "type": "text"
                 }
               ],
-              "index": 43,
+              "index": 42,
               "is_list_end_line": true
             },
             {
@@ -10555,7 +10917,7 @@
                   "type": "text"
                 }
               ],
-              "index": 44,
+              "index": 43,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -10593,7 +10955,7 @@
                   "type": "text"
                 }
               ],
-              "index": 45,
+              "index": 44,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -10626,12 +10988,12 @@
                     345,
                     1050
                   ],
-                  "score": 0.985,
+                  "score": 0.984,
                   "content": "Es una obra maestra de la ingenieria romana.",
                   "type": "text"
                 }
               ],
-              "index": 46,
+              "index": 45,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -10669,12 +11031,12 @@
                   "type": "text"
                 }
               ],
-              "index": 47,
+              "index": 46,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 45,
+          "index": 44,
           "bbox_fs": [
             97,
             982,
@@ -10706,15 +11068,15 @@
                     662,
                     174
                   ],
-                  "score": 0.887,
+                  "score": 0.882,
                   "content": "27. 빈칸에 들어갈 말로 알맞은 것은? [1점]",
                   "type": "text"
                 }
               ],
-              "index": 48
+              "index": 47
             }
           ],
-          "index": 48,
+          "index": 47,
           "bbox_fs": [
             434,
             156,
@@ -10746,12 +11108,12 @@
                     705,
                     232
                   ],
-                  "score": 0.971,
+                  "score": 0.967,
                   "content": "A: Ana, este regalo es para",
                   "type": "text"
                 }
               ],
-              "index": 50
+              "index": 49
             },
             {
               "bbox": [
@@ -10773,10 +11135,10 @@
                   "type": "text"
                 }
               ],
-              "index": 51
+              "index": 50
             }
           ],
-          "index": 50.5,
+          "index": 49.5,
           "bbox_fs": [
             561,
             215,
@@ -10825,7 +11187,7 @@
                   ]
                 }
               ],
-              "index": 50.5,
+              "index": 49.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -10835,7 +11197,7 @@
                     233.5
                   ],
                   "spans": [],
-                  "index": 49
+                  "index": 48
                 },
                 {
                   "bbox": [
@@ -10845,12 +11207,12 @@
                     285.0
                   ],
                   "spans": [],
-                  "index": 52
+                  "index": 51
                 }
               ]
             }
           ],
-          "index": 50.5
+          "index": 49.5
         },
         {
           "type": "text",
@@ -10915,6 +11277,17 @@
                 },
                 {
                   "bbox": [
+                    689,
+                    288,
+                    690,
+                    309
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     691,
                     291,
                     703,
@@ -10939,10 +11312,10 @@
                   "type": "text"
                 }
               ],
-              "index": 53
+              "index": 52
             }
           ],
-          "index": 53,
+          "index": 52,
           "bbox_fs": [
             444,
             288,
@@ -10979,10 +11352,10 @@
                   "type": "text"
                 }
               ],
-              "index": 54
+              "index": 53
             }
           ],
-          "index": 54,
+          "index": 53,
           "bbox_fs": [
             434,
             352,
@@ -11014,12 +11387,12 @@
                     747,
                     431
                   ],
-                  "score": 0.928,
+                  "score": 0.929,
                   "content": "Este cuadro se llama Las dos",
                   "type": "text"
                 }
               ],
-              "index": 56
+              "index": 55
             },
             {
               "bbox": [
@@ -11041,7 +11414,7 @@
                   "type": "text"
                 }
               ],
-              "index": 57
+              "index": 56
             },
             {
               "bbox": [
@@ -11063,10 +11436,10 @@
                   "type": "text"
                 }
               ],
-              "index": 58
+              "index": 57
             }
           ],
-          "index": 57,
+          "index": 56,
           "bbox_fs": [
             576,
             416,
@@ -11115,7 +11488,7 @@
                   ]
                 }
               ],
-              "index": 57.0,
+              "index": 56.0,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -11125,7 +11498,7 @@
                     440.5
                   ],
                   "spans": [],
-                  "index": 55
+                  "index": 54
                 },
                 {
                   "bbox": [
@@ -11135,12 +11508,12 @@
                     505.0
                   ],
                   "spans": [],
-                  "index": 59
+                  "index": 58
                 }
               ]
             }
           ],
-          "index": 57.0
+          "index": 56.0
         },
         {
           "type": "text",
@@ -11221,7 +11594,7 @@
                   "type": "text"
                 }
               ],
-              "index": 60
+              "index": 59
             },
             {
               "bbox": [
@@ -11282,10 +11655,10 @@
                   "type": "text"
                 }
               ],
-              "index": 61
+              "index": 60
             }
           ],
-          "index": 60.5,
+          "index": 59.5,
           "bbox_fs": [
             446,
             510,
@@ -11317,15 +11690,15 @@
                     680,
                     610
                   ],
-                  "score": 0.888,
+                  "score": 0.887,
                   "content": "29.빈칸에 공통으로 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 62
+              "index": 61
             }
           ],
-          "index": 62,
+          "index": 61,
           "bbox_fs": [
             434,
             591,
@@ -11373,7 +11746,7 @@
                   "type": "text"
                 }
               ],
-              "index": 63,
+              "index": 62,
               "is_list_end_line": true
             },
             {
@@ -11407,12 +11780,12 @@
                   "type": "text"
                 }
               ],
-              "index": 64,
+              "index": 63,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 63.5,
+          "index": 62.5,
           "bbox_fs": [
             456,
             622,
@@ -11485,7 +11858,7 @@
                   "type": "text"
                 }
               ],
-              "index": 65
+              "index": 64
             },
             {
               "bbox": [
@@ -11532,10 +11905,10 @@
                   "type": "text"
                 }
               ],
-              "index": 66
+              "index": 65
             }
           ],
-          "index": 65.5,
+          "index": 64.5,
           "bbox_fs": [
             446,
             665,
@@ -11567,15 +11940,15 @@
                     754,
                     766
                   ],
-                  "score": 0.86,
+                  "score": 0.859,
                   "content": "30. 밑줄 친 부분의 쓰임이 옳은 것만을 있는 대로 고른 것은?",
                   "type": "text"
                 }
               ],
-              "index": 67
+              "index": 66
             }
           ],
-          "index": 67,
+          "index": 66,
           "bbox_fs": [
             435,
             747,
@@ -11607,12 +11980,12 @@
                     739,
                     794
                   ],
-                  "score": 0.969,
+                  "score": 0.956,
                   "content": "A: Si hoy no tienes ningn plan, podemos ir a la playa.",
                   "type": "text"
                 }
               ],
-              "index": 68,
+              "index": 67,
               "is_list_start_line": true
             },
             {
@@ -11635,7 +12008,7 @@
                   "type": "text"
                 }
               ],
-              "index": 69,
+              "index": 68,
               "is_list_end_line": true
             },
             {
@@ -11653,12 +12026,12 @@
                     747,
                     820
                   ],
-                  "score": 0.97,
+                  "score": 0.969,
                   "content": "B: Vale. Voy a llamar a algunos de nuestros amigos",
                   "type": "text"
                 }
               ],
-              "index": 70,
+              "index": 69,
               "is_list_start_line": true
             },
             {
@@ -11681,7 +12054,7 @@
                   "type": "text"
                 }
               ],
-              "index": 71,
+              "index": 70,
               "is_list_end_line": true
             },
             {
@@ -11704,7 +12077,7 @@
                   "type": "text"
                 }
               ],
-              "index": 72,
+              "index": 71,
               "is_list_end_line": true
             },
             {
@@ -11727,7 +12100,7 @@
                   "type": "text"
                 }
               ],
-              "index": 73,
+              "index": 72,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -11751,7 +12124,7 @@
                   "type": "text"
                 }
               ],
-              "index": 74,
+              "index": 73,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -11775,11 +12148,11 @@
                   "type": "text"
                 }
               ],
-              "index": 75,
+              "index": 74,
               "is_list_end_line": true
             }
           ],
-          "index": 71.5,
+          "index": 70.5,
           "bbox_fs": [
             453,
             778,
@@ -11798,12 +12171,23 @@
           "lines": [
             {
               "bbox": [
-                446,
+                444,
                 915,
                 706,
                 936
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    915,
+                    445,
+                    936
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -11827,6 +12211,17 @@
                   ],
                   "score": 0.988,
                   "content": "(a)",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    546,
+                    916,
+                    547,
+                    936
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -11856,6 +12251,17 @@
                 },
                 {
                   "bbox": [
+                    649,
+                    916,
+                    650,
+                    936
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     650,
                     920,
                     663,
@@ -11880,7 +12286,7 @@
                   "type": "text"
                 }
               ],
-              "index": 76
+              "index": 75
             },
             {
               "bbox": [
@@ -11917,6 +12323,17 @@
                 },
                 {
                   "bbox": [
+                    546,
+                    934,
+                    547,
+                    954
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     548,
                     937,
                     561,
@@ -11941,12 +12358,12 @@
                   "type": "text"
                 }
               ],
-              "index": 77
+              "index": 76
             }
           ],
-          "index": 76.5,
+          "index": 75.5,
           "bbox_fs": [
-            446,
+            444,
             915,
             706,
             954
@@ -11981,10 +12398,10 @@
                   "type": "text"
                 }
               ],
-              "index": 78
+              "index": 77
             }
           ],
-          "index": 78,
+          "index": 77,
           "bbox_fs": [
             445,
             1006,
@@ -12021,7 +12438,7 @@
                   "type": "text"
                 }
               ],
-              "index": 79
+              "index": 78
             },
             {
               "bbox": [
@@ -12043,10 +12460,10 @@
                   "type": "text"
                 }
               ],
-              "index": 80
+              "index": 79
             }
           ],
-          "index": 79.5,
+          "index": 78.5,
           "bbox_fs": [
             447,
             1031,
@@ -12058,5 +12475,5 @@
     }
   ],
   "_backend": "pipeline",
-  "_version_name": "2.5.4"
+  "_version_name": "2.6.2"
 }

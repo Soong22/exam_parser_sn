@@ -76,7 +76,7 @@
   },
   {
     "type": "text",
-    "text": "엄마 응.으으은행에 어떤 우리주택에부과된재산세*를 어디다녀오세요?",
+    "text": "엄마 응.으으은행에 어떤 우리주택에 부과된재산세*를 어디다녀오세요?",
     "bbox": [
       104,
       304,
@@ -176,7 +176,7 @@
   },
   {
     "type": "text",
-    "text": "2. 표는 상업의 주체 A,  B를 특징에 따라 구분한 것이다.  A,  B에",
+    "text": ". 표는 상업의 주체 A,  B를 특징에 따라 구분한 것이다.  A,  B에",
     "bbox": [
       85,
       487,
@@ -187,9 +187,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9825,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 186,
+      "start_orig": 187,
       "end_orig": 229,
       "reason": "passed_threshold_no_ws"
     }
@@ -298,7 +298,7 @@
       977
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>일자</td><td rowspan=1 colspan=1>영업 상황</td></tr><tr><td rowspan=1 colspan=1>10월11일</td><td rowspan=1 colspan=1>A상점은B상점에서식료품을 구매한 후,B상점을 수취인으로하는확정일 출급 조건의(가)을/를발행하여대금을 지급하였다.</td></tr><tr><td rowspan=1 colspan=1>10월12일</td><td rowspan=1 colspan=1>A상점은C 상점에서과일을구매한후,지난9월에 A상점이외상으로채소를판매한D상점을지급인으로하는확정일출급조건의(나)을/를 발행하여 대금을 지급하였다.</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>일자</td><td rowspan=1 colspan=1>영업 상황</td></tr><tr><td rowspan=1 colspan=1>10월11일</td><td rowspan=1 colspan=1>A상점은B상점에서식료품을 구매한 후,B상점을 수취인으로하는확정일 출급 조건의(가)을/를발행하여대금을 지급하였다.</td></tr><tr><td rowspan=1 colspan=1>10월12일</td><td rowspan=1 colspan=1>A상점은C 상점에서과일을구매한후,지난9월에 A상점이외상으로채소를판매한D상점을지급인으로하는확정일출급조건의(나)을/를발행하여 대금을 지급하였다.</td></tr></table>",
     "table_caption": [
       "A상점의 영업 일지"
     ],
@@ -308,10 +308,30 @@
   },
   {
     "type": "text",
-    "text": "① 융통 어음에 해당한다.\n② 어음 할인이 가능하다.\n",
+    "text": "① 융통 어음에 해당한다.\n",
     "bbox": [
       97,
       986,
+      222,
+      1000
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 726,
+      "end_orig": 741,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "② 어음 할인이 가능하다.\n",
+    "bbox": [
+      97,
+      1002,
       222,
       1017
     ],
@@ -319,9 +339,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9767,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 726,
+      "start_orig": 741,
       "end_orig": 756,
       "reason": "passed_threshold_no_ws"
     }
@@ -570,7 +590,7 @@
       492
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=\"2\">입사 서류</td><td>·최종 학교 성적 증명서 ·주민등록등본(&#x27;정부24&#x27;포털 서비스 활용)</td></tr><tr><td>·일반은행 보통 예금 통장 사본(급여 이체용)</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=\"2\">입사 서류</td><td>·최종 학교 성적 증명서 ·주민등록등본(&#x27;정부24&#x27;포털 서비스 활용)</td></tr><tr><td>·일반은행 보통 예금 통장 사본(급여이체용)</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "9a5ef6da99dc5173d794eea0be5943dd9f41f808c5bfe72029d281259ac46b1e.jpg",
@@ -638,7 +658,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 시중은행에서  저축성  예금에  속하는  통장을  개설하였을 것이다.\n",
+    "text": "ㄷ. 시중은행에서  저축성  예금에  속하는  통장을  개설하였을 것이다.",
     "bbox": [
       456,
       561,
@@ -649,11 +669,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9655,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1256,
-      "end_orig": 1298,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 1297,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -689,7 +709,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9744,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1353,
       "end_orig": 1392,
@@ -778,7 +798,7 @@
   },
   {
     "type": "text",
-    "text": "점수 10(id:) <사회적 책임 영역> 80 80 A:자선적 책임 60 60 B: 법률적책임 40 40 C:경제적책임 20 20 D:윤리적 책임 0 경영활동 일자리환경보호를위한협력업체인재육성을 창출 친환경 제품생산 계약 준수 위한장학사업",
+    "text": "점수 10(id:) <사회적 책임 영역>> 80 80 A:자선적 책임 60 60 B: 법률적책임 40 40 C:경제적책임 20 20 D:윤리적 책임 0 경영활동 일자리환경보호를위한협력업체인재육성을 창출 친환경 제품생산 계약 준수 위한 장학사업",
     "bbox": [
       451,
       852,
@@ -938,7 +958,7 @@
   },
   {
     "type": "text",
-    "text": "나(A씨)는 집 근처 OO카페 출입구의 유리창에\"그날 필요한 만큼의 신선한 재료를 구매하여 즉석에서 만든 식감이 좋은 빵을5,000원에 판매하고 있습니다.\"",
+    "text": "나(A씨)는 집 근처 OO카페 출입구의 유리창에\"그날 필요한 만큼의 신선한 재료를 구매하여 즉석에서 만든 식감이 좋은 빵을 5,000원에 판매하고 있습니다.\"",
     "bbox": [
       214,
       190,
@@ -1058,7 +1078,7 @@
   },
   {
     "type": "text",
-    "text": "이 시스템을 이용해서 보낸 안내 문자를받을 때마다 방문하여 빵을 자주 구입하게 되었다.",
+    "text": "이 시스템을 이용해서 보낸 안내 문자를 받을 때마다 방문하여 빵을 자주 구입하게 되었다.",
     "bbox": [
       95,
       372,
@@ -1158,7 +1178,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 단수 가격 정책을 통해 빵의 판매 가격을 설정하고 있다.\n",
+    "text": "ㄷ. 단수 가격 정책을 통해 빵의 판매 가격을 설정하고 있다.",
     "bbox": [
       107,
       521,
@@ -1169,11 +1189,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.96,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1759,
-      "end_orig": 1794,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 1793,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1218,7 +1238,7 @@
   },
   {
     "type": "text",
-    "text": "7. 위 자료에서 A 씨가 ○○카페의 빵을 자주 구입하는 데 기여한 정보 시스템으로 가장 적절한 것은?\n① C",
+    "text": "7. 위 자료에서 A 씨가 ○○카페의 빵을 자주 구입하는 데 기여한 정보 시스템으로 가장 적절한 것은?\n",
     "bbox": [
       86,
       626,
@@ -1229,11 +1249,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9302,
+      "similarity": 0.9286,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1871,
-      "end_orig": 1932,
-      "reason": "passed_threshold_no_ws"
+      "end_orig": 1929,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -1325,7 +1345,7 @@
       976
     ],
     "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=\"2\">경영관리순환과정 A~D에 대해 설명 하겠습니다.</td><td colspan=\"2\"></td></tr><tr><td>경열관리 순환과정</td><td>경영 활동</td></tr><tr><td rowspan=\"4\"></td><td>A</td><td>영업부에서 신상품에 대한 시장 점유율을 분석하여 달성 정도를 평가한다.</td></tr><tr><td>B</td><td>신상품을 홍보하기 위한 전담 부서를 신설한다.</td></tr><tr><td></td><td>신상품 출시를 통해 시장 점유율을 10% 이상 확보하는 것을 목표로 설정한다.</td></tr><tr><td>D</td><td>부서장은 &#x27;시장 점유율이 달성되면 성과급을 지급한다.&#x27;는 안내를 하여 동기를 부여한다.</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=\"2\">경영관리 순환과정 A~D에 대해설명 하겠습니다.</td><td colspan=\"2\"></td></tr><tr><td>경열관리 순환과정</td><td>경영 활동</td></tr><tr><td rowspan=\"4\"></td><td>A</td><td>영업부에서 신상품에 대한 시장 점유율을 분석하여 달성 정도를 평가한다.</td></tr><tr><td>B</td><td>신상품을 홍보하기 위한 전담 부서를 신설한다.</td></tr><tr><td></td><td>신상품 출시를 통해 시장 점유율을 10% 이상 확보하는 것을 목표로 설정한다.</td></tr><tr><td>D</td><td>부서장은 &#x27;시장 점유율이 달성되면 성과급을 지급한다.&#x27;는 안내를 하여 동기를 부여한다.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "f6130283f2c354acea97261722b9473cd8618a95b7641da9409643467eb9874a.jpg",
@@ -1673,7 +1693,7 @@
   },
   {
     "type": "text",
-    "text": "달러화의 수요와 공급 따른 환율 변동>",
+    "text": "달러화의 수요와 공급c 따른 환율 변동>",
     "bbox": [
       627,
       513,
@@ -1967,7 +1987,7 @@
   },
   {
     "type": "text",
-    "text": "콜센터 업무위탁 A기업 K B기업 콜센터업무 위탁 수락",
+    "text": "콜센터 업무위탁 A기업 B기업 K 콜센터업무 위탁 수락",
     "bbox": [
       459,
       924,
@@ -2274,7 +2294,7 @@
       669
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=4>CO(주)자금 조달 보고서</td></tr><tr><td></td><td rowspan=1 colspan=1>문제상황</td><td rowspan=1 colspan=2>신규 사업 부문 진출에 따른 소요 자금 1천만 원을 조달하기위한 방안 마련이 요구됨.</td></tr><tr><td></td><td rowspan=1 colspan=3>↓</td></tr><tr><td rowspan=2 colspan=1>(cid:)</td><td rowspan=2 colspan=1>대안</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>·은행 대출을 통해 2백만 원 조달1안·유상 증자(보통주)를 통해 3백만 원 조달·회사채(3년 만기)발행을 통해 5백만 원 조달</td></tr><tr><td rowspan=2 colspan=2>·은행 대출을 통해 3백만 원 조달2안·자사주 매각을 통해2백만 원 조달·유상 증자(우선주)를 통해 5백만 원 조달↓</td></tr><tr><td></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>대안 선택및자금조달</td><td rowspan=1 colspan=2>대안 1,2안을 비교하여 직접 금융 방식으로 조달한 금액이더 큰 것을 대안으로 선택하여 자금을 조달함.</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=4>OO(주)자금 조달 보고서</td></tr><tr><td></td><td rowspan=1 colspan=1>문제상황</td><td rowspan=1 colspan=2>신규 사업 부문 진출에 따른 소요 자금 1천만 원을 조달하기위한 방안 마련이 요구됨.</td></tr><tr><td></td><td rowspan=1 colspan=3>↓</td></tr><tr><td rowspan=2 colspan=1>(cid:)</td><td rowspan=2 colspan=1>대안</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>·은행 대출을 통해 2백만 원 조달1안·유상 증자(보통주)를 통해 3백만 원 조달·회사채(3년 만기)발행을 통해 5백만 원 조달</td></tr><tr><td rowspan=2 colspan=2>·은행 대출을 통해 3백만 원 조달2안·자사주 매각을 통해2백만 원 조달·유상 증자(우선주)를 통해 5백만 원 조달↓</td></tr><tr><td></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>대안 선택및자금조달</td><td rowspan=1 colspan=2>대안 1,2안을 비교하여 직접 금융 방식으로 조달한 금액이더 큰 것을 대안으로 선택하여 자금을 조달함.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "f9f31079b674ddab147deab2e39615979ac6f4b46055ca92964a8512208ccfde.jpg",
@@ -2776,7 +2796,7 @@
   },
   {
     "type": "text",
-    "text": "2. 분쟁조정, 조정비용 부담 등에 관한 권한 -｢대외무역법 시행령｣ 제91조 일부-\n<보 ",
+    "text": "2. 분쟁조정, 조정비용 부담 등에 관한 권한 -｢대외무역법 시행령｣ 제91조 일부-\n",
     "bbox": [
       453,
       377,
@@ -2787,16 +2807,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9333,
+      "similarity": 0.9315,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4038,
-      "end_orig": 4089,
-      "reason": "passed_threshold_no_ws"
+      "end_orig": 4086,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
     "type": "text",
-    "text": "<보기>",
+    "text": "<보  기>",
     "bbox": [
       573,
       425,
@@ -2809,8 +2829,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4329,
-      "end_orig": 4333,
+      "start_orig": 4086,
+      "end_orig": 4092,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2916,7 +2936,7 @@
   },
   {
     "type": "text",
-    "text": "16. 다음 무역 관련 자료에 근거하여 A,  B 국에서 나타나는 현상으로 적절한 것만을 <보기>",
+    "text": "16. 다음 무역 관련 자료에 근거하여 A,  B 국에서 나타나는 현상으로 적절한 것만을 <보기",
     "bbox": [
       435,
       640,
@@ -2927,10 +2947,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9873,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4279,
-      "end_orig": 4333,
+      "end_orig": 4332,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3875,7 +3895,7 @@
   },
   {
     "type": "text",
-    "text": "② B는 소량 생산 -소량 소비의 유통 경로에 해당한다.",
+    "text": "② B는 소량생산 -소량 소비의 유통 경로에 해당한다.",
     "bbox": [
       446,
       324,
@@ -3915,7 +3935,7 @@
   },
   {
     "type": "text",
-    "text": "④ D는농민이생산한배추를산지에서직접 최종 소비자에게판매 하는 것을 예로 들 수 있다.",
+    "text": "④ D는농민이생산한 배추를 산지에서직접 최종 소비자에게 판매 하는 것을 예로 들 수 있다.",
     "bbox": [
       446,
       374,
@@ -4472,7 +4492,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ. [체결 전]  대비 [체결 후]  C국의 입장에서 자동차 부품은 무역창출효과,  완성차는 무역전환효과가 나타나게 될 것이다.\n",
+    "text": "ㄹ. [체결 전]  대비 [체결 후]  C국의 입장에서 자동차 부품은 무역창출효과,  완성차는 무역전환효과가 나타나게 될 것이다.",
     "bbox": [
       455,
       920,
@@ -4483,11 +4503,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.972,
+      "similarity": 0.9907,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6107,
-      "end_orig": 6180,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 6179,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {

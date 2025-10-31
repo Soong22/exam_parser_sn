@@ -5,7 +5,7 @@ from typing import List, Dict, Any, Optional, Iterable, Tuple
 
 # ===== 경로(하드코딩) =====
 SRC_DIR = Path(r"exam_parser-main\01_middle_process\data\plain")     # cleaned JSON들 (para_blocks 포함)
-DST_DIR = Path(r"exam_parser-main\01_middle_process/data/content_list")  # 결과 저장
+DST_DIR = Path(r"exam_parser-main\01_middle_process\data\content_list")  # 결과 저장
 
 DST_DIR.mkdir(parents=True, exist_ok=True)
 

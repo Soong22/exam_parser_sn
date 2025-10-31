@@ -216,7 +216,7 @@
   },
   {
     "type": "text",
-    "text": "⑤ (가)와 (나): 도덕 언어의 의미와 도덕 추론의 구조를 분석하는 것이다\n",
+    "text": "⑤ (가)와 (나): 도덕 언어의 의미와 도덕 추론의 구조를 분석하는 것이다\n2. ",
     "bbox": [
       97,
       470,
@@ -227,16 +227,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9846,
+      "similarity": 0.9851,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 458,
-      "end_orig": 501,
+      "end_orig": 504,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "2. 다음을 주장한 사상가의 입장에서 <문제 상황>  속 A에게 제시할 조언으로 가장 적절한 것은?  [3점]\n",
+    "text": ". 다음을 주장한 사상가의 입장에서 <문제 상황>  속 A에게 제시할 조언으로 가장 적절한 것은?  [3점]\n",
     "bbox": [
       86,
       542,
@@ -247,9 +247,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9888,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 501,
+      "start_orig": 502,
       "end_orig": 563,
       "reason": "passed_threshold_no_ws"
     }
@@ -476,7 +476,7 @@
   },
   {
     "type": "text",
-    "text": "라 질적 차이까지 고려하여 기부 여부를 정하세요\n",
+    "text": "라 질적 차이까지 고려하여 기부 여부를 정하세요",
     "bbox": [
       191,
       800,
@@ -487,10 +487,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9756,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 933,
-      "end_orig": 960,
+      "end_orig": 959,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -711,7 +711,7 @@
   },
   {
     "type": "text",
-    "text": "① 인간 배아 복제는 인간의 생명권을 침해한다.",
+    "text": "① 인간 배아 복제는 인간의 생명권을 침해한다. ",
     "bbox": [
       446,
       452,
@@ -725,16 +725,36 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1460,
-      "end_orig": 1486,
+      "end_orig": 1487,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 인간은 인간 배아와 유전적 특징이 다르지 않다.\n③ 인간 종의 구성원들 중에는 인간 배아도 포함된다.",
+    "text": "② 인간은 인간 배아와 유전적 특징이 다르지 않다.\n",
     "bbox": [
       446,
       468,
+      694,
+      484
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1489,
+      "end_orig": 1518,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③ 인간 종의 구성원들 중에는 인간 배아도 포함된다.\n",
+    "bbox": [
+      446,
+      486,
       704,
       501
     ],
@@ -742,16 +762,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9882,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1489,
-      "end_orig": 1547,
+      "start_orig": 1518,
+      "end_orig": 1548,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 인간 배아가 인간이 되는 과정은 끊임없이 연속적이다.",
+    "text": "④ 인간 배아가 인간이 되는 과정은 끊임없이 연속적이다.\n",
     "bbox": [
       446,
       501,
@@ -765,13 +785,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1548,
-      "end_orig": 1579,
+      "end_orig": 1580,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 인간 배아는 도덕적 지위가 없는 단순한 세포 덩어리이다.",
+    "text": "⑤ 인간 배아는 도덕적 지위가 없는 단순한 세포 덩어리이다.\n",
     "bbox": [
       446,
       519,
@@ -785,7 +805,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1580,
-      "end_orig": 1613,
+      "end_orig": 1614,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1191,7 +1211,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑 : 나쁜 환경에 처한 사람은 반드시 자신의 본성을 잃게 된다.",
+    "text": "① 갑 : 나쁜 환경에 처한 사람은 반드시 자신의 본성을 잃게 된다.\n",
     "bbox": [
       97,
       338,
@@ -1205,13 +1225,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2499,
-      "end_orig": 2537,
+      "end_orig": 2538,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 갑 : 다른 사람을 편안하게 한 후에야 비로소 자기 수양이 가능하다.",
+    "text": "② 갑 : 다른 사람을 편안하게 한 후에야 비로소 자기 수양이 가능하다.\n",
     "bbox": [
       97,
       354,
@@ -1225,13 +1245,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2538,
-      "end_orig": 2578,
+      "end_orig": 2579,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 을 : 탐욕으로 생긴 번뇌는 깨달음을 얻더라도 소멸될 수 없다.",
+    "text": "③ 을 : 탐욕으로 생긴 번뇌는 깨달음을 얻더라도 소멸될 수 없다.\n",
     "bbox": [
       97,
       371,
@@ -1245,13 +1265,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2579,
-      "end_orig": 2616,
+      "end_orig": 2617,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 을 : 나와 남이 둘이 아니라는 자각에서 만물에 대한 사랑이 생긴다.",
+    "text": "④ 을 : 나와 남이 둘이 아니라는 자각에서 만물에 대한 사랑이 생긴다.\n",
     "bbox": [
       97,
       388,
@@ -1265,13 +1285,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2617,
-      "end_orig": 2657,
+      "end_orig": 2658,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 갑과 을: 인륜의 규범에서 벗어나야 이상적 인간이 될 수 있다.",
+    "text": "⑤ 갑과 을: 인륜의 규범에서 벗어나야 이상적 인간이 될 수 있다.\n",
     "bbox": [
       97,
       405,
@@ -1285,13 +1305,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2658,
-      "end_orig": 2695,
+      "end_orig": 2696,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "7. (가)의 사상가 갑,  을의 입장을 (나)  그림으로 탐구하고자 할 때,",
+    "text": ". (가)의 사상가 갑,  을의 입장을 (나)  그림으로 탐구하고자 할 때, ",
     "bbox": [
       86,
       581,
@@ -1302,10 +1322,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9836,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2696,
-      "end_orig": 2739,
+      "start_orig": 2697,
+      "end_orig": 2740,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1331,7 +1351,7 @@
   },
   {
     "type": "text",
-    "text": "들어갈 적절한 질문만을  <보기",
+    "text": "들어갈 적절한 질문만을  <보기>",
     "bbox": [
       136,
       600,
@@ -1342,10 +1362,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.963,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2745,
-      "end_orig": 2762,
+      "end_orig": 2763,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1805,7 +1825,7 @@
   },
   {
     "type": "text",
-    "text": "① 먹는 행위와 좋은 품성의 형성은 서로 무관함을 고려하세요.",
+    "text": "① 먹는 행위와 좋은 품성의 형성은 서로 무관함을 고려하세요.\n",
     "bbox": [
       446,
       398,
@@ -1819,16 +1839,36 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3567,
-      "end_orig": 3601,
+      "end_orig": 3602,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 먹는 것은 본능이므로 스스로 통제할 수 없음을 고려하세요.\n③ 먹을 때 이성이 아닌 감정의 명령에 따라야 함을 고려하세요.\n④ 먹는 즐거움을 느낄 때에도 절제의 덕이 필요함을 고려하세요.\n⑤ 먹는 것은 육체의 욕망을 채우는 행위에 불과함을 고려하세요.",
+    "text": "② 먹는 것은 본능이므로 스스로 통제할 수 없음을 고려하세요.\n",
     "bbox": [
       446,
       414,
+      752,
+      430
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3602,
+      "end_orig": 3637,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③ 먹을 때 이성이 아닌 감정의 명령에 따라야 함을 고려하세요.\n④ 먹는 즐거움을 느낄 때에도 절제의 덕이 필요함을 고려하세요.\n⑤ 먹는 것은 육체의 욕망을 채우는 행위에 불과함을 고려하세요.\n",
+    "bbox": [
+      446,
+      431,
       756,
       480
     ],
@@ -1836,10 +1876,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9856,
+      "similarity": 0.9873,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3602,
-      "end_orig": 3744,
+      "start_orig": 3637,
+      "end_orig": 3745,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1985,20 +2025,40 @@
   },
   {
     "type": "text",
-    "text": "ㄴ. 시민 불복종은 법의 경계선 내에서 행해지는 정치적 행위이다.\nㄷ. 부정의한 법의 변혁은 시민 불복종의 목적이 아니라 결과이다.",
+    "text": "ㄴ. 시민 불복종은 법의 경계선 내에서 행해지는 정치적 행위이다.",
     "bbox": [
       454,
       733,
       748,
+      752
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4016,
+      "end_orig": 4052,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 부정의한 법의 변혁은 시민 불복종의 목적이 아니라 결과이다.",
+    "bbox": [
+      455,
+      750,
+      747,
       766
     ],
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.991,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4016,
+      "start_orig": 4053,
       "end_orig": 4089,
       "reason": "passed_threshold_no_ws"
     }
@@ -2105,7 +2165,7 @@
   },
   {
     "type": "text",
-    "text": "① 미적 판단과 도덕 판단은 모두 이해 관심에 근거해야 한다.",
+    "text": "① 미적 판단과 도덕 판단은 모두 이해 관심에 근거해야 한다.\n",
     "bbox": [
       446,
       986,
@@ -2119,13 +2179,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4321,
-      "end_orig": 4355,
+      "end_orig": 4356,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 미적 판단은 개인의 주관적인 판단이기에 보편화될 수 없다.",
+    "text": "② 미적 판단은 개인의 주관적인 판단이기에 보편화될 수 없다.\n",
     "bbox": [
       446,
       1002,
@@ -2139,13 +2199,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4356,
-      "end_orig": 4390,
+      "end_orig": 4391,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 미적 판단의 대상인 예술은 그 자체로 자율성을 지닐 수 없다.",
+    "text": "③ 미적 판단의 대상인 예술은 그 자체로 자율성을 지닐 수 없다.\n",
     "bbox": [
       446,
       1018,
@@ -2159,13 +2219,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4391,
-      "end_orig": 4427,
+      "end_orig": 4428,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 미적 대상에 대한 감각적 경험은 도덕성 고양에 기여할 수 있다.",
+    "text": "④ 미적 대상에 대한 감각적 경험은 도덕성 고양에 기여할 수 있다.\n",
     "bbox": [
       446,
       1035,
@@ -2179,7 +2239,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4428,
-      "end_orig": 4465,
+      "end_orig": 4466,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2725,7 +2785,7 @@
   },
   {
     "type": "text",
-    "text": "② 자애의 덕을 지니기 위해서는 반드시 절용()해야 한다.",
+    "text": "② 자애의 덕을 지니기 위해서는 반드시 절용(節用)해야 한다.\n",
     "bbox": [
       97,
       695,
@@ -2735,17 +2795,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5259,
+      "end_orig": 5294,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 청백리가 되려면 자신에게만 관대하고 가족에게는 엄격해야 한다.",
+    "text": "③ 청백리가 되려면 자신에게만 관대하고 가족에게는 엄격해야 한다.\n",
     "bbox": [
       97,
       711,
@@ -2755,17 +2815,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5294,
+      "end_orig": 5331,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 세금 사용에 주의를 기울여 국민의 경제적 부담을 줄여야 한다.",
+    "text": "④ 세금 사용에 주의를 기울여 국민의 경제적 부담을 줄여야 한다.\n",
     "bbox": [
       97,
       728,
@@ -2775,17 +2835,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5331,
+      "end_orig": 5368,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 공적 재산이 국민의 노력으로 이루어진 것임을 유념해야 한다.",
+    "text": "⑤ 공적 재산이 국민의 노력으로 이루어진 것임을 유념해야 한다.\n",
     "bbox": [
       97,
       745,
@@ -2795,12 +2855,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5368,
+      "end_orig": 5404,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2905,7 +2965,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑:성적 관계에서 개인의 자유가 사회적책임보다 중요하다.",
+    "text": "① 갑 : 성적 관계에서 개인의 자유가 사회적 책임보다 중요하다.\n",
     "bbox": [
       97,
       985,
@@ -2915,17 +2975,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5431,
+      "end_orig": 5468,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 갑:출산과 양육은 바람직한 성적관계의 조건이 아니다.",
+    "text": "② 갑 : 출산과 양육은 바람직한 성적 관계의 조건이 아니다.\n",
     "bbox": [
       97,
       1002,
@@ -2935,17 +2995,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5468,
+      "end_orig": 5503,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 을:성적 관계는 윤리적 가치 판단의 대상이 아니다.",
+    "text": "③ 을 : 성적 관계는 윤리적 가치 판단의 대상이 아니다.\n",
     "bbox": [
       97,
       1018,
@@ -2955,17 +3015,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5503,
+      "end_orig": 5536,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 을:정당한 성적 관계는 당사자 간의 동의로 충분하다.",
+    "text": "④ 을 : 정당한 성적 관계는 당사자 간의 동의로 충분하다.\n",
     "bbox": [
       97,
       1035,
@@ -2975,17 +3035,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5536,
+      "end_orig": 5570,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 갑과 을:성적 관계는 당사자 간의 사랑을 전제해야 한다.",
+    "text": "⑤ 갑과 을 : 성적 관계는 당사자 간의 사랑을 전제해야 한다.\n",
     "bbox": [
       97,
       1053,
@@ -2995,12 +3055,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5570,
+      "end_orig": 5606,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3192,7 +3252,7 @@
       945
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td>(가) 생각하지 말라.생명 공동체의 통합성과 안정성 그리고</td><td colspan=\"2\">갑: 동물을 폭력적으로 다루면 고통에 대한 공감이 무녀져 결국 타인과의 관계에서 인간의 도덕성에 매우 유익한 천성적 소질이 고갈될 수 있다. 을:어떤 존재가 느끼는 고통을 고려하지 않는 것은 옳지 않다.이익 평등 고려의 원리는 그 존재의 고통을 다른 존재의 고통과 평등하게 계산하도록 한다. 병: 경제적 이익 계산의 문제로만 바람직한 대지의 이용을</td></tr><tr><td>(나4)</td><td>아름다움의 보전에 이바지한다면 그것은 옳다. A</td><td>범 레&gt; A:갑만의 입장 B: 을만의 입장 C :병만의 입장 D: 을과병만의 공통입장</td></tr></table>",
+    "table_body": "<table><tr><td>(가) 생각하지 말라.생명 공동체의 통합성과 안정성 그리고</td><td colspan=\"2\">갑: 동물을 폭력적으로 다루면 고통에 대한 공감이 무녀져 결국 타인과의 관계에서 인간의 도덕성에 매우 유익한 천성적 소질이 고갈될 수 있다. 을: 어떤 존재가 느끼는 고통을 고려하지 않는 것은 옳지 않다.이익 평등 고려의 원리는 그 존재의 고통을 다른 존재의 고통과 평등하게 계산하도록 한다. 병: 경제적 이익 계산의 문제로만 바람직한 대지의 이용을</td></tr><tr><td>(나4)</td><td>아름다움의 보전에 이바지한다면 그것은 옳다. A</td><td>범 레&gt; A:갑만의 입장 B:을만의 입장 C:병만의 입장 D: 을과병만의 공통입장</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "16659ac2934203023dd5393c295849779e6061638119140bd034970036df67e1.jpg",
@@ -3460,7 +3520,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑 : 국가는 모든 외국인에 대해 호의적으로 대할 필요는 없다.",
+    "text": "① 갑 : 국가는 모든 외국인에 대해 호의적으로 대할 필요는 없다.\n",
     "bbox": [
       97,
       338,
@@ -3474,13 +3534,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6940,
-      "end_orig": 6977,
+      "end_orig": 6978,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 갑 : 국가 간 신뢰를 불가능하게 하는 적대 행위를 해서는 안 된다.",
+    "text": "② 갑 : 국가 간 신뢰를 불가능하게 하는 적대 행위를 해서는 안 된다.\n",
     "bbox": [
       97,
       354,
@@ -3494,13 +3554,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6978,
-      "end_orig": 7018,
+      "end_orig": 7019,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 을 : 국제 정치에서 개별 국가들의 권력욕은 갈등의 원인이다.",
+    "text": "③ 을 : 국제 정치에서 개별 국가들의 권력욕은 갈등의 원인이다.\n",
     "bbox": [
       97,
       371,
@@ -3514,13 +3574,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7019,
-      "end_orig": 7055,
+      "end_orig": 7056,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 을 : 국제법에 근거한 세력 균형이 유일한 평화 유지 수단이다.",
+    "text": "④ 을 : 국제법에 근거한 세력 균형이 유일한 평화 유지 수단이다.\n",
     "bbox": [
       97,
       388,
@@ -3534,13 +3594,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7056,
-      "end_orig": 7093,
+      "end_orig": 7094,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 갑과 을 : 국제 연맹은 독립된 국가처럼 주권을 행사할 수 없다.",
+    "text": "⑤ 갑과 을 : 국제 연맹은 독립된 국가처럼 주권을 행사할 수 없다.\n",
     "bbox": [
       97,
       406,
@@ -3554,7 +3614,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7094,
-      "end_orig": 7132,
+      "end_orig": 7133,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3640,7 +3700,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑 : 죽음 이후에 관한 지식이 삶에 관한 지식보다 중요하다.",
+    "text": "① 갑 : 죽음 이후에 관한 지식이 삶에 관한 지식보다 중요하다.\n",
     "bbox": [
       97,
       653,
@@ -3654,13 +3714,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7362,
-      "end_orig": 7398,
+      "end_orig": 7399,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 갑 : 죽음을 맞이하는 한이 있더라도 도(道)를 추구해야 한다.",
+    "text": "② 갑 : 죽음을 맞이하는 한이 있더라도 도(道)를 추구해야 한다.\n",
     "bbox": [
       97,
       668,
@@ -3674,13 +3734,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7399,
-      "end_orig": 7436,
+      "end_orig": 7437,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 을 : 죽음은 삶에서 지은 업(業)으로 말미암아 나타난 결과이다.",
+    "text": "③ 을 : 죽음은 삶에서 지은 업(業)으로 말미암아 나타난 결과이다.\n",
     "bbox": [
       97,
       685,
@@ -3694,13 +3754,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7437,
-      "end_orig": 7475,
+      "end_orig": 7476,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 을 : 죽음은 삶의 자연스러운 변화이지만 마땅히 슬퍼해야 한다.",
+    "text": "④ 을 : 죽음은 삶의 자연스러운 변화이지만 마땅히 슬퍼해야 한다.\n",
     "bbox": [
       97,
       702,
@@ -3714,13 +3774,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7476,
-      "end_orig": 7513,
+      "end_orig": 7514,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 갑과 을 :  삶과 죽음은 운명[命]에 따라 주기적으로 순환한다.",
+    "text": "⑤ 갑과 을 :  삶과 죽음은 운명[命]에 따라 주기적으로 순환한다.\n",
     "bbox": [
       97,
       721,
@@ -3734,7 +3794,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7514,
-      "end_orig": 7552,
+      "end_orig": 7553,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3840,7 +3900,7 @@
   },
   {
     "type": "text",
-    "text": "① 인간은 호혜적 관계를 맺는 존재에 대해서만 책임이 있다.",
+    "text": "① 인간은 호혜적 관계를 맺는 존재에 대해서만 책임이 있다.\n",
     "bbox": [
       97,
       985,
@@ -3854,13 +3914,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7802,
-      "end_orig": 7835,
+      "end_orig": 7836,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 현대 과학 기술의 힘은 인간 행위의 본질을 변화시키지 못한다.",
+    "text": "② 현대 과학 기술의 힘은 인간 행위의 본질을 변화시키지 못한다.\n",
     "bbox": [
       97,
       1002,
@@ -3874,13 +3934,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7836,
-      "end_orig": 7872,
+      "end_orig": 7873,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 기술로 얻은 힘의 크기가 커질수록 인간의 책임 범위는 넓어진다.",
+    "text": "③ 기술로 얻은 힘의 크기가 커질수록 인간의 책임 범위는 넓어진다.\n",
     "bbox": [
       97,
       1018,
@@ -3894,13 +3954,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7873,
-      "end_orig": 7910,
+      "end_orig": 7911,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 과학 기술로 인한 비의도적 결과는 인간이 책임질 필요가 없다.",
+    "text": "④ 과학 기술로 인한 비의도적 결과는 인간이 책임질 필요가 없다.\n",
     "bbox": [
       97,
       1035,
@@ -3914,13 +3974,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7911,
-      "end_orig": 7947,
+      "end_orig": 7948,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 전통 윤리학은 미래 세대의 생존 문제를 모두 해결할 수 있다.",
+    "text": "⑤ 전통 윤리학은 미래 세대의 생존 문제를 모두 해결할 수 있다.\n",
     "bbox": [
       97,
       1053,
@@ -3934,7 +3994,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7948,
-      "end_orig": 7984,
+      "end_orig": 7985,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4240,7 +4300,7 @@
   },
   {
     "type": "text",
-    "text": "종교만을맹신하고타종교를 인정하지않는 배타적인 태도에 기인합니다.종교 간의 대화 없이는 국가 안의",
+    "text": "종교만을맹신하고타종교를인정하지않는 배타적인 태도에 기인합니다.종교 간의 대화 없이는 국가 안의",
     "bbox": [
       455,
       693,
@@ -4300,7 +4360,7 @@
   },
   {
     "type": "text",
-    "text": "대화를통해이러한가치들을기본으로하는세계윤리를 도출하여평화로운 세계를만들어야 합니다",
+    "text": "대화를통해이러한가치들을기본으로하는세계 윤리를 도출하여평화로운 세계를만들어야 합니다",
     "bbox": [
       455,
       751,
@@ -4334,7 +4394,7 @@
   },
   {
     "type": "text",
-    "text": "① 종교 간의 평화 실현에 타인과의 대화 역량은 불필요하다.",
+    "text": "① 종교 간의 평화 실현에 타인과의 대화 역량은 불필요하다.\n",
     "bbox": [
       446,
       788,
@@ -4348,13 +4408,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8530,
-      "end_orig": 8563,
+      "end_orig": 8564,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 다른 종교를 관용의 눈으로 바라보는 것은 불필요한 노력이다.",
+    "text": "② 다른 종교를 관용의 눈으로 바라보는 것은 불필요한 노력이다.\n",
     "bbox": [
       446,
       804,
@@ -4368,13 +4428,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8564,
-      "end_orig": 8599,
+      "end_orig": 8600,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 종교의 통일이 문명의 충돌을 막을 수 있는 유일한 해법이다.",
+    "text": "③ 종교의 통일이 문명의 충돌을 막을 수 있는 유일한 해법이다.\n",
     "bbox": [
       446,
       822,
@@ -4388,13 +4448,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8600,
-      "end_orig": 8635,
+      "end_orig": 8636,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 종교 간의 갈등은 사회와 국가의 발전과 어떠한 관련도 없다.",
+    "text": "④ 종교 간의 갈등은 사회와 국가의 발전과 어떠한 관련도 없다.\n",
     "bbox": [
       446,
       838,
@@ -4408,7 +4468,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8636,
-      "end_orig": 8671,
+      "end_orig": 8672,
       "reason": "passed_threshold_no_ws"
     }
   },

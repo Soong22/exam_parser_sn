@@ -247,7 +247,7 @@
                     268,
                     301
                   ],
-                  "score": 0.96,
+                  "score": 0.961,
                   "content": "A: Viel Glück bei der Prüfung!",
                   "type": "text"
                 }
@@ -460,8 +460,8 @@
                     406,
                     403
                   ],
-                  "score": 0.896,
-                  "content": "2.에들어갈글자를 모두 조합하여만들 수있는 낱말의",
+                  "score": 0.884,
+                  "content": "2.에들어갈글자를 모두 조합하여 만들 수있는 낱말의",
                   "type": "text"
                 }
               ],
@@ -586,12 +586,23 @@
             },
             {
               "bbox": [
-                97,
+                95,
                 503,
                 385,
                 528
               ],
               "spans": [
+                {
+                  "bbox": [
+                    95,
+                    504,
+                    96,
+                    528
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     97,
@@ -615,6 +626,17 @@
                   ],
                   "score": 0.994,
                   "content": "손",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    156,
+                    503,
+                    158,
+                    526
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -669,6 +691,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    505,
+                    280,
+                    525
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     506,
                     294,
@@ -690,6 +723,17 @@
                   ],
                   "score": 0.999,
                   "content": "국가",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    340,
+                    504,
+                    342,
+                    525
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -723,7 +767,7 @@
           ],
           "index": 14,
           "bbox_fs": [
-            97,
+            95,
             425,
             390,
             528
@@ -753,7 +797,7 @@
                     304,
                     560
                   ],
-                  "score": 0.892,
+                  "score": 0.893,
                   "content": "3.빈칸에 들어갈 말로 알맞은 것은? [1점]",
                   "type": "text"
                 }
@@ -1134,8 +1178,8 @@
                     398,
                     820
                   ],
-                  "score": 0.918,
-                  "content": "Die Frau hat (a) Kind von einer Weltreise getrumt.",
+                  "score": 0.915,
+                  "content": " Die Frau hat (a) Kind von einer Weltreise getrumt.",
                   "type": "text"
                 }
               ],
@@ -1157,7 +1201,7 @@
                     398,
                     838
                   ],
-                  "score": 0.925,
+                  "score": 0.92,
                   "content": "o Ich mache (b)  einmal das Abitur, bevor ich studiere.",
                   "type": "text"
                 }
@@ -1263,6 +1307,17 @@
                 },
                 {
                   "bbox": [
+                    110,
+                    870,
+                    111,
+                    885
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     115,
                     868,
                     137,
@@ -1299,6 +1354,17 @@
                 },
                 {
                   "bbox": [
+                    269,
+                    869,
+                    271,
+                    884
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     274,
                     868,
                     297,
@@ -1320,7 +1386,7 @@
                   "type": "text"
                 }
               ],
-              "index": 32
+              "index": 31
             },
             {
               "bbox": [
@@ -1389,7 +1455,7 @@
                   "type": "text"
                 }
               ],
-              "index": 33
+              "index": 32
             },
             {
               "bbox": [
@@ -1439,7 +1505,7 @@
               "index": 34
             }
           ],
-          "index": 32.5,
+          "index": 31.5,
           "bbox_fs": [
             97,
             848,
@@ -1471,7 +1537,7 @@
                     322,
                     959
                   ],
-                  "score": 0.878,
+                  "score": 0.877,
                   "content": "5.빈간에 공통으로 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -1641,10 +1707,10 @@
                   "type": "text"
                 }
               ],
-              "index": 31
+              "index": 33
             }
           ],
-          "index": 35.0,
+          "index": 36.0,
           "bbox_fs": [
             97,
             1032,
@@ -1721,7 +1787,7 @@
                     357,
                     1004
                   ],
-                  "score": 0.907,
+                  "score": 0.928,
                   "content": "die Gste willkommen.",
                   "type": "text"
                 }
@@ -1756,7 +1822,7 @@
                     389,
                     1022
                   ],
-                  "score": 0.975,
+                  "score": 0.97,
                   "content": "mit Nachnamen Schneider.",
                   "type": "text"
                 }
@@ -1798,7 +1864,7 @@
                     624,
                     272
                   ],
-                  "score": 0.862,
+                  "score": 0.876,
                   "content": "6. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -1838,7 +1904,7 @@
                     636,
                     299
                   ],
-                  "score": 0.956,
+                  "score": 0.96,
                   "content": "A : Wer ist das hier auf dem Foto?",
                   "type": "text"
                 }
@@ -1871,7 +1937,7 @@
                     610,
                     317
                   ],
-                  "score": 0.981,
+                  "score": 0.979,
                   "content": "Das ist mein Bruder Sven.",
                   "type": "text"
                 }
@@ -2091,7 +2157,7 @@
                     614,
                     433
                   ],
-                  "score": 0.953,
+                  "score": 0.936,
                   "content": "Seit wann lebt ihr zusammen",
                   "type": "text"
                 }
@@ -2169,7 +2235,7 @@
                     651,
                     510
                   ],
-                  "score": 0.844,
+                  "score": 0.855,
                   "content": "7.빈칸에 들어갈 말로 알맞지 않은 것은?",
                   "type": "text"
                 }
@@ -2254,7 +2320,7 @@
                     554,
                     570
                   ],
-                  "score": 0.974,
+                  "score": 0.977,
                   "content": "A : Sehr freundlich.",
                   "type": "text"
                 }
@@ -2396,7 +2462,7 @@
                     724,
                     617
                   ],
-                  "score": 0.937,
+                  "score": 0.942,
                   "content": "Du kannst es haben",
                   "type": "text"
                 }
@@ -2472,7 +2538,7 @@
                     623,
                     693
                   ],
-                  "score": 0.902,
+                  "score": 0.892,
                   "content": "8.빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -2688,7 +2754,7 @@
                     728,
                     784
                   ],
-                  "score": 0.972,
+                  "score": 0.971,
                   "content": "Das glaube ich nicht",
                   "type": "text"
                 }
@@ -2724,7 +2790,7 @@
                     588,
                     802
                   ],
-                  "score": 0.968,
+                  "score": 0.962,
                   "content": "Ich bin anderer Meinung",
                   "type": "text"
                 }
@@ -2764,7 +2830,7 @@
                     680,
                     860
                   ],
-                  "score": 0.892,
+                  "score": 0.89,
                   "content": "9. 빈칸에 들어갈 말로 알맞지 않은 것은?[1점]",
                   "type": "text"
                 }
@@ -3053,7 +3119,7 @@
                     573,
                     1031
                   ],
-                  "score": 0.929,
+                  "score": 0.95,
                   "content": "Wo tut es Ihnen weh",
                   "type": "text"
                 }
@@ -3089,7 +3155,7 @@
                     594,
                     1050
                   ],
-                  "score": 0.977,
+                  "score": 0.976,
                   "content": "Wo haben Sie Schmerzen",
                   "type": "text"
                 }
@@ -3125,7 +3191,7 @@
                     635,
                     1067
                   ],
-                  "score": 0.975,
+                  "score": 0.979,
                   "content": "Wie oft nehmen Sie Medikamente",
                   "type": "text"
                 }
@@ -3174,7 +3240,7 @@
                     284,
                     175
                   ],
-                  "score": 0.856,
+                  "score": 0.859,
                   "content": "10. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -3247,7 +3313,7 @@
                     368,
                     221
                   ],
-                  "score": 0.959,
+                  "score": 0.968,
                   "content": "B : Ein bisschen. Ich habe es in der Schule gelernt.",
                   "type": "text"
                 }
@@ -3485,7 +3551,7 @@
                     388,
                     371
                   ],
-                  "score": 0.951,
+                  "score": 0.943,
                   "content": "11. Julia에 관한 글을 이해한 내용으로 알맞은 것은?[1점]",
                   "type": "text"
                 }
@@ -3525,7 +3591,7 @@
                     397,
                     399
                   ],
-                  "score": 0.981,
+                  "score": 0.973,
                   "content": "Julia hört oft Musik und tanzt dazu. Sie lernt es seit zehn",
                   "type": "text"
                 }
@@ -3569,7 +3635,7 @@
                     398,
                     435
                   ],
-                  "score": 0.951,
+                  "score": 0.96,
                   "content": "auf den Beinen. Im Winter fahrt sie am Wochenende Ski",
                   "type": "text"
                 }
@@ -3591,7 +3657,7 @@
                     386,
                     451
                   ],
-                  "score": 0.982,
+                  "score": 0.98,
                   "content": "und im Sommer geht sie unter der Woche schwimmen.",
                   "type": "text"
                 }
@@ -3645,7 +3711,7 @@
                     232,
                     480
                   ],
-                  "score": 0.985,
+                  "score": 0.963,
                   "content": "Sie treibt keinen Sport.",
                   "type": "text"
                 }
@@ -3682,7 +3748,7 @@
                     239,
                     498
                   ],
-                  "score": 0.968,
+                  "score": 0.967,
                   "content": "Sie fahrt jeden Tag Ski.",
                   "type": "text"
                 }
@@ -3720,7 +3786,7 @@
                     245,
                     515
                   ],
-                  "score": 0.946,
+                  "score": 0.947,
                   "content": "Sie tanzt oft nach Musik.",
                   "type": "text"
                 }
@@ -3796,7 +3862,7 @@
                     274,
                     549
                   ],
-                  "score": 0.964,
+                  "score": 0.97,
                   "content": "Sie schwimmt am Wochenende.",
                   "type": "text"
                 }
@@ -3838,7 +3904,7 @@
                     360,
                     604
                   ],
-                  "score": 0.922,
+                  "score": 0.924,
                   "content": "12. 일기 예보를 이해한 내용으로 알맞은 것은? [1점]",
                   "type": "text"
                 }
@@ -4031,7 +4097,7 @@
                     232,
                     783
                   ],
-                  "score": 0.956,
+                  "score": 0.919,
                   "content": "Um 18 Uhr ist es klar.",
                   "type": "text"
                 }
@@ -4068,7 +4134,7 @@
                     253,
                     802
                   ],
-                  "score": 0.94,
+                  "score": 0.966,
                   "content": "Den ganzen Tag regnet es.",
                   "type": "text"
                 }
@@ -4144,7 +4210,7 @@
                     272,
                     836
                   ],
-                  "score": 0.974,
+                  "score": 0.948,
                   "content": "Am Morgen scheint die Sonne.",
                   "type": "text"
                 }
@@ -4182,7 +4248,7 @@
                     316,
                     852
                   ],
-                  "score": 0.983,
+                  "score": 0.961,
                   "content": "Am Mittag ist es kihler als am Abend.",
                   "type": "text"
                 }
@@ -4224,8 +4290,8 @@
                     283,
                     906
                   ],
-                  "score": 0.856,
-                  "content": "13. 빈칸에 들어갈 말로 알맞은 것은?",
+                  "score": 0.855,
+                  "content": "13. 빈간에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
@@ -4264,7 +4330,7 @@
                     301,
                     935
                   ],
-                  "score": 0.97,
+                  "score": 0.965,
                   "content": "A : Gib mir mal bitte ein Blatt Papier.",
                   "type": "text"
                 }
@@ -4398,7 +4464,7 @@
                     232,
                     1015
                   ],
-                  "score": 0.989,
+                  "score": 0.97,
                   "content": "Ich brauche noch mehr",
                   "type": "text"
                 }
@@ -4407,12 +4473,23 @@
             },
             {
               "bbox": [
-                97,
+                96,
                 1015,
                 264,
                 1033
               ],
               "spans": [
+                {
+                  "bbox": [
+                    96,
+                    1015,
+                    97,
+                    1033
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     97,
@@ -4434,7 +4511,7 @@
                     264,
                     1033
                   ],
-                  "score": 0.981,
+                  "score": 0.986,
                   "content": "Leih dir einen Kugelschreiber",
                   "type": "text"
                 }
@@ -4470,7 +4547,7 @@
                     276,
                     1050
                   ],
-                  "score": 0.964,
+                  "score": 0.96,
                   "content": "Hol es dir von jemand anderem",
                   "type": "text"
                 }
@@ -4506,7 +4583,7 @@
                     297,
                     1067
                   ],
-                  "score": 0.991,
+                  "score": 0.99,
                   "content": "Ich habe auch nichts zum Schreiben",
                   "type": "text"
                 }
@@ -4516,7 +4593,7 @@
           ],
           "index": 39,
           "bbox_fs": [
-            97,
+            96,
             982,
             297,
             1067
@@ -4574,9 +4651,9 @@
             {
               "bbox": [
                 459,
-                182,
-                473,
-                197
+                181,
+                476,
+                199
               ],
               "spans": [
                 {
@@ -4589,6 +4666,17 @@
                   "score": 0.44,
                   "content": "\\mathbb { O }",
                   "type": "inline_equation"
+                },
+                {
+                  "bbox": [
+                    473,
+                    181,
+                    476,
+                    199
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 43
@@ -4597,9 +4685,9 @@
           "index": 43,
           "bbox_fs": [
             459,
-            182,
-            473,
-            197
+            181,
+            476,
+            199
           ]
         },
         {
@@ -4654,7 +4742,7 @@
                     684,
                     214
                   ],
-                  "score": 0.959,
+                  "score": 0.958,
                   "content": "Getränkeverkäufer gesucht!",
                   "type": "text"
                 }
@@ -4688,7 +4776,7 @@
                     632,
                     236
                   ],
-                  "score": 0.933,
+                  "score": 0.931,
                   "content": "• Wer : Alle ab 18 Jahren",
                   "type": "text"
                 }
@@ -4732,7 +4820,7 @@
                     689,
                     272
                   ],
-                  "score": 0.941,
+                  "score": 0.942,
                   "content": "•Wo : Nürnberger Weihnachtsmarkt",
                   "type": "text"
                 }
@@ -4812,7 +4900,7 @@
                     735,
                     322
                   ],
-                  "score": 0.978,
+                  "score": 0.971,
                   "content": "Anruf unter 0151–1234xxx bis zum 20.11.2023 möglich",
                   "type": "text"
                 }
@@ -4985,6 +5073,17 @@
                 },
                 {
                   "bbox": [
+                    603,
+                    387,
+                    604,
+                    402
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     604,
                     388,
                     618,
@@ -5004,7 +5103,7 @@
                     753,
                     402
                   ],
-                  "score": 0.987,
+                  "score": 0.981,
                   "content": "오전에는 근무하지 않는다.",
                   "type": "text"
                 }
@@ -5042,7 +5141,7 @@
                     595,
                     419
                   ],
-                  "score": 0.964,
+                  "score": 0.948,
                   "content": "일당으로 13유로를 받는다.",
                   "type": "text"
                 }
@@ -5084,7 +5183,7 @@
                     632,
                     467
                   ],
-                  "score": 0.853,
+                  "score": 0.857,
                   "content": "15. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -5124,7 +5223,7 @@
                     644,
                     494
                   ],
-                  "score": 0.986,
+                  "score": 0.971,
                   "content": "A : Lange nicht gesehen. Wie geht's?",
                   "type": "text"
                 }
@@ -5179,7 +5278,7 @@
                     581,
                     529
                   ],
-                  "score": 0.947,
+                  "score": 0.912,
                   "content": "A : Bei mir ist alles gut.",
                   "type": "text"
                 }
@@ -5355,7 +5454,7 @@
                     571,
                     593
                   ],
-                  "score": 0.935,
+                  "score": 0.959,
                   "content": "Ich finde es sehr gut",
                   "type": "text"
                 }
@@ -5395,7 +5494,7 @@
                     664,
                     640
                   ],
-                  "score": 0.864,
+                  "score": 0.843,
                   "content": "16.빈칸에 들어갈 말로알맞은것만을<보기",
                   "type": "text"
                 },
@@ -5457,7 +5556,7 @@
                     723,
                     667
                   ],
-                  "score": 0.961,
+                  "score": 0.979,
                   "content": "A : Warum kommst du nicht?",
                   "type": "text"
                 }
@@ -5505,7 +5604,7 @@
                     747,
                     702
                   ],
-                  "score": 0.985,
+                  "score": 0.996,
                   "content": "Meine FüBe tragen mich nicht",
                   "type": "text"
                 }
@@ -5573,7 +5672,7 @@
                     730,
                     754
                   ],
-                  "score": 0.965,
+                  "score": 0.964,
                   "content": "der Bank eine kurze Pause.",
                   "type": "text"
                 }
@@ -5715,7 +5814,7 @@
                     558,
                     818
                   ],
-                  "score": 0.991,
+                  "score": 0.99,
                   "content": "c. kann nicht weiter",
                   "type": "text"
                 },
@@ -5850,7 +5949,7 @@
                     616,
                     897
                   ],
-                  "score": 0.928,
+                  "score": 0.916,
                   "content": "17. A와 B가 대화를 나눈 시각은?",
                   "type": "text"
                 }
@@ -5867,7 +5966,7 @@
           ]
         },
         {
-          "type": "list",
+          "type": "text",
           "bbox": [
             452,
             908,
@@ -5890,13 +5989,12 @@
                     726,
                     924
                   ],
-                  "score": 0.971,
+                  "score": 0.981,
                   "content": "A : Los jetzt. Die Bibliothek macht in 25 Minuten zu.",
                   "type": "text"
                 }
               ],
-              "index": 75,
-              "is_list_end_line": true
+              "index": 75
             },
             {
               "bbox": [
@@ -5913,14 +6011,12 @@
                     688,
                     942
                   ],
-                  "score": 0.942,
+                  "score": 0.961,
                   "content": "B : Warum? Sie ist doch bis 20 Uhr geöffnet.",
                   "type": "text"
                 }
               ],
-              "index": 76,
-              "is_list_start_line": true,
-              "is_list_end_line": true
+              "index": 76
             },
             {
               "bbox": [
@@ -5937,7 +6033,7 @@
                     639,
                     959
                   ],
-                  "score": 0.962,
+                  "score": 0.953,
                   "content": "A : Nein, freitags schlieBt sie schon",
                   "type": "text"
                 },
@@ -5959,14 +6055,12 @@
                     714,
                     959
                   ],
-                  "score": 0.712,
-                  "content": ".",
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 }
               ],
-              "index": 77,
-              "is_list_start_line": true,
-              "is_list_end_line": true
+              "index": 77
             },
             {
               "bbox": [
@@ -5999,9 +6093,7 @@
                   "type": "text"
                 }
               ],
-              "index": 78,
-              "is_list_start_line": true,
-              "is_list_end_line": true
+              "index": 78
             }
           ],
           "index": 76.5,
@@ -6133,7 +6225,7 @@
                     406,
                     173
                   ],
-                  "score": 0.928,
+                  "score": 0.929,
                   "content": "18.지하철 노선도와 대화의내용으로보아 빈칸에 들어갈 말로",
                   "type": "text"
                 }
@@ -6228,7 +6320,7 @@
                     393,
                     221
                   ],
-                  "score": 0.982,
+                  "score": 0.962,
                   "content": "A : Wann kommen wir am",
                   "type": "text"
                 }
@@ -6305,7 +6397,7 @@
                     385,
                     273
                   ],
-                  "score": 0.98,
+                  "score": 0.995,
                   "content": "Wir sind jetzt an der",
                   "type": "text"
                 }
@@ -6459,7 +6551,7 @@
                     399,
                     341
                   ],
-                  "score": 0.981,
+                  "score": 0.971,
                   "content": "steigen wir in die U3 in",
                   "type": "text"
                 }
@@ -6470,8 +6562,8 @@
               "bbox": [
                 108,
                 338,
-                400,
-                358
+                234,
+                357
               ],
               "spans": [
                 {
@@ -6487,6 +6579,17 @@
                 },
                 {
                   "bbox": [
+                    183,
+                    344,
+                    187,
+                    346
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     187,
                     338,
                     234,
@@ -6495,7 +6598,18 @@
                   "score": 0.998,
                   "content": "Museum",
                   "type": "text"
-                },
+                }
+              ],
+              "index": 13
+            },
+            {
+              "bbox": [
+                275,
+                345,
+                400,
+                358
+              ],
+              "spans": [
                 {
                   "bbox": [
                     275,
@@ -6508,7 +6622,7 @@
                   "type": "text"
                 }
               ],
-              "index": 13
+              "index": 14
             },
             {
               "bbox": [
@@ -6530,7 +6644,7 @@
                   "type": "text"
                 }
               ],
-              "index": 14
+              "index": 15
             },
             {
               "bbox": [
@@ -6552,7 +6666,7 @@
                   "type": "text"
                 }
               ],
-              "index": 15
+              "index": 16
             },
             {
               "bbox": [
@@ -6596,10 +6710,10 @@
                   "type": "text"
                 }
               ],
-              "index": 16
+              "index": 17
             }
           ],
-          "index": 9,
+          "index": 9.5,
           "bbox_fs": [
             101,
             201,
@@ -6700,7 +6814,7 @@
                   "type": "text"
                 }
               ],
-              "index": 17
+              "index": 18
             },
             {
               "bbox": [
@@ -6761,10 +6875,10 @@
                   "type": "text"
                 }
               ],
-              "index": 18
+              "index": 19
             }
           ],
-          "index": 17.5,
+          "index": 18.5,
           "bbox_fs": [
             97,
             406,
@@ -6796,15 +6910,15 @@
                     311,
                     544
                   ],
-                  "score": 0.879,
+                  "score": 0.87,
                   "content": "19. 빈칸에 들어갈 말로 알맞지 않은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 19
+              "index": 20
             }
           ],
-          "index": 19,
+          "index": 20,
           "bbox_fs": [
             85,
             525,
@@ -6836,12 +6950,12 @@
                     371,
                     571
                   ],
-                  "score": 0.965,
+                  "score": 0.972,
                   "content": "A : Willst du morgen mit mir zum Mozart-Konzert?",
                   "type": "text"
                 }
               ],
-              "index": 20
+              "index": 21
             },
             {
               "bbox": [
@@ -6863,7 +6977,7 @@
                   "type": "text"
                 }
               ],
-              "index": 21
+              "index": 22
             },
             {
               "bbox": [
@@ -6880,15 +6994,15 @@
                     316,
                     607
                   ],
-                  "score": 0.989,
+                  "score": 0.984,
                   "content": "A: Das höre ich gern. Dann bis morgen.",
                   "type": "text"
                 }
               ],
-              "index": 22
+              "index": 23
             }
           ],
-          "index": 21,
+          "index": 22,
           "bbox_fs": [
             104,
             557,
@@ -6934,12 +7048,12 @@
                     247,
                     634
                   ],
-                  "score": 0.958,
+                  "score": 0.957,
                   "content": "Da bin ich natürlich dabei",
                   "type": "text"
                 }
               ],
-              "index": 23
+              "index": 24
             },
             {
               "bbox": [
@@ -6970,12 +7084,12 @@
                     255,
                     652
                   ],
-                  "score": 0.935,
+                  "score": 0.944,
                   "content": "Das wird viel Spab machen",
                   "type": "text"
                 }
               ],
-              "index": 24
+              "index": 25
             },
             {
               "bbox": [
@@ -7006,12 +7120,12 @@
                     267,
                     670
                   ],
-                  "score": 0.964,
+                  "score": 0.968,
                   "content": "Ich wollte seit langem dorthin",
                   "type": "text"
                 }
               ],
-              "index": 25
+              "index": 26
             },
             {
               "bbox": [
@@ -7042,12 +7156,12 @@
                     277,
                     687
                   ],
-                  "score": 0.944,
+                  "score": 0.966,
                   "content": "Darauf habe ich schon gewartet",
                   "type": "text"
                 }
               ],
-              "index": 26
+              "index": 27
             },
             {
               "bbox": [
@@ -7078,15 +7192,15 @@
                     285,
                     704
                   ],
-                  "score": 0.956,
+                  "score": 0.973,
                   "content": "Gehen wir an einem anderen Tag",
                   "type": "text"
                 }
               ],
-              "index": 27
+              "index": 28
             }
           ],
-          "index": 25,
+          "index": 26,
           "bbox_fs": [
             97,
             619,
@@ -7118,7 +7232,7 @@
                     302,
                     807
                   ],
-                  "score": 0.862,
+                  "score": 0.882,
                   "content": "20.빈칸에들어갈말로 알맞은것을<보기",
                   "type": "text"
                 },
@@ -7145,7 +7259,7 @@
                   "type": "text"
                 }
               ],
-              "index": 28
+              "index": 29
             },
             {
               "bbox": [
@@ -7162,15 +7276,15 @@
                     230,
                     825
                   ],
-                  "score": 0.916,
+                  "score": 0.956,
                   "content": "바르게 배열한 것은? [1점]",
                   "type": "text"
                 }
               ],
-              "index": 29
+              "index": 30
             }
           ],
-          "index": 28.5,
+          "index": 29.5,
           "bbox_fs": [
             86,
             789,
@@ -7218,7 +7332,7 @@
                   "type": "text"
                 }
               ],
-              "index": 30
+              "index": 31
             },
             {
               "bbox": [
@@ -7240,7 +7354,7 @@
                   "type": "text"
                 }
               ],
-              "index": 31,
+              "index": 32,
               "is_list_end_line": true
             },
             {
@@ -7274,7 +7388,7 @@
                   "type": "text"
                 }
               ],
-              "index": 32,
+              "index": 33,
               "is_list_start_line": true
             },
             {
@@ -7292,12 +7406,12 @@
                     219,
                     904
                   ],
-                  "score": 0.953,
+                  "score": 0.958,
                   "content": "B : Ja, um 21 Uhr 42.",
                   "type": "text"
                 }
               ],
-              "index": 33,
+              "index": 34,
               "is_list_end_line": true
             },
             {
@@ -7320,7 +7434,7 @@
                   "type": "text"
                 }
               ],
-              "index": 34,
+              "index": 35,
               "is_list_start_line": true
             },
             {
@@ -7343,11 +7457,11 @@
                   "type": "text"
                 }
               ],
-              "index": 35,
+              "index": 36,
               "is_list_end_line": true
             }
           ],
-          "index": 32.5,
+          "index": 33.5,
           "bbox_fs": [
             104,
             837,
@@ -7384,10 +7498,10 @@
                   "type": "text"
                 }
               ],
-              "index": 36
+              "index": 37
             }
           ],
-          "index": 36,
+          "index": 37,
           "bbox_fs": [
             224,
             952,
@@ -7419,12 +7533,12 @@
                     276,
                     987
                   ],
-                  "score": 0.937,
+                  "score": 0.963,
                   "content": "a. Darf ich Sie mal etwas fragen",
                   "type": "text"
                 }
               ],
-              "index": 37
+              "index": 38
             },
             {
               "bbox": [
@@ -7446,7 +7560,7 @@
                   "type": "text"
                 }
               ],
-              "index": 38
+              "index": 39
             },
             {
               "bbox": [
@@ -7463,15 +7577,15 @@
                     331,
                     1020
                   ],
-                  "score": 0.966,
+                  "score": 0.974,
                   "content": "c. Fährt heute noch ein Zug nach Dortmund",
                   "type": "text"
                 }
               ],
-              "index": 39
+              "index": 40
             }
           ],
-          "index": 38,
+          "index": 39,
           "bbox_fs": [
             104,
             971,
@@ -7530,7 +7644,7 @@
                   "type": "text"
                 }
               ],
-              "index": 40,
+              "index": 41,
               "is_list_start_line": true
             },
             {
@@ -7564,11 +7678,11 @@
                   "type": "text"
                 }
               ],
-              "index": 41,
+              "index": 42,
               "is_list_start_line": true
             }
           ],
-          "index": 40.5,
+          "index": 41.5,
           "bbox_fs": [
             96,
             1032,
@@ -7600,15 +7714,15 @@
                     632,
                     174
                   ],
-                  "score": 0.884,
+                  "score": 0.882,
                   "content": "21. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 42
+              "index": 43
             }
           ],
-          "index": 42,
+          "index": 43,
           "bbox_fs": [
             434,
             156,
@@ -7640,12 +7754,12 @@
                     614,
                     202
                   ],
-                  "score": 0.967,
+                  "score": 0.968,
                   "content": "A : Wohin kommen die Gläser?",
                   "type": "text"
                 }
               ],
-              "index": 43
+              "index": 44
             },
             {
               "bbox": [
@@ -7667,7 +7781,7 @@
                   "type": "text"
                 }
               ],
-              "index": 44
+              "index": 45
             },
             {
               "bbox": [
@@ -7684,15 +7798,15 @@
                     637,
                     237
                   ],
-                  "score": 0.966,
+                  "score": 0.958,
                   "content": "A : Gute Idee. Stellen wir sie dahin.",
                   "type": "text"
                 }
               ],
-              "index": 45
+              "index": 46
             }
           ],
-          "index": 44,
+          "index": 45,
           "bbox_fs": [
             453,
             188,
@@ -7738,12 +7852,12 @@
                     567,
                     265
                   ],
-                  "score": 0.954,
+                  "score": 0.943,
                   "content": "Sie sind nicht schön",
                   "type": "text"
                 }
               ],
-              "index": 46
+              "index": 47
             },
             {
               "bbox": [
@@ -7774,21 +7888,32 @@
                     600,
                     284
                   ],
-                  "score": 0.958,
+                  "score": 0.946,
                   "content": "Der Schrank ist schon voll",
                   "type": "text"
                 }
               ],
-              "index": 47
+              "index": 48
             },
             {
               "bbox": [
-                446,
+                444,
                 283,
                 618,
                 301
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    283,
+                    445,
+                    301
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -7815,7 +7940,7 @@
                   "type": "text"
                 }
               ],
-              "index": 48
+              "index": 49
             },
             {
               "bbox": [
@@ -7846,12 +7971,12 @@
                     631,
                     318
                   ],
-                  "score": 0.986,
+                  "score": 0.976,
                   "content": "In der Küche ist kein Platz mehr",
                   "type": "text"
                 }
               ],
-              "index": 49
+              "index": 50
             },
             {
               "bbox": [
@@ -7882,17 +8007,17 @@
                     637,
                     335
                   ],
-                  "score": 0.988,
+                  "score": 0.986,
                   "content": "Im Regal sehen sie sicher gut aus",
                   "type": "text"
                 }
               ],
-              "index": 50
+              "index": 51
             }
           ],
-          "index": 48,
+          "index": 49,
           "bbox_fs": [
-            446,
+            444,
             250,
             637,
             335
@@ -7922,15 +8047,15 @@
                     634,
                     428
                   ],
-                  "score": 0.979,
+                  "score": 0.98,
                   "content": "22. 글에서 설명하고 있는 것은?[1점]",
                   "type": "text"
                 }
               ],
-              "index": 51
+              "index": 52
             }
           ],
-          "index": 51,
+          "index": 52,
           "bbox_fs": [
             435,
             412,
@@ -7979,7 +8104,7 @@
                   ]
                 }
               ],
-              "index": 54.0,
+              "index": 55.0,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -7989,7 +8114,7 @@
                     472.5
                   ],
                   "spans": [],
-                  "index": 52
+                  "index": 53
                 },
                 {
                   "bbox": [
@@ -7999,12 +8124,12 @@
                     507.0
                   ],
                   "spans": [],
-                  "index": 56
+                  "index": 57
                 }
               ]
             }
           ],
-          "index": 54.0
+          "index": 55.0
         },
         {
           "type": "text",
@@ -8030,12 +8155,12 @@
                     747,
                     457
                   ],
-                  "score": 0.981,
+                  "score": 0.952,
                   "content": "Dieses Fest findet immer Ende März",
                   "type": "text"
                 }
               ],
-              "index": 53
+              "index": 54
             },
             {
               "bbox": [
@@ -8052,12 +8177,12 @@
                     747,
                     474
                   ],
-                  "score": 0.934,
+                  "score": 0.936,
                   "content": "oder im April statt. Meistens",
                   "type": "text"
                 }
               ],
-              "index": 54
+              "index": 55
             },
             {
               "bbox": [
@@ -8079,7 +8204,7 @@
                   "type": "text"
                 }
               ],
-              "index": 55
+              "index": 56
             },
             {
               "bbox": [
@@ -8101,10 +8226,10 @@
                   "type": "text"
                 }
               ],
-              "index": 57
+              "index": 58
             }
           ],
-          "index": 54.5,
+          "index": 55.5,
           "bbox_fs": [
             570,
             441,
@@ -8136,15 +8261,15 @@
                     744,
                     527
                   ],
-                  "score": 0.942,
+                  "score": 0.939,
                   "content": "Kinder müssen sie aber im Haus oder im Garten suchen.",
                   "type": "text"
                 }
               ],
-              "index": 58
+              "index": 59
             }
           ],
-          "index": 58,
+          "index": 59,
           "bbox_fs": [
             454,
             510,
@@ -8181,10 +8306,10 @@
                   "type": "text"
                 }
               ],
-              "index": 59
+              "index": 60
             }
           ],
-          "index": 59,
+          "index": 60,
           "bbox_fs": [
             685,
             532,
@@ -8260,7 +8385,7 @@
                   "type": "text"
                 }
               ],
-              "index": 60
+              "index": 61
             },
             {
               "bbox": [
@@ -8321,7 +8446,7 @@
                   "type": "text"
                 }
               ],
-              "index": 61
+              "index": 62
             },
             {
               "bbox": [
@@ -8357,10 +8482,10 @@
                   "type": "text"
                 }
               ],
-              "index": 62
+              "index": 63
             }
           ],
-          "index": 61,
+          "index": 62,
           "bbox_fs": [
             446,
             556,
@@ -8397,7 +8522,7 @@
                   "type": "text"
                 }
               ],
-              "index": 63
+              "index": 64
             },
             {
               "bbox": [
@@ -8419,10 +8544,10 @@
                   "type": "text"
                 }
               ],
-              "index": 64
+              "index": 65
             }
           ],
-          "index": 63.5,
+          "index": 64.5,
           "bbox_fs": [
             435,
             684,
@@ -8471,7 +8596,7 @@
                   ]
                 }
               ],
-              "index": 67.0,
+              "index": 68.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -8481,7 +8606,7 @@
                     780.5
                   ],
                   "spans": [],
-                  "index": 65
+                  "index": 66
                 },
                 {
                   "bbox": [
@@ -8491,12 +8616,12 @@
                     832.0
                   ],
                   "spans": [],
-                  "index": 69
+                  "index": 71
                 }
               ]
             }
           ],
-          "index": 67.0
+          "index": 68.5
         },
         {
           "type": "text",
@@ -8527,7 +8652,7 @@
                   "type": "text"
                 }
               ],
-              "index": 66
+              "index": 67
             },
             {
               "bbox": [
@@ -8549,7 +8674,7 @@
                   "type": "text"
                 }
               ],
-              "index": 67
+              "index": 68
             },
             {
               "bbox": [
@@ -8571,7 +8696,7 @@
                   "type": "text"
                 }
               ],
-              "index": 68
+              "index": 69
             },
             {
               "bbox": [
@@ -8588,7 +8713,7 @@
                     746,
                     800
                   ],
-                  "score": 0.942,
+                  "score": 0.96,
                   "content": "Teezeremonie. Dabei legt man ein",
                   "type": "text"
                 }
@@ -8615,7 +8740,7 @@
                   "type": "text"
                 }
               ],
-              "index": 71
+              "index": 72
             },
             {
               "bbox": [
@@ -8637,7 +8762,7 @@
                   "type": "text"
                 }
               ],
-              "index": 72
+              "index": 73
             },
             {
               "bbox": [
@@ -8659,7 +8784,7 @@
                   "type": "text"
                 }
               ],
-              "index": 73
+              "index": 74
             },
             {
               "bbox": [
@@ -8676,12 +8801,12 @@
                     747,
                     869
                   ],
-                  "score": 0.967,
+                  "score": 0.968,
                   "content": "den starken Tee und am Ende den süBen Zucker schmecken.",
                   "type": "text"
                 }
               ],
-              "index": 74
+              "index": 75
             },
             {
               "bbox": [
@@ -8698,12 +8823,12 @@
                     748,
                     887
                   ],
-                  "score": 0.969,
+                  "score": 0.963,
                   "content": "In Ostfriesland hat man im Jahr 2022 etwa 300 Liter Tee",
                   "type": "text"
                 }
               ],
-              "index": 75
+              "index": 76
             },
             {
               "bbox": [
@@ -8720,15 +8845,15 @@
                     715,
                     904
                   ],
-                  "score": 0.975,
+                  "score": 0.976,
                   "content": "pro Kopf getrunken. Das war weltweit am meisten.",
                   "type": "text"
                 }
               ],
-              "index": 76
+              "index": 77
             }
           ],
-          "index": 69.0,
+          "index": 69.5,
           "bbox_fs": [
             558,
             734,
@@ -8745,7 +8870,7 @@
             904
           ],
           "lines": [],
-          "index": 74.5,
+          "index": 75.5,
           "bbox_fs": [
             453,
             836,
@@ -8778,7 +8903,7 @@
                     661,
                     923
                   ],
-                  "score": 0.964,
+                  "score": 0.965,
                   "content": "*entstehen :생겨나다",
                   "type": "text"
                 },
@@ -8805,7 +8930,7 @@
                   "type": "text"
                 }
               ],
-              "index": 77
+              "index": 78
             },
             {
               "bbox": [
@@ -8849,10 +8974,10 @@
                   "type": "text"
                 }
               ],
-              "index": 78
+              "index": 79
             }
           ],
-          "index": 77.5,
+          "index": 78.5,
           "bbox_fs": [
             554,
             909,
@@ -8889,10 +9014,10 @@
                   "type": "text"
                 }
               ],
-              "index": 79
+              "index": 80
             }
           ],
-          "index": 79,
+          "index": 80,
           "bbox_fs": [
             573,
             951,
@@ -8924,12 +9049,12 @@
                     705,
                     986
                   ],
-                  "score": 0.98,
+                  "score": 0.978,
                   "content": "a. Das Teetrinken entstand mit der Teezeremonie.",
                   "type": "text"
                 }
               ],
-              "index": 80,
+              "index": 81,
               "is_list_end_line": true
             },
             {
@@ -8947,12 +9072,12 @@
                     708,
                     1002
                   ],
-                  "score": 0.98,
+                  "score": 0.979,
                   "content": "b. Man gieBt den schwarzen Tee auf die Sahne.",
                   "type": "text"
                 }
               ],
-              "index": 81,
+              "index": 82,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8971,12 +9096,12 @@
                     713,
                     1019
                   ],
-                  "score": 0.981,
+                  "score": 0.982,
                   "content": "c. Der Tee wird mit Sahne und Zucker getrunken.",
                   "type": "text"
                 }
               ],
-              "index": 82,
+              "index": 83,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -8995,17 +9120,17 @@
                     733,
                     1036
                   ],
-                  "score": 0.985,
+                  "score": 0.982,
                   "content": "d. Man trank 2022 pro Kopf weltweit am meisten Tee.",
                   "type": "text"
                 }
               ],
-              "index": 83,
+              "index": 84,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 81.5,
+          "index": 82.5,
           "bbox_fs": [
             453,
             969,
@@ -9057,6 +9182,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    1049,
+                    506,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     1051,
                     520,
@@ -9078,6 +9214,17 @@
                   ],
                   "score": 0.853,
                   "content": "a, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    566,
+                    1049,
+                    568,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -9107,6 +9254,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    1048,
+                    629,
+                    1067
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     630,
                     1051,
                     642,
@@ -9128,6 +9286,17 @@
                   ],
                   "score": 0.897,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    689,
+                    1049,
+                    690,
+                    1067
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -9156,10 +9325,10 @@
                   "type": "text"
                 }
               ],
-              "index": 84
+              "index": 85
             }
           ],
-          "index": 84,
+          "index": 85,
           "bbox_fs": [
             445,
             1048,
@@ -9262,7 +9431,7 @@
                     397,
                     220
                   ],
-                  "score": 0.948,
+                  "score": 0.965,
                   "content": "Tim : Es wird bald Winter. Bleib gesund. Das ist das A und O.",
                   "type": "text"
                 }
@@ -9306,7 +9475,7 @@
                     309,
                     236
                   ],
-                  "score": 0.975,
+                  "score": 0.983,
                   "content": "Wie bitte? Was meinst du damit?",
                   "type": "text"
                 }
@@ -9372,7 +9541,7 @@
                     326,
                     289
                   ],
-                  "score": 0.97,
+                  "score": 0.975,
                   "content": "Jisu : Ach so, jetzt habe ich es verstanden.",
                   "type": "text"
                 }
@@ -9723,7 +9892,7 @@
                     398,
                     464
                   ],
-                  "score": 0.994,
+                  "score": 0.973,
                   "content": "Caspar David Friedrich ist einer der",
                   "type": "text"
                 }
@@ -9789,7 +9958,7 @@
                     397,
                     515
                   ],
-                  "score": 0.99,
+                  "score": 0.993,
                   "content": "zur Welt und starb 1840 in Dresden.",
                   "type": "text"
                 }
@@ -9811,7 +9980,7 @@
                     398,
                     533
                   ],
-                  "score": 0.902,
+                  "score": 0.901,
                   "content": "Friedrich   malte   viele  schóne",
                   "type": "text"
                 }
@@ -9873,7 +10042,7 @@
                     398,
                     568
                   ],
-                  "score": 0.967,
+                  "score": 0.959,
                   "content": "Berlin interessiert sich bis heute ein breites Publikum für",
                   "type": "text"
                 }
@@ -9968,8 +10137,8 @@
                     315,
                     620
                   ],
-                  "score": 0.944,
-                  "content": "* Jahrhundertausstellung : 세기의 전시회",
+                  "score": 0.952,
+                  "content": "*Jahrhundertausstellung : 세기의 전시회",
                   "type": "text"
                 },
                 {
@@ -10044,7 +10213,7 @@
                     230,
                     647
                   ],
-                  "score": 0.92,
+                  "score": 0.882,
                   "content": "드레스덴에서 태어났다.",
                   "type": "text"
                 }
@@ -10081,7 +10250,7 @@
                     270,
                     664
                   ],
-                  "score": 0.954,
+                  "score": 0.957,
                   "content": "화가로 등단한 해는 1774년이다.",
                   "type": "text"
                 }
@@ -10119,7 +10288,7 @@
                     271,
                     682
                   ],
-                  "score": 0.946,
+                  "score": 0.936,
                   "content": "아름다운 풍경화를 많이 그렸다.",
                   "type": "text"
                 }
@@ -10157,7 +10326,7 @@
                     283,
                     700
                   ],
-                  "score": 0.983,
+                  "score": 0.997,
                   "content": "독일 낭만주의를 거부한 인물이다.",
                   "type": "text"
                 }
@@ -10367,7 +10536,7 @@
                     398,
                     829
                   ],
-                  "score": 0.99,
+                  "score": 0.974,
                   "content": "Reetdächer gibt es schon seit einigen",
                   "type": "text"
                 }
@@ -10411,7 +10580,7 @@
                     397,
                     863
                   ],
-                  "score": 0.956,
+                  "score": 0.957,
                   "content": "man sie in der Nähe des Meeres im",
                   "type": "text"
                 }
@@ -10433,7 +10602,7 @@
                     398,
                     881
                   ],
-                  "score": 0.93,
+                  "score": 0.921,
                   "content": "Norden   finden. Unter   einem",
                   "type": "text"
                 }
@@ -10455,7 +10624,7 @@
                     397,
                     898
                   ],
-                  "score": 0.975,
+                  "score": 0.974,
                   "content": "Reetdach herrscht ein angenehmes",
                   "type": "text"
                 }
@@ -10517,7 +10686,7 @@
                     398,
                     933
                   ],
-                  "score": 0.969,
+                  "score": 0.977,
                   "content": "Aber Reetdächer halten meistens nur 25 bis 40 Jahre und",
                   "type": "text"
                 }
@@ -10539,7 +10708,7 @@
                     191,
                     949
                   ],
-                  "score": 0.973,
+                  "score": 0.968,
                   "content": "kosten viel Geld.",
                   "type": "text"
                 }
@@ -10579,7 +10748,7 @@
                     397,
                     971
                   ],
-                  "score": 0.909,
+                  "score": 0.912,
                   "content": "*herrschen : 유지되다 * Raumklima: 실내 온도",
                   "type": "text"
                 }
@@ -10633,7 +10802,7 @@
                     252,
                     998
                   ],
-                  "score": 0.972,
+                  "score": 0.949,
                   "content": "Reetdächer sind sehr billig.",
                   "type": "text"
                 }
@@ -10670,7 +10839,7 @@
                     286,
                     1016
                   ],
-                  "score": 0.927,
+                  "score": 0.94,
                   "content": "Reetdächer gibt es seit 40 Jahren.",
                   "type": "text"
                 }
@@ -10708,7 +10877,7 @@
                     316,
                     1033
                   ],
-                  "score": 0.94,
+                  "score": 0.935,
                   "content": "Man braucht fir ein Reetdach 25 Jahre.",
                   "type": "text"
                 }
@@ -10746,7 +10915,7 @@
                     361,
                     1050
                   ],
-                  "score": 0.98,
+                  "score": 0.979,
                   "content": "Es gibt viele Reetdächer im Süden Deutschlands.",
                   "type": "text"
                 }
@@ -10784,7 +10953,7 @@
                     383,
                     1067
                   ],
-                  "score": 0.966,
+                  "score": 0.973,
                   "content": "In einem Reetdachhaus ist das Raumklima angenehm.",
                   "type": "text"
                 }
@@ -10826,7 +10995,7 @@
                     662,
                     174
                   ],
-                  "score": 0.878,
+                  "score": 0.888,
                   "content": "27. 빈칸에 들어갈 말로 알맞은 것은? [1점]",
                   "type": "text"
                 }
@@ -11203,7 +11372,7 @@
                     630,
                     529
                   ],
-                  "score": 0.926,
+                  "score": 0.918,
                   "content": "A : Komm herein und setz (a).",
                   "type": "text"
                 }
@@ -11396,7 +11565,7 @@
                 446,
                 594,
                 680,
-                612
+                613
               ],
               "spans": [
                 {
@@ -11412,6 +11581,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    459,
+                    595,
+                    461,
+                    613
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -11495,6 +11675,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    459,
+                    614,
+                    461,
+                    630
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -11617,7 +11808,7 @@
                     698,
                     741
                   ],
-                  "score": 0.979,
+                  "score": 0.986,
                   "content": "b. Sie trifft zwei Verwandte im Restaurant.",
                   "type": "text"
                 }
@@ -11641,7 +11832,7 @@
                     709,
                     758
                   ],
-                  "score": 0.97,
+                  "score": 0.959,
                   "content": "c. Der Urlaub des Beamters ist bald zu Ende.",
                   "type": "text"
                 }
@@ -11670,21 +11861,33 @@
           "lines": [
             {
               "bbox": [
-                445,
-                694,
-                464,
-                776
+                444,
+                691,
+                466,
+                780
               ],
-              "spans": [],
+              "spans": [
+                {
+                  "bbox": [
+                    444,
+                    691,
+                    466,
+                    780
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
               "index": 75
             }
           ],
           "index": 75,
           "bbox_fs": [
-            445,
-            694,
-            464,
-            776
+            444,
+            691,
+            466,
+            780
           ]
         },
         {
@@ -11781,6 +11984,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    784,
+                    629,
+                    803
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     630,
                     786,
                     642,
@@ -11802,6 +12016,17 @@
                   ],
                   "score": 0.736,
                   "content": "b, c",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    689,
+                    784,
+                    691,
+                    803
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -11865,7 +12090,7 @@
                     649,
                     851
                   ],
-                  "score": 0.9,
+                  "score": 0.894,
                   "content": "30. 문장 표현이 옳은 것만을 고른 것은?",
                   "type": "text"
                 }
@@ -11976,7 +12201,7 @@
                     716,
                     931
                   ],
-                  "score": 0.99,
+                  "score": 0.991,
                   "content": "d. Lars hat in der Klasse die neuesten Nachrichten.",
                   "type": "text"
                 }
@@ -12038,6 +12263,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    943,
+                    506,
+                    962
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     945,
                     520,
@@ -12059,6 +12295,17 @@
                   ],
                   "score": 0.844,
                   "content": "a, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    566,
+                    943,
+                    568,
+                    963
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -12088,6 +12335,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    943,
+                    629,
+                    962
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     630,
                     945,
                     642,
@@ -12109,6 +12367,17 @@
                   ],
                   "score": 0.912,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    687,
+                    943,
+                    690,
+                    962
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -12212,7 +12481,7 @@
                     744,
                     1044
                   ],
-                  "score": 0.966,
+                  "score": 0.98,
                   "content": "ㅇ답안지의 해당란에 필요한 내용을 정확히 기입(표기) 했는지 확인",
                   "type": "text"
                 }
@@ -12254,5 +12523,5 @@
     }
   ],
   "_backend": "pipeline",
-  "_version_name": "2.5.4"
+  "_version_name": "2.6.2"
 }

@@ -96,7 +96,7 @@
   },
   {
     "type": "text",
-    "text": "*장도():주머니에넣거나옷고름에 차고다니는칼집이있는작은칼",
+    "text": "*장도():주머니에넣거나옷고름에 차고다니는칼집이 있는작은칼",
     "bbox": [
       105,
       441,
@@ -213,7 +213,7 @@
       857
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명</td><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>B기업</td></tr><tr><td rowspan=1 colspan=1>혁신활동</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6시그마</td></tr><tr><td rowspan=1 colspan=1>생산품불량률</td><td rowspan=1 colspan=1>생산품 100개당 1~2개의 불량품이발생함</td><td rowspan=1 colspan=1>생산품100만 개당3~4개의 불량품이발생함</td></tr><tr><td rowspan=1 colspan=1>자재관리및생산</td><td rowspan=1 colspan=1>부품재고초과로재고관리 비용증가</td><td rowspan=1 colspan=1>재고 비용 절감을 위해 필요한부품을 필요한 때에 필요한 만큼생산 라인에 공급하여 생산함</td></tr><tr><td rowspan=1 colspan=1>매출및이익 현황</td><td rowspan=1 colspan=1>생산품의 매출이 정점에 이른 후이익이 정체되고 있음</td><td rowspan=1 colspan=1>생산품의 매출 급증과 동시에 이익이급상승하고 있음</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명</td><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>B기업</td></tr><tr><td rowspan=1 colspan=1>혁신활동</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6시그마</td></tr><tr><td rowspan=1 colspan=1>생산품불량률</td><td rowspan=1 colspan=1>생산품 100개당 1~2개의 불량품이발생함</td><td rowspan=1 colspan=1>생산품100만 개당3~4개의 불량품이발생함</td></tr><tr><td rowspan=1 colspan=1>자재관리및생산</td><td rowspan=1 colspan=1>부품재고초과로재고관리 비용증가</td><td rowspan=1 colspan=1>재고 비용 절감을 위해 필요한부품을 필요한 때에 필요한 만큼생산 라인에 공급하여 생산함</td></tr><tr><td rowspan=1 colspan=1>매출및이익 현황</td><td rowspan=1 colspan=1>생산품의 매출이 정점에 이른 후이익이 정체되고 있음</td><td rowspan=1 colspan=1>생산품의 매출 급증과 동시에 이익이급상승하고 있음.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "681f3e3c6bc898087fad407a9b4b89fc584470c3182202050c18681b0241aea1.jpg",
@@ -444,7 +444,7 @@
   },
   {
     "type": "text",
-    "text": "노인용 스쿠터 생산 업체인 A기업은 제품 조립 일정 관리에 트 차트(Ganttchart)를 활용하여 작업의 진척 상황을 관리 하고 있다.자재 관리는 부품 재고량이 기준치 이하가 되면 일정",
+    "text": "노인용 스쿠터 생산 업체인 A기업은 제품 조립 일정 관리에 트 차트(Gantt chart)를 활용하여 작업의 진척 상황을 관리 하고 있다.자재 관리는 부품 재고량이 기준치 이하가 되면 일정",
     "bbox": [
       455,
       721,
@@ -455,7 +455,7 @@
   },
   {
     "type": "text",
-    "text": "수량만큼 발주하는 방식을 사용하고있으며,입고된 부품은 RFID 시스템을 활용하여 입출고 현황을 실시간으로 파악하고 있다. 생산된 완제품의 재고는 고객의 수요 변화에 능동적으로",
+    "text": "수량만큼 발주하는 방식을 사용하고있으며,입고된 부품은 RFID 시스템을 활용하여 입출고 현황을 실시간으로 파악하고 있다.생산된 완제품의 재고는 고객의 수요 변화에 능동적으로",
     "bbox": [
       455,
       769,
@@ -466,7 +466,7 @@
   },
   {
     "type": "text",
-    "text": "대처하고 주문 증가에 따른 제품 부족을 예방하기 위해 일정량 으로 유지하고있다.A기업은이러한 다양한 시도를통해 노인용",
+    "text": "대처하고 주문 증가에 따른 제품 부족을 예방하기 위해 일정량 으로 유지하고있다.A기업은이러한 다양한 시도를 통해 노인용",
     "bbox": [
       455,
       821,
@@ -521,11 +521,22 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.자재 관리에서는 정기발주모형으로 부품을발주하고있다 ㄷ.제품 조립 일정 관리에 계획 대비 실적을 파악할 수 있는 도표를 활용하고 있다.",
+    "text": "ㄴ.자재 관리에서는 정기발주모형으로 부품을발주하고있다.",
     "bbox": [
       456,
       936,
       747,
+      953
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ㄷ.제품 조립 일정 관리에 계획 대비 실적을 파악할 수 있는 도표를 활용하고 있다.",
+    "bbox": [
+      456,
+      954,
+      746,
       985
     ],
     "page_idx": 0
@@ -756,7 +767,7 @@
   },
   {
     "type": "text",
-    "text": "④ (나)의 알루미늄 분진은 연소의 3요소 중 ‘가연물'에 해당한다.",
+    "text": "④ (나)의 알루미늄 분진은 연소의 3요소 중‘가연물'에 해당한다.",
     "bbox": [
       97,
       679,
@@ -1105,7 +1116,7 @@
   },
   {
     "type": "text",
-    "text": "9.다음 OO기업 신입 사원 오리엔테이션 안내문을 통해 알 수 있는 내용으로 옳은 것만을 <보기>에서 있는 대로 고른 것은? [3점]",
+    "text": "9.다음 OO기업 신입 사원 오리엔테이션 안내문을 통해 알 수 있는 내용으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?[3점]",
     "bbox": [
       434,
       672,
@@ -1373,7 +1384,7 @@
   },
   {
     "type": "text",
-    "text": "1.배경: 지속 가능한 발전과 환경오염 문제 해결을 위해 등장 2.(가):폐건전지,폐금속 및 생활 폐기물이 뒤섞인 유해 폐기물의 국가 간 이동을 규제하는 국제 협약으로서 최근 유해 물질을 함유한 플라스틱도 수출입 통제 대상 폐기물에 포함하는 개정안을 추가하였다.",
+    "text": "1.배경: 지속 가능한 발전과 환경오염 문제 해결을 위해 등장 2.(가): 폐건전지,폐금속 및 생활 폐기물이 뒤섞인 유해 폐기물의 국가 간 이동을 규제하는 국제 협약으로서 최근 유해 물질을 함유한 플라스틱도 수출입 통제 대상 폐기물에 포함하는 개정안을 추가하였다.",
     "bbox": [
       114,
       574,
@@ -1531,7 +1542,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ.회사가 적용하려는 구매 관리 기법은 원가 절감의 효과가 있다.",
+    "text": "ㄷ.회사가 적용하려는 구매 관리 기법은 원가 절감의 효과가있다.",
     "bbox": [
       107,
       971,
@@ -1564,7 +1575,7 @@
   },
   {
     "type": "text",
-    "text": "13.다음은 한국산업표준(KS)에 관한 대화 장면이다.",
+    "text": "13. 다음은 한국산업표준(KS)에 관한 대화 장면이다.",
     "bbox": [
       436,
       158,
@@ -1608,7 +1619,7 @@
   },
   {
     "type": "text",
-    "text": "① 전달표준 선박용 방화문 방화 시험방법 표준 ② 전달표준 알루미늄의 불활성 가스 아크용접 작업 표준 ③ 제품표준 플라스틱 가공 기계 용어 표준 ④ 제품표준 합성 섬유 필라멘트사의 검사 표준 ⑤ 제품표준 자동차 연료탱크 주유건의 모양 및 치수 표준",
+    "text": "① 전달표준 선박용 방화문 방화 시험방법 표준 ② 전달표준 알루미늄의불활성 가스 아크용접 작업 표준 ③ 제품표준 플라스틱 가공 기계 용어 표준 ④ 제품표준 합성 섬유 필라멘트사의 검사 표준 ⑤ 제품표준 자동차 연료탱크 주유건의 모양 및 치수 표준",
     "bbox": [
       446,
       363,
@@ -1715,7 +1726,7 @@
   },
   {
     "type": "text",
-    "text": "② 자신의 성향을 파악하기 위해 MBTI 검사를 받았다.",
+    "text": "② 자신의 성향을 파악하기 위해 MIBTI 검사를 받았다.",
     "bbox": [
       446,
       672,
@@ -1913,7 +1924,7 @@
   },
   {
     "type": "text",
-    "text": "개선 전 안전 관리 조직",
+    "text": "·개선 전 안전 관리 조직",
     "bbox": [
       105,
       225,
@@ -1968,7 +1979,7 @@
   },
   {
     "type": "text",
-    "text": "·하인리히(Heinrich, H.W.)사고 예방5단계를 적용함.",
+    "text": "•하인리히(Heinrich, H. W.)사고예방5단계를 적용함.",
     "bbox": [
       113,
       337,
@@ -2235,20 +2246,6 @@
     "page_idx": 3
   },
   {
-    "type": "image",
-    "bbox": [
-      332,
-      936,
-      401,
-      1022
-    ],
-    "page_idx": 3,
-    "image_path": "5636d855543cdf4262bf87131e1314ecac1310695a4d1c25efff4a3800c71eba.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 광섬유 ② 초전도체 ③ 파인세라믹스 ④ 탄소나노튜브 ⑤ 형상기억합금",
     "bbox": [
@@ -2283,7 +2280,7 @@
   },
   {
     "type": "text",
-    "text": "대한 설명으로 옳은 것만을<보>",
+    "text": "대한 설명으로옳은 것만을<보>",
     "bbox": [
       447,
       176,
@@ -2378,7 +2375,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.(나)에서배출허용기준을 초과한 물질은 부영양화의 원인 물질이다.",
+    "text": "ㄴ.(나)에서 배출허용기준을 초과한 물질은 부영양화의 원인 물질이다.",
     "bbox": [
       456,
       379,
@@ -2495,7 +2492,7 @@
       750
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>단계</td><td rowspan=1 colspan=1>개발절차</td><td rowspan=1 colspan=1>활동</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>다양한발상법을 통해 아이디어 창출 후최적의 아이디어 선정</td><td rowspan=1 colspan=1>(가)</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>선정한 아이디어로 개념화한 제품에대한소비자 반응 조사를 통한 적합성 검증</td><td rowspan=1 colspan=1>(4)</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>제품의 구체화 및 예비 설계</td><td rowspan=1 colspan=1>CAD 프로그램으로 화장품 용기의모양,색채,크기 등을 모델링한다.</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>실제와 비슷한 제품 제작 및 성능 검증</td><td rowspan=1 colspan=1>(다)</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>최종 설계</td><td rowspan=1 colspan=1>(라)</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>단계</td><td rowspan=1 colspan=1>개발절차</td><td rowspan=1 colspan=1>활동</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>다양한발상법을 통해 아이디어창출 후최적의 아이디어 선정</td><td rowspan=1 colspan=1>(가)</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>선정한 아이디어로 개념화한 제품에 대한소비자 반응 조사를 통한 적합성 검증</td><td rowspan=1 colspan=1>(4)</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>제품의 구체화 및 예비 설계</td><td rowspan=1 colspan=1>CAD 프로그램으로 화장품 용기의모양,색채,크기 등을 모델링한다.</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>실제와 비슷한 제품 제작 및 성능 검증</td><td rowspan=1 colspan=1>(다)</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>최종 설계</td><td rowspan=1 colspan=1>(라)</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "717befc0e94769443900493716cdaee8b9e26d93087084067d4dba4805f40eb7.jpg",

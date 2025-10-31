@@ -95,18 +95,24 @@
     }
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "PELIGRO ESTAMOS EN OBRAS",
     "bbox": [
-      142,
-      291,
-      239,
-      394
+      145,
+      360,
+      237,
+      392
     ],
     "page_idx": 0,
-    "image_path": "1ad97393b3a62dee014b59375386c126b0b9fdda93c3becd5eeef1cc2f7ae2bd.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
   },
   {
     "type": "text",
@@ -210,7 +216,7 @@
   },
   {
     "type": "text",
-    "text": "2. 에 들어갈 글자를 모두 조합하여 만들 수 있는 낱말은?",
+    "text": "ㄹ. 에 들어갈 글자를 모두 조합하여 만들 수 있는 낱말은?",
     "bbox": [
       85,
       457,
@@ -230,7 +236,7 @@
   },
   {
     "type": "text",
-    "text": "7. 빈칸에 들어갈 말로 알맞은 것은?",
+    "text": ". 빈칸에 들어갈 말로 알맞은 것은? ",
     "bbox": [
       434,
       433,
@@ -241,80 +247,20 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9677,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 948,
-      "end_orig": 969,
+      "start_orig": 949,
+      "end_orig": 970,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: Perdone,  ¿dónde  hay  una  farmacia  por  aquí?",
-    "bbox": [
-      454,
-      463,
-      696,
-      480
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.96,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 970,
-      "end_orig": 1021,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "B: Siga  todo  recto  y  en  la primera  calle.  Allí,  en  la  esquina,  hay  una  farmacia.",
-    "bbox": [
-      454,
-      482,
-      747,
-      514
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9846,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 1022,
-      "end_orig": 1115,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "A: Gracias.  Muy  amable.",
-    "bbox": [
-      455,
-      517,
-      581,
-      532
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 1116,
-      "end_orig": 1141,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "ga abri patos camisea ① gato ② ㄴago ③ nube ④ pera ⑤ rosa",
+    "text": "① gato ② ㄴago ③ nube ④ pera ⑤ rosa",
     "bbox": [
       97,
-      534,
-      398,
+      560,
+      384,
       583
     ],
     "page_idx": 0,
@@ -330,22 +276,22 @@
   },
   {
     "type": "text",
-    "text": "3.빈칸에 공통으로 들어갈 말로 알맞은 것은? [1점]",
+    "text": "3.빈칸에 공통으로 들어갈 말로 알맞은 것은? [1점] ga abri patos camisea",
     "bbox": [
       85,
-      626,
-      352,
+      534,
+      398,
       644
     ],
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.5957,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8079,
-      "end_orig": 8110,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -570,6 +516,66 @@
   },
   {
     "type": "text",
+    "text": "A: Perdone,  ¿dónde  hay  una  farmacia  por  aquí?\n",
+    "bbox": [
+      454,
+      463,
+      696,
+      480
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 970,
+      "end_orig": 1022,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B: Siga  todo  recto  y  en  la primera  calle.  Allí,  en  la  esquina,  hay  una  farmacia. ",
+    "bbox": [
+      454,
+      482,
+      747,
+      514
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9846,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1022,
+      "end_orig": 1116,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Gracias.  Muy  amable.",
+    "bbox": [
+      455,
+      517,
+      581,
+      532
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1116,
+      "end_orig": 1141,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
     "text": "① no  soy  de  aquí ②  gire  a  la  derecha\n③ levántese  temprano ④ me  cuesta  mucho  andar\n⑤ quiero  hacer  una  reserva",
     "bbox": [
       446,
@@ -741,7 +747,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9836,
+      "similarity": 0.9672,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1452,
       "end_orig": 1546,
@@ -1295,7 +1301,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9848,
+      "similarity": 0.9697,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2717,
       "end_orig": 2824,
@@ -1997,7 +2003,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9811,
+      "similarity": 0.9623,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4151,
       "end_orig": 4226,
@@ -2006,7 +2012,7 @@
   },
   {
     "type": "text",
-    "text": "① a−b -c ② b-a−c ③ b- c - a ④ ㄷ −a −b ⑤ ㄷ -b - a",
+    "text": "① a - b - c ② b - a - c ③ b - c - a\n④ c - a - b ⑤ c - b - a",
     "bbox": [
       96,
       689,
@@ -2016,12 +2022,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
+      "replaced": true,
       "similarity": 0.8,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4227,
       "end_orig": 4286,
-      "reason": "low_similarity"
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -2206,7 +2212,7 @@
   },
   {
     "type": "text",
-    "text": "① 채광이 좋다. ② 도시 밖에 위치한다.",
+    "text": "① 채광이 좋다. ② 도시 밖에 위치한다.\n",
     "bbox": [
       97,
       1014,
@@ -2220,7 +2226,7 @@
       "similarity": 0.9697,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4541,
-      "end_orig": 4564,
+      "end_orig": 4565,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2246,7 +2252,7 @@
   },
   {
     "type": "text",
-    "text": "④ 교통이 편리한 곳에 있다.",
+    "text": "④ 교통이 편리한 곳에 있다.\n",
     "bbox": [
       255,
       1033,
@@ -2260,7 +2266,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4579,
-      "end_orig": 4595,
+      "end_orig": 4596,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2780,7 +2786,7 @@
   },
   {
     "type": "text",
-    "text": "c.  화가의 모습이 거울 속에 등장한다.",
+    "text": ".  화가의 모습이 거울 속에 등장한다.\n",
     "bbox": [
       453,
       1006,
@@ -2791,10 +2797,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9697,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5754,
-      "end_orig": 5777,
+      "start_orig": 5755,
+      "end_orig": 5778,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3054,7 +3060,7 @@
   },
   {
     "type": "text",
-    "text": "② 첫째 날에는 금식을 한다.",
+    "text": "② 첫째 날에는 금식을 한다.\n",
     "bbox": [
       97,
       644,
@@ -3068,13 +3074,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6973,
-      "end_orig": 6989,
+      "end_orig": 6990,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 축제가 끝나면 제단을 태운다.",
+    "text": "③ 축제가 끝나면 제단을 태운다.\n",
     "bbox": [
       97,
       662,
@@ -3088,13 +3094,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6990,
-      "end_orig": 7008,
+      "end_orig": 7009,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 죽은 자들을 잊기 위한 축제이다.",
+    "text": "④ 죽은 자들을 잊기 위한 축제이다.\n",
     "bbox": [
       97,
       679,
@@ -3108,13 +3114,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7009,
-      "end_orig": 7029,
+      "end_orig": 7030,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 묘지에서 밤을 보내는 사람들도 있다.",
+    "text": "⑤ 묘지에서 밤을 보내는 사람들도 있다.\n",
     "bbox": [
       97,
       697,
@@ -3128,7 +3134,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7030,
-      "end_orig": 7052,
+      "end_orig": 7053,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3151,20 +3157,6 @@
       "end_orig": 7106,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      103,
-      790,
-      219,
-      874
-    ],
-    "page_idx": 3,
-    "image_path": "1f11ee00b47edb076ed5b6d8d136586c5d015d2e9bd226f4fe7adc04c7b11a06.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3224,26 +3216,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
-    }
-  },
-  {
-    "type": "text",
-    "text": ".",
-    "bbox": [
-      378,
-      917,
-      380,
-      931
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
     }
   },
   {

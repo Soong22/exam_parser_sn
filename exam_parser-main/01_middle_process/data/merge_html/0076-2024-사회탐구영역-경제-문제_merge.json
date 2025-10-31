@@ -250,7 +250,7 @@
   },
   {
     "type": "text",
-    "text": "2. 경제 체제 A,  B에 대한 설명으로 옳은 것은?  (단,  A,  B는 각각 계획 경제 체제,  시장 경제 체제 중 하나임.)",
+    "text": ". 경제 체제 A,  B에 대한 설명으로 옳은 것은?  (단,  A,  B는 각각 계획 경제 체제,  시장 경제 체제 중 하나임.)\n",
     "bbox": [
       85,
       548,
@@ -261,10 +261,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9897,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 274,
-      "end_orig": 348,
+      "start_orig": 275,
+      "end_orig": 349,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -913,7 +913,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ. X재의 사례로 소비 과정에서 환경 오염이 발생하는 제품을 들 수 있다.\n",
+    "text": "ㄱ. X재의 사례로 소비 과정에서 환경 오염이 발생하는 제품을 들 수 있다.",
     "bbox": [
       455,
       918,
@@ -924,11 +924,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9677,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1663,
-      "end_orig": 1706,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 1705,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -953,7 +953,7 @@
   },
   {
     "type": "text",
-    "text": "드. 시장 판매 수입은 420만 원이다.",
+    "text": "ㄷ. 시장 판매 수입은 420만 원이다.\n",
     "bbox": [
       456,
       970,
@@ -963,12 +963,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1738,
+      "end_orig": 1761,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -984,11 +984,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9828,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1761,
       "end_orig": 1838,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1273,7 +1273,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음 자료에 대한 분석으로 옳은 것은?  [3점] ",
+    "text": ". 다음 자료에 대한 분석으로 옳은 것은?  [3점] ",
     "bbox": [
       85,
       408,
@@ -1284,9 +1284,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9767,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2151,
+      "start_orig": 2152,
       "end_orig": 2182,
       "reason": "passed_threshold_no_ws"
     }
@@ -2690,7 +2690,7 @@
   },
   {
     "type": "text",
-    "text": "7. (가)는2'이다.",
+    "text": "ㄱ. (가)는 ‘2’이다.\n",
     "bbox": [
       107,
       382,
@@ -2700,12 +2700,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.7619,
+      "replaced": true,
+      "similarity": 0.8696,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4566,
-      "end_orig": 4577,
-      "reason": "low_similarity"
+      "start_orig": 4563,
+      "end_orig": 4578,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2761,16 +2761,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.973,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4654,
       "end_orig": 4703,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ④ ㄴ, ㄹ ⑤",
+    "text": "① ㄱ,  ㄴ  ② ㄱ,  ㄷ  ③ ㄴ,  ㄷ ④ ㄴ,  ㄹ  ⑤",
     "bbox": [
       96,
       496,
@@ -2780,12 +2780,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9032,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4703,
+      "end_orig": 4739,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4452,11 +4452,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.973,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6645,
       "end_orig": 6692,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5374,10 +5374,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.4,
+      "similarity": 0.5,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6721,
-      "end_orig": 6723,
+      "start_orig": 5232,
+      "end_orig": 5233,
       "reason": "low_similarity"
     }
   },

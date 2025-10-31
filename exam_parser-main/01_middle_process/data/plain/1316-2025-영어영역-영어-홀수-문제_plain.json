@@ -220,7 +220,7 @@
                     397,
                     252
                   ],
-                  "score": 0.973,
+                  "score": 0.985,
                   "content": "1번부터 17번까지는 듣고 답하는 문제입니다.1번부터",
                   "type": "text"
                 }
@@ -524,7 +524,7 @@
                     328,
                     443
                   ],
-                  "score": 0.968,
+                  "score": 0.972,
                   "content": "학교 행사 후 교실 정리 정돈을 당부하려고",
                   "type": "text"
                 }
@@ -731,7 +731,7 @@
                     394,
                     549
                   ],
-                  "score": 0.95,
+                  "score": 0.955,
                   "content": "원만한 교우 관계를 위해 친구의 말에 귀 기울여야 한다.",
                   "type": "text"
                 }
@@ -978,7 +978,7 @@
                     378,
                     673
                   ],
-                  "score": 0.973,
+                  "score": 0.978,
                   "content": "정기적인 미술관 방문은 작품 감상 능력을 높여 준다.",
                   "type": "text"
                 }
@@ -1482,13 +1482,31 @@
                     330,
                     1045
                   ],
-                  "score": 0.894,
-                  "content": "6.대화를 듣고, 여자가 지불할 금액을고르시오",
+                  "score": 0.885,
+                  "content": "6.대화를 듣고, 여자가 지불할 금액을고르시오.",
                   "type": "text"
                 }
               ],
               "index": 45
-            },
+            }
+          ],
+          "index": 45,
+          "bbox_fs": [
+            84,
+            1026,
+            330,
+            1045
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            97,
+            1051,
+            385,
+            1068
+          ],
+          "lines": [
             {
               "bbox": [
                 97,
@@ -1626,31 +1644,13 @@
               "index": 46
             }
           ],
-          "index": 45,
-          "bbox_fs": [
-            84,
-            1026,
-            330,
-            1045
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            97,
-            1051,
-            385,
-            1068
-          ],
-          "lines": [],
           "index": 46,
           "bbox_fs": [
             97,
             1049,
             389,
             1071
-          ],
-          "lines_deleted": true
+          ]
         },
         {
           "type": "text",
@@ -1824,7 +1824,7 @@
                     602,
                     317
                   ],
-                  "score": 0.992,
+                  "score": 0.99,
                   "content": "야구경기를보러가야해서",
                   "type": "text"
                 }
@@ -1896,7 +1896,7 @@
                     576,
                     350
                   ],
-                  "score": 0.92,
+                  "score": 0.918,
                   "content": "선물을사러 가야 해서",
                   "type": "text"
                 }
@@ -2104,6 +2104,17 @@
                 },
                 {
                   "bbox": [
+                    546,
+                    424,
+                    547,
+                    443
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     548,
                     427,
                     561,
@@ -2276,7 +2287,7 @@
                     563,
                     532
                   ],
-                  "score": 0.931,
+                  "score": 0.934,
                   "content": "마술쇼를 포함한다.",
                   "type": "text"
                 }
@@ -2314,8 +2325,8 @@
                     642,
                     549
                   ],
-                  "score": 0.893,
-                  "content": "2세 미만의 아이는 무료로 입장한다.",
+                  "score": 0.944,
+                  "content": "2세미만의 아이는 무료로입장한다.",
                   "type": "text"
                 }
               ],
@@ -2352,7 +2363,7 @@
                     694,
                     566
                   ],
-                  "score": 0.957,
+                  "score": 0.96,
                   "content": "할인 쿠폰을 웹사이트에서 다운로드할 수 있다.",
                   "type": "text"
                 }
@@ -2432,7 +2443,7 @@
                     756,
                     618
                   ],
-                  "score": 0.906,
+                  "score": 0.91,
                   "content": "10.다음 표를 보면서 대화를 듣고, 여자가 구입할 식물 씨앗",
                   "type": "text"
                 }
@@ -2648,7 +2659,7 @@
                     755,
                     819
                   ],
-                  "score": 0.937,
+                  "score": 0.932,
                   "content": "11.대화를 듣고,남자의 마지막 말에 대한 여자의 응답으로 가장",
                   "type": "text"
                 }
@@ -2670,7 +2681,7 @@
                     587,
                     837
                   ],
-                  "score": 0.947,
+                  "score": 0.951,
                   "content": "적절한 것을 고르시오.[3점]",
                   "type": "text"
                 }
@@ -2875,7 +2886,7 @@
                     752,
                     927
                   ],
-                  "score": 0.975,
+                  "score": 0.974,
                   "content": "No problem. I won't eat foods that cause allergic reactions.",
                   "type": "text"
                 }
@@ -2917,8 +2928,8 @@
                     755,
                     961
                   ],
-                  "score": 0.906,
-                  "content": "12.대화를 듣고,여자의 마지막 말에 대한 남자의 응답으로가장",
+                  "score": 0.903,
+                  "content": "12.대화를 듣고,여자의 마지막 말에 대한 남자의응답으로 가장",
                   "type": "text"
                 }
               ],
@@ -2939,7 +2950,7 @@
                     557,
                     978
                   ],
-                  "score": 0.982,
+                  "score": 0.986,
                   "content": "적절한 것을 고르시오.",
                   "type": "text"
                 }
@@ -3068,7 +3079,7 @@
                     652,
                     1035
                   ],
-                  "score": 0.982,
+                  "score": 0.983,
                   "content": "That's the best class we've ever taken.",
                   "type": "text"
                 }
@@ -3106,7 +3117,7 @@
                     660,
                     1053
                   ],
-                  "score": 0.972,
+                  "score": 0.974,
                   "content": "I'd be happy to teach yoga to beginners.",
                   "type": "text"
                 }
@@ -3144,7 +3155,7 @@
                     670,
                     1069
                   ],
-                  "score": 0.981,
+                  "score": 0.979,
                   "content": "You're right. The hotel's view is amazing.",
                   "type": "text"
                 }
@@ -3217,7 +3228,7 @@
                     208,
                     191
                   ],
-                  "score": 0.981,
+                  "score": 0.98,
                   "content": "적절한 것을 고르시오.",
                   "type": "text"
                 }
@@ -3386,7 +3397,7 @@
                     374,
                     273
                   ],
-                  "score": 0.964,
+                  "score": 0.97,
                   "content": "Awesome! Thank you for lending me your new bike.",
                   "type": "text"
                 }
@@ -3695,7 +3706,7 @@
                     330,
                     462
                   ],
-                  "score": 0.974,
+                  "score": 0.951,
                   "content": "Great. Text me the dates of the competition.",
                   "type": "text"
                 }
@@ -3771,7 +3782,7 @@
                     375,
                     497
                   ],
-                  "score": 0.972,
+                  "score": 0.986,
                   "content": "I understand. It's hard to be fair when judging others.",
                   "type": "text"
                 }
@@ -3813,8 +3824,8 @@
                     407,
                     554
                   ],
-                  "score": 0.913,
-                  "content": "15.다음 상황 설명을 듣고, Sophia가Jack에게 할 말로가장",
+                  "score": 0.906,
+                  "content": "15.다음 상황 설명을 듣고, Sophia가Jack에게 할 말로 가장",
                   "type": "text"
                 }
               ],
@@ -4001,7 +4012,7 @@
                     367,
                     652
                   ],
-                  "score": 0.988,
+                  "score": 0.981,
                   "content": "We can ask for a seat change so we can sit together.",
                   "type": "text"
                 }
@@ -4037,7 +4048,7 @@
                     372,
                     669
                   ],
-                  "score": 0.971,
+                  "score": 0.972,
                   "content": "Don't you think we need to rehearse one more time?",
                   "type": "text"
                 }
@@ -4073,7 +4084,7 @@
                     376,
                     687
                   ],
-                  "score": 0.984,
+                  "score": 0.992,
                   "content": "How about leaving the concert early to avoid traffic?",
                   "type": "text"
                 }
@@ -4158,7 +4169,7 @@
                     332,
                     794
                   ],
-                  "score": 0.934,
+                  "score": 0.935,
                   "content": "16. 여자가 하는 말의 주제로 가장 적절한 것은?",
                   "type": "text"
                 }
@@ -4320,7 +4331,7 @@
                     340,
                     869
                   ],
-                  "score": 0.973,
+                  "score": 0.976,
                   "content": "popular dishes made from unusual ingredients",
                   "type": "text"
                 }
@@ -4356,7 +4367,7 @@
                     348,
                     889
                   ],
-                  "score": 0.983,
+                  "score": 0.982,
                   "content": "future technologies to cope with food shortages",
                   "type": "text"
                 }
@@ -4396,7 +4407,7 @@
                     243,
                     944
                   ],
-                  "score": 0.943,
+                  "score": 0.95,
                   "content": "17. 언급된 음식이 아닌 것은?",
                   "type": "text"
                 }
@@ -4663,7 +4674,7 @@
                     654,
                     175
                   ],
-                  "score": 0.913,
+                  "score": 0.93,
                   "content": "18. 다음 글의 목적으로 가장 적절한 것은?",
                   "type": "text"
                 }
@@ -4703,7 +4714,7 @@
                     644,
                     214
                   ],
-                  "score": 0.975,
+                  "score": 0.953,
                   "content": "Dear Rosydale City Marathon Racers,",
                   "type": "text"
                 }
@@ -4787,7 +4798,7 @@
                     573,
                     262
                   ],
-                  "score": 0.958,
+                  "score": 0.959,
                   "content": "this coming Saturday at",
                   "type": "text"
                 },
@@ -4809,7 +4820,7 @@
                     747,
                     262
                   ],
-                  "score": 0.967,
+                  "score": 0.987,
                   "content": ". Unfortunately, as you may",
                   "type": "text"
                 }
@@ -4941,7 +4952,7 @@
                     748,
                     349
                   ],
-                  "score": 0.984,
+                  "score": 0.981,
                   "content": "decided to cancel the race. We hope you understand and",
                   "type": "text"
                 }
@@ -5137,7 +5148,7 @@
                     672,
                     453
                   ],
-                  "score": 0.925,
+                  "score": 0.927,
                   "content": "마라톤 경기 사전행사 참여를독려하려고",
                   "type": "text"
                 }
@@ -5173,7 +5184,7 @@
                     683,
                     468
                   ],
-                  "score": 0.914,
+                  "score": 0.924,
                   "content": "마라톤 경기 참가비 환불 절차를 설명하려고",
                   "type": "text"
                 }
@@ -5209,8 +5220,8 @@
                     688,
                     482
                   ],
-                  "score": 0.901,
-                  "content": "마라톤 경기 참여 시규칙 준수를 당부하려고",
+                  "score": 0.902,
+                  "content": "마라톤 경기 참여 시 규칙 준수를 당부하려고",
                   "type": "text"
                 }
               ],
@@ -5245,7 +5256,7 @@
                     709,
                     497
                   ],
-                  "score": 0.935,
+                  "score": 0.934,
                   "content": "마라톤 경기진행에 따른 도로통제를안내하려고",
                   "type": "text"
                 }
@@ -5285,7 +5296,7 @@
                     748,
                     527
                   ],
-                  "score": 0.944,
+                  "score": 0.945,
                   "content": "19. 다음 글에 드러난 Peter의 심경 변화로 가장 적절한 것은?",
                   "type": "text"
                 }
@@ -5369,7 +5380,7 @@
                     755,
                     577
                   ],
-                  "score": 0.974,
+                  "score": 0.986,
                   "content": "a long time searching online for an event that would be a new",
                   "type": "text"
                 }
@@ -5413,7 +5424,7 @@
                     755,
                     607
                   ],
-                  "score": 0.981,
+                  "score": 0.987,
                   "content": "thing for her. She often told him that she liked to go to places",
                   "type": "text"
                 }
@@ -5435,7 +5446,7 @@
                     756,
                     621
                   ],
-                  "score": 0.979,
+                  "score": 0.97,
                   "content": "she had never visited before, and he was absolutely sure that",
                   "type": "text"
                 }
@@ -5457,7 +5468,7 @@
                     755,
                     636
                   ],
-                  "score": 0.984,
+                  "score": 0.979,
                   "content": "she would love going to the new, five-star restaurant downtown.",
                   "type": "text"
                 }
@@ -5479,7 +5490,7 @@
                     755,
                     650
                   ],
-                  "score": 0.984,
+                  "score": 0.982,
                   "content": "He smiled as he called the restaurant and asked for a reservation",
                   "type": "text"
                 }
@@ -5523,7 +5534,7 @@
                     755,
                     680
                   ],
-                  "score": 0.973,
+                  "score": 0.967,
                   "content": "he was told that the restaurant was fully reserved. \"That's too",
                   "type": "text"
                 }
@@ -5545,7 +5556,7 @@
                     755,
                     695
                   ],
-                  "score": 0.967,
+                  "score": 0.958,
                   "content": "bad,\" he said quietly. \"I thought that I had found the right",
                   "type": "text"
                 }
@@ -5933,7 +5944,7 @@
                     756,
                     811
                   ],
-                  "score": 0.982,
+                  "score": 0.983,
                   "content": "We almost universally accept that playing video games is at",
                   "type": "text"
                 }
@@ -5955,7 +5966,7 @@
                     755,
                     825
                   ],
-                  "score": 0.967,
+                  "score": 0.976,
                   "content": "best a pleasant break from a student's learning and more often",
                   "type": "text"
                 }
@@ -6021,7 +6032,7 @@
                     756,
                     870
                   ],
-                  "score": 0.979,
+                  "score": 0.951,
                   "content": "And yet once they have our focus, they rarely seem to offer",
                   "type": "text"
                 }
@@ -6043,7 +6054,7 @@
                     756,
                     885
                   ],
-                  "score": 0.979,
+                  "score": 0.957,
                   "content": "anything meaningful to help students grow in their lives",
                   "type": "text"
                 }
@@ -6109,7 +6120,7 @@
                     755,
                     928
                   ],
-                  "score": 0.983,
+                  "score": 0.981,
                   "content": "enhance productivity instead of derailing it. Rather, it is",
                   "type": "text"
                 }
@@ -6153,7 +6164,7 @@
                     755,
                     957
                   ],
-                  "score": 0.983,
+                  "score": 0.979,
                   "content": "outcomes we want for our students. This will enable educators",
                   "type": "text"
                 }
@@ -6175,7 +6186,7 @@
                     756,
                     973
                   ],
-                  "score": 0.982,
+                  "score": 0.989,
                   "content": "to take advantage of games' attention commanding capacities",
                   "type": "text"
                 }
@@ -6251,7 +6262,7 @@
                     727,
                     1007
                   ],
-                  "score": 0.904,
+                  "score": 0.89,
                   "content": "학습 효과 증진에 활용될 수 있는 게임을 개발해야 한다.",
                   "type": "text"
                 }
@@ -6288,7 +6299,7 @@
                     743,
                     1023
                   ],
-                  "score": 0.912,
+                  "score": 0.909,
                   "content": "교육 현장에서 학습과 게임 활동을 적절하게 분배해야 한다.",
                   "type": "text"
                 }
@@ -6337,12 +6348,23 @@
             },
             {
               "bbox": [
-                446,
+                444,
                 1037,
                 753,
                 1053
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    1037,
+                    446,
+                    1053
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -6402,7 +6424,7 @@
                     754,
                     1067
                   ],
-                  "score": 0.939,
+                  "score": 0.93,
                   "content": "게임의 부정적 영향을 줄이기 위해 학습 공동체가 노력해야 한다.",
                   "type": "text"
                 }
@@ -6414,7 +6436,7 @@
           ],
           "index": 88,
           "bbox_fs": [
-            446,
+            444,
             992,
             754,
             1067
@@ -6453,7 +6475,7 @@
                     406,
                     174
                   ],
-                  "score": 0.947,
+                  "score": 0.946,
                   "content": "21. 밑줄친hunting the shadow, not the substance가 다음 글에서",
                   "type": "text"
                 }
@@ -6475,8 +6497,8 @@
                     293,
                     192
                   ],
-                  "score": 0.966,
-                  "content": "의미하는 바로 가장 적절한 것은? [3점]",
+                  "score": 0.982,
+                  "content": "의미하는 바로 가장 적절한 것은?[3점]",
                   "type": "text"
                 }
               ],
@@ -6553,7 +6575,7 @@
                     406,
                     247
                   ],
-                  "score": 0.978,
+                  "score": 0.979,
                   "content": "political statement. Cicero classed the architect with the",
                   "type": "text"
                 }
@@ -6619,7 +6641,7 @@
                     407,
                     300
                   ],
-                  "score": 0.981,
+                  "score": 0.984,
                   "content": "architect during the rule of Augustus Caesar, recognized that",
                   "type": "text"
                 }
@@ -6729,7 +6751,7 @@
                     406,
                     385
                   ],
-                  "score": 0.982,
+                  "score": 0.981,
                   "content": "curriculum that still has much to recommend it. All of this",
                   "type": "text"
                 }
@@ -6795,7 +6817,7 @@
                     407,
                     438
                   ],
-                  "score": 0.987,
+                  "score": 0.978,
                   "content": "been able to reach a position of authority to correspond to their",
                   "type": "text"
                 }
@@ -6817,7 +6839,7 @@
                     407,
                     455
                   ],
-                  "score": 0.968,
+                  "score": 0.967,
                   "content": "plans, while those who have relied only upon theories and",
                   "type": "text"
                 }
@@ -6839,7 +6861,7 @@
                     406,
                     472
                   ],
-                  "score": 0.977,
+                  "score": 0.976,
                   "content": "scholarship were obviously \"hunting the shadow, not the",
                   "type": "text"
                 }
@@ -6951,7 +6973,7 @@
                     406,
                     532
                   ],
-                  "score": 0.968,
+                  "score": 0.976,
                   "content": "discounting the subjects necessary to achieve architectural goals",
                   "type": "text"
                 }
@@ -7023,7 +7045,7 @@
                     405,
                     569
                   ],
-                  "score": 0.94,
+                  "score": 0.925,
                   "content": "prioritizing architecture's material aspects over its artistic ones",
                   "type": "text"
                 }
@@ -7059,7 +7081,7 @@
                     407,
                     585
                   ],
-                  "score": 0.952,
+                  "score": 0.948,
                   "content": "following historical precedents without regard to current standards",
                   "type": "text"
                 }
@@ -7099,7 +7121,7 @@
                     295,
                     694
                   ],
-                  "score": 0.948,
+                  "score": 0.945,
                   "content": "22. 다음 글의 요지로 가장 적절한 것은?",
                   "type": "text"
                 }
@@ -7199,7 +7221,7 @@
                     406,
                     768
                   ],
-                  "score": 0.998,
+                  "score": 0.987,
                   "content": "settings. Individuals who are skilled in this domain are able to",
                   "type": "text"
                 }
@@ -7265,7 +7287,7 @@
                     407,
                     822
                   ],
-                  "score": 0.974,
+                  "score": 0.982,
                   "content": "Furthermore, they may be more likely to act in ways that",
                   "type": "text"
                 }
@@ -7397,7 +7419,7 @@
                     407,
                     925
                   ],
-                  "score": 0.96,
+                  "score": 0.953,
                   "content": "of the other group members and understand why they are",
                   "type": "text"
                 }
@@ -7463,7 +7485,7 @@
                     353,
                     978
                   ],
-                  "score": 0.968,
+                  "score": 0.967,
                   "content": "conflict resolution and improved group functioning.",
                   "type": "text"
                 }
@@ -7517,7 +7539,7 @@
                     387,
                     997
                   ],
-                  "score": 0.977,
+                  "score": 0.967,
                   "content": "집단 구성원 간 갈등 해소를 위해 감정 조절이 중요하다.",
                   "type": "text"
                 }
@@ -7554,7 +7576,7 @@
                     398,
                     1015
                   ],
-                  "score": 0.934,
+                  "score": 0.933,
                   "content": "감정 이해 능력은 집단 내 원활한 소통과 협력을 촉진한다.",
                   "type": "text"
                 }
@@ -7592,7 +7614,7 @@
                     406,
                     1033
                   ],
-                  "score": 0.949,
+                  "score": 0.952,
                   "content": "타인에 대한 공감 능력은 자신의 감정 표현 능력을 향상한다.",
                   "type": "text"
                 }
@@ -7630,7 +7652,7 @@
                     406,
                     1050
                   ],
-                  "score": 0.972,
+                  "score": 0.971,
                   "content": "감정 관련 어휘에 대한 지식은 공감 능력 발달의 기반이 된다.",
                   "type": "text"
                 }
@@ -7710,7 +7732,7 @@
                     644,
                     175
                   ],
-                  "score": 0.939,
+                  "score": 0.941,
                   "content": "23. 다음 글의 주제로 가장 적절한 것은?",
                   "type": "text"
                 }
@@ -7744,7 +7766,7 @@
                     755,
                     199
                   ],
-                  "score": 0.973,
+                  "score": 0.974,
                   "content": "The arrival of the Industrial Age changed the relationship",
                   "type": "text"
                 }
@@ -7832,7 +7854,7 @@
                     754,
                     267
                   ],
-                  "score": 0.975,
+                  "score": 0.961,
                   "content": "day will produce more widgets than one that runs for only",
                   "type": "text"
                 }
@@ -7854,7 +7876,7 @@
                     754,
                     284
                   ],
-                  "score": 0.974,
+                  "score": 0.977,
                   "content": "eight hours per day  and a machine that runs twenty-four",
                   "type": "text"
                 }
@@ -7898,7 +7920,7 @@
                     755,
                     319
                   ],
-                  "score": 0.969,
+                  "score": 0.984,
                   "content": "many factories, the workday is divided into eight-hour shifts,",
                   "type": "text"
                 }
@@ -7942,7 +7964,7 @@
                     755,
                     354
                   ],
-                  "score": 0.981,
+                  "score": 0.986,
                   "content": "machines humming. Industrialization raised the potential value",
                   "type": "text"
                 }
@@ -8008,7 +8030,7 @@
                     755,
                     406
                   ],
-                  "score": 0.965,
+                  "score": 0.97,
                   "content": "and thus wages became tied to effort and production. Labor,",
                   "type": "text"
                 }
@@ -8030,7 +8052,7 @@
                     755,
                     423
                   ],
-                  "score": 0.982,
+                  "score": 0.985,
                   "content": "previously guided by harvest cycles, became clock-oriented,",
                   "type": "text"
                 }
@@ -8323,7 +8345,7 @@
                     746,
                     573
                   ],
-                  "score": 0.986,
+                  "score": 0.985,
                   "content": "problems that excessive work hours have caused for laborers",
                   "type": "text"
                 }
@@ -8363,7 +8385,7 @@
                     655,
                     705
                   ],
-                  "score": 0.915,
+                  "score": 0.931,
                   "content": "24. 다음 글의 제목으로 가장 적절한 것은?",
                   "type": "text"
                 }
@@ -8397,7 +8419,7 @@
                     756,
                     728
                   ],
-                  "score": 0.978,
+                  "score": 0.979,
                   "content": "The selfie resonates not because it is new, but because it",
                   "type": "text"
                 }
@@ -8441,7 +8463,7 @@
                     755,
                     763
                   ],
-                  "score": 0.986,
+                  "score": 0.97,
                   "content": "of the self-portrait. The self-portrait showed to others the",
                   "type": "text"
                 }
@@ -8551,7 +8573,7 @@
                     755,
                     849
                   ],
-                  "score": 0.951,
+                  "score": 0.936,
                   "content": "the drama of our own daily performance of ourselves in",
                   "type": "text"
                 }
@@ -8573,7 +8595,7 @@
                     755,
                     867
                   ],
-                  "score": 0.958,
+                  "score": 0.952,
                   "content": "tension with our inner emotions that may or may not be",
                   "type": "text"
                 }
@@ -8617,7 +8639,7 @@
                     756,
                     903
                   ],
-                  "score": 0.969,
+                  "score": 0.982,
                   "content": "expansion, more and more people have been able to depict",
                   "type": "text"
                 }
@@ -8639,7 +8661,7 @@
                     755,
                     919
                   ],
-                  "score": 0.984,
+                  "score": 0.983,
                   "content": "themselves. Today's young, urban, networked majority has",
                   "type": "text"
                 }
@@ -8723,8 +8745,8 @@
                     755,
                     976
                   ],
-                  "score": 0.907,
-                  "content": "* resonate:공명()하다 ** depict:그리다",
+                  "score": 0.92,
+                  "content": "* resonate:공명()하다 **depict:그리다",
                   "type": "text"
                 }
               ],
@@ -8831,7 +8853,7 @@
                     727,
                     1034
                   ],
-                  "score": 0.964,
+                  "score": 0.963,
                   "content": "The Selfie: A Symbol of Self-oriented Global Culture",
                   "type": "text"
                 }
@@ -8867,7 +8889,7 @@
                     740,
                     1051
                   ],
-                  "score": 0.981,
+                  "score": 0.969,
                   "content": "The End of Self-portraits: How Selfies Are Taking Over",
                   "type": "text"
                 }
@@ -8970,7 +8992,7 @@
                     317,
                     177
                   ],
-                  "score": 0.922,
+                  "score": 0.921,
                   "content": "25. 다음 도표의 내용과 일치하지 않는 것은?",
                   "type": "text"
                 }
@@ -9043,12 +9065,23 @@
             },
             {
               "bbox": [
-                104,
-                221,
-                120,
-                232
+                102,
+                218,
+                125,
+                235
               ],
               "spans": [
+                {
+                  "bbox": [
+                    102,
+                    218,
+                    104,
+                    235
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     104,
@@ -9059,6 +9092,17 @@
                   "score": 0.34,
                   "content": "( \\% )",
                   "type": "inline_equation"
+                },
+                {
+                  "bbox": [
+                    121,
+                    218,
+                    125,
+                    235
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 3,
@@ -9338,7 +9382,6 @@
                 }
               ],
               "index": 10,
-              "is_list_start_line": true,
               "is_list_end_line": true
             },
             {
@@ -9362,7 +9405,6 @@
                 }
               ],
               "index": 11,
-              "is_list_start_line": true,
               "is_list_end_line": true
             },
             {
@@ -9490,7 +9532,7 @@
           ],
           "index": 7.5,
           "bbox_fs": [
-            104,
+            102,
             187,
             402,
             389
@@ -9520,7 +9562,7 @@
                     407,
                     423
                   ],
-                  "score": 0.985,
+                  "score": 0.983,
                   "content": "The graph above shows the percentages of women employed",
                   "type": "text"
                 }
@@ -9542,7 +9584,7 @@
                     244,
                     440
                   ],
-                  "score": 0.953,
+                  "score": 0.961,
                   "content": "behind the scenes on the top",
                   "type": "text"
                 },
@@ -9611,7 +9653,7 @@
                     406,
                     457
                   ],
-                  "score": 0.96,
+                  "score": 0.961,
                   "content": "For each of the three years, the percentage",
                   "type": "text"
                 }
@@ -9633,7 +9675,7 @@
                     406,
                     474
                   ],
-                  "score": 0.972,
+                  "score": 0.965,
                   "content": "of women employed as producers on the top 100 U.S. films",
                   "type": "text"
                 }
@@ -9655,7 +9697,7 @@
                     408,
                     491
                   ],
-                  "score": 0.971,
+                  "score": 0.972,
                   "content": "was the highest as compared with the percentages of each of",
                   "type": "text"
                 }
@@ -9677,7 +9719,7 @@
                     206,
                     509
                   ],
-                  "score": 0.992,
+                  "score": 0.987,
                   "content": "the other three roles.",
                   "type": "text"
                 },
@@ -9837,7 +9879,7 @@
                     219,
                     595
                   ],
-                  "score": 0.972,
+                  "score": 0.973,
                   "content": "point from 2021 to 2022.",
                   "type": "text"
                 },
@@ -9928,7 +9970,7 @@
                     201,
                     629
                   ],
-                  "score": 0.965,
+                  "score": 0.975,
                   "content": "of the three years.",
                   "type": "text"
                 },
@@ -10034,7 +10076,7 @@
                     408,
                     714
                   ],
-                  "score": 0.925,
+                  "score": 0.923,
                   "content": "26. Dick Enberg에 관한 다음 글의 내용과 일치하지 않는 것은?",
                   "type": "text"
                 }
@@ -10140,7 +10182,7 @@
                     406,
                     786
                   ],
-                  "score": 0.967,
+                  "score": 0.974,
                   "content": "Valley State College, where he also served as a coach of its",
                   "type": "text"
                 }
@@ -10184,7 +10226,7 @@
                     407,
                     821
                   ],
-                  "score": 0.978,
+                  "score": 0.977,
                   "content": "career in Los Angeles. In 1973, he became the first U.S.",
                   "type": "text"
                 }
@@ -10206,7 +10248,7 @@
                     406,
                     838
                   ],
-                  "score": 0.982,
+                  "score": 0.99,
                   "content": "sportscaster ever to visit China. He joined NBC Sports in 1975",
                   "type": "text"
                 }
@@ -10250,7 +10292,7 @@
                     407,
                     872
                   ],
-                  "score": 0.977,
+                  "score": 0.988,
                   "content": "such big events as the Olympics. He later worked for other",
                   "type": "text"
                 }
@@ -10294,7 +10336,7 @@
                     406,
                     907
                   ],
-                  "score": 0.978,
+                  "score": 0.985,
                   "content": "broadcast in 2016 and died the following year at the age of 82.",
                   "type": "text"
                 }
@@ -10436,7 +10478,7 @@
                     234,
                     999
                   ],
-                  "score": 0.963,
+                  "score": 0.967,
                   "content": "Michigan에서태어났다.",
                   "type": "text"
                 }
@@ -10473,7 +10515,7 @@
                     225,
                     1016
                   ],
-                  "score": 0.939,
+                  "score": 0.948,
                   "content": "대학 야구팀 코치였다.",
                   "type": "text"
                 }
@@ -10511,7 +10553,7 @@
                     335,
                     1034
                   ],
-                  "score": 0.908,
+                  "score": 0.909,
                   "content": "중국을 방문한 첫 미국인 스포츠 캐스터였다.",
                   "type": "text"
                 }
@@ -10549,7 +10591,7 @@
                     310,
                     1051
                   ],
-                  "score": 0.965,
+                  "score": 0.966,
                   "content": "마지막 생방송 후 3년 뒤에 사망하였다.",
                   "type": "text"
                 }
@@ -10587,7 +10629,7 @@
                     260,
                     1069
                   ],
-                  "score": 0.949,
+                  "score": 0.959,
                   "content": "Emmy Awards를 수상하였다.",
                   "type": "text"
                 }
@@ -10691,7 +10733,7 @@
                     677,
                     231
                   ],
-                  "score": 0.997,
+                  "score": 0.972,
                   "content": "Adenville City Pass Card",
                   "type": "text"
                 }
@@ -10725,7 +10767,7 @@
                     747,
                     251
                   ],
-                  "score": 0.976,
+                  "score": 0.957,
                   "content": "The Adenville City Pass Card is a public transportation",
                   "type": "text"
                 }
@@ -10747,7 +10789,7 @@
                     628,
                     267
                   ],
-                  "score": 0.977,
+                  "score": 0.967,
                   "content": "card for tourists visiting Adenville.",
                   "type": "text"
                 }
@@ -11028,7 +11070,7 @@
                     748,
                     450
                   ],
-                  "score": 0.971,
+                  "score": 0.961,
                   "content": "※Unused cards are refundable within 30 days of the",
                   "type": "text"
                 }
@@ -11090,7 +11132,7 @@
                     564,
                     486
                   ],
-                  "score": 0.995,
+                  "score": 0.994,
                   "content": "Purchase Information",
                   "type": "text"
                 }
@@ -11124,7 +11166,7 @@
                     725,
                     504
                   ],
-                  "score": 0.974,
+                  "score": 0.961,
                   "content": "• Physical cards can be purchased at subway stations.",
                   "type": "text"
                 }
@@ -11185,7 +11227,7 @@
                     627,
                     548
                   ],
-                  "score": 0.98,
+                  "score": 0.979,
                   "content": "관광객을 위한 대중교통 카드이다.",
                   "type": "text"
                 }
@@ -11222,7 +11264,7 @@
                     638,
                     565
                   ],
-                  "score": 0.906,
+                  "score": 0.913,
                   "content": "시티 투어 버스에는 사용할 수없다.",
                   "type": "text"
                 }
@@ -11298,7 +11340,7 @@
                     748,
                     600
                   ],
-                  "score": 0.951,
+                  "score": 0.953,
                   "content": "미사용 카드는 구입일로부터 30일 이내에 환불이 가능하다.",
                   "type": "text"
                 }
@@ -11336,7 +11378,7 @@
                     700,
                     618
                   ],
-                  "score": 0.942,
+                  "score": 0.943,
                   "content": "모바일 카드는 A-Transit 앱에서 구입할 수 있다.",
                   "type": "text"
                 }
@@ -11492,7 +11534,7 @@
                     748,
                     736
                   ],
-                  "score": 0.965,
+                  "score": 0.966,
                   "content": "We're happy to announce the 15th annual Luckwood",
                   "type": "text"
                 }
@@ -11514,7 +11556,7 @@
                     746,
                     753
                   ],
-                  "score": 0.973,
+                  "score": 0.985,
                   "content": "Snow Festival. Come to the festival to enjoy winter activities.",
                   "type": "text"
                 }
@@ -11684,7 +11726,7 @@
                     718,
                     846
                   ],
-                  "score": 0.948,
+                  "score": 0.964,
                   "content": "• Snow Sculpture Contest: 11 teams will participate.",
                   "type": "text"
                 }
@@ -11707,7 +11749,7 @@
                     747,
                     862
                   ],
-                  "score": 0.971,
+                  "score": 0.975,
                   "content": "• Fun in the Snow: Kids can enjoy snow tunnels and snow slides.",
                   "type": "text"
                 }
@@ -11783,7 +11825,7 @@
                     748,
                     900
                   ],
-                  "score": 0.962,
+                  "score": 0.961,
                   "content": "• Parking is not available (Use public transportation and/or",
                   "type": "text"
                 }
@@ -11805,7 +11847,7 @@
                     567,
                     915
                   ],
-                  "score": 0.981,
+                  "score": 0.982,
                   "content": "shuttle bus service).",
                   "type": "text"
                 }
@@ -11849,7 +11891,7 @@
                     719,
                     951
                   ],
-                  "score": 0.976,
+                  "score": 0.981,
                   "content": "and Luckwood Park (One-way fare: $1, cash only).",
                   "type": "text"
                 }
@@ -11889,7 +11931,7 @@
                     716,
                     974
                   ],
-                  "score": 0.968,
+                  "score": 0.967,
                   "content": "※ For more information, please visit www.ldsnow.org.",
                   "type": "text"
                 }
@@ -11943,7 +11985,7 @@
                     564,
                     999
                   ],
-                  "score": 0.95,
+                  "score": 0.97,
                   "content": "2년에 한 번 열린다.",
                   "type": "text"
                 }
@@ -11980,7 +12022,7 @@
                     563,
                     1016
                   ],
-                  "score": 0.947,
+                  "score": 0.949,
                   "content": "열흘 동안 진행된다.",
                   "type": "text"
                 }
@@ -12018,7 +12060,7 @@
                     680,
                     1034
                   ],
-                  "score": 0.902,
+                  "score": 0.905,
                   "content": "눈조각 경연에는 11개 팀이 참가할 것이다.",
                   "type": "text"
                 }
@@ -12094,7 +12136,7 @@
                     594,
                     1068
                   ],
-                  "score": 0.947,
+                  "score": 0.942,
                   "content": "셔틀버스 이용은 무료이다.",
                   "type": "text"
                 }
@@ -12145,7 +12187,7 @@
                     345,
                     175
                   ],
-                  "score": 0.905,
+                  "score": 0.889,
                   "content": "29.다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
                   "type": "text"
                 }
@@ -12207,7 +12249,7 @@
                     407,
                     214
                   ],
-                  "score": 0.988,
+                  "score": 0.99,
                   "content": "drink of water, for example, you don't consciously organize or",
                   "type": "text"
                 }
@@ -12298,7 +12340,7 @@
                     407,
                     265
                   ],
-                  "score": 0.961,
+                  "score": 0.962,
                   "content": "relaxed just to stand up and walk. It would be tiresome and",
                   "type": "text"
                 }
@@ -12389,7 +12431,7 @@
                     308,
                     318
                   ],
-                  "score": 0.932,
+                  "score": 0.947,
                   "content": "our brain do it for us automatically,",
                   "type": "text"
                 },
@@ -12436,7 +12478,7 @@
                     408,
                     335
                   ],
-                  "score": 0.97,
+                  "score": 0.966,
                   "content": "conscious mind for more important jobs. It is the older parts of",
                   "type": "text"
                 }
@@ -12505,7 +12547,7 @@
                     406,
                     369
                   ],
-                  "score": 0.977,
+                  "score": 0.981,
                   "content": "us to move, hear, see, and use many of our social skills. More",
                   "type": "text"
                 }
@@ -12527,7 +12569,7 @@
                     407,
                     388
                   ],
-                  "score": 0.977,
+                  "score": 0.982,
                   "content": "recently evolved abilities like talking, reading, and writing are",
                   "type": "text"
                 }
@@ -12549,7 +12591,7 @@
                     320,
                     405
                   ],
-                  "score": 0.936,
+                  "score": 0.926,
                   "content": "far less automated. So, most of the time,",
                   "type": "text"
                 },
@@ -12618,7 +12660,7 @@
                     403,
                     439
                   ],
-                  "score": 0.975,
+                  "score": 0.982,
                   "content": "fast analysis that happens completely without your awareness.",
                   "type": "text"
                 }
@@ -12771,7 +12813,7 @@
                     406,
                     698
                   ],
-                  "score": 0.962,
+                  "score": 0.958,
                   "content": "Studies in psychology have reported cases in which",
                   "type": "text"
                 }
@@ -12793,7 +12835,7 @@
                     406,
                     715
                   ],
-                  "score": 0.966,
+                  "score": 0.987,
                   "content": "competitive incentives resulted in lower task effort, and their",
                   "type": "text"
                 }
@@ -12815,7 +12857,7 @@
                     406,
                     733
                   ],
-                  "score": 0.981,
+                  "score": 0.971,
                   "content": "focus was on the psychological underpinnings of the reduction",
                   "type": "text"
                 }
@@ -12837,7 +12879,7 @@
                     406,
                     750
                   ],
-                  "score": 0.972,
+                  "score": 0.985,
                   "content": "in motivation. For example, competition presents an inevitable",
                   "type": "text"
                 }
@@ -12859,7 +12901,7 @@
                     407,
                     767
                   ],
-                  "score": 0.998,
+                  "score": 0.986,
                   "content": "conflict between the motivation to achieve one's personal goal",
                   "type": "text"
                 }
@@ -12906,7 +12948,7 @@
                     407,
                     785
                   ],
-                  "score": 0.972,
+                  "score": 0.969,
                   "content": "desire to maintain good relationships with others.",
                   "type": "text"
                 }
@@ -12928,7 +12970,7 @@
                     406,
                     803
                   ],
-                  "score": 0.981,
+                  "score": 0.982,
                   "content": "When the maintenance of interpersonal relationships is important,",
                   "type": "text"
                 }
@@ -12972,7 +13014,7 @@
                     233,
                     836
                   ],
-                  "score": 0.964,
+                  "score": 0.968,
                   "content": "competitors experience an",
                   "type": "text"
                 },
@@ -13019,7 +13061,7 @@
                     406,
                     853
                   ],
-                  "score": 0.972,
+                  "score": 0.969,
                   "content": "their desire to achieve their goal and taint the good feeling",
                   "type": "text"
                 }
@@ -13041,7 +13083,7 @@
                     406,
                     870
                   ],
-                  "score": 0.976,
+                  "score": 0.975,
                   "content": "brought about by winning. Exline and Lobel found that the",
                   "type": "text"
                 }
@@ -13063,7 +13105,7 @@
                     407,
                     888
                   ],
-                  "score": 0.976,
+                  "score": 0.984,
                   "content": "perception of oneself as a target for upward social comparison",
                   "type": "text"
                 }
@@ -13132,7 +13174,7 @@
                     406,
                     922
                   ],
-                  "score": 0.967,
+                  "score": 0.969,
                   "content": "others are making envious comparisons with them, people feel",
                   "type": "text"
                 }
@@ -13223,7 +13265,7 @@
                     406,
                     974
                   ],
-                  "score": 0.965,
+                  "score": 0.955,
                   "content": "stronger motivation and performance in the pursuit",
                   "type": "text"
                 }
@@ -13267,7 +13309,7 @@
                     406,
                     1009
                   ],
-                  "score": 0.984,
+                  "score": 0.98,
                   "content": "lower task motivation in a competition and preferences for",
                   "type": "text"
                 }
@@ -13289,7 +13331,7 @@
                     334,
                     1026
                   ],
-                  "score": 0.992,
+                  "score": 0.984,
                   "content": "more cooperative and altruistic outcomes, such as",
                   "type": "text"
                 },
@@ -13336,7 +13378,7 @@
                     405,
                     1044
                   ],
-                  "score": 0.984,
+                  "score": 0.979,
                   "content": "the significance of the outcome or sharing the winner's reward.",
                   "type": "text"
                 }
@@ -13460,7 +13502,7 @@
                     756,
                     175
                   ],
-                  "score": 0.968,
+                  "score": 0.987,
                   "content": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
                   "type": "text"
                 }
@@ -13527,7 +13569,7 @@
                     754,
                     217
                   ],
-                  "score": 0.949,
+                  "score": 0.984,
                   "content": "it fosters in readers.",
                   "type": "text"
                 }
@@ -13549,7 +13591,7 @@
                     756,
                     234
                   ],
-                  "score": 0.981,
+                  "score": 0.964,
                   "content": "Core language teaching materials must concentrate on how a",
                   "type": "text"
                 }
@@ -13593,7 +13635,7 @@
                     755,
                     267
                   ],
-                  "score": 0.982,
+                  "score": 0.984,
                   "content": "sociosemantic system. Very often, the process of learning is",
                   "type": "text"
                 }
@@ -13659,7 +13701,7 @@
                     754,
                     316
                   ],
-                  "score": 0.991,
+                  "score": 0.986,
                   "content": "literature enables learners to shift the focus of their attention",
                   "type": "text"
                 }
@@ -13813,7 +13855,7 @@
                     754,
                     433
                   ],
-                  "score": 0.982,
+                  "score": 0.974,
                   "content": "eager to find out what happens as events unfold; he or she",
                   "type": "text"
                 }
@@ -13857,7 +13899,7 @@
                     755,
                     467
                   ],
-                  "score": 0.982,
+                  "score": 0.983,
                   "content": "responses. The language becomes 'transparent' —the fiction",
                   "type": "text"
                 }
@@ -13879,7 +13921,7 @@
                     659,
                     484
                   ],
-                  "score": 0.965,
+                  "score": 0.964,
                   "content": "draws the whole person into its own world.",
                   "type": "text"
                 }
@@ -14074,7 +14116,7 @@
                     734,
                     547
                   ],
-                  "score": 0.988,
+                  "score": 0.989,
                   "content": "alternative perspective",
                   "type": "text"
                 }
@@ -14168,7 +14210,7 @@
                     756,
                     689
                   ],
-                  "score": 0.972,
+                  "score": 0.975,
                   "content": "32. Education, at its best, teaches more than just knowledge.",
                   "type": "text"
                 }
@@ -14190,7 +14232,7 @@
                     756,
                     706
                   ],
-                  "score": 0.952,
+                  "score": 0.958,
                   "content": "It teaches critical thinking: the ability to stop and think",
                   "type": "text"
                 }
@@ -14234,7 +14276,7 @@
                     756,
                     739
                   ],
-                  "score": 0.969,
+                  "score": 0.988,
                   "content": "This is not thought control. It is the very reverse: mental",
                   "type": "text"
                 }
@@ -14256,7 +14298,7 @@
                     755,
                     754
                   ],
-                  "score": 0.95,
+                  "score": 0.948,
                   "content": "liberation. Even the most advanced intellectual will be",
                   "type": "text"
                 }
@@ -14278,7 +14320,7 @@
                     756,
                     772
                   ],
-                  "score": 0.977,
+                  "score": 0.979,
                   "content": "imperfect at this skill. But even imperfect possession of it",
                   "type": "text"
                 }
@@ -14322,7 +14364,7 @@
                     755,
                     805
                   ],
-                  "score": 0.981,
+                  "score": 0.969,
                   "content": "constantly reacting to the immediate environment, the",
                   "type": "text"
                 }
@@ -14388,7 +14430,7 @@
                     755,
                     856
                   ],
-                  "score": 0.994,
+                  "score": 0.98,
                   "content": "easy way to live, in many ways: thought is effortful, especially",
                   "type": "text"
                 }
@@ -14476,7 +14518,7 @@
                     755,
                     921
                   ],
-                  "score": 0.972,
+                  "score": 0.974,
                   "content": "for the sake of convenience, storing up the arterial fat which",
                   "type": "text"
                 }
@@ -14618,7 +14660,7 @@
                     596,
                     1001
                   ],
-                  "score": 0.981,
+                  "score": 0.982,
                   "content": "intensifies people's danger",
                   "type": "text"
                 }
@@ -14654,7 +14696,7 @@
                     602,
                     1018
                   ],
-                  "score": 0.975,
+                  "score": 0.997,
                   "content": "enhances our understanding",
                   "type": "text"
                 }
@@ -14851,7 +14893,7 @@
                     406,
                     192
                   ],
-                  "score": 0.982,
+                  "score": 0.991,
                   "content": "where the largest and most profitable businesses in the world",
                   "type": "text"
                 }
@@ -15027,7 +15069,7 @@
                     407,
                     327
                   ],
-                  "score": 0.981,
+                  "score": 0.967,
                   "content": "Our creative engagement with other people is mediated by",
                   "type": "text"
                 }
@@ -15071,7 +15113,7 @@
                     406,
                     360
                   ],
-                  "score": 0.951,
+                  "score": 0.958,
                   "content": "our attention through the process that Nick Seaver calls",
                   "type": "text"
                 }
@@ -15137,8 +15179,8 @@
                     407,
                     410
                   ],
-                  "score": 0.971,
-                  "content": "exploration  with algorithm-generated playlists or even",
+                  "score": 0.973,
+                  "content": "exploration with algorithm-generated playlists or even",
                   "type": "text"
                 }
               ],
@@ -15453,7 +15495,7 @@
                     755,
                     216
                   ],
-                  "score": 0.973,
+                  "score": 0.99,
                   "content": "been influenced by further developments in transportation.",
                   "type": "text"
                 }
@@ -15475,7 +15517,7 @@
                     755,
                     232
                   ],
-                  "score": 0.966,
+                  "score": 0.953,
                   "content": "Just as the railways revolutionized travel in the nineteenth",
                   "type": "text"
                 }
@@ -15497,7 +15539,7 @@
                     755,
                     249
                   ],
-                  "score": 0.957,
+                  "score": 0.948,
                   "content": "century, so the automobile produced even more dramatic",
                   "type": "text"
                 }
@@ -15519,7 +15561,7 @@
                     573,
                     267
                   ],
-                  "score": 0.946,
+                  "score": 0.963,
                   "content": "changes in the twentieth.",
                   "type": "text"
                 },
@@ -15544,7 +15586,7 @@
                     755,
                     267
                   ],
-                  "score": 0.953,
+                  "score": 0.966,
                   "content": "The significance of the car in the",
                   "type": "text"
                 }
@@ -15566,7 +15608,7 @@
                     755,
                     285
                   ],
-                  "score": 0.947,
+                  "score": 0.956,
                   "content": "development of sport and tourism generally has attracted",
                   "type": "text"
                 }
@@ -15588,7 +15630,7 @@
                     755,
                     302
                   ],
-                  "score": 0.97,
+                  "score": 0.971,
                   "content": "considerable coverage and it has had no less an impact on",
                   "type": "text"
                 }
@@ -15610,7 +15652,7 @@
                     589,
                     319
                   ],
-                  "score": 0.968,
+                  "score": 0.982,
                   "content": "sports tourism specifically.",
                   "type": "text"
                 },
@@ -15657,7 +15699,7 @@
                     755,
                     336
                   ],
-                  "score": 0.983,
+                  "score": 0.992,
                   "content": "towards the end of the nineteenth century, it started to become",
                   "type": "text"
                 }
@@ -15679,7 +15721,7 @@
                     755,
                     353
                   ],
-                  "score": 0.978,
+                  "score": 0.957,
                   "content": "a mass form of transport in the 1920s in the USA and rather",
                   "type": "text"
                 }
@@ -15726,7 +15768,7 @@
                     754,
                     371
                   ],
-                  "score": 0.978,
+                  "score": 0.988,
                   "content": "Apart from its convenience and flexibility,",
                   "type": "text"
                 }
@@ -15748,7 +15790,7 @@
                     755,
                     389
                   ],
-                  "score": 0.934,
+                  "score": 0.953,
                   "content": "the car has the additional advantages of affording access to",
                   "type": "text"
                 }
@@ -15770,7 +15812,7 @@
                     756,
                     406
                   ],
-                  "score": 0.981,
+                  "score": 0.985,
                   "content": "many areas not served by public transport, as well as allowing",
                   "type": "text"
                 }
@@ -16149,7 +16191,7 @@
                     406,
                     704
                   ],
-                  "score": 0.972,
+                  "score": 0.973,
                   "content": "The rules of baseball don't just regulate the behavior of the",
                   "type": "text"
                 }
@@ -16193,7 +16235,7 @@
                     407,
                     738
                   ],
-                  "score": 0.969,
+                  "score": 0.975,
                   "content": "the game. Rules do not prevent people from playing baseball;",
                   "type": "text"
                 }
@@ -16281,7 +16323,7 @@
                     406,
                     804
                   ],
-                  "score": 0.983,
+                  "score": 0.981,
                   "content": "rules that enable the formation of corporations, that enable the",
                   "type": "text"
                 }
@@ -16303,7 +16345,7 @@
                     407,
                     820
                   ],
-                  "score": 0.975,
+                  "score": 0.996,
                   "content": "use of wills and trusts, that create negotiable instruments, and",
                   "type": "text"
                 }
@@ -16369,7 +16411,7 @@
                     406,
                     870
                   ],
-                  "score": 0.971,
+                  "score": 0.983,
                   "content": "rules that establish roles individuals play within the legal",
                   "type": "text"
                 }
@@ -16435,7 +16477,7 @@
                     407,
                     921
                   ],
-                  "score": 0.977,
+                  "score": 0.974,
                   "content": "of individuals who occupy them, but rules also create the roles",
                   "type": "text"
                 }
@@ -16457,7 +16499,7 @@
                     406,
                     937
                   ],
-                  "score": 0.978,
+                  "score": 0.97,
                   "content": "themselves. Without them an individual would not have the",
                   "type": "text"
                 }
@@ -16584,7 +16626,7 @@
                     407,
                     1001
                   ],
-                  "score": 0.973,
+                  "score": 0.972,
                   "content": "categorize one's patterns of conduct in legal and productive ways",
                   "type": "text"
                 }
@@ -16620,7 +16662,7 @@
                     406,
                     1018
                   ],
-                  "score": 0.985,
+                  "score": 0.972,
                   "content": "lead people to reevaluate their roles and practices in a society",
                   "type": "text"
                 }
@@ -16728,7 +16770,7 @@
                     406,
                     1070
                   ],
-                  "score": 0.966,
+                  "score": 0.967,
                   "content": "facilitate productive activity by establishing roles and practices",
                   "type": "text"
                 }
@@ -16768,7 +16810,7 @@
                     747,
                     669
                   ],
-                  "score": 0.988,
+                  "score": 0.992,
                   "content": "The potential for market enforcement is greater when",
                   "type": "text"
                 }
@@ -16790,7 +16832,7 @@
                     747,
                     686
                   ],
-                  "score": 0.988,
+                  "score": 0.987,
                   "content": "contracting parties have developed reputational capital that",
                   "type": "text"
                 }
@@ -16852,7 +16894,7 @@
                     756,
                     733
                   ],
-                  "score": 0.978,
+                  "score": 0.976,
                   "content": "(A) Similarly, a landowner can undermaintain fences, ditches,",
                   "type": "text"
                 }
@@ -16874,7 +16916,7 @@
                     756,
                     750
                   ],
-                  "score": 0.976,
+                  "score": 0.978,
                   "content": "and irrigation systems. Accurate assessments of farmer",
                   "type": "text"
                 }
@@ -16896,7 +16938,7 @@
                     755,
                     767
                   ],
-                  "score": 0.964,
+                  "score": 0.967,
                   "content": "and landowner behavior will be made over time, and",
                   "type": "text"
                 }
@@ -16940,7 +16982,7 @@
                     756,
                     804
                   ],
-                  "score": 0.956,
+                  "score": 0.947,
                   "content": "other's expense will find that others may refuse to deal",
                   "type": "text"
                 }
@@ -16962,7 +17004,7 @@
                     586,
                     819
                   ],
-                  "score": 0.998,
+                  "score": 0.997,
                   "content": "with them in the future.",
                   "type": "text"
                 }
@@ -17024,7 +17066,7 @@
                     755,
                     860
                   ],
-                  "score": 0.98,
+                  "score": 0.976,
                   "content": "observing the reported output, the general quality of the soil,",
                   "type": "text"
                 }
@@ -17046,7 +17088,7 @@
                     755,
                     876
                   ],
-                  "score": 0.984,
+                  "score": 0.987,
                   "content": "and any unusual or extreme behavior. Farmer and landowner",
                   "type": "text"
                 }
@@ -17068,7 +17110,7 @@
                     755,
                     894
                   ],
-                  "score": 0.993,
+                  "score": 0.982,
                   "content": "reputations act as a bond. In any growing season a farmer can",
                   "type": "text"
                 }
@@ -17152,7 +17194,7 @@
                     755,
                     952
                   ],
-                  "score": 0.972,
+                  "score": 0.971,
                   "content": "fairness, producing high yields, and consistently demonstrating",
                   "type": "text"
                 }
@@ -17174,7 +17216,7 @@
                     757,
                     972
                   ],
-                  "score": 0.944,
+                  "score": 0.974,
                   "content": "that they are good at what they do. In small, close-knit",
                   "type": "text"
                 }
@@ -17196,7 +17238,7 @@
                     717,
                     987
                   ],
-                  "score": 0.974,
+                  "score": 0.983,
                   "content": "farming communities, reputations are well known.",
                   "type": "text"
                 }
@@ -17382,12 +17424,23 @@
             },
             {
               "bbox": [
-                446,
+                444,
                 1051,
                 552,
                 1070
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    1051,
+                    445,
+                    1070
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -17420,7 +17473,7 @@
           ],
           "index": 88,
           "bbox_fs": [
-            446,
+            444,
             1015,
             709,
             1070
@@ -17561,7 +17614,7 @@
                     398,
                     221
                   ],
-                  "score": 0.922,
+                  "score": 0.92,
                   "content": "flies off, others will follow, not waiting around to assess",
                   "type": "text"
                 }
@@ -17583,7 +17636,7 @@
                     398,
                     238
                   ],
-                  "score": 0.956,
+                  "score": 0.969,
                   "content": "whether the threat is real. They have been infected by",
                   "type": "text"
                 }
@@ -17605,7 +17658,7 @@
                     212,
                     255
                   ],
-                  "score": 0.982,
+                  "score": 0.985,
                   "content": "emotional contagion.",
                   "type": "text"
                 }
@@ -17645,7 +17698,7 @@
                     407,
                     282
                   ],
-                  "score": 0.958,
+                  "score": 0.961,
                   "content": "(A) Marc wondered whether the birds in line were more fearful",
                   "type": "text"
                 }
@@ -17689,7 +17742,7 @@
                     406,
                     316
                   ],
-                  "score": 0.976,
+                  "score": 0.977,
                   "content": "doing. Emotional contagion would have been impossible for",
                   "type": "text"
                 }
@@ -17795,7 +17848,7 @@
                     406,
                     390
                   ],
-                  "score": 0.977,
+                  "score": 0.988,
                   "content": "of his students on patterns of antipredatory scanning by",
                   "type": "text"
                 }
@@ -17817,7 +17870,7 @@
                     407,
                     405
                   ],
-                  "score": 0.971,
+                  "score": 0.958,
                   "content": "western evening grosbeaks, they found that birds in a",
                   "type": "text"
                 }
@@ -17967,7 +18020,7 @@
                     406,
                     511
                   ],
-                  "score": 0.97,
+                  "score": 0.969,
                   "content": "positions significantly more than grosbeaks in a circle,",
                   "type": "text"
                 }
@@ -18272,7 +18325,7 @@
                     406,
                     660
                   ],
-                  "score": 0.994,
+                  "score": 0.996,
                   "content": "글의 흐름으로 보아,주어진 문장이 들어가기에 가장",
                   "type": "text"
                 }
@@ -18396,7 +18449,7 @@
                     398,
                     750
                   ],
-                  "score": 0.967,
+                  "score": 0.979,
                   "content": "however, the secretive inventor risks that an employee or",
                   "type": "text"
                 }
@@ -18418,7 +18471,7 @@
                     361,
                     765
                   ],
-                  "score": 0.999,
+                  "score": 0.99,
                   "content": "contractor will disclose the proprietary information.",
                   "type": "text"
                 }
@@ -18458,7 +18511,7 @@
                     407,
                     794
                   ],
-                  "score": 0.979,
+                  "score": 0.968,
                   "content": "Trade secret law aims to promote innovation, although it",
                   "type": "text"
                 }
@@ -18480,7 +18533,7 @@
                     407,
                     811
                   ],
-                  "score": 0.98,
+                  "score": 0.982,
                   "content": "accomplishes this objective in a very different manner than",
                   "type": "text"
                 }
@@ -18527,7 +18580,7 @@
                     408,
                     829
                   ],
-                  "score": 0.973,
+                  "score": 0.96,
                   "content": ") Notwithstanding the advantages of",
                   "type": "text"
                 }
@@ -18549,7 +18602,7 @@
                     406,
                     844
                   ],
-                  "score": 0.973,
+                  "score": 0.977,
                   "content": "obtaining a patent, many innovators prefer to protect their",
                   "type": "text"
                 }
@@ -18640,7 +18693,7 @@
                     407,
                     894
                   ],
-                  "score": 0.989,
+                  "score": 0.975,
                   "content": "secrecy better protects their investment and increases their",
                   "type": "text"
                 }
@@ -18756,7 +18809,7 @@
                     406,
                     944
                   ],
-                  "score": 0.961,
+                  "score": 0.963,
                   "content": ") Once the idea is released, it will be \"free",
                   "type": "text"
                 }
@@ -18847,7 +18900,7 @@
                     408,
                     995
                   ],
-                  "score": 0.987,
+                  "score": 0.972,
                   "content": "seeking to rely upon secrecy to spend an inordinate amount of",
                   "type": "text"
                 }
@@ -19070,7 +19123,7 @@
                     746,
                     235
                   ],
-                  "score": 0.986,
+                  "score": 0.973,
                   "content": "away, or find themselves relegated to the basement, only to",
                   "type": "text"
                 }
@@ -19154,7 +19207,7 @@
                     755,
                     294
                   ],
-                  "score": 0.961,
+                  "score": 0.959,
                   "content": "are  predominantly examined from a  process-oriented",
                   "type": "text"
                 }
@@ -19270,7 +19323,7 @@
                     755,
                     341
                   ],
-                  "score": 0.972,
+                  "score": 0.978,
                   "content": ") In this context, maintenance and repair",
                   "type": "text"
                 }
@@ -19292,7 +19345,7 @@
                     755,
                     357
                   ],
-                  "score": 0.965,
+                  "score": 0.975,
                   "content": "are considered practices that have the potential to prolong the",
                   "type": "text"
                 }
@@ -19314,7 +19367,7 @@
                     756,
                     372
                   ],
-                  "score": 0.991,
+                  "score": 0.993,
                   "content": "existence of objects, ensuring their sustained utilization over",
                   "type": "text"
                 }
@@ -19336,7 +19389,7 @@
                     556,
                     389
                   ],
-                  "score": 0.956,
+                  "score": 0.962,
                   "content": "an extended period. (",
                   "type": "text"
                 },
@@ -19405,7 +19458,7 @@
                     756,
                     420
                   ],
-                  "score": 0.972,
+                  "score": 0.963,
                   "content": "things, appropriately highlighting that conventional understanding",
                   "type": "text"
                 }
@@ -19427,7 +19480,7 @@
                     756,
                     436
                   ],
-                  "score": 0.981,
+                  "score": 0.978,
                   "content": "of the lifecycle of a technology, from its acquisition to its",
                   "type": "text"
                 }
@@ -19518,7 +19571,7 @@
                     755,
                     481
                   ],
-                  "score": 0.948,
+                  "score": 0.951,
                   "content": "second-hand cycles, leading to a dynamic afterlife marked by",
                   "type": "text"
                 }
@@ -19609,7 +19662,7 @@
                     589,
                     528
                   ],
-                  "score": 0.98,
+                  "score": 0.997,
                   "content": "simplistic linear progression.",
                   "type": "text"
                 }
@@ -19671,7 +19724,7 @@
                     755,
                     550
                   ],
-                  "score": 0.978,
+                  "score": 0.975,
                   "content": "anthropomorphic: 의인화된",
                   "type": "text"
                 }
@@ -19711,7 +19764,7 @@
                     756,
                     582
                   ],
-                  "score": 0.875,
+                  "score": 0.876,
                   "content": "40. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A),",
                   "type": "text"
                 }
@@ -19733,7 +19786,7 @@
                     634,
                     599
                   ],
-                  "score": 0.953,
+                  "score": 0.954,
                   "content": "(B)에 들어갈 말로 가장 적절한 것은?",
                   "type": "text"
                 }
@@ -19817,7 +19870,7 @@
                     748,
                     659
                   ],
-                  "score": 0.966,
+                  "score": 0.969,
                   "content": "case. Typically, synthetic ingredients can be made in a",
                   "type": "text"
                 }
@@ -19927,7 +19980,7 @@
                     747,
                     737
                   ],
-                  "score": 0.972,
+                  "score": 0.977,
                   "content": "depending on their origin, the time of year they were",
                   "type": "text"
                 }
@@ -19949,7 +20002,7 @@
                     748,
                     752
                   ],
-                  "score": 0.984,
+                  "score": 0.988,
                   "content": "harvested, the climate they experienced throughout their",
                   "type": "text"
                 }
@@ -20037,7 +20090,7 @@
                     747,
                     815
                   ],
-                  "score": 0.976,
+                  "score": 0.981,
                   "content": "toxicity of minor components that may vary from time to",
                   "type": "text"
                 }
@@ -20059,7 +20112,7 @@
                     747,
                     830
                   ],
-                  "score": 0.985,
+                  "score": 0.993,
                   "content": "time. In some cases, a natural food component has been",
                   "type": "text"
                 }
@@ -20081,7 +20134,7 @@
                     747,
                     844
                   ],
-                  "score": 0.965,
+                  "score": 0.97,
                   "content": "consumed for hundreds or thousands of years without",
                   "type": "text"
                 }
@@ -20103,7 +20156,7 @@
                     747,
                     860
                   ],
-                  "score": 0.995,
+                  "score": 0.969,
                   "content": "causing any obvious health problems and can, therefore, be",
                   "type": "text"
                 }
@@ -20239,7 +20292,7 @@
                     748,
                     944
                   ],
-                  "score": 0.904,
+                  "score": 0.901,
                   "content": "The _(A)  of the production process for synthetic",
                   "type": "text"
                 }
@@ -20261,7 +20314,7 @@
                     747,
                     957
                   ],
-                  "score": 0.955,
+                  "score": 0.951,
                   "content": "food ingredients and the variability of natural food ingredients",
                   "type": "text"
                 }
@@ -20305,7 +20358,7 @@
                     747,
                     974
                   ],
-                  "score": 0.945,
+                  "score": 0.946,
                   "content": "people's commonly held assumption that",
                   "type": "text"
                 }
@@ -20327,7 +20380,7 @@
                     650,
                     990
                   ],
-                  "score": 0.987,
+                  "score": 0.986,
                   "content": "the natural ingredients are more secure.",
                   "type": "text"
                 }
@@ -20442,6 +20495,17 @@
                 },
                 {
                   "bbox": [
+                    607,
+                    1018,
+                    608,
+                    1037
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     608,
                     1019,
                     622,
@@ -20461,8 +20525,8 @@
                     755,
                     1037
                   ],
-                  "score": 0.917,
-                  "content": "predictability  support",
+                  "score": 0.933,
+                  "content": "predictability support",
                   "type": "text"
                 }
               ],
@@ -20497,7 +20561,7 @@
                     608,
                     1053
                   ],
-                  "score": 0.897,
+                  "score": 0.913,
                   "content": "manageability … intensify",
                   "type": "text"
                 },
@@ -20522,7 +20586,7 @@
                     752,
                     1053
                   ],
-                  "score": 0.82,
+                  "score": 0.814,
                   "content": "affordability …· reverse",
                   "type": "text"
                 }
@@ -20636,7 +20700,7 @@
                     311,
                     175
                   ],
-                  "score": 0.977,
+                  "score": 0.976,
                   "content": "[41~42]다음 글을 읽고,물음에 답하시오.",
                   "type": "text"
                 }
@@ -20670,7 +20734,7 @@
                     398,
                     204
                   ],
-                  "score": 0.977,
+                  "score": 0.954,
                   "content": "Imagine grabbing a piece of paper between your thumb and",
                   "type": "text"
                 }
@@ -20692,7 +20756,7 @@
                     398,
                     221
                   ],
-                  "score": 0.951,
+                  "score": 0.981,
                   "content": "index finger. Maybe you already are, as you turn this page.",
                   "type": "text"
                 }
@@ -20736,7 +20800,7 @@
                     399,
                     252
                   ],
-                  "score": 0.98,
+                  "score": 0.974,
                   "content": "without thinking about it, and literally in a snap. Yet it was a",
                   "type": "text"
                 }
@@ -20758,7 +20822,7 @@
                     399,
                     268
                   ],
-                  "score": 0.969,
+                  "score": 0.97,
                   "content": "breakthrough in human evolution. Other primates exhibit",
                   "type": "text"
                 }
@@ -20780,7 +20844,7 @@
                     400,
                     285
                   ],
-                  "score": 0.967,
+                  "score": 0.974,
                   "content": "some kinds of precision grips in the handling and use of",
                   "type": "text"
                 }
@@ -20802,7 +20866,7 @@
                     398,
                     301
                   ],
-                  "score": 0.969,
+                  "score": 0.976,
                   "content": "objects, but not with the kind of (a) efficient opposition that",
                   "type": "text"
                 }
@@ -20824,7 +20888,7 @@
                     398,
                     318
                   ],
-                  "score": 0.959,
+                  "score": 0.963,
                   "content": "our hand anatomy allows. In a single hand, humans can",
                   "type": "text"
                 }
@@ -20846,7 +20910,7 @@
                     399,
                     334
                   ],
-                  "score": 0.988,
+                  "score": 0.98,
                   "content": "easily hold and manipulate objects, even small and delicate",
                   "type": "text"
                 }
@@ -20868,7 +20932,7 @@
                     399,
                     351
                   ],
-                  "score": 0.926,
+                  "score": 0.943,
                   "content": "ones, while adjusting our fingers to their shape and",
                   "type": "text"
                 }
@@ -20890,7 +20954,7 @@
                     398,
                     368
                   ],
-                  "score": 0.956,
+                  "score": 0.961,
                   "content": "reorienting them with (b) displacements of our fingertip",
                   "type": "text"
                 }
@@ -20934,7 +20998,7 @@
                     398,
                     400
                   ],
-                  "score": 0.975,
+                  "score": 0.974,
                   "content": "anatomical attributes, including our flat nails (which nearly",
                   "type": "text"
                 }
@@ -20978,7 +21042,7 @@
                     398,
                     433
                   ],
-                  "score": 0.941,
+                  "score": 0.951,
                   "content": "trying—and failing —to dog-ear this page with pointy,",
                   "type": "text"
                 }
@@ -21106,7 +21170,7 @@
                     399,
                     514
                   ],
-                  "score": 0.974,
+                  "score": 0.978,
                   "content": "hands that could do the job, along with a nervous system that",
                   "type": "text"
                 }
@@ -21150,7 +21214,7 @@
                     399,
                     548
                   ],
-                  "score": 0.956,
+                  "score": 0.975,
                   "content": "who's ever attempted to make a spear tip or arrowhead from",
                   "type": "text"
                 }
@@ -21194,7 +21258,7 @@
                     398,
                     578
                   ],
-                  "score": 0.979,
+                  "score": 0.98,
                   "content": "rotation and repositioning, and forceful, careful strikes with",
                   "type": "text"
                 }
@@ -21238,7 +21302,7 @@
                     289,
                     612
                   ],
-                  "score": 0.98,
+                  "score": 0.985,
                   "content": "know-how, it can be a bloody business.",
                   "type": "text"
                 }
@@ -21383,7 +21447,7 @@
                     405,
                     694
                   ],
-                  "score": 0.988,
+                  "score": 0.979,
                   "content": "Anatomical Distance Between Humans and Other Primates",
                   "type": "text"
                 }
@@ -21411,6 +21475,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    110,
+                    698,
+                    111,
+                    710
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -21592,8 +21667,8 @@
                     407,
                     800
                   ],
-                  "score": 0.877,
-                  "content": "(e) 중에서문맥상 낱말의 쓰임이 적절하지 않은",
+                  "score": 0.894,
+                  "content": "(e) 중에서문맥상 낱말의 쓰임이 적절하지않은",
                   "type": "text"
                 }
               ],
@@ -21641,12 +21716,23 @@
           "lines": [
             {
               "bbox": [
-                97,
+                95,
                 820,
                 378,
                 843
               ],
               "spans": [
+                {
+                  "bbox": [
+                    95,
+                    820,
+                    96,
+                    843
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     97,
@@ -21670,6 +21756,17 @@
                   ],
                   "score": 0.991,
                   "content": "(a)",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    156,
+                    821,
+                    158,
+                    843
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -21699,6 +21796,17 @@
                 },
                 {
                   "bbox": [
+                    216,
+                    820,
+                    219,
+                    843
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     219,
                     823,
                     232,
@@ -21724,6 +21832,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    821,
+                    280,
+                    843
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     823,
                     294,
@@ -21745,6 +21864,17 @@
                   ],
                   "score": 0.896,
                   "content": "(d)",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    340,
+                    821,
+                    342,
+                    843
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -21778,7 +21908,7 @@
           ],
           "index": 36,
           "bbox_fs": [
-            97,
+            95,
             820,
             378,
             843
@@ -21893,7 +22023,7 @@
                     398,
                     921
                   ],
-                  "score": 0.968,
+                  "score": 0.96,
                   "content": "\"Do you remember when Sean used to tell me that I was the",
                   "type": "text"
                 }
@@ -21959,7 +22089,7 @@
                     398,
                     968
                   ],
-                  "score": 0.99,
+                  "score": 0.989,
                   "content": "Ethan then shared how things had changed since (a) his son",
                   "type": "text"
                 }
@@ -22047,7 +22177,7 @@
                     398,
                     1028
                   ],
-                  "score": 0.99,
+                  "score": 0.993,
                   "content": "suggested. He agreed, and realizing that both his and Sean's",
                   "type": "text"
                 }
@@ -22091,7 +22221,7 @@
                     231,
                     1060
                   ],
-                  "score": 0.969,
+                  "score": 0.96,
                   "content": "and pick them up with him.",
                   "type": "text"
                 }
@@ -22165,7 +22295,7 @@
                     747,
                     195
                   ],
-                  "score": 0.96,
+                  "score": 0.957,
                   "content": "Ethan and Grace came back home with the jackets and",
                   "type": "text"
                 }
@@ -22319,7 +22449,7 @@
                     748,
                     304
                   ],
-                  "score": 0.968,
+                  "score": 0.974,
                   "content": "the weather this weekend will be the best of the year. Why not",
                   "type": "text"
                 }
@@ -22341,7 +22471,7 @@
                     706,
                     320
                   ],
-                  "score": 0.969,
+                  "score": 0.968,
                   "content": "enjoy it?\" After a moment's hesitation, (c) he agreed.",
                   "type": "text"
                 }
@@ -22381,7 +22511,7 @@
                     747,
                     368
                   ],
-                  "score": 0.97,
+                  "score": 0.983,
                   "content": "\"When did you bring the jackets in?\" the clerk at the",
                   "type": "text"
                 }
@@ -22403,7 +22533,7 @@
                     747,
                     384
                   ],
-                  "score": 0.981,
+                  "score": 0.978,
                   "content": "laundry asked. \"Maybe two weeks ago,\" Ethan replied. Then,",
                   "type": "text"
                 }
@@ -22425,7 +22555,7 @@
                     748,
                     399
                   ],
-                  "score": 0.964,
+                  "score": 0.957,
                   "content": "Grace quickly reminded (d) him, \"Honey, we actually left",
                   "type": "text"
                 }
@@ -22447,7 +22577,7 @@
                     747,
                     415
                   ],
-                  "score": 0.969,
+                  "score": 0.974,
                   "content": "them here a month ago.\" The clerk went into the storage area",
                   "type": "text"
                 }
@@ -22469,7 +22599,7 @@
                     747,
                     430
                   ],
-                  "score": 0.987,
+                  "score": 0.977,
                   "content": "to look for the clothes. Finally, he returned with the jackets",
                   "type": "text"
                 }
@@ -22491,7 +22621,7 @@
                     747,
                     445
                   ],
-                  "score": 0.95,
+                  "score": 0.955,
                   "content": "and handed them to Ethan. The clerk politely said, \"I am",
                   "type": "text"
                 }
@@ -22513,7 +22643,7 @@
                     747,
                     461
                   ],
-                  "score": 0.988,
+                  "score": 0.99,
                   "content": "sorry, but please collect your items earlier next time. Our",
                   "type": "text"
                 }
@@ -22557,7 +22687,7 @@
                     573,
                     492
                   ],
-                  "score": 0.976,
+                  "score": 0.983,
                   "content": "collection and apologized.",
                   "type": "text"
                 }
@@ -22597,7 +22727,7 @@
                     747,
                     541
                   ],
-                  "score": 0.969,
+                  "score": 0.972,
                   "content": "The weather was perfect. Ethan and Sean set off hiking",
                   "type": "text"
                 }
@@ -22619,7 +22749,7 @@
                     747,
                     556
                   ],
-                  "score": 0.968,
+                  "score": 0.985,
                   "content": "along the valley by Aicken Mountain. They walked in silence",
                   "type": "text"
                 }
@@ -22663,7 +22793,7 @@
                     747,
                     586
                   ],
-                  "score": 0.978,
+                  "score": 0.977,
                   "content": "couldn't walk, Ethan carried his son down on his back. He",
                   "type": "text"
                 }
@@ -22685,7 +22815,7 @@
                     747,
                     603
                   ],
-                  "score": 0.98,
+                  "score": 0.977,
                   "content": "felt Sean's heartbeat, something he hadn't felt since Sean was",
                   "type": "text"
                 }
@@ -22707,7 +22837,7 @@
                     747,
                     618
                   ],
-                  "score": 0.991,
+                  "score": 0.982,
                   "content": "a baby. Suddenly, Sean said, \"Dad, I'm sorry. At some point,",
                   "type": "text"
                 }
@@ -22729,7 +22859,7 @@
                     747,
                     635
                   ],
-                  "score": 0.973,
+                  "score": 0.98,
                   "content": "I started to become afraid of disappointing (e) you. But you",
                   "type": "text"
                 }
@@ -22751,7 +22881,7 @@
                     747,
                     650
                   ],
-                  "score": 0.946,
+                  "score": 0.963,
                   "content": "are still the best dad.\" Energized, he felt no weight on his",
                   "type": "text"
                 }
@@ -22813,8 +22943,8 @@
                     756,
                     703
                   ],
-                  "score": 0.915,
-                  "content": "43.주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로",
+                  "score": 0.925,
+                  "content": "43.주어진 글(A)에 이어질 내용을 순서에 맞게 배열한 것으로",
                   "type": "text"
                 }
               ],
@@ -22909,12 +23039,23 @@
             },
             {
               "bbox": [
-                446,
+                443,
                 743,
                 711,
                 765
               ],
               "spans": [
+                {
+                  "bbox": [
+                    443,
+                    743,
+                    446,
+                    765
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -22956,12 +23097,23 @@
             },
             {
               "bbox": [
-                446,
+                444,
                 761,
                 551,
                 781
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    761,
+                    446,
+                    781
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -22993,7 +23145,7 @@
           ],
           "index": 80,
           "bbox_fs": [
-            446,
+            443,
             725,
             711,
             781
@@ -23094,12 +23246,23 @@
           "lines": [
             {
               "bbox": [
-                446,
+                444,
                 831,
                 726,
                 855
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    833,
+                    445,
+                    854
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -23123,6 +23286,17 @@
                   ],
                   "score": 0.99,
                   "content": "(a)",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    504,
+                    832,
+                    506,
+                    855
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -23152,6 +23326,17 @@
                 },
                 {
                   "bbox": [
+                    565,
+                    831,
+                    568,
+                    855
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     568,
                     835,
                     581,
@@ -23177,6 +23362,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    831,
+                    629,
+                    855
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     629,
                     835,
                     642,
@@ -23198,6 +23394,17 @@
                   ],
                   "score": 0.917,
                   "content": "(d)",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    688,
+                    832,
+                    690,
+                    854
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -23231,7 +23438,7 @@
           ],
           "index": 84,
           "bbox_fs": [
-            446,
+            444,
             831,
             726,
             855
@@ -23261,7 +23468,7 @@
                     676,
                     883
                   ],
-                  "score": 0.933,
+                  "score": 0.932,
                   "content": "45. 윗글에 관한 내용으로 적절하지 않은 것은?",
                   "type": "text"
                 }
@@ -23315,8 +23522,8 @@
                     733,
                     904
                   ],
-                  "score": 0.949,
-                  "content": "Grace는 Ethan과 Sean의 관계를 부러워했다고 말했다.",
+                  "score": 0.96,
+                  "content": "Grace는Ethan과 Sean의 관계를 부러워했다고 말했다.",
                   "type": "text"
                 }
               ],
@@ -23352,7 +23559,7 @@
                     749,
                     920
                   ],
-                  "score": 0.964,
+                  "score": 0.95,
                   "content": "Grace는 Ethan에게 Sean과 둘이서 하이킹할 것을 권했다.",
                   "type": "text"
                 }
@@ -23385,12 +23592,23 @@
                 },
                 {
                   "bbox": [
+                    459,
+                    923,
+                    461,
+                    934
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     461,
                     922,
                     660,
                     935
                   ],
-                  "score": 0.975,
+                  "score": 0.979,
                   "content": "Sean의 선글라스가 서랍장 안에 있었다.",
                   "type": "text"
                 }
@@ -23576,5 +23794,5 @@
     }
   ],
   "_backend": "pipeline",
-  "_version_name": "2.5.4"
+  "_version_name": "2.6.2"
 }

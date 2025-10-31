@@ -93,7 +93,7 @@
       575
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>교사의질문</td><td rowspan=1 colspan=5>학생</td></tr><tr><td rowspan=1 colspan=1>갑</td><td rowspan=1 colspan=1>을</td><td rowspan=1 colspan=1>병</td><td rowspan=1 colspan=1>정</td><td rowspan=1 colspan=1>무</td></tr><tr><td rowspan=1 colspan=1>(나)의 기선으로부터 바깥쪽 12해리 이내에종합 해양 과학 기지가 건설되어 있습니까?</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td></tr><tr><td rowspan=1 colspan=1>(가)는(나)보다 우리나라표준경선과의최단 거리가 맙니까?</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=1 colspan=1>(나)와(다)는 영해 설정에 직선 기선이적용됩니까?</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>(c1니요</td></tr><tr><td rowspan=1 colspan=1>(가)~(다)는 모두 우리나라 영토의 4극 중하나에 해당합니까?</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=2 colspan=1>교사의질문</td><td rowspan=1 colspan=5>학생</td></tr><tr><td rowspan=1 colspan=1>갑</td><td rowspan=1 colspan=1>을</td><td rowspan=1 colspan=1>병</td><td rowspan=1 colspan=1>정</td><td rowspan=1 colspan=1>무</td></tr><tr><td rowspan=1 colspan=1>(나)의 기선으로부터 바깥쪽12해리 이내에종합 해양 과학 기지가 건설되어 있습니까?</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td></tr><tr><td rowspan=1 colspan=1>(가)는(나)보다 우리나라표준경선과의최단 거리가 맙니까?</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=1 colspan=1>(나)와(다)는 영해 설정에 직선 기선이적용됩니까?</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>(c1니요</td></tr><tr><td rowspan=1 colspan=1>(가)~(다)는 모두 우리나라 영토의 4극 중하나에 해당합니까?</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "4ed58db288964d68aa7851ab6ae5de443c1c2da5c6449193b58e6d4eed288302.jpg",
@@ -184,22 +184,11 @@
   },
   {
     "type": "text",
-    "text": "③ ⑦ 은 지하수를 저장하는 기능이 있다.",
+    "text": "③ ⑦ 은 지하수를 저장하는 기능이 있다 ④ ⑦ 은 ① 보다 형성 시기가 이르다.",
     "bbox": [
       97,
       1018,
       294,
-      1035
-    ],
-    "page_idx": 0
-  },
-  {
-    "type": "text",
-    "text": "④ ⑦ 은 ① 보다 형성 시기가 이르다.",
-    "bbox": [
-      97,
-      1035,
-      274,
       1052
     ],
     "page_idx": 0
@@ -228,7 +217,7 @@
   },
   {
     "type": "text",
-    "text": "<조건 1>: [(면적당 도로 연장>0.7km/km2) AND (인구 밀도>150명/km²)] <조건2>:<조건 1>을 만족하는 지역중 [(전통시장수",
+    "text": "<조건 1>: [(면적당 도로 연장>0.7km/km2) AND (인구 밀도>150명/km2)] <조건2>:<조건 1>을 만족하는 지역중 [(전통시장수",
     "bbox": [
       452,
       301,
@@ -272,7 +261,7 @@
   },
   {
     "type": "text",
-    "text": "천만원)]인 곳을 선택함",
+    "text": "천만원)]인 곳을 선택함.",
     "bbox": [
       662,
       327,
@@ -294,12 +283,12 @@
   },
   {
     "type": "text",
-    "text": "**XOR Y: X조건과Y조건중하나만 만족해도 되는것을 의미함 ① A ② B ③ C ④ D ⑤ E",
+    "text": "**XOR Y: X조건과Y조건중하나만 만족해도 되는것을의미함",
     "bbox": [
-      446,
+      450,
       353,
-      720,
-      503
+      655,
+      362
     ],
     "page_idx": 0
   },
@@ -331,6 +320,17 @@
     "alt": "",
     "caption": null,
     "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "① A ② B ③ C ④ D ⑤ E",
+    "bbox": [
+      446,
+      482,
+      720,
+      503
+    ],
+    "page_idx": 0
   },
   {
     "type": "text",
@@ -462,7 +462,7 @@
       755
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td>신문(2024년0월0일)</td></tr><tr><td>(다) 은/는탄광이폐광되면서근로자와 주민 약2천여명이떠나고그에 따라지역</td></tr><tr><td>상권이 침체돼 존립 기반이 흔들리고있다. 또한 여기에 있던 한 대학교의 폐교로</td></tr><tr><td>지역경제에 대한 우려의 목소리가 더욱 커지고있는 상황이다.</td></tr></table>",
+    "table_body": "<table><tr><td>신문(2024년 0월0일)</td></tr><tr><td>(다) 은/는탄광이폐광되면서근로자와 주민 약2천여명이떠나고그에 따라지역</td></tr><tr><td>상권이 침체돼 존립 기반이 흔들리고있다. 또한 여기에 있던 한 대학교의 폐교로</td></tr><tr><td>지역경제에 대한 우려의 목소리가 더욱 커지고 있는 상황이다.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "d7a00ec7bc96598598f53aca5641806cadd9c8f813c9d470e2e014d5455380b9.jpg",
@@ -593,7 +593,7 @@
       328
     ],
     "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>지질시대</td><td rowspan=1 colspan=3>고생대</td><td rowspan=1 colspan=3>중생대</td><td rowspan=1 colspan=2>신생대</td></tr><tr><td rowspan=1 colspan=3>캄브리아기석탄기-페름기</td><td rowspan=1 colspan=1>트라이아스기</td><td rowspan=1 colspan=1>쥐라기</td><td rowspan=1 colspan=1>백악기</td><td rowspan=1 colspan=1>제3기</td><td rowspan=1 colspan=1>제4기</td></tr><tr><td rowspan=1 colspan=1>z질계통</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(결층)</td><td rowspan=1 colspan=2>평안누층군</td><td rowspan=1 colspan=1>대동누층군</td><td rowspan=1 colspan=1>경상누층군</td><td rowspan=1 colspan=1>제3계</td><td rowspan=1 colspan=1>제4계</td></tr><tr><td rowspan=1 colspan=1>주요집갈변동</td><td rowspan=1 colspan=3>4조륙운동</td><td rowspan=1 colspan=1>1(4)</td><td rowspan=1 colspan=1>↑(다)</td><td rowspan=1 colspan=1>1(라)</td><td rowspan=1 colspan=1>↑(마)</td><td rowspan=1 colspan=1>t확살활통</td></tr><tr><td rowspan=1 colspan=9>중생대동안발생하였던세 번의 주요지각 변동 중 초기에발생한(4)은/는주로한반도 북부지방에영향을미쳤으며,중기에는 (다) 이/가발생해중·남부지방을 중심으로영향을 주었다.중생대말기에는 (라)이/가 주로경상분지일대에서 일어났다.</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=2 colspan=1>지질시대</td><td rowspan=1 colspan=3>고생대</td><td rowspan=1 colspan=3>중생대</td><td rowspan=1 colspan=2>신생대</td></tr><tr><td rowspan=1 colspan=3>캄브리아기석탄기-페름기</td><td rowspan=1 colspan=1>트라이아스기</td><td rowspan=1 colspan=1>쥐라기</td><td rowspan=1 colspan=1>백악기</td><td rowspan=1 colspan=1>제3기</td><td rowspan=1 colspan=1>제4기</td></tr><tr><td rowspan=1 colspan=1>z질계통</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(결층)</td><td rowspan=1 colspan=2>평안누층군</td><td rowspan=1 colspan=1>대동누층군</td><td rowspan=1 colspan=1>경상누층군</td><td rowspan=1 colspan=1>제3계</td><td rowspan=1 colspan=1>제4계</td></tr><tr><td rowspan=1 colspan=1>주요집갈변동</td><td rowspan=1 colspan=3>4조륙운동</td><td rowspan=1 colspan=1>1(4)</td><td rowspan=1 colspan=1>↑(다)</td><td rowspan=1 colspan=1>1(라)</td><td rowspan=1 colspan=1>↑(마)</td><td rowspan=1 colspan=1>t확살활통</td></tr><tr><td rowspan=1 colspan=9>중생대동안발생하였던 세 번의 주요지각 변동중 초기에발생한(4)은/는주로한반도 북부지방에영향을미쳤으며,중기에는 (다) 이/가발생해중·남부지방을 중심으로영향을 주었다.중생대말기에는 (라)이/가 주로경상분지일대에서 일어났다.</td></tr></table>",
     "table_caption": [
       "<한반도 주요 지질 계통과 지각 변동>"
     ],
@@ -658,7 +658,7 @@
   },
   {
     "type": "text",
-    "text": "7.다음은 지도에 표시된 세 지역의 하천 지형을 나타낸 위성 영상 이다. 이에 대한 설명으로옳은 것은? (단, A~C는 각각 배후 습지,",
+    "text": "7.다음은 지도에 표시된 세 지역의 하천 지형을 나타낸 위성 영상 이다. 이에 대한 설명으로옳은 것은? (단, A~C는 각각배후 습지,",
     "bbox": [
       86,
       436,
@@ -807,7 +807,7 @@
   },
   {
     "type": "text",
-    "text": "9.그래프는 지도에 표시된 네 지역군의 제조업 업종별 출하액 비율을 나타낸 것이다.이에 대한 설명으로 옳은 것은? (단,A~D는",
+    "text": "9.그래프는 지도에 표시된 네 지역군의 제조업 업종별 출하액 비율을 나타낸 것이다.이에 대한 설명으로 옳은 것은? (단, A~D는",
     "bbox": [
       435,
       158,
@@ -999,25 +999,11 @@
     "page_idx": 2
   },
   {
-    "type": "image",
-    "bbox": [
-      96,
-      216,
-      404,
-      335
-    ],
-    "page_idx": 2,
-    "image_path": "593d6c0e5d9c923e70baf768ad65390041753c79843ac22a4438d854e4217453.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "ㄱ.(가)는 (나)보다 서울로의 통근·통학자 수가 많다.",
+    "text": "(4) () (라) (가) 0 10 20 30 80 90(만명) 통근·통학유입인구 (2020) (통계청) 020km ㄱ.(가)는 (나)보다 서울로의 통근·통학자 수가 많다.",
     "bbox": [
-      108,
-      360,
+      98,
+      246,
       363,
       374
     ],
@@ -1339,7 +1325,7 @@
   },
   {
     "type": "text",
-    "text": "※지도에 표시된 지역 중 방문 지역을 선택하고 선택된 영·호남지역에서공통으로할수있는 활동 내용을 작성해 보세요",
+    "text": "※지도에 표시된 지역 중 방문 지역을 선택하고 선택된 영·호남지역에서공통으로할수있는 활동 내용을 작성해 보세요.",
     "bbox": [
       456,
       253,
@@ -1371,7 +1357,7 @@
       510
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>일정</td><td rowspan=1 colspan=1>방문 지역에대한 활동 내용</td><td rowspan=1 colspan=1>호남의 Oㅇ괴영남의고영남방문지역호남방문지역</td><td rowspan=1 colspan=1>호남의 Oㅇ괴영남의고영남방문지역호남방문지역</td></tr><tr><td rowspan=1 colspan=1>1일차</td><td rowspan=1 colspan=1>원자력발전소를건학하여 입지요인을 파악하고주변 지역 토지이용의변화조사하기</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2일차</td><td rowspan=1 colspan=1>도청이 있는지역을 탐방하고인구 유입 현황에대해조사하기</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3일차</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>일정</td><td rowspan=1 colspan=1>방문 지역에 대한 활동 내용</td><td rowspan=1 colspan=1>호남의 Oㅇ괴영남의고영남방문지역호남방문지역</td><td rowspan=1 colspan=1>호남의 Oㅇ괴영남의고영남방문지역호남방문지역</td></tr><tr><td rowspan=1 colspan=1>1일차</td><td rowspan=1 colspan=1>원자력발전소를건학하여 입지요인을 파악하고주변 지역 토지 이용의변화조사하기</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2일차</td><td rowspan=1 colspan=1>도청이 있는지역을 탐방하고인구 유입 현황에대해조사하기</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3일차</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "8389bae2e2a140953430f4bdd3cc7a327b225e725bd4432ecbc4e720c91e435d.jpg",
@@ -1467,7 +1453,7 @@
   },
   {
     "type": "text",
-    "text": "; (나)는 각각 제2차,제4차 국토 종합(개발) 계획 중 하나임.) [3점]",
+    "text": ", (나)는 각각 제2차, 제4차 국토 종합(개발) 계획 중 하나임.) [3점]",
     "bbox": [
       447,
       721,
@@ -1485,7 +1471,7 @@
       861
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td>(가)</td><td></td><td>(4)</td></tr><tr><td>경제 성장과 지역 간 균형 개발의 조화를 꿈꾸다</td><td>새로운 도약을 위한 통합 국토를 지향하다</td><td rowspan=\"3\"></td></tr><tr><td>•인구의 지방 정착 유도</td><td>·개방형 통합 국토축 형성</td></tr><tr><td>·개발 가능성의 전국적 확대 •국토의 다핵 구조형성과 지역생활권 조성</td><td>·지역별경쟁력 고도화 •건강하고 쾌적한 국토 환경 조성</td></tr></table>",
+    "table_body": "<table><tr><td>(가)</td><td></td><td>(4)</td></tr><tr><td>경제 성장과 지역 간 균형 개발의 조화를 꿈꾸다</td><td>새로운 도약을 위한 통합 국토를 지향하다</td><td rowspan=\"3\"></td></tr><tr><td>•인구의 지방 정착 유도</td><td>·개방형 통합 국토축 형성</td></tr><tr><td>·개발 가능성의 전국적 확대 •국토의 다핵 구조형성과 지역생활권 조성</td><td>•지역별경쟁력 고도화 •건강하고 쾌적한 국토 환경 조성</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "9f16f3fbf15932d54dfea56529be36fcbe41ec62ba62e3328f32f27be11a7715.jpg",
@@ -1526,7 +1512,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ핵졌습니복합 도시가 건설 D →아니요",
+    "text": "→아니요 ㄹ핵졌습니복합 도시가 건설 D",
     "bbox": [
       454,
       955,
@@ -1537,12 +1523,12 @@
   },
   {
     "type": "text",
-    "text": "A|LLU B C D A B C D 7 2 ② L ㄷ 2 7 ③ 2 7 ④ C 7 2 L ⑤ L 7 2",
+    "text": "B C D A B C D 7 2 ② L ㄷ 2 7 ③ 2 7 ④ C 7 2 L ⑤ L 7 2",
     "bbox": [
       446,
-      996,
+      997,
       746,
-      1069
+      1066
     ],
     "page_idx": 2
   },
@@ -1609,7 +1595,7 @@
   },
   {
     "type": "text",
-    "text": "*수력(양수식제외), 조력, 태양광, 풍력 발전량의 합을100%로함.",
+    "text": "*수력(양수식 제외), 조력, 태양광, 풍력 발전량의 합을100%로함.",
     "bbox": [
       105,
       339,
@@ -1653,7 +1639,7 @@
   },
   {
     "type": "text",
-    "text": "③ D는 C보다 발전 시 기상 조건의 영향을 크게 받는다.",
+    "text": "③ D는C보다 발전 시 기상 조건의 영향을 크게 받는다.",
     "bbox": [
       97,
       401,
@@ -2366,7 +2352,7 @@
   },
   {
     "type": "text",
-    "text": "D: (가)와 (다)와 (라)만의 공통 특징임.",
+    "text": "D: (가)와(다)와 (라)만의 공통 특징임.",
     "bbox": [
       450,
       819,

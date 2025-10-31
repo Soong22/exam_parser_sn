@@ -47,18 +47,26 @@
     "page_idx": 0
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "6.빈칸에 들어갈 말로 알맞은 것은?[1점]",
     "bbox": [
-      98,
-      279,
-      404,
-      332
+      438,
+      256,
+      645,
+      272
     ],
-    "page_idx": 0,
-    "image_path": "178a8e12a701d66cae3a10e0c84e3a68151daeb98b07c4eaeae1a519856bea5a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A :B",
+    "bbox": [
+      680,
+      283,
+      752,
+      326
+    ],
+    "page_idx": 0
   },
   {
     "type": "text",
@@ -185,28 +193,6 @@
   },
   {
     "type": "text",
-    "text": "6.빈칸에 들어갈 말로 알맞은 것은?[1점]",
-    "bbox": [
-      438,
-      256,
-      645,
-      272
-    ],
-    "page_idx": 0
-  },
-  {
-    "type": "text",
-    "text": "A :B",
-    "bbox": [
-      680,
-      283,
-      752,
-      326
-    ],
-    "page_idx": 0
-  },
-  {
-    "type": "text",
     "text": "①G ② ③ ④ ⑤",
     "bbox": [
       444,
@@ -240,11 +226,22 @@
   },
   {
     "type": "text",
-    "text": "_ ① ② ③ ④ ⑤",
+    "text": "_",
     "bbox": [
-      447,
+      700,
       446,
       754,
+      473
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "① ② ③ ④ ⑤",
+    "bbox": [
+      447,
+      478,
+      753,
       505
     ],
     "page_idx": 0
@@ -352,18 +349,15 @@
     "page_idx": 1
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "40c 37C laia 32C",
     "bbox": [
-      97,
-      179,
-      408,
-      432
+      123,
+      223,
+      331,
+      342
     ],
-    "page_idx": 1,
-    "image_path": "b827b556251d77605a8074926a860febf75e1d761e6c36f785da2a7c8cc83cc4.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 1
   },
   {
     "type": "text",
@@ -377,18 +371,26 @@
     "page_idx": 1
   },
   {
-    "type": "image",
+    "type": "inline_equation",
+    "content": "( \\frac { \\dot { 9 } } { 1 1 } )",
     "bbox": [
-      452,
-      199,
-      754,
-      252
+      709,
+      229,
+      726,
+      247
     ],
-    "page_idx": 1,
-    "image_path": "266005742cdc46d0c0a38f79ae849fe9e584e0ca33e1a2daa3db6cb98e091da0.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1135",
+    "bbox": [
+      726,
+      223,
+      753,
+      250
+    ],
+    "page_idx": 1
   },
   {
     "type": "image",
@@ -453,42 +455,6 @@
   },
   {
     "type": "text",
-    "text": "16. 글에 언급되지 않은 것은?",
-    "bbox": [
-      437,
-      498,
-      589,
-      518
-    ],
-    "page_idx": 1
-  },
-  {
-    "type": "image",
-    "bbox": [
-      449,
-      523,
-      753,
-      573
-    ],
-    "page_idx": 1,
-    "image_path": "4439761a43f1ed19eb43a1aabca9199bf659078706c0b34f3b0acc2544609ab4.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "text",
-    "text": "① 나이 ② 직업 ③ 이름 ④ 취미 ⑤ 거주지",
-    "bbox": [
-      448,
-      585,
-      695,
-      623
-    ],
-    "page_idx": 1
-  },
-  {
-    "type": "text",
     "text": "13.대화의 내용으로 보아 기차가 도착하는 시각은?[1점]",
     "bbox": [
       89,
@@ -500,11 +466,11 @@
   },
   {
     "type": "text",
-    "text": "A B A [17~18] 다음 대화를 읽고 물음에 답하시오.",
+    "text": "A B A",
     "bbox": [
       249,
-      704,
-      668,
+      714,
+      402,
       778
     ],
     "page_idx": 1
@@ -522,12 +488,12 @@
   },
   {
     "type": "text",
-    "text": "A B A B A",
+    "text": "14.밑줄 친 부분에 해당하는 표지판은?",
     "bbox": [
-      618,
-      732,
-      752,
-      842
+      89,
+      910,
+      285,
+      925
     ],
     "page_idx": 1
   },
@@ -544,12 +510,45 @@
   },
   {
     "type": "text",
-    "text": "14.밑줄 친 부분에 해당하는 표지판은?",
+    "text": "16. 글에 언급되지 않은 것은?",
     "bbox": [
-      89,
-      910,
-      285,
-      925
+      437,
+      498,
+      589,
+      518
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 ① 나이 ② 직업 ③ 이름 ④ 취미 ⑤ 거주지",
+    "bbox": [
+      448,
+      549,
+      752,
+      623
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "[17~18] 다음 대화를 읽고 물음에 답하시오.",
+    "bbox": [
+      437,
+      704,
+      668,
+      720
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "A B A B A",
+    "bbox": [
+      618,
+      732,
+      752,
+      842
     ],
     "page_idx": 1
   },
@@ -574,20 +573,6 @@
       926
     ],
     "page_idx": 1
-  },
-  {
-    "type": "image",
-    "bbox": [
-      100,
-      994,
-      408,
-      1071
-    ],
-    "page_idx": 1,
-    "image_path": "b8b83b88c8db703c8c8276e67453b0ab6ad82d5675610c6a0f79c88c0b9e35bb.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -717,20 +702,6 @@
     "page_idx": 2
   },
   {
-    "type": "image",
-    "bbox": [
-      98,
-      784,
-      408,
-      828
-    ],
-    "page_idx": 2,
-    "image_path": "3da1beb01bc37a25b9cc9227d102d8a73622cfa43cf6d3cdfda05eb5213f5b43.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "22. 밑줄 친 부분과 의미상 바꾸어 쓸 수 있는 것은?",
     "bbox": [
@@ -740,20 +711,6 @@
       920
     ],
     "page_idx": 2
-  },
-  {
-    "type": "image",
-    "bbox": [
-      209,
-      929,
-      402,
-      1017
-    ],
-    "page_idx": 2,
-    "image_path": "bead34eaa250031d3f38df57e8304ee432b393969563c781e7c96955d39e9f32.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -778,18 +735,15 @@
     "page_idx": 2
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": ".//",
     "bbox": [
-      447,
-      180,
-      753,
-      395
+      511,
+      293,
+      695,
+      318
     ],
-    "page_idx": 2,
-    "image_path": "945d85e63a1d72ba8b31c9235933bf50ba4713c38cdb70f225a4002fa80866c6.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 2
   },
   {
     "type": "text",
@@ -886,18 +840,15 @@
     "page_idx": 2
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "10:15 80% A (a) (b) (c) (d)((e)",
     "bbox": [
-      452,
-      866,
-      753,
-      1046
+      473,
+      869,
+      729,
+      1027
     ],
-    "page_idx": 2,
-    "image_path": "73948ef7992cbc34dac8eade143cf8f7239ba0b8401c51bcd4c473ad3f5360cf.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 2
   },
   {
     "type": "text",
@@ -912,28 +863,36 @@
   },
   {
     "type": "text",
-    "text": "26. 글의 중심 내용으로 알맞은 것은?[1점] ① 금기 ② 단식 ③ 아랍어 ④ 아랍유적 ⑤ 아랍화폐",
+    "text": "26. 글의 중심 내용으로 알맞은 것은?[1점]",
     "bbox": [
       89,
       155,
-      356,
-      365
+      304,
+      171
     ],
     "page_idx": 3
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "*:기여하다 *:발달 :국제 연합(UN)의",
     "bbox": [
-      103,
-      179,
-      403,
-      319
+      107,
+      277,
+      288,
+      318
     ],
-    "page_idx": 3,
-    "image_path": "b0005afd571d3417e8f18f27475076f79d726bd6965a2d4efd47a5a4d596a99c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "① 금기 ② 단식 ③ 아랍어 ④ 아랍유적 ⑤ 아랍화폐",
+    "bbox": [
+      99,
+      327,
+      356,
+      365
+    ],
+    "page_idx": 3
   },
   {
     "type": "text",
@@ -945,34 +904,6 @@
       493
     ],
     "page_idx": 3
-  },
-  {
-    "type": "image",
-    "bbox": [
-      105,
-      500,
-      403,
-      550
-    ],
-    "page_idx": 3,
-    "image_path": "e5fec83de9c90096db495c78ae75a542614e4176986bd70d1a40ccdb0da6b9ca.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      120,
-      562,
-      403,
-      609
-    ],
-    "page_idx": 3,
-    "image_path": "2e0a732456b9112f15d917a36f938def401f3fd80f8cb89586dd6d4a24268dce.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -997,26 +928,12 @@
     "page_idx": 3
   },
   {
-    "type": "image",
-    "bbox": [
-      104,
-      796,
-      401,
-      886
-    ],
-    "page_idx": 3,
-    "image_path": "c39dba2cc307daa81bc4dabc80a408a274327890cb0663e4052e14ae627c1c63.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "*:손님들 :재배경작",
     "bbox": [
       106,
-      889,
-      318,
+      863,
+      401,
       911
     ],
     "page_idx": 3
@@ -1135,26 +1052,12 @@
     "page_idx": 3
   },
   {
-    "type": "image",
-    "bbox": [
-      452,
-      648,
-      752,
-      793
-    ],
-    "page_idx": 3,
-    "image_path": "e7a16cd27ff6016ea5222f34dca0aa37b7e6361a81998e4489814ff7eae13e5c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "(a) 프랑스에서 태어났다.",
+    "text": "in :태어났다 *:선구자들 (a) 프랑스에서 태어났다.",
     "bbox": [
-      460,
-      820,
-      582,
+      456,
+      651,
+      646,
       835
     ],
     "page_idx": 3

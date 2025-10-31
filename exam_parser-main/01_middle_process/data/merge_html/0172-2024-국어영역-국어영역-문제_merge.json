@@ -521,7 +521,7 @@
   },
   {
     "type": "text",
-    "text": "2.[A]에서 알 수 있는 내용으로 가장 적절한 것은?",
+    "text": "ㄹ.[A]에서 알 수 있는 내용으로 가장 적절한 것은?",
     "bbox": [
       433,
       226,
@@ -1141,29 +1141,9 @@
   },
   {
     "type": "text",
-    "text": "① ②.",
+    "text": "① ⓐ : ㉠을 판단하여 사용 중인 전략을 계속 사용하기로 결정 했다.\n",
     "bbox": [
       446,
-      958,
-      482,
-      974
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 36906,
-      "end_orig": 36909,
-      "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "text",
-    "text": "을 판단하여 사용 중인 전략을 계속 사용하기로 결정 했다.\n",
-    "bbox": [
-      455,
       958,
       754,
       994
@@ -1172,9 +1152,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9796,
+      "similarity": 0.9286,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 31245,
+      "start_orig": 31238,
       "end_orig": 31278,
       "reason": "anchor_rescue"
     }
@@ -1201,29 +1181,9 @@
   },
   {
     "type": "text",
-    "text": "..",
+    "text": " ⓑ : ㉡을 고려하여 선택할 수 있는 전략들을 떠올렸다.\n",
     "bbox": [
       475,
-      994,
-      482,
-      1012
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
-    }
-  },
-  {
-    "type": "text",
-    "text": "을 고려하여 선택할 수 있는 전략들을 떠올렸다.\n",
-    "bbox": [
-      482,
       994,
       725,
       1012
@@ -1232,11 +1192,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9756,
+      "similarity": 0.9333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 31285,
+      "start_orig": 31279,
       "end_orig": 31312,
-      "reason": "anchor_rescue"
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -1277,6 +1237,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ":",
+    "bbox": [
+      475,
+      1013,
+      482,
+      1030
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
     }
   },
   {
@@ -1341,29 +1321,9 @@
   },
   {
     "type": "text",
-    "text": ".",
+    "text": ": ㉣을 판단하여 전략들의 적용 순서를 결정했다.",
     "bbox": [
       475,
-      1031,
-      482,
-      1048
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
-    }
-  },
-  {
-    "type": "text",
-    "text": "을 판단하여 전략들의 적용 순서를 결정했다.\n",
-    "bbox": [
-      482,
       1031,
       710,
       1048
@@ -1372,10 +1332,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9744,
+      "similarity": 0.9524,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 31350,
-      "end_orig": 31375,
+      "start_orig": 31347,
+      "end_orig": 31374,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1421,29 +1381,9 @@
   },
   {
     "type": "text",
-    "text": ".",
+    "text": " ⓔ : ㉤을 판단하여 최적이라고 생각한 전략을 선택했다.\n",
     "bbox": [
       475,
-      1050,
-      482,
-      1067
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
-    }
-  },
-  {
-    "type": "text",
-    "text": "을 판단하여 최적이라고 생각한 전략을 선택했다.\n",
-    "bbox": [
-      482,
       1050,
       731,
       1067
@@ -1452,11 +1392,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9767,
+      "similarity": 0.9362,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 31382,
+      "start_orig": 31376,
       "end_orig": 31409,
-      "reason": "anchor_rescue"
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -2661,7 +2601,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       86,
       155,
@@ -2671,12 +2611,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.5,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 40745,
-      "end_orig": 40747,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 54874,
+      "end_orig": 54876,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2774,8 +2714,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 42813,
-      "end_orig": 42817,
+      "start_orig": 39577,
+      "end_orig": 39581,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2920,6 +2860,26 @@
     }
   },
   {
+    "type": "text",
+    "text": ")",
+    "bbox": [
+      279,
+      256,
+      285,
+      270
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
     "type": "table",
     "bbox": [
       104,
@@ -3029,8 +2989,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 43060,
-      "end_orig": 43061,
+      "start_orig": 40153,
+      "end_orig": 40154,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3269,8 +3229,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 34357,
-      "end_orig": 34378,
+      "start_orig": 40885,
+      "end_orig": 40906,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4209,8 +4169,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 44017,
-      "end_orig": 44021,
+      "start_orig": 42813,
+      "end_orig": 42817,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -5276,7 +5236,7 @@
   },
   {
     "type": "text",
-    "text": "원이 쇠퇴하고 명나라가 들어선 이후 유학과 도가 등 여러 사상이 합류하는 사조가 무르익는 가운데,유학자인 설혜는 자신의 ① 학문적 소신에 따라5노자]를 주석한[노자집해]를 저술했다.그는 공자도 존중했던 스승이 노자이므로 노자 사상에",
+    "text": "원이 쇠퇴하고 명나라가 들어선 이후 유학과 도가 등 여러 사상이 합류하는 사조가 무르익는 가운데,유학자인 설혜는 자신의 ① 학문적 소신에 따라5노자]를 주석한[노자집해를 저술했다.그는 공자도 존중했던 스승이 노자이므로 노자 사상에",
     "bbox": [
       96,
       468,
@@ -5536,7 +5496,7 @@
   },
   {
     "type": "text",
-    "text": "13. (가)에 제시된 한비자의 견해로 적절하지 않은 것은?",
+    "text": "13.(가)에 제시된 한비자의 견해로 적절하지 않은 것은?",
     "bbox": [
       434,
       155,
@@ -5556,7 +5516,7 @@
   },
   {
     "type": "text",
-    "text": "① 사건의시비에 따라 달라지는 도에 근거하여법이 제정되어야 한다.",
+    "text": "① 사건의시비에 따라 달라지는 도에 근거하여 법이 제정되어야 한다.",
     "bbox": [
       445,
       182,
@@ -6727,7 +6687,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9615,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 41171,
       "end_orig": 41204,
@@ -7147,7 +7107,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9583,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 42024,
       "end_orig": 42055,
@@ -7256,7 +7216,7 @@
   },
   {
     "type": "text",
-    "text": "원수가 백계를생각하다가 갑자기 깨달아 공주께 아뢰기를 \"독한 술을 많이 빛어 좋은 안주를 장만하여야 계교를 베풀 리이다.\"",
+    "text": "원수가 백계를생각하다가 갑자기 깨달아공주께 아뢰기를 \"독한 술을 많이 빛어 좋은 안주를 장만하여야 계교를 베풀 리이다.\"",
     "bbox": [
       104,
       241,
@@ -7296,7 +7256,7 @@
   },
   {
     "type": "text",
-    "text": "이때 아귀가 원의 칼에 상한 머리 거의 나으니 모든시녀를 불러 말하기를,",
+    "text": "이때 아귀가 원의칼에 상한 머리 거의 나으니 모든 시녀를 불러 말하기를,",
     "bbox": [
       94,
       334,
@@ -8196,7 +8156,7 @@
   },
   {
     "type": "text",
-    "text": "③ ④ 게서는 자신의 감정을 상대에게 드러내고,",
+    "text": "③ ④ 에서는 자신의 감정을 상대에게 드러내고,",
     "bbox": [
       446,
       486,
@@ -8916,7 +8876,7 @@
   },
   {
     "type": "text",
-    "text": "-정끝별, 가지가 담을 넘을때- * 도반:함께 도를 닦는 벗.",
+    "text": "-정끝별, 가지가 담을 넘을 때- * 도반:함께 도를 닦는 벗.",
     "bbox": [
       104,
       1023,
@@ -9276,7 +9236,7 @@
   },
   {
     "type": "text",
-    "text": "물러날 때 예의를 잊으며,낮은 지위에 있으면서 제 분수를 잊고, 이해의 갈림길에서 지켜야 할 도리를 잊는다.",
+    "text": "물러날 때 예의를 잊으며, 낮은 지위에 있으면서 제 분수를 잊고, 이해의 갈림길에서 지켜야 할 도리를 잊는다.",
     "bbox": [
       455,
       571,
@@ -9536,7 +9496,7 @@
   },
   {
     "type": "text",
-    "text": "① (가)는 명시적청자에게말을 건네는 방식으로 화자의감정을 드러낸다.",
+    "text": "① (가)는 명시적청자에게말을 건네는 방식으로화자의 감정을 드러낸다.",
     "bbox": [
       445,
       886,
@@ -10276,7 +10236,7 @@
   },
   {
     "type": "text",
-    "text": "② ㄱ은 자신의 자리를지켜 내는, ① 은 자신의 영역을 확장하는 모습을 보인다.",
+    "text": "② ㄱ은 자신의 자리를 지켜 내는, ① 은 자신의 영역을 확장하는 모습을 보인다.",
     "bbox": [
       446,
       479,
@@ -10296,7 +10256,7 @@
   },
   {
     "type": "text",
-    "text": "③ ㄱ은 주변과 단절된 상황을 극복하려 하고, ① 은 외부의 간섭을 최소화하려 한다.",
+    "text": "은 주변과 단절된 상황을 극복하려 하고,  ㉡은 외부의 간섭을 최소화하려 한다.",
     "bbox": [
       446,
       516,
@@ -10306,12 +10266,12 @@
     "page_idx": 8,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9552,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 45600,
+      "end_orig": 45644,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -10416,7 +10376,7 @@
   },
   {
     "type": "text",
-    "text": "주는 방식이나,대상의 속성에 주목하여 얻은깨달음을 제시 하는 방식으로 나타난다.",
+    "text": "주는 방식이나,대상의 속성에 주목하여 얻은 깨달음을 제시 하는 방식으로 나타난다.",
     "bbox": [
       455,
       740,
@@ -10436,7 +10396,7 @@
   },
   {
     "type": "text",
-    "text": "① (나)는‘수양’을 부분으로나눠살피고부분들의 관계가‘혼연 일체'라는 것을 발견해 수양이 하나의 통합된 대상이라는 인식을 드러내는군.",
+    "text": "① (나)는‘수양’을 부분으로나눠살피고부분들의관계가‘혼연 일체'라는 것을 발견해 수양이 하나의 통합된 대상이라는 인식을 드러내는군.",
     "bbox": [
       446,
       793,
@@ -10476,7 +10436,7 @@
   },
   {
     "type": "text",
-    "text": "③ (다)는'내적인 것과 외적인 것을 서로 바꾸는 사람'의 특성에 주목해 잊음의 본질에 대한 깨달음이 바람직한 삶의태도를 이끈다는 인식을 드러내는군.",
+    "text": "③ (다)는'내적인 것과 외적인 것을 서로 바꾸는 사람'의 특성에 주목해 잊음의 본질에 대한 깨달음이 바람직한 삶의 태도를 이끈다는 인식을 드러내는군.",
     "bbox": [
       446,
       905,
@@ -10616,7 +10576,7 @@
   },
   {
     "type": "text",
-    "text": "이게 모두 모양만 숭업구, 온,글세, 그만 허구 들어가아.",
+    "text": "이게 모두 모양만 숭업구, 온,글, 그만 허구 들어가아.",
     "bbox": [
       105,
       301,
@@ -10656,7 +10616,7 @@
   },
   {
     "type": "text",
-    "text": "하고 도리어 딸을 나무라던 것을, 갑득이 어미는 그당장에는, 귀에 솔깃하여,",
+    "text": "하고 도리어 딸을 나무라던 것을, 갑득이 어미는 그 당장에는, 귀에 솔깃하여,",
     "bbox": [
       94,
       337,
@@ -10916,7 +10876,7 @@
   },
   {
     "type": "text",
-    "text": "그는아무리 상고하여 보아도도무지 나갈도리가없는것에 은근히 울화가 올랐다.",
+    "text": "그는아무리 상고하여 보아도도무지나갈도리가없는것에 은근히 울화가 올랐다.",
     "bbox": [
       95,
       756,
@@ -10936,7 +10896,7 @@
   },
   {
     "type": "text",
-    "text": "‘제 집 뒷간두아니구남의 집 것을그렇게기가 나서꼭꼭 잠그구 그럴 건 뭐 있누? 늙은이두 제엔장혈.",
+    "text": "‘제 집 뒷간두아니구남의 집 것을 그렇게기가 나서 꼭꼭 잠그구 그럴 건 뭐 있누? 늙은이두 제엔장혈.",
     "bbox": [
       105,
       793,
@@ -11076,7 +11036,7 @@
   },
   {
     "type": "text",
-    "text": "\"아아니,그래,애아범이 미우면 으떻게는 못 해서,그 [A] 더러운 뒷간 숙에다 글쎄 가둬야만 헌단 말예요?그래 L 노인이 심사를 그렇게 부려야 옳단 말예요?”",
+    "text": "\"아아니,그래,애아범이 미우면 으떻게는못 해서,그 [A] 더러운 뒷간 숙에다 글쎄 가둬야만 헌단 말예요?그래 L 노인이 심사를 그렇게 부려야 옳단 말예요?”",
     "bbox": [
       441,
       154,
@@ -11156,7 +11116,7 @@
   },
   {
     "type": "text",
-    "text": "난 꼭 아무두 없는 줄만 알구서, 그래,모르구 자물실 했지.",
+    "text": "난 꼭 아무두 없는 줄만 알구서, 그래, 모르구 자물실 했지.",
     "bbox": [
       473,
       302,
@@ -11236,7 +11196,7 @@
   },
   {
     "type": "text",
-    "text": "\"모르긴 왜 몰라요. 다아 알구서 한 짓이지. 그래 자물실 챔 때, 안에서 말하는 소리두 못 들었단 말예요?듣구두 모른 체했지.듣구두 그냥 잠가 버린 거야.\"",
+    "text": "\"모르긴 왜 몰라요. 다아 알구서 한 짓이지. 그래 자물실 챔 때, 안에서 말하는 소리두 못 들었단 말예요? 듣구두 모른 체했지.듣구두 그냥 잠가 버린 거야.\"",
     "bbox": [
       473,
       357,
@@ -12776,7 +12736,7 @@
   },
   {
     "type": "text",
-    "text": "② (나)는 화암의 풍경이라 인정할 만한 것이‘너뿐'’이라고 하여 자신이 기른 화훼로 조성한 공간에 대한 자긍심을 드러내는군.",
+    "text": "② (나)는 화암의 풍경이라 인정할 만한 것이‘너뿐'이라고 하여 자신이 기른 화훼로 조성한 공간에 대한 자긍심을 드러내는군.",
     "bbox": [
       446,
       707,
@@ -13456,7 +13416,7 @@
   },
   {
     "type": "text",
-    "text": "36.다음은발표를 준비하며 참고한 내용이다.",
+    "text": "36.다음은 발표를 준비하며 참고한 내용이다.",
     "bbox": [
       434,
       226,
@@ -13796,7 +13756,7 @@
   },
   {
     "type": "text",
-    "text": "37.발표 내용을 바탕으로 할 때,<보기>에 나타난 학생들의 반응에 대한 이해로 적절하지 않은 것은?",
+    "text": "37.발표 내용을 바탕으로할 때,<보기>에 나타난 학생들의 반응에 대한 이해로 적절하지 않은 것은?",
     "bbox": [
       434,
       640,
@@ -14036,7 +13996,7 @@
   },
   {
     "type": "text",
-    "text": "[38~42](가)는'전통 문화 연구 동아리' 학생들의 대화이고,(나)는 이를 바탕으로'학생 1'이 작성한 초고이다.물음에 답하시오.",
+    "text": "[38~42](가)는'전통 문화 연구 동아리'학생들의 대화이고,(나)는 이를 바탕으로'학생 1'이 작성한 초고이다.물음에 답하시오.",
     "bbox": [
       86,
       155,
@@ -15376,7 +15336,7 @@
   },
   {
     "type": "text",
-    "text": "① ‘학생2'의 발화를토대로작성된ㄱ은,전통 한지의 우수성을 부각하기 위한 내용으로(나)에 반영되었다.",
+    "text": "① ‘학생2'의 발화를 토대로작성된ㄱ은,전통 한지의 우수성을 부각하기 위한 내용으로(나)에 반영되었다.",
     "bbox": [
       97,
       885,
@@ -15896,7 +15856,7 @@
   },
   {
     "type": "text",
-    "text": "학교 신문의 기고란에 기후 변화 대응과 관련된 글을쓰려함.",
+    "text": "학교 신문의기고란에 기후 변화 대응과 관련된글을쓰려함.",
     "bbox": [
       454,
       859,
@@ -16476,7 +16436,7 @@
   },
   {
     "type": "text",
-    "text": "는초고를 보완하기 위해 추가로 수집한 자료이다.",
+    "text": "는초고를 보완하기 위해 추가로수집한 자료이다.",
     "bbox": [
       497,
       155,
@@ -16536,7 +16496,7 @@
   },
   {
     "type": "text",
-    "text": "7.기후 변화 대응 활동 관련 설문 조사 자료",
+    "text": "ㄱ.기후 변화 대응 활동 관련 설문 조사 자료",
     "bbox": [
       456,
       219,
@@ -16767,7 +16727,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9935,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 55185,
       "end_orig": 55293,
@@ -18487,7 +18447,7 @@
   },
   {
     "type": "text",
-    "text": "를 바탕으로‘등’말음 용언의 활용 유형을 탐구한 내용으로 적절하지 않은 것은?",
+    "text": "를바탕으로‘등’말음용언의 활용 유형을 탐구한 내용으로 적절하지 않은 것은?",
     "bbox": [
       446,
       636,
@@ -18527,7 +18487,7 @@
   },
   {
     "type": "text",
-    "text": "다음은어간의말음이'등'인 용언이‘아/어'로시작하는 어미와만날 때 보이는활용의 유형을 정리한 것이다.이들은",
+    "text": "다음은어간의말음이‘능'인 용언이‘아/어'로시작하는 어미와만날 때 보이는활용의 유형을 정리한 것이다.이들은",
     "bbox": [
       455,
       699,
@@ -18574,7 +18534,7 @@
       872
     ],
     "page_idx": 16,
-    "table_body": "<table><tr><td rowspan=1 colspan=2>불규칙 활용 유형</td><td rowspan=1 colspan=2>규칙 활용 유형</td></tr><tr><td rowspan=1 colspan=1>7-1</td><td rowspan=1 colspan=1>노랗-+-아→노래</td><td rowspan=2 colspan=1>©-1</td><td rowspan=2 colspan=1>닿-+-아→닿아(→*다)</td></tr><tr><td rowspan=2 colspan=1>7-2</td><td rowspan=2 colspan=1>누렇-+-어→누레</td></tr><tr><td rowspan=2 colspan=1>ㄷ-2</td><td rowspan=2 colspan=1>놓-+-아→놓아(v)</td></tr><tr><td rowspan=1 colspan=1>L</td><td rowspan=1 colspan=1>어떻-+-어→어때</td></tr><tr><td rowspan=1 colspan=4>(&#x27;&#x27;은 비문법적임을 뜻함.)</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=2>불규칙 활용 유형</td><td rowspan=1 colspan=2>규칙 활용 유형</td></tr><tr><td rowspan=1 colspan=1>7-1</td><td rowspan=1 colspan=1>노랗-+-아→노래</td><td rowspan=2 colspan=1>©-1</td><td rowspan=2 colspan=1>닿-+-아→ 닿아(→*다)</td></tr><tr><td rowspan=2 colspan=1>7-2</td><td rowspan=2 colspan=1>누렇-+-어→누레</td></tr><tr><td rowspan=2 colspan=1>ㄷ-2</td><td rowspan=2 colspan=1>놓-+-아→놓아(v)</td></tr><tr><td rowspan=1 colspan=1>L</td><td rowspan=1 colspan=1>어떻-+-어→어때</td></tr><tr><td rowspan=1 colspan=4>(&#x27;&#x27;은 비문법적임을 뜻함.)</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "7d2066b4c484a5916b8cc14fe0b81c67976784c7ba87e625f856b5b3300ce376.jpg",
@@ -18622,7 +18582,7 @@
   },
   {
     "type": "text",
-    "text": "③ '둥그렇-,멀경-'은‘둥그렛다,멀게'로 활용하므로 ① 과 활용의 유형이 같지 않겠군",
+    "text": "③ '둥그렇-,멀경-'은‘둥그렀다,멀게'로 활용하므로 ① 과 활용의 유형이 같지 않겠군",
     "bbox": [
       446,
       957,
@@ -18642,7 +18602,7 @@
   },
   {
     "type": "text",
-    "text": "④ '낳-,땅-'은 활용형인'낳아서,많았다'가*나서,*팠다'로 줄어들 수없으므로",
+    "text": "④ '낳-,땅-'은 활용형인'낳아서,땅았다'가*나서,*팠다'로 줄어들 수없으므로",
     "bbox": [
       446,
       993,
@@ -18942,7 +18902,7 @@
   },
   {
     "type": "text",
-    "text": "평화:왼쪽이면 편의점 아냐? 아, 영화관을 등지고 보면 그렇다는 거구나.영화관을 마주볼 때는",
+    "text": "평화:왼쪽이면 편의점 아냐? 아, 영화관을 등지고 보면 그렇다는 거구나.영화관을마주볼 때는",
     "bbox": [
       106,
       383,
@@ -19609,7 +19569,7 @@
       1066
     ],
     "page_idx": 17,
-    "table_body": "<table><tr><td rowspan=12 colspan=1>35</td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>조건</td><td rowspan=1 colspan=1>수정 전 &gt;수정 후</td></tr><tr><td rowspan=2 colspan=1>ㄱ,ㄴ</td><td rowspan=1 colspan=1>웃는 아기가 귀엽게 걷는다.</td></tr><tr><td rowspan=1 colspan=1>&gt;방긋이 웃는 아기가 참 귀엽게 걷는다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>화가가 굶은 선을 쭉 그었다.</td></tr><tr><td rowspan=1 colspan=1>화가가 조금 굶은 선을 세로로 쭉 그었다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>그를 싫어하는 사람이 있다.</td></tr><tr><td rowspan=1 colspan=1>그를 무탁대고 싫어하는 사람이 많이 있다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>딴 사람이 그 문제를 해결했다.</td></tr><tr><td rowspan=1 colspan=1>전혀 딴 사람이 그 문제를 한순간에 해결했다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>영미는 그 일을 처리했다.</td></tr><tr><td rowspan=1 colspan=1>영미는 그 일을 원칙대로 깔끔히 처리했다.</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=12 colspan=1>35</td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>조건</td><td rowspan=1 colspan=1>수정 전 &gt;수정 후</td></tr><tr><td rowspan=2 colspan=1>ㄱ,ㄴ</td><td rowspan=1 colspan=1>웃는 아기가 귀엽게 걷는다.</td></tr><tr><td rowspan=1 colspan=1>&gt;방긋이 웃는 아기가 참 귀엽게 걷는다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>화가가 굶은 선을 쭉 그었다.</td></tr><tr><td rowspan=1 colspan=1>화가가 조금 굶은 선을 세로로 쭉 그었다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>그를 싫어하는 사람이 있다.</td></tr><tr><td rowspan=1 colspan=1>그를 무탁대고 싫어하는 사람이 많이 있다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>딴 사람이 그 문제를 해결했다.</td></tr><tr><td rowspan=1 colspan=1>전혀 딴 사람이 그 문제를한순간에 해결했다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>영미는 그 일을 처리했다.</td></tr><tr><td rowspan=1 colspan=1>영미는 그일을 원칙대로 깔끔히 처리했다.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "6102cc0ae639fc34941659c8d8b298168b1692d4dc4fb8260e794c8c67e69553.jpg",
@@ -19657,7 +19617,7 @@
   },
   {
     "type": "text",
-    "text": "진행자:시청자 여러분,안녕하세요?'오늘,상식'열 번째 시간 입니다.이번 시간에는 20여 년간 대학에서 어문 규범을",
+    "text": "진행자:시청자 여러분,안녕하세요?‘오늘,상식'열 번째 시간 입니다.이번 시간에는 20여 년간 대학에서 어문 규범을",
     "bbox": [
       443,
       228,
@@ -19797,11 +19757,31 @@
   },
   {
     "type": "text",
-    "text": "진행자: ⑦ 아, 예전에 그런 내용을 본 적 있어요 전문가:네,전에는 자장면만 표준어였죠.",
+    "text": "진행자: ⑦ 아, 예전에 그런 내용을 본 적 있어요.",
     "bbox": [
       443,
       374,
       679,
+      391
+    ],
+    "page_idx": 17,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "전문가:네,전에는 자장면만 표준어였죠.",
+    "bbox": [
+      444,
+      394,
+      635,
       408
     ],
     "page_idx": 17,
@@ -21211,30 +21191,10 @@
   },
   {
     "type": "text",
-    "text": "미희오!!! 와!!! 그럼앱에서 도서관 자습실 예약 가능.",
-    "bbox": [
-      107,
-      550,
-      336,
-      566
-    ],
-    "page_idx": 19,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "가원좋다! 그럼앱을 최초실행할 때 나오는메뉴 도움말도 바뀌야겠네 A 진아 0 선생님께서이번엔학생회정보부에서도움말을 수정해 보라고 하셨어.어떻게 바꿀까?",
+    "text": "미희오!!! 와!!! 그럼앱에서도서관자습실 예약 가능 가원좋다! 그럼앱을 최초실행할 때나오는메뉴도움말도 바뀌야겠네 A 진아 0 선생님께서이번엔학생회정보부에서도움말을 수정해 보라고 하셨어.어떻게 바꿀까?",
     "bbox": [
       106,
-      568,
+      550,
       386,
       669
     ],
@@ -21451,7 +21411,7 @@
   },
   {
     "type": "text",
-    "text": "[앱 업데이트에 반영된 사항] 진아 -요구 사항: 항목별,기간별 검색 -요구 사항 외 추가된 것:결과 내 검색 미희자료찾는게 빨라지겠네.그럼 도움말에 이내용도 넣자.",
+    "text": "[앱 업데이트에 반영된 사항] 진아 -요구 사항: 항목별,기간별 검색 -요구 사항 외 추가된 것:결과 내 검색 미희자료찾는 게 빨라지겠네. 그럼 도움말에 이내용도 넣자.",
     "bbox": [
       106,
       973,
@@ -21811,7 +21771,7 @@
   },
   {
     "type": "text",
-    "text": "80% ㅇㅇ고등학교 학습&활동 학습공간 진로진학 자료 이용예약 상담 ¶ 서비스에서 X 괄뭘자료와 살단하능한 일정을 진로 활동까지 모둠 활동실을 상담을신청해 보세요.",
+    "text": "80% ㅇㅇ고등학교 학습&활동 학습공간 진로진학 자료 이용예약 상담 X 괄뭘자료와 살단하능한 일정을 진로 활동까지 모둠 활동실을 상담을신청해 보세요.",
     "bbox": [
       461,
       571,
@@ -21991,7 +21951,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇ답안지의 해당란에 필요한 내용을 정확히 기입(표기) 했는지 확인 하시오.",
+    "text": "ㅇ답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오.",
     "bbox": [
       447,
       1030,
@@ -22051,7 +22011,7 @@
   },
   {
     "type": "text",
-    "text": "[1~3] 다음 글을 읽고 물음에 답하시오.",
+    "text": "[1~3]다음 글을 읽고 물음에 답하시오.",
     "bbox": [
       84,
       224,
@@ -22531,7 +22491,7 @@
   },
   {
     "type": "text",
-    "text": "2.[A]에서 알 수 있는 내용으로 가장 적절한 것은?",
+    "text": "ㄹ.[A]에서 알 수 있는 내용으로 가장 적절한 것은?",
     "bbox": [
       434,
       226,
@@ -23151,29 +23111,9 @@
   },
   {
     "type": "text",
-    "text": "① ②.",
+    "text": "① ② : ⑦ 을판단하여사용 중인 전략을 계속 사용하기로 결정 했다.",
     "bbox": [
       446,
-      958,
-      482,
-      974
-    ],
-    "page_idx": 20,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "⑦ 을판단하여사용 중인 전략을 계속 사용하기로 결정 했다.",
-    "bbox": [
-      455,
       958,
       754,
       994
@@ -23211,29 +23151,9 @@
   },
   {
     "type": "text",
-    "text": "..",
+    "text": ": ① 을 고려하여 선택할 수 있는 전략들을 떠올렸다.",
     "bbox": [
       475,
-      994,
-      482,
-      1012
-    ],
-    "page_idx": 20,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
-    }
-  },
-  {
-    "type": "text",
-    "text": "① 을고려하여 선택할 수 있는 전략들을 떠올렸다.",
-    "bbox": [
-      482,
       994,
       726,
       1012
@@ -23287,6 +23207,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ":",
+    "bbox": [
+      475,
+      1012,
+      482,
+      1030
+    ],
+    "page_idx": 20,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
     }
   },
   {
@@ -23351,29 +23291,9 @@
   },
   {
     "type": "text",
-    "text": ".",
+    "text": ": ⑦ 을 판단하여 전략들의 적용 순서를 결정했다.",
     "bbox": [
       475,
-      1031,
-      482,
-      1048
-    ],
-    "page_idx": 20,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "empty_query"
-    }
-  },
-  {
-    "type": "text",
-    "text": "⑦ 을 판단하여 전략들의 적용 순서를 결정했다.",
-    "bbox": [
-      482,
       1031,
       710,
       1048
@@ -23411,9 +23331,9 @@
   },
   {
     "type": "text",
-    "text": "① 을 판단하여 최적이라고 생각한 전략을 선택했다.",
+    "text": ": ① 을 판단하여 최적이라고 생각한 전략을 선택했다.",
     "bbox": [
-      482,
+      475,
       1050,
       731,
       1067
@@ -24631,7 +24551,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       86,
       155,
@@ -24711,7 +24631,7 @@
   },
   {
     "type": "text",
-    "text": "에 대한 언론 보도를 평가한 내용으로 적절하지 않은 것은?",
+    "text": "에 대한 언론 보도를평가한 내용으로 적절하지 않은 것은?",
     "bbox": [
       97,
       155,
@@ -24887,6 +24807,26 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ")",
+    "bbox": [
+      279,
+      256,
+      285,
+      270
+    ],
+    "page_idx": 22,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
     }
   },
   {
@@ -26106,7 +26046,7 @@
   },
   {
     "type": "text",
-    "text": "① 과 관련하여 윗글의 A기법과 <보기",
+    "text": "① 과 관련하여 윗글의 A기법과 <보>",
     "bbox": [
       110,
       156,
@@ -26886,7 +26826,7 @@
   },
   {
     "type": "text",
-    "text": "모르는 인간의 욕망을 사회 혼란의 원인으로 지목한 5노자의 견해에 동의하면서도, [노자]에서처럼 욕망을 없애야 한다고 주장하지 않고 인간은 욕망을 필연적으로 가질 수밖에 없음을 지적하며 욕망을 제어하기 위해 법이 필요하다고 강조했다.",
+    "text": "모르는 인간의 욕망을 사회 혼란의 원인으로 지목한 5노자]의 견해에 동의하면서도, [노자]에서처럼 욕망을 없애야 한다고 주장하지 않고 인간은 욕망을 필연적으로 가질 수밖에 없음을 지적하며 욕망을 제어하기 위해 법이 필요하다고 강조했다.",
     "bbox": [
       444,
       670,
@@ -27246,7 +27186,7 @@
   },
   {
     "type": "text",
-    "text": "원이 쇠퇴하고 명나라가 들어선 이후 유학과 도가 등 여러 사상이 합류하는 사조가 무르익는 가운데,유학자인 설혜는 자신의 ① 학문적 소신에 따라5노자]를 주석한[노자집해]를 저술했다.그는 공자도 존중했던 스승이 노자이므로 노자 사상에",
+    "text": "원이 쇠퇴하고 명나라가 들어선 이후 유학과 도가 등 여러 사상이 합류하는 사조가 무르익는 가운데,유학자인 설혜는 자신의 ① 학문적 소신에 따라5노자]를 주석한[노자집해를 저술했다.그는 공자도 존중했던 스승이 노자이므로 노자 사상에",
     "bbox": [
       96,
       468,
@@ -27386,7 +27326,7 @@
   },
   {
     "type": "text",
-    "text": "② (가)는 한비자가 추구한 이상적인 사회를 소개하고 그 실현을 위해[노자]를 수용한 입장의 한계를 설명하고 있다.",
+    "text": "② (가)는 한비자가 추구한 이상적인 사회를 소개하고 그 실현을 위해노자]를 수용한 입장의 한계를 설명하고 있다.",
     "bbox": [
       97,
       770,
@@ -27506,7 +27446,7 @@
   },
   {
     "type": "text",
-    "text": "13. (가)에 제시된 한비자의 견해로 적절하지 않은 것은?",
+    "text": "13.(가)에 제시된 한비자의 견해로 적절하지 않은 것은?",
     "bbox": [
       434,
       155,
@@ -27526,7 +27466,7 @@
   },
   {
     "type": "text",
-    "text": "① 사건의시비에 따라 달라지는 도에 근거하여법이 제정되어야 한다.",
+    "text": "① 사건의시비에 따라 달라지는 도에 근거하여 법이 제정되어야 한다.",
     "bbox": [
       445,
       182,
@@ -28086,7 +28026,7 @@
   },
   {
     "type": "text",
-    "text": "① 왕부지는 인간의 욕망에 대한노자의 대응 방식을 부정적 으로 보았으므로,(가)의 한비자가노자와 달리 사회에 대한 인위적 개입이 필요하다고 한 것에 대해서는 수긍하겠군.",
+    "text": "① 왕부지는 인간의 욕망에 대한노자의 대응 방식을 부정적 으로 보았으므로,(가)의 한비자가[노자와 달리 사회에 대한 인위적 개입이 필요하다고 한 것에 대해서는 수긍하겠군.",
     "bbox": [
       97,
       419,
@@ -28266,7 +28206,7 @@
   },
   {
     "type": "text",
-    "text": "④ 왕부지는 주석자가 유학을 기준으로5노자]를 이해하면 주석자의 사상도 왜곡된다고 보았으므로,(나)의 오징이 유학의 인의 예지를 5노자]의 도가 현실화한 것으로 본 것을 비판하겠군.",
+    "text": "④ 왕부지는 주석자가 유학을 기준으로 5노자]를 이해하면 주석자의 사상도 왜곡된다고 보았으므로,(나)의 오징이 유학의 인의 예지를 5노자]의 도가 현실화한 것으로 본 것을 비판하겠군.",
     "bbox": [
       96,
       586,
@@ -28886,7 +28826,7 @@
   },
   {
     "type": "text",
-    "text": "\"전 좌승상 김규가 지모 넉녁하오니불러 문의하심이 마땅할까 하나이다.\"",
+    "text": "\"전 좌승상 김규가 지모 넉녁하오니 불러 문의하심이마땅할까 하나이다.\"",
     "bbox": [
       453,
       687,
@@ -28926,7 +28866,7 @@
   },
   {
     "type": "text",
-    "text": "이때 승상이 원을데리고 평안히 지내더니 천만의외에 사관이 조서를 가지고왔거늘 받자와 본즉,",
+    "text": "이때 승상이 원을데리고 평안히 지내더니 천만의외에 사관이 조서를 가지고 왔거늘 받자와 본즉,",
     "bbox": [
       443,
       742,
@@ -29006,7 +28946,7 @@
   },
   {
     "type": "text",
-    "text": "⑦ 국변을물으니 아귀작란하던 일과 세 공주 잃은 말을 대강 고하니 승상이 못내 슬퍼하며 상경하여 사은숙배하니,상이 보시고,",
+    "text": "⑦ 국변을물으니 아귀 작란하던 일과 세 공주 잃은 말을 대강 고하니 승상이 못내 슬퍼하며 상경하여 사은숙배하니,상이 보시고,",
     "bbox": [
       444,
       853,
@@ -29066,7 +29006,7 @@
   },
   {
     "type": "text",
-    "text": "경의 소견으로 이 일을 도모하면 평생의 한을 풀리로다.”",
+    "text": "경의 소견으로 이 일을 도모하면 평생의 한을 풀리로다.\"",
     "bbox": [
       454,
       946,
@@ -29186,7 +29126,7 @@
   },
   {
     "type": "text",
-    "text": "원수가 백계를생각하다가 갑자기 깨달아 공주께 아뢰기를 \"독한 술을 많이 빛어 좋은 안주를 장만하여야 계교를 베풀 리이다.\"",
+    "text": "원수가 백계를생각하다가 갑자기 깨달아공주께 아뢰기를 \"독한 술을 많이 빛어 좋은 안주를 장만하여야 계교를 베풀 리이다.\"",
     "bbox": [
       104,
       241,
@@ -29686,7 +29626,7 @@
   },
   {
     "type": "text",
-    "text": "② 인물의 회상을 통해 인물 간 갈등의 원인을암시하고있다.",
+    "text": "② 인물의 회상을 통해 인물 간갈등의 원인을암시하고있다.",
     "bbox": [
       97,
       966,
@@ -29726,7 +29666,7 @@
   },
   {
     "type": "text",
-    "text": "④ 대화를 통해 인물 간의위계나 관계를 보여 주고 있다.",
+    "text": "④ 대화를 통해 인물 간의 위계나 관계를 보여 주고 있다.",
     "bbox": [
       97,
       1003,
@@ -30366,7 +30306,7 @@
   },
   {
     "type": "text",
-    "text": "21.<보기>를 참고하여 윗글을 감상한 내용으로 적절하지않은 것은?[3점]",
+    "text": "21.<보기>를 참고하여윗글을 감상한 내용으로 적절하지않은 것은?[3점]",
     "bbox": [
       434,
       618,
@@ -30846,7 +30786,7 @@
   },
   {
     "type": "text",
-    "text": "-정끝별, 가지가 담을 넘을때- * 도반:함께 도를 닦는 벗.",
+    "text": "-정끝별, 가지가 담을 넘을 때- * 도반:함께 도를 닦는 벗.",
     "bbox": [
       104,
       1023,
@@ -31466,7 +31406,7 @@
   },
   {
     "type": "text",
-    "text": "① (가)는 명시적청자에게말을 건네는 방식으로 화자의감정을 드러낸다.",
+    "text": "① (가)는 명시적청자에게말을 건네는 방식으로화자의 감정을 드러낸다.",
     "bbox": [
       445,
       886,
@@ -32446,7 +32386,7 @@
   },
   {
     "type": "text",
-    "text": "① (나)는‘수양’을 부분으로나눠살피고부분들의 관계가‘혼연 일체'라는 것을 발견해 수양이 하나의 통합된 대상이라는 인식을 드러내는군.",
+    "text": "① (나)는‘수양’을 부분으로나눠살피고부분들의관계가‘혼연 일체'라는 것을 발견해 수양이 하나의 통합된 대상이라는 인식을 드러내는군.",
     "bbox": [
       446,
       793,
@@ -32486,7 +32426,7 @@
   },
   {
     "type": "text",
-    "text": "③ (다)는'내적인 것과 외적인 것을 서로 바꾸는 사람'의 특성에 주목해 잊음의 본질에 대한 깨달음이 바람직한 삶의태도를 이끈다는 인식을 드러내는군.",
+    "text": "③ (다)는'내적인 것과 외적인 것을 서로 바꾸는 사람'의 특성에 주목해 잊음의 본질에 대한 깨달음이 바람직한 삶의 태도를 이끈다는 인식을 드러내는군.",
     "bbox": [
       446,
       905,
@@ -32626,7 +32566,7 @@
   },
   {
     "type": "text",
-    "text": "이게 모두 모양만 숭업구, 온,글, 그만 허구 들어가아.",
+    "text": "이게 모두 모양만 숭업구, 온,글세, 그만 허구 들어가아.",
     "bbox": [
       105,
       301,
@@ -32666,7 +32606,7 @@
   },
   {
     "type": "text",
-    "text": "하고 도리어 딸을 나무라던 것을, 갑득이 어미는 그당장에는, 귀에 솔깃하여,",
+    "text": "하고 도리어 딸을 나무라던 것을, 갑득이 어미는 그 당장에는, 귀에 솔깃하여,",
     "bbox": [
       94,
       337,
@@ -32806,7 +32746,7 @@
   },
   {
     "type": "text",
-    "text": "\"개두 그만 분별은있을 아이가, 그래 그런 상것허구욕지",
+    "text": "\"개두그만 분별은있을 아이가, 그래 그런 상것허구욕지",
     "bbox": [
       105,
       557,
@@ -32826,7 +32766,7 @@
   },
   {
     "type": "text",
-    "text": "거리를 허구 그러다니.\"",
+    "text": "거리를 허구 그러다니.”",
     "bbox": [
       105,
       576,
@@ -32846,7 +32786,7 @@
   },
   {
     "type": "text",
-    "text": "멧, 멧, 멧 하고 혀를 차니까, 늙은 마누라는 또 마주앉아서, “그렇죠, 그렇구 말구요.쌓을 허드래두 같은양반끼리 해야지, 그런 것허구 허는 건,꼭 하늘 보구 침 밸기지. 그 욕이 다아 내게 돌아오지, 소용 있나요.\"",
+    "text": "멧, 멧, 멧 하고 혀를 차니까, 늙은 마누라는 또 마주앉아서, “그렇죠, 그렇구 말구요쌓을 허드래두 같은양반끼리 해야지, 그런 것허구 허는 건,꼭 하늘 보구 침 밸기지. 그 욕이 다아 내게 돌아오지, 소용 있나요.\"",
     "bbox": [
       95,
       595,
@@ -33086,7 +33026,7 @@
   },
   {
     "type": "text",
-    "text": "\"아아니,그래,애아범이 미우면 으떻게는 못 해서,그 [A] 더러운 뒷간 숙에다 글쎄 가둬야만 헌단 말예요?그래 L 노인이 심사를 그렇게 부려야 옳단 말예요?”",
+    "text": "\"아아니,그래,애아범이 미우면 으떻게는 못 해서,그 [A] 더러운 뒷간 숙에다 글쎄 가둬야만 헌단 말예요? 그래 L 노인이 심사를 그렇게 부려야 옳단 말예요?”",
     "bbox": [
       441,
       154,
@@ -33326,7 +33266,7 @@
   },
   {
     "type": "text",
-    "text": "하고 말들이 있었고,정작,양 서방이 또 머뭇거리다가, “\"자물쉴 채실 때,내가 얼른 소리를 냈어두아셨을 텐데,미처 못 그래 그리 된 거야.\"",
+    "text": "하고 말들이 있었고,정작,양 서방이 또 머뭇거리다가, \"자물쉴 채실 때,내가 얼른 소리를 냈어두아셨을 텐데,미처 못 그래 그리 된 거야.\"",
     "bbox": [
       444,
       486,
@@ -33906,7 +33846,7 @@
   },
   {
     "type": "text",
-    "text": "③ ©:말을 전하는‘~라 한다'의주체가 인물일 수도있고 서술자 일 수도 있게 서술한 것은,인물의 경험을 전하기만 하고 특정 인물의 편에 서지 않으려는 서술자의 태도를 드러낸 것이겠군.",
+    "text": "③ ©:말을전하는‘~라 한다'의주체가 인물일 수도있고 서술자 일 수도 있게 서술한 것은,인물의 경험을 전하기만 하고 특정 인물의 편에 서지 않으려는 서술자의 태도를 드러낸 것이겠군.",
     "bbox": [
       446,
       474,
@@ -35426,7 +35366,7 @@
   },
   {
     "type": "text",
-    "text": "④ 청중의참여를이끌어내기위해 질문을하고 청중의반응을 확인한다.",
+    "text": "④ 청중의참여를이끌어내기위해 질문을하고 청중의 반응을 확인한다.",
     "bbox": [
       96,
       968,
@@ -35466,7 +35406,7 @@
   },
   {
     "type": "text",
-    "text": "36.다음은발표를 준비하며 참고한 내용이다.",
+    "text": "36.다음은 발표를 준비하며 참고한 내용이다.",
     "bbox": [
       434,
       226,
@@ -35526,7 +35466,7 @@
   },
   {
     "type": "text",
-    "text": "·청중 분석 -청중의 요구,배경지식,청중과의 관련성 등 ·발표의 구성 -도입부:청중의 관심 유발 ⑦ -전개부: 효과적인 정보 전달을 위한 내용 조직",
+    "text": "·청중 분석 -청중의 요구,배경지식,청중과의 관련성 등 ·발표의 구성 -도입부:청중의 관심 유발 ⑦ -전개부:효과적인 정보 전달을 위한 내용 조직",
     "bbox": [
       459,
       280,
@@ -35906,7 +35846,7 @@
   },
   {
     "type": "text",
-    "text": "① 학생 1은발표에언급되지않은 정보에대해 궁금증을드러 내고 있다.",
+    "text": "① 학생 1은발표에언급되지않은정보에대해궁금증을드러 내고 있다.",
     "bbox": [
       446,
       884,
@@ -36346,7 +36286,7 @@
   },
   {
     "type": "text",
-    "text": "학생3: 그것만으로 문제를 해결할 수 있을까? 난 민간에서 많이 사용하는 게 더 중요한 것 같아. 전통 한지로 만든 생활용품이나 공예품도 있잖아.",
+    "text": "학생3: 그것만으로 문제를 해결할 수 있을까?난 민간에서 많이 사용하는 게 더 중요한 것 같아. 전통 한지로 만든 생활용품이나 공예품도 있잖아.",
     "bbox": [
       95,
       762,
@@ -37386,7 +37326,7 @@
   },
   {
     "type": "text",
-    "text": "① ‘학생2'의 발화를토대로작성된ㄱ은,전통 한지의 우수성을 부각하기 위한 내용으로(나)에 반영되었다.",
+    "text": "① ‘학생2'의 발화를 토대로작성된ㄱ은,전통 한지의 우수성을 부각하기 위한 내용으로(나)에 반영되었다.",
     "bbox": [
       97,
       885,
@@ -38486,7 +38426,7 @@
   },
   {
     "type": "text",
-    "text": "는초고를 보완하기 위해 추가로 수집한 자료이다.",
+    "text": "는초고를 보완하기 위해 추가로수집한 자료이다.",
     "bbox": [
       497,
       155,
@@ -38546,7 +38486,7 @@
   },
   {
     "type": "text",
-    "text": "7.기후 변화 대응 활동 관련 설문 조사 자료",
+    "text": "ㄱ.기후 변화 대응 활동 관련 설문 조사 자료",
     "bbox": [
       456,
       219,
@@ -38766,7 +38706,7 @@
   },
   {
     "type": "text",
-    "text": "④ ㄱ-1과 ㄱ-2를 활용하여, 청소년 다수가 참여한 활동들을, 참여 기회가 없다고 답한 청소년들이 생활 속에서 실천할 수 있는 기후 변화 대응 활동의 사례로 3문단에 추가해야겠어.",
+    "text": "④ ㄱ-1과 ㄱ-2를 활용하여, 청소년 다수가 참여한 활동들을 참여 기회가 없다고 답한 청소년들이 생활 속에서 실천할 수 있는 기후 변화 대응 활동의 사례로 3문단에 추가해야겠어.",
     "bbox": [
       446,
       811,
@@ -39977,7 +39917,7 @@
   },
   {
     "type": "text",
-    "text": "36.윗글을 바탕으로중세 국어 단어의변화 양상을이해한 내용으로 적절하지 않은 것은?",
+    "text": "36.윗글을 바탕으로중세 국어 단어의 변화 양상을이해한 내용으로 적절하지 않은 것은?",
     "bbox": [
       434,
       450,
@@ -40537,7 +40477,7 @@
   },
   {
     "type": "text",
-    "text": "다음은어간의말음이'등'인 용언이‘아/어'로시작하는 어미와만날 때 보이는활용의 유형을 정리한 것이다.이들은",
+    "text": "다음은어간의말음이‘능'인 용언이‘아/어'로시작하는 어미와만날 때 보이는활용의 유형을 정리한 것이다.이들은",
     "bbox": [
       455,
       699,
@@ -40584,7 +40524,7 @@
       872
     ],
     "page_idx": 36,
-    "table_body": "<table><tr><td rowspan=1 colspan=2>불규칙 활용 유형</td><td rowspan=1 colspan=2>규칙 활용 유형</td></tr><tr><td rowspan=1 colspan=1>7-1</td><td rowspan=1 colspan=1>노랗-+-아→노래</td><td rowspan=2 colspan=1>©-1</td><td rowspan=2 colspan=1>닿-+-아→닿아(→*다)</td></tr><tr><td rowspan=2 colspan=1>7-2</td><td rowspan=2 colspan=1>누렇-+-어→누레</td></tr><tr><td rowspan=2 colspan=1>ㄷ-2</td><td rowspan=2 colspan=1>놓-+-아→놓아(v)</td></tr><tr><td rowspan=1 colspan=1>L</td><td rowspan=1 colspan=1>어떻-+-어→어때</td></tr><tr><td rowspan=1 colspan=4>(&#x27;&#x27;은 비문법적임을 뜻함.)</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=2>불규칙 활용 유형</td><td rowspan=1 colspan=2>규칙 활용 유형</td></tr><tr><td rowspan=1 colspan=1>7-1</td><td rowspan=1 colspan=1>노랗-+-아→노래</td><td rowspan=2 colspan=1>©-1</td><td rowspan=2 colspan=1>닿-+-아→ 닿아(→*다)</td></tr><tr><td rowspan=2 colspan=1>7-2</td><td rowspan=2 colspan=1>누렇-+-어→누레</td></tr><tr><td rowspan=2 colspan=1>ㄷ-2</td><td rowspan=2 colspan=1>놓-+-아→놓아(v)</td></tr><tr><td rowspan=1 colspan=1>L</td><td rowspan=1 colspan=1>어떻-+-어→어때</td></tr><tr><td rowspan=1 colspan=4>(&#x27;&#x27;은 비문법적임을 뜻함.)</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "81a30a67ea2b79f5a35a4ced0e7ae7cf1dec0cca0576e135c8dadf057c12e362.jpg",
@@ -40632,7 +40572,7 @@
   },
   {
     "type": "text",
-    "text": "③ '둥그렇-,멀경-'은‘둥그렛다,멀게'로 활용하므로 ① 과 활용의 유형이 같지 않겠군",
+    "text": "③ '둥그렇-,멀경-'은‘둥그렀다,멀게'로 활용하므로 ① 과 활용의 유형이 같지 않겠군",
     "bbox": [
       446,
       957,
@@ -40652,7 +40592,7 @@
   },
   {
     "type": "text",
-    "text": "④ '낳-,땅-'은 활용형인'낳아서,많았다'가*나서,*팠다'로 줄어들 수없으므로",
+    "text": "④ '낳-,땅-'은 활용형인'낳아서,땅았다'가*나서,*팠다'로 줄어들 수없으므로",
     "bbox": [
       446,
       993,
@@ -40892,7 +40832,7 @@
   },
   {
     "type": "text",
-    "text": "앞서 만나자. 간단 하게저녁이라도 먹고거기서바로 ① 가지 뭐.",
+    "text": "앞서 만나자. 간단 하게저녁이라도 먹고 거기서바로 ① 가지 뭐.",
     "bbox": [
       125,
       310,
@@ -40952,7 +40892,7 @@
   },
   {
     "type": "text",
-    "text": "평화:왼쪽이면 편의점 아냐? 아, 영화관을 등지고 보면 그렇다는 거구나.영화관을 마주볼 때는",
+    "text": "평화:왼쪽이면 편의점 아냐? 아, 영화관을 등지고 보면 그렇다는 거구나.영화관을마주볼 때는",
     "bbox": [
       106,
       383,
@@ -41659,7 +41599,7 @@
       1066
     ],
     "page_idx": 37,
-    "table_body": "<table><tr><td rowspan=12 colspan=1>235</td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>조건</td><td rowspan=1 colspan=1>수정 전 ㄷ수정 후</td></tr><tr><td rowspan=2 colspan=1>ㄱ,ㄴ</td><td rowspan=1 colspan=1>영미는 그 일을 처리했다.</td></tr><tr><td rowspan=1 colspan=1>&gt;영미는 그 일을 원칙대로 깔끔히 처리했다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>딴 사람이 그 문제를 해결했다.</td></tr><tr><td rowspan=1 colspan=1>전혀 딴 사람이 그 문제를 한순간에 해결했다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>그를 싫어하는 사람이 있다.</td></tr><tr><td rowspan=1 colspan=1>그를 무탁대고 싫어하는 사람이 많이 있다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>화가가 굶은 선을 쭉 그었다.</td></tr><tr><td rowspan=1 colspan=1>화가가 조금 굶은 선을 세로로 쭉 그었다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>웃는 아기가 귀엽게 걷는다</td></tr><tr><td rowspan=1 colspan=1>&gt;방긋이 웃는 아기가 참 귀엽게 걷는다.</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=12 colspan=1>235</td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>조건</td><td rowspan=1 colspan=1>수정 전 &gt;수정 후</td></tr><tr><td rowspan=2 colspan=1>ㄱ,ㄴ</td><td rowspan=1 colspan=1>영미는 그 일을 처리했다.</td></tr><tr><td rowspan=1 colspan=1>&gt;영미는 그 일을 원칙대로 깔끔히 처리했다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>딴 사람이 그 문제를 해결했다.</td></tr><tr><td rowspan=1 colspan=1>전혀 딴 사람이 그 문제를 한순간에 해결했다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>그를 싫어하는 사람이 있다.</td></tr><tr><td rowspan=1 colspan=1>그를 무탁대고 싫어하는 사람이 많이 있다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>화가가 굶은 선을 쭉 그었다.</td></tr><tr><td rowspan=1 colspan=1>화가가 조금 굶은 선을 세로로 쭉 그었다.</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>웃는 아기가 귀엽게 걷는다</td></tr><tr><td rowspan=1 colspan=1>&gt;방긋이 웃는 아기가 참 귀엽게 걷는다.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "c4fe1c4eb1d0b16a8a353b061fa670eafbe5f549223295e27a65e9b377daf0bc.jpg",
@@ -41707,7 +41647,7 @@
   },
   {
     "type": "text",
-    "text": "진행자:시청자 여러분,안녕하세요?'오늘,상식'열 번째 시간 입니다.이번 시간에는 20여 년간 대학에서 어문 규범을",
+    "text": "진행자:시청자 여러분,안녕하세요?‘오늘,상식'열 번째 시간 입니다.이번 시간에는 20여 년간 대학에서 어문 규범을",
     "bbox": [
       443,
       228,
@@ -41847,11 +41787,31 @@
   },
   {
     "type": "text",
-    "text": "진행자: ⑦ 아, 예전에 그런 내용을 본 적 있어요 전문가:네,전에는 자장면만 표준어였죠.",
+    "text": "진행자: ⑦ 아, 예전에 그런 내용을 본 적 있어요.",
     "bbox": [
       443,
       374,
       679,
+      391
+    ],
+    "page_idx": 37,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "전문가:네,전에는 자장면만 표준어였죠.",
+    "bbox": [
+      444,
+      394,
+      635,
       408
     ],
     "page_idx": 37,
@@ -43261,30 +43221,10 @@
   },
   {
     "type": "text",
-    "text": "미희오!!! 와!!! 그럼앱에서 도서관 자습실 예약 가능.",
-    "bbox": [
-      107,
-      550,
-      336,
-      566
-    ],
-    "page_idx": 39,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "가원좋다! 그럼앱을 최초실행할 때 나오는메뉴 도움말도 바뀌야겠네 A 진아 0 선생님께서이번엔학생회정보부에서도움말을 수정해 보라고 하셨어.어떻게 바꿀까?",
+    "text": "미희오!!! 와!!! 그럼앱에서도서관자습실 예약 가능 가원좋다! 그럼앱을 최초실행할 때나오는메뉴도움말도 바뀌야겠네 A 진아 0 선생님께서이번엔학생회정보부에서도움말을 수정해 보라고 하셨어.어떻게 바꿀까?",
     "bbox": [
       106,
-      568,
+      550,
       386,
       669
     ],
@@ -43721,7 +43661,7 @@
   },
   {
     "type": "text",
-    "text": ":시각적 이미지를 활용하여,상대방이 제시한 의견에 동의를 표현하였다.",
+    "text": ":시각적이미지를 활용하여,상대방이 제시한 의견에 동의를 표현하였다.",
     "bbox": [
       456,
       350,
@@ -43861,7 +43801,7 @@
   },
   {
     "type": "text",
-    "text": "80% ㅇㅇ고등학교 학습&활동 학습공간 진로진학 자료 이용예약 상담 ¶ 서비스에서 X 괄뭘자료와 살단하능한 일정을 진로 활동까지 모둠 활동실을 상담을신청해 보세요.",
+    "text": "80% ㅇㅇ고등학교 학습&활동 학습공간 진로진학 자료 이용예약 상담 X 괄뭘자료와 살단하능한 일정을 진로 활동까지 모둠 활동실을 상담을신청해 보세요.",
     "bbox": [
       461,
       571,
@@ -44041,7 +43981,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇ답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오.",
+    "text": "ㅇ답안지의 해당란에 필요한 내용을 정확히 기입(표기) 했는지 확인 하시오.",
     "bbox": [
       447,
       1030,

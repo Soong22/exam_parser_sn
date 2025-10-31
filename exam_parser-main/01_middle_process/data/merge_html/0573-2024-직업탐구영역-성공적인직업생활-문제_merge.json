@@ -262,11 +262,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9722,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 419,
       "end_orig": 467,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -331,7 +331,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음 [수행평가 활동지]의 (가),  (나)에 해당하는 평생 학습 제도에 대한 설명으로 가장 적절한 것은?  [3점] ",
+    "text": ". 다음 [수행평가 활동지]의 (가),  (나)에 해당하는 평생 학습 제도에 대한 설명으로 가장 적절한 것은?  [3점] ",
     "bbox": [
       85,
       644,
@@ -342,16 +342,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9901,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 611,
+      "start_orig": 612,
       "end_orig": 680,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "[수행평가  활동지]",
+    "text": "[수행평가 활동지]",
     "bbox": [
       207,
       702,
@@ -364,8 +364,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 680,
-      "end_orig": 691,
+      "start_orig": 617,
+      "end_orig": 627,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -631,22 +631,22 @@
   },
   {
     "type": "text",
-    "text": "…………… 저는 OO농업생명과학고등학교 졸업생 A 입니다.어떤 직업을",
+    "text": "저는 ○○농업생명과학고등학교 졸업생 A입니다.  어떤 직업을",
     "bbox": [
-      446,
-      320,
+      461,
+      321,
       739,
-      341
+      334
     ],
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.5429,
+      "replaced": true,
+      "similarity": 0.9259,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1090,
-      "end_orig": 1127,
-      "reason": "low_similarity"
+      "start_orig": 1081,
+      "end_orig": 1114,
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -742,7 +742,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.8846,
+      "similarity": 0.8654,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1263,
       "end_orig": 1333,
@@ -1338,7 +1338,7 @@
       646
     ],
     "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=2>[NCS 기반 자기소개서 사례집]</td></tr><tr><td rowspan=1 colspan=1>문항</td><td rowspan=1 colspan=1>문항본인의역량을높일수있었던경험을 기술하시오</td></tr><tr><td rowspan=1 colspan=1>학생A</td><td rowspan=1 colspan=1>OO기업현장실습과정에서영수증을 전산프로그램에 입력하는업무를수행하고이를통해정보수집·관리능력을배양하였습니다.</td></tr><tr><td rowspan=1 colspan=1>학생B</td><td rowspan=1 colspan=1>기업 현장 실습 과정에서 각 부서의 소모품 소요량을파악하고, 활용 계획을 세워 할당하는 능력을 키웠습니다.</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=2>[NCS 기반 자기소개서 사례집]</td></tr><tr><td rowspan=1 colspan=1>문항</td><td rowspan=1 colspan=1>문항본인의역량을높일수있었던 경험을 기술하시오.</td></tr><tr><td rowspan=1 colspan=1>학생A</td><td rowspan=1 colspan=1>OO기업 현장 실습과정에서영수증을 전산프로그램에 입력하는업무를수행하고이를통해정보수집·관리능력을배양하였습니다.</td></tr><tr><td rowspan=1 colspan=1>학생B</td><td rowspan=1 colspan=1>기업 현장 실습 과정에서 각 부서의 소모품 소요량을파악하고, 활용 계획을 세워 할당하는 능력을 키웠습니다.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "7793562b3fd6e8f08f43aada600a755064f818a1671ff2a67ba0461b7a0e7af2.jpg",
@@ -1406,7 +1406,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 학생 A,  B는 기업의 경영 활동 중 ‘인적 자원 관리 활동’을 수행한 경험이 있다.\n",
+    "text": "ㄷ. 학생 A,  B는 기업의 경영 활동 중 ‘인적 자원 관리 활동’을 수행한 경험이 있다.",
     "bbox": [
       108,
       722,
@@ -1417,11 +1417,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9444,
+      "similarity": 0.9722,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2929,
-      "end_orig": 2981,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 2980,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1446,7 +1446,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음 글을 통해 알 수 있는 첨단 기술로 적절한 것만을 <보기>에서 고른 것은?",
+    "text": ". 다음 글을 통해 알 수 있는 첨단 기술로 적절한 것만을 <보기>에서 고른 것은?\n",
     "bbox": [
       85,
       821,
@@ -1457,10 +1457,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9851,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3017,
-      "end_orig": 3064,
+      "start_orig": 3018,
+      "end_orig": 3065,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2635,7 +2635,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.  잡 노마드(job  nomad)의 삶을 추구하고 있다.\n",
+    "text": "ㄱ.  잡 노마드(job  nomad)의 삶을 추구하고 있다.",
     "bbox": [
       108,
       970,
@@ -2646,11 +2646,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9615,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5418,
-      "end_orig": 5453,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 5452,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2715,7 +2715,7 @@
   },
   {
     "type": "text",
-    "text": "13.다음A, B기업에 대한 분석 내용으로가장 적절한 것은? [3점] ① A기업의 최종 산출물은 제품의 부피와 중량의 크기에 따라 분류할 때 중화학공업 제품에 해당한다.",
+    "text": "13.다음A, B기업에 대한 분석 내용으로 가장 적절한 것은? [3점] ① A기업의 최종 산출물은 제품의 부피와 중량의 크기에 따라 분류할 때 중화학공업 제품에 해당한다.",
     "bbox": [
       435,
       156,
@@ -2742,7 +2742,7 @@
       322
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명</td><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>B기업</td></tr><tr><td rowspan=1 colspan=1>사업 내용</td><td rowspan=1 colspan=1>반려동물           의류제작</td><td rowspan=1 colspan=1>대형LNG선건조</td></tr><tr><td rowspan=1 colspan=1>고객</td><td rowspan=1 colspan=1>개인소비자</td><td rowspan=1 colspan=1>대형 해운사</td></tr><tr><td rowspan=1 colspan=1>주요 특징</td><td rowspan=1 colspan=1>·온라인 주문앱을 구축하여·원활한 원자재 확보를위한실시간 판매,배송·단일 디자인의 제품 생산·원가 절감을 위한 대량생산</td><td rowspan=1 colspan=1>·온라인 주문앱을 구축하여·원활한 원자재 확보를위한온라인 구매 시스템 구축·고객별 맞춤 생산</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명</td><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>B기업</td></tr><tr><td rowspan=1 colspan=1>사업 내용</td><td rowspan=1 colspan=1>반려동물           의류제작</td><td rowspan=1 colspan=1>대형LNG선건조</td></tr><tr><td rowspan=1 colspan=1>고객</td><td rowspan=1 colspan=1>개인소비자</td><td rowspan=1 colspan=1>대형 해운사</td></tr><tr><td rowspan=1 colspan=1>주요 특징</td><td rowspan=1 colspan=1>·온라인 주문 앱을 구축하여·원활한 원자재 확보를위한실시간 판매,배송·단일 디자인의 제품 생산·원가 절감을 위한 대량생산</td><td rowspan=1 colspan=1>·온라인 주문 앱을 구축하여·원활한 원자재 확보를위한온라인 구매 시스템 구축·고객별 맞춤 생산</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "bf50af65caf273f927acf317e2593197c9c39938e45a4ae4e3607dc088cd42f4.jpg",
@@ -2897,7 +2897,7 @@
       653
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td colspan=\"4\">이사회 회의록</td></tr><tr><td>일시</td><td>2023년 10월 30일 14:00</td><td>장소</td><td>|본사 2층 회의실</td></tr><tr><td>회의 내용</td><td colspan=\"3\">A이사:경기 위축으로 수익성이 저하되고 부채 원리금 상환 부담이 증가하고 있습니다.이를 해결할 방안이 있나요? B이사: 원가 절감을 위한 생산 공정 혁신 프로그램을 실시 하고,부채를 상환해야 합니다.이를 위한 자금 확보 방안으로 자산 매각과 주식 발행이 있습니다.</td></tr></table>",
+    "table_body": "<table><tr><td colspan=\"4\">이사회 회의록</td></tr><tr><td>일시</td><td>2023년10월 30일 14:00</td><td>장소</td><td>본사 2층 회의실</td></tr><tr><td>회의 내용</td><td colspan=\"3\">A이사:경기 위축으로 수익성이 저하되고 부채 원리금 상환 부담이 증가하고 있습니다.이를 해결할 방안이 있나요? B이사:원가 절감을 위한 생산 공정 혁신 프로그램을 실시 하고,부채를 상환해야 합니다.이를 위한 자금 확보 방안으로 자산 매각과 주식 발행이 있습니다.</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "f4fd247318de969d468f8f24df633a23b62a5d67362089ae9f538b2403672b18.jpg",
@@ -3085,7 +3085,7 @@
   },
   {
     "type": "text",
-    "text": "① 훈련연장급여를 신청하여 받을 수 있다.",
+    "text": "① 훈련연장급여를 신청하여 받을 수 있다.\n",
     "bbox": [
       446,
       969,
@@ -3099,13 +3099,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6436,
-      "end_orig": 6459,
+      "end_orig": 6460,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 조기재취업 수당을 신청하여 받을 수 있다.",
+    "text": "② 조기재취업 수당을 신청하여 받을 수 있다.\n",
     "bbox": [
       446,
       986,
@@ -3119,7 +3119,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6460,
-      "end_orig": 6485,
+      "end_orig": 6486,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3145,7 +3145,7 @@
   },
   {
     "type": "text",
-    "text": "④ 구직급여를 받는 동안 직업능력개발 수당을 신청하여 받을 수 있다.",
+    "text": "④ 구직급여를 받는 동안 직업능력개발 수당을 신청하여 받을 수 있다.\n",
     "bbox": [
       446,
       1018,
@@ -3159,7 +3159,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6518,
-      "end_orig": 6556,
+      "end_orig": 6557,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3600,7 +3600,7 @@
   },
   {
     "type": "text",
-    "text": "2.  직무 수행 능력 향상 방법\n-  고용노동부의 직업능력개발 훈련 지원 프로그램 활용",
+    "text": ".  직무 수행 능력 향상 방법\n-  고용노동부의 직업능력개발 훈련 지원 프로그램 활용",
     "bbox": [
       107,
       872,
@@ -3611,9 +3611,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9855,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7653,
+      "start_orig": 7654,
       "end_orig": 7702,
       "reason": "passed_threshold_no_ws"
     }
@@ -3780,7 +3780,7 @@
   },
   {
     "type": "text",
-    "text": "),  (나)에 참여하는 교육 대상자에 대한 설명으로 적절한 것만을  <보기>",
+    "text": "),  (나)에 참여하는 교육 대상자에 대한 설명으로 적절한 것만을  <보기",
     "bbox": [
       448,
       158,
@@ -3791,10 +3791,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9677,
+      "similarity": 0.9836,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7950,
-      "end_orig": 7993,
+      "end_orig": 7992,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3847,7 +3847,7 @@
       357
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td colspan=\"2\"></td></tr><tr><td>맞춤형 사내 교육 프로그램</td><td>(나) 프로그램</td></tr><tr><td>(가) 프로그램 1.교육 내용 ·경력 재평가 및 목표 재설정</td><td>1.교육 내용 ·조화와 협력을 위한 팀 빌딩</td></tr><tr><td colspan=\"2\">•직무 역량 유지를 위한 보수 교육 •비즈니스 매너 및 조직 커뮤니케이션 2.대상자: 41~50세의 10년 이상 재직 사원 2. 대상자: 25~30세의 1년 미만 신입 사원</td></tr></table>",
+    "table_body": "<table><tr><td colspan=\"2\"></td></tr><tr><td>맞춤형 사내 교육 프로그램</td><td>(나) 프로그램</td></tr><tr><td>(가) 프로그램 1.교육 내용 ·경력 재평가 및 목표 재설정</td><td>1.교육 내용 ·조화와 협력을 위한 팀 빌딩</td></tr><tr><td colspan=\"2\">•직무 역량 유지를 위한 보수 교육 •비즈니스 매너 및 조직 커뮤니케이션 ㄹ.대상자:41~50세의 10년 이상 재직 사원 ㄹ.대상자: 25~30세의 1년 미만 신입 사원</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "a1f20b779cba3832185be1429886a22b1137e5049f993422ee0e2280af53354a.jpg",

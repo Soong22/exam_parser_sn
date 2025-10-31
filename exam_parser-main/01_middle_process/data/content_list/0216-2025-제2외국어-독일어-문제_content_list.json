@@ -173,7 +173,7 @@
   },
   {
     "type": "text",
-    "text": "Aber auf dem Foto sieht sie (b) aus.",
+    "text": "Aber auf dem Foto sieht sie _(b) aus.",
     "bbox": [
       124,
       797,
@@ -195,7 +195,7 @@
   },
   {
     "type": "text",
-    "text": "5.빈칸에 공통으로 들어갈 말로 알맞은것은?",
+    "text": "5. 빈칸에 공통으로 들어갈 말로 알맞은것은?",
     "bbox": [
       85,
       923,
@@ -271,18 +271,15 @@
     "page_idx": 0
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "⑤",
     "bbox": [
-      449,
-      348,
-      750,
-      420
+      717,
+      351,
+      730,
+      364
     ],
-    "page_idx": 0,
-    "image_path": "c520a99d0f02546d43061624b448633939999dacfd14cbbff519dddcc03f6881.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 0
   },
   {
     "type": "text",
@@ -633,7 +630,7 @@
   },
   {
     "type": "text",
-    "text": "12.약도와 대화의 내용으로 보아 빈칸에 들어갈 말로 알맞은것은?",
+    "text": "12.약도와 대화의 내용으로 보아 빈칸에 들어갈 말로알맞은것은?",
     "bbox": [
       86,
       559,
@@ -834,7 +831,7 @@
   },
   {
     "type": "text",
-    "text": "① Lena hat nur am Mittwoch Zeit fir Max.",
+    "text": "① Lena hat nur am Mittwoch Zeit fiir Max.",
     "bbox": [
       446,
       394,
@@ -856,7 +853,7 @@
   },
   {
     "type": "text",
-    "text": "③ Lena kommt am Samstag nach Düsseldorf.",
+    "text": "③ Lena kommt am Samstag nach Disseldorf.",
     "bbox": [
       446,
       427,
@@ -889,7 +886,7 @@
   },
   {
     "type": "text",
-    "text": "15.빈간에들어갈 말로알맞은것을<보기",
+    "text": "15.빈칸에들어갈 말로알맞은것을<보기",
     "bbox": [
       435,
       506,
@@ -1137,7 +1134,7 @@
   },
   {
     "type": "text",
-    "text": "Wann: 9. bis 18. August Abfahrt: 9. August, O7:0o Uhr, vor der Stadtbibliothek Preis: 600 Euro",
+    "text": "Wann: 9. bis 18. August Abfahrt: 9. August, O7:00 Uhr, vor der Stadtbibliothek Preis: 600 Euro",
     "bbox": [
       106,
       275,
@@ -1170,7 +1167,7 @@
   },
   {
     "type": "text",
-    "text": "18. 빈칸에 들어갈 말로 알맞은 것은?",
+    "text": "18.빈칸에 들어갈 말로알맞은 것은?",
     "bbox": [
       86,
       445,
@@ -1294,7 +1291,7 @@
   },
   {
     "type": "text",
-    "text": "A : Könnten Sie mir bitte die Tür aufmachen?",
+    "text": "A: Könnten Sie mir bitte die Tür aufmachen?",
     "bbox": [
       203,
       911,
@@ -1454,7 +1451,7 @@
   },
   {
     "type": "text",
-    "text": "22.대화의 내용으로 보아 밑줄친 부분의 의미로알맞은것은?[1점]",
+    "text": "22.대화의 내용으로 보아 밑줄친 부분의 의미로알맞은 것은?[1점]",
     "bbox": [
       435,
       500,
@@ -1608,32 +1605,29 @@
   },
   {
     "type": "text",
-    "text": "Traditionell machen die Kinder am Tag davor ihre Schuhe sehr sauber und stellen sie am Abend vor ihre Haustir. Am nächsten Morgen finden sie in den Schuhen kleine Geschenke. Man sagt dann, die Geschenke sind vom Nikolaus.",
+    "text": "Traditionell machen die Kinder am Tag davor ihre Schuhe sehr sauber und stellen sie am Abend vor ihre Haustir. Am nächsten Morgen",
+    "bbox": [
+      517,
+      864,
+      747,
+      913
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "finden sie in den Schuhen kleine Geschenke. Man sagt dann, die Geschenke sind vom Nikolaus.",
     "bbox": [
       453,
-      864,
+      914,
       748,
       948
     ],
     "page_idx": 2
   },
   {
-    "type": "image",
-    "bbox": [
-      457,
-      825,
-      509,
-      906
-    ],
-    "page_idx": 2,
-    "image_path": "8db1401114daf6392e22dc2dc56330ae24cb6fe752ddeefb93f7cb60aaac1a0b.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "*christlich:기독교의 * traditionell: 전통적인",
+    "text": "*christlich: 기독교의 * traditionell: 전통적인",
     "bbox": [
       535,
       955,
@@ -1899,20 +1893,6 @@
     "page_idx": 3
   },
   {
-    "type": "image",
-    "bbox": [
-      104,
-      557,
-      226,
-      629
-    ],
-    "page_idx": 3,
-    "image_path": "031c1a9be8b02555ecdea2deaeea4201f354d4a580df572bcc3a6ba75b0fa944.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "Das Land liegt in Europa.",
     "bbox": [
@@ -2093,7 +2073,7 @@
   },
   {
     "type": "text",
-    "text": "Quantentheorie :양자 이론 *Nobelpreis:노벨상",
+    "text": "Quantentheorie :양자 이론 * Nobelpreis:노벨상",
     "bbox": [
       215,
       941,

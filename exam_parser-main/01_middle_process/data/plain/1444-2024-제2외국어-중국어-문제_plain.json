@@ -221,7 +221,7 @@
                     406,
                     272
                   ],
-                  "score": 0.939,
+                  "score": 0.94,
                   "content": "1.그림의 발음 기호 중 두 개를 조합하여 만들 수 있는 발음에",
                   "type": "text"
                 }
@@ -408,12 +408,23 @@
           "lines": [
             {
               "bbox": [
-                97,
+                95,
                 468,
-                355,
+                375,
                 487
               ],
               "spans": [
+                {
+                  "bbox": [
+                    95,
+                    469,
+                    96,
+                    487
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     97,
@@ -427,6 +438,28 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    111,
+                    469,
+                    129,
+                    487
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    156,
+                    469,
+                    158,
+                    487
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -451,6 +484,17 @@
                   ],
                   "score": 0.507,
                   "content": "꽃",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    218,
+                    468,
+                    219,
+                    487
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -480,6 +524,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    468,
+                    280,
+                    487
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     470,
                     294,
@@ -494,6 +549,28 @@
                 },
                 {
                   "bbox": [
+                    294,
+                    468,
+                    313,
+                    487
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    340,
+                    468,
+                    342,
+                    487
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     342,
                     470,
                     355,
@@ -505,6 +582,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    356,
+                    468,
+                    375,
+                    487
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 17
@@ -512,9 +600,9 @@
           ],
           "index": 17,
           "bbox_fs": [
-            97,
+            95,
             468,
-            355,
+            375,
             487
           ]
         },
@@ -542,7 +630,7 @@
                     346,
                     525
                   ],
-                  "score": 0.892,
+                  "score": 0.895,
                   "content": "2.밑줄 친 부분과 성조 배열이 같은 것만을<보기",
                   "type": "text"
                 },
@@ -626,7 +714,7 @@
                     711,
                     272
                   ],
-                  "score": 0.959,
+                  "score": 0.956,
                   "content": "6. 대화의 상황을 표현한 그림으로 알맞은 것은?[1점]",
                   "type": "text"
                 }
@@ -666,7 +754,7 @@
                     586,
                     299
                   ],
-                  "score": 0.952,
+                  "score": 0.949,
                   "content": "A:",
                   "type": "text"
                 }
@@ -688,7 +776,7 @@
                     604,
                     316
                   ],
-                  "score": 0.912,
+                  "score": 0.913,
                   "content": "B:",
                   "type": "text"
                 }
@@ -913,32 +1001,26 @@
           "lines": [
             {
               "bbox": [
-                96,
-                549,
-                405,
-                581
+                211,
+                555,
+                285,
+                573
               ],
-              "spans": [],
+              "spans": [
+                {
+                  "bbox": [
+                    211,
+                    555,
+                    285,
+                    573
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
               "index": 35
-            }
-          ],
-          "index": 35,
-          "bbox_fs": [
-            96,
-            549,
-            405,
-            581
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            133,
-            604,
-            370,
-            620
-          ],
-          "lines": [
+            },
             {
               "bbox": [
                 129,
@@ -995,13 +1077,31 @@
               "index": 36
             }
           ],
+          "index": 35,
+          "bbox_fs": [
+            211,
+            555,
+            285,
+            573
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            133,
+            604,
+            370,
+            620
+          ],
+          "lines": [],
           "index": 36,
           "bbox_fs": [
             129,
             602,
             373,
             621
-          ]
+          ],
+          "lines_deleted": true
         },
         {
           "type": "text",
@@ -1047,6 +1147,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    631,
+                    158,
+                    650
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     633,
                     171,
@@ -1068,6 +1179,17 @@
                   ],
                   "score": 0.602,
                   "content": "a, C",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    218,
+                    631,
+                    219,
+                    650
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1097,6 +1219,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    631,
+                    280,
+                    650
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     633,
                     294,
@@ -1118,6 +1251,17 @@
                   ],
                   "score": 0.895,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    630,
+                    341,
+                    650
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1181,7 +1325,7 @@
                     370,
                     688
                   ],
-                  "score": 0.878,
+                  "score": 0.875,
                   "content": "3. 밑줄 친 부분의 한자 표기가 옳은 것만을 고른 것은?",
                   "type": "text"
                 }
@@ -1221,7 +1365,7 @@
                     201,
                     716
                   ],
-                  "score": 0.952,
+                  "score": 0.955,
                   "content": "a.",
                   "type": "text"
                 }
@@ -1244,7 +1388,7 @@
                     202,
                     732
                   ],
-                  "score": 0.875,
+                  "score": 0.853,
                   "content": "b.",
                   "type": "text"
                 }
@@ -1268,7 +1412,7 @@
                     202,
                     750
                   ],
-                  "score": 0.852,
+                  "score": 0.862,
                   "content": "C.",
                   "type": "text"
                 }
@@ -1354,6 +1498,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    780,
+                    158,
+                    799
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     782,
                     171,
@@ -1375,6 +1530,17 @@
                   ],
                   "score": 0.61,
                   "content": "a, c",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    218,
+                    779,
+                    219,
+                    799
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1404,6 +1570,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    780,
+                    280,
+                    798
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     781,
                     294,
@@ -1425,6 +1602,17 @@
                   ],
                   "score": 0.89,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    780,
+                    342,
+                    798
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1564,7 +1752,7 @@
                     293,
                     882
                   ],
-                  "score": 0.768,
+                  "score": 0.762,
                   "content": ",_",
                   "type": "text"
                 }
@@ -1595,6 +1783,28 @@
                 },
                 {
                   "bbox": [
+                    110,
+                    894,
+                    130,
+                    913
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    156,
+                    894,
+                    158,
+                    913
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     896,
                     171,
@@ -1606,6 +1816,28 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    172,
+                    894,
+                    191,
+                    913
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    218,
+                    894,
+                    219,
+                    913
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -1634,6 +1866,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    894,
+                    280,
+                    913
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     896,
                     294,
@@ -1655,6 +1898,17 @@
                   ],
                   "score": 0.852,
                   "content": "i",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    340,
+                    894,
+                    341,
+                    912
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1736,7 +1990,7 @@
                     315,
                     951
                   ],
-                  "score": 0.844,
+                  "score": 0.846,
                   "content": "5. 빈칸 (a), (b)에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -1812,7 +2066,7 @@
                     302,
                     999
                   ],
-                  "score": 0.936,
+                  "score": 0.933,
                   "content": "(b)",
                   "type": "text"
                 }
@@ -1907,8 +2161,8 @@
               "bbox": [
                 97,
                 1030,
-                315,
-                1050
+                372,
+                1051
               ],
               "spans": [
                 {
@@ -1927,6 +2181,28 @@
                 },
                 {
                   "bbox": [
+                    111,
+                    1030,
+                    145,
+                    1051
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    151,
+                    1030,
+                    162,
+                    1049
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     199,
                     1033,
                     213,
@@ -1938,6 +2214,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    213,
+                    1033,
+                    214,
+                    1049
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -1963,6 +2250,39 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    315,
+                    1033,
+                    317,
+                    1048
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    323,
+                    1032,
+                    344,
+                    1050
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    352,
+                    1031,
+                    372,
+                    1050
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 52
@@ -1970,9 +2290,9 @@
             {
               "bbox": [
                 97,
-                1051,
-                212,
-                1065
+                1045,
+                275,
+                1068
               ],
               "spans": [
                 {
@@ -1991,6 +2311,39 @@
                 },
                 {
                   "bbox": [
+                    111,
+                    1049,
+                    144,
+                    1067
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    149,
+                    1045,
+                    166,
+                    1067
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    197,
+                    1049,
+                    199,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     199,
                     1051,
                     212,
@@ -2002,6 +2355,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    213,
+                    1049,
+                    275,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 53
@@ -2012,7 +2376,7 @@
             97,
             1011,
             374,
-            1065
+            1068
           ]
         },
         {
@@ -2039,7 +2403,7 @@
                     652,
                     656
                   ],
-                  "score": 0.899,
+                  "score": 0.897,
                   "content": "7.빈간에 들어갈 말로 알맞은 것은?[1점]",
                   "type": "text"
                 }
@@ -2189,12 +2553,23 @@
             },
             {
               "bbox": [
-                446,
+                444,
                 730,
                 684,
                 750
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    730,
+                    445,
+                    750
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -2218,6 +2593,17 @@
                   ],
                   "score": 0.82,
                   "content": "yóu gege",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    603,
+                    730,
+                    604,
+                    749
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -2287,7 +2673,7 @@
           ],
           "index": 58,
           "bbox_fs": [
-            446,
+            444,
             712,
             684,
             767
@@ -2317,34 +2703,12 @@
                     712,
                     873
                   ],
-                  "score": 0.913,
-                  "content": "8.의 SNS를 이해한 내용으로 알맞은 것은? [1점]",
+                  "score": 0.923,
+                  "content": "8.의 SNS를 이해한 내용으로 알맞은 것은?[1점]",
                   "type": "text"
                 }
               ],
               "index": 60
-            },
-            {
-              "bbox": [
-                577,
-                918,
-                742,
-                932
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    577,
-                    918,
-                    742,
-                    932
-                  ],
-                  "score": 0.877,
-                  "content": ",!",
-                  "type": "text"
-                }
-              ],
-              "index": 62
             }
           ],
           "index": 60,
@@ -2363,15 +2727,59 @@
             741,
             932
           ],
-          "lines": [],
-          "index": 62,
+          "lines": [
+            {
+              "bbox": [
+                577,
+                901,
+                669,
+                914
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    577,
+                    901,
+                    669,
+                    914
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 62
+            },
+            {
+              "bbox": [
+                577,
+                918,
+                742,
+                932
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    577,
+                    918,
+                    742,
+                    932
+                  ],
+                  "score": 0.885,
+                  "content": ",!",
+                  "type": "text"
+                }
+              ],
+              "index": 63
+            }
+          ],
+          "index": 62.5,
           "bbox_fs": [
             577,
-            918,
+            901,
             742,
             932
-          ],
-          "lines_deleted": true
+          ]
         },
         {
           "type": "image",
@@ -2414,7 +2822,7 @@
                   ]
                 }
               ],
-              "index": 62.0,
+              "index": 62.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -2434,12 +2842,12 @@
                     978.0
                   ],
                   "spans": [],
-                  "index": 63
+                  "index": 64
                 }
               ]
             }
           ],
-          "index": 62.0
+          "index": 62.5
         },
         {
           "type": "text",
@@ -2470,10 +2878,10 @@
                   "type": "text"
                 }
               ],
-              "index": 64
+              "index": 65
             }
           ],
-          "index": 64,
+          "index": 65,
           "bbox_fs": [
             537,
             958,
@@ -2524,7 +2932,7 @@
                   "type": "text"
                 }
               ],
-              "index": 65,
+              "index": 66,
               "is_list_end_line": true
             },
             {
@@ -2556,12 +2964,12 @@
                     583,
                     1014
                   ],
-                  "score": 0.948,
-                  "content": "처음으로 동물원에갔다.",
+                  "score": 0.914,
+                  "content": "처음으로 동물원에 갔다.",
                   "type": "text"
                 }
               ],
-              "index": 66,
+              "index": 67,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -2594,12 +3002,12 @@
                     599,
                     1031
                   ],
-                  "score": 0.893,
+                  "score": 0.896,
                   "content": "판다의 자는 모습을 보았다.",
                   "type": "text"
                 }
               ],
-              "index": 67,
+              "index": 68,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -2632,12 +3040,12 @@
                     605,
                     1049
                   ],
-                  "score": 0.891,
+                  "score": 0.885,
                   "content": "판다를 또 보러 갈 예정이다.",
                   "type": "text"
                 }
               ],
-              "index": 68,
+              "index": 69,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -2670,17 +3078,17 @@
                     620,
                     1067
                   ],
-                  "score": 0.967,
+                  "score": 0.966,
                   "content": "가장 좋아하는 동물은 판다이다.",
                   "type": "text"
                 }
               ],
-              "index": 69,
+              "index": 70,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 67,
+          "index": 68,
           "bbox_fs": [
             446,
             982,
@@ -2823,7 +3231,7 @@
               "bbox": [
                 97,
                 232,
-                269,
+                309,
                 249
               ],
               "spans": [
@@ -2865,6 +3273,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    270,
+                    232,
+                    309,
+                    249
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 3
@@ -2999,7 +3418,7 @@
                     304,
                     349
                   ],
-                  "score": 0.941,
+                  "score": 0.947,
                   "content": "10. 대화를 이해한 내용으로 알맞은 것은?",
                   "type": "text"
                 }
@@ -3039,7 +3458,7 @@
                     326,
                     375
                   ],
-                  "score": 0.855,
+                  "score": 0.86,
                   "content": "A:,?",
                   "type": "text"
                 }
@@ -3083,7 +3502,7 @@
                     280,
                     410
                   ],
-                  "score": 0.893,
+                  "score": 0.902,
                   "content": "A:",
                   "type": "text"
                 }
@@ -3105,7 +3524,7 @@
                     335,
                     427
                   ],
-                  "score": 0.809,
+                  "score": 0.816,
                   "content": "B:",
                   "type": "text"
                 }
@@ -3159,7 +3578,7 @@
                     237,
                     456
                   ],
-                  "score": 0.929,
+                  "score": 0.92,
                   "content": "B는 금요일에 일이 있다.",
                   "type": "text"
                 }
@@ -3196,8 +3615,8 @@
                     272,
                     474
                   ],
-                  "score": 0.92,
-                  "content": "토요일은  선생님의 생일이다.",
+                  "score": 0.887,
+                  "content": "토요일은 또 선생님의 생일이다.",
                   "type": "text"
                 }
               ],
@@ -3234,7 +3653,7 @@
                     282,
                     491
                   ],
-                  "score": 0.962,
+                  "score": 0.967,
                   "content": "B는A에게 다시연락하기로했다.",
                   "type": "text"
                 }
@@ -3272,7 +3691,7 @@
                     288,
                     509
                   ],
-                  "score": 0.908,
+                  "score": 0.927,
                   "content": "또선생님은 토요일에 시간이 있다.",
                   "type": "text"
                 }
@@ -3426,7 +3845,7 @@
                     275,
                     657
                   ],
-                  "score": 0.968,
+                  "score": 0.967,
                   "content": ":12181220",
                   "type": "text"
                 }
@@ -3448,7 +3867,7 @@
                     270,
                     691
                   ],
-                  "score": 0.555,
+                  "score": 0.538,
                   "content": "0 ",
                   "type": "text"
                 }
@@ -3470,7 +3889,7 @@
                     315,
                     708
                   ],
-                  "score": 0.573,
+                  "score": 0.541,
                   "content": "① 1,",
                   "type": "text"
                 }
@@ -3492,7 +3911,7 @@
                     242,
                     731
                   ],
-                  "score": 0.955,
+                  "score": 0.952,
                   "content": ": www..dsp.cn",
                   "type": "text"
                 }
@@ -3718,7 +4137,7 @@
                     367,
                     797
                   ],
-                  "score": 0.905,
+                  "score": 0.947,
                   "content": "?",
                   "type": "text"
                 }
@@ -3754,7 +4173,7 @@
                     209,
                     815
                   ],
-                  "score": 0.892,
+                  "score": 0.883,
                   "content": "?",
                   "type": "text"
                 }
@@ -3794,7 +4213,7 @@
                     381,
                     882
                   ],
-                  "score": 0.931,
+                  "score": 0.933,
                   "content": "12. 자기소개를 이해한 내용으로 알맞지 않은 것은?[1점]",
                   "type": "text"
                 }
@@ -3804,7 +4223,7 @@
             {
               "bbox": [
                 201,
-                900,
+                901,
                 387,
                 913
               ],
@@ -3812,11 +4231,11 @@
                 {
                   "bbox": [
                     201,
-                    900,
+                    901,
                     387,
                     913
                   ],
-                  "score": 0.755,
+                  "score": 0.748,
                   "content": "! ",
                   "type": "text"
                 }
@@ -3826,24 +4245,46 @@
             {
               "bbox": [
                 202,
-                918,
-                388,
+                917,
+                387,
                 930
               ],
               "spans": [
                 {
                   "bbox": [
                     202,
-                    918,
-                    388,
+                    917,
+                    387,
                     930
                   ],
-                  "score": 0.647,
-                  "content": ",,",
+                  "score": 0.656,
+                  "content": ",",
                   "type": "text"
                 }
               ],
               "index": 29
+            },
+            {
+              "bbox": [
+                201,
+                934,
+                387,
+                948
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    201,
+                    934,
+                    387,
+                    948
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 30
             },
             {
               "bbox": [
@@ -3865,7 +4306,7 @@
                   "type": "text"
                 }
               ],
-              "index": 30
+              "index": 31
             }
           ],
           "index": 27,
@@ -3885,11 +4326,11 @@
             978
           ],
           "lines": [],
-          "index": 29,
+          "index": 29.5,
           "bbox_fs": [
             201,
-            900,
-            388,
+            901,
+            387,
             965
           ],
           "lines_deleted": true
@@ -3932,12 +4373,12 @@
                     213,
                     997
                   ],
-                  "score": 0.949,
+                  "score": 0.96,
                   "content": "중국어 실력이 좋다.",
                   "type": "text"
                 }
               ],
-              "index": 31,
+              "index": 32,
               "is_list_end_line": true
             },
             {
@@ -3974,7 +4415,7 @@
                   "type": "text"
                 }
               ],
-              "index": 32,
+              "index": 33,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -4012,7 +4453,7 @@
                   "type": "text"
                 }
               ],
-              "index": 33,
+              "index": 34,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -4045,12 +4486,12 @@
                     292,
                     1049
                   ],
-                  "score": 0.959,
+                  "score": 0.956,
                   "content": "대학에서 중국어와 경제를 공부했다.",
                   "type": "text"
                 }
               ],
-              "index": 34,
+              "index": 35,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -4088,12 +4529,12 @@
                   "type": "text"
                 }
               ],
-              "index": 35,
+              "index": 36,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 33,
+          "index": 34,
           "bbox_fs": [
             97,
             983,
@@ -4125,15 +4566,15 @@
                     753,
                     174
                   ],
-                  "score": 0.904,
+                  "score": 0.909,
                   "content": "13.포스터의 내용으로 보아 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 36
+              "index": 37
             }
           ],
-          "index": 36,
+          "index": 37,
           "bbox_fs": [
             435,
             157,
@@ -4142,7 +4583,7 @@
           ]
         },
         {
-          "type": "list",
+          "type": "text",
           "bbox": [
             645,
             225,
@@ -4154,8 +4595,8 @@
               "bbox": [
                 647,
                 226,
-                660,
-                240
+                711,
+                241
               ],
               "spans": [
                 {
@@ -4171,17 +4612,27 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    660,
+                    226,
+                    711,
+                    241
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 38,
-              "is_list_start_line": true
+              "index": 39
             },
             {
               "bbox": [
                 647,
                 243,
-                660,
-                257
+                710,
+                258
               ],
               "spans": [
                 {
@@ -4197,17 +4648,27 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    660,
+                    243,
+                    710,
+                    258
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 39,
-              "is_list_start_line": true
+              "index": 40
             },
             {
               "bbox": [
                 647,
-                261,
-                660,
-                275
+                259,
+                711,
+                276
               ],
               "spans": [
                 {
@@ -4223,17 +4684,27 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    660,
+                    259,
+                    711,
+                    276
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 41,
-              "is_list_start_line": true
+              "index": 41
             },
             {
               "bbox": [
                 647,
-                278,
-                660,
-                291
+                277,
+                710,
+                293
               ],
               "spans": [
                 {
@@ -4249,10 +4720,20 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    660,
+                    277,
+                    710,
+                    293
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 42,
-              "is_list_start_line": true
+              "index": 43
             },
             {
               "bbox": [
@@ -4288,15 +4769,14 @@
                   "type": "text"
                 }
               ],
-              "index": 43,
-              "is_list_start_line": true
+              "index": 44
             }
           ],
           "index": 41,
           "bbox_fs": [
             647,
             226,
-            710,
+            711,
             309
           ]
         },
@@ -4341,7 +4821,7 @@
                   ]
                 }
               ],
-              "index": 38.5,
+              "index": 40.0,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -4351,7 +4831,7 @@
                     259.5
                   ],
                   "spans": [],
-                  "index": 37
+                  "index": 38
                 },
                 {
                   "bbox": [
@@ -4361,7 +4841,7 @@
                     339.0
                   ],
                   "spans": [],
-                  "index": 40
+                  "index": 42
                 }
               ]
             },
@@ -4406,13 +4886,13 @@
                       "type": "text"
                     }
                   ],
-                  "index": 44
+                  "index": 45
                 }
               ],
-              "index": 44
+              "index": 45
             }
           ],
-          "index": 41.25
+          "index": 42.5
         },
         {
           "type": "text",
@@ -4438,15 +4918,15 @@
                     680,
                     418
                   ],
-                  "score": 0.932,
+                  "score": 0.93,
                   "content": "14. 댓글을 이해한 내용으로 알맞지 않은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 45
+              "index": 46
             }
           ],
-          "index": 45,
+          "index": 46,
           "bbox_fs": [
             434,
             399,
@@ -4495,7 +4975,7 @@
                   ]
                 }
               ],
-              "index": 49.5,
+              "index": 50.5,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -4505,7 +4985,7 @@
                     439.25
                   ],
                   "spans": [],
-                  "index": 46
+                  "index": 47
                 },
                 {
                   "bbox": [
@@ -4515,7 +4995,7 @@
                     454.5
                   ],
                   "spans": [],
-                  "index": 47
+                  "index": 48
                 },
                 {
                   "bbox": [
@@ -4525,7 +5005,7 @@
                     469.75
                   ],
                   "spans": [],
-                  "index": 48
+                  "index": 49
                 },
                 {
                   "bbox": [
@@ -4535,7 +5015,7 @@
                     485.0
                   ],
                   "spans": [],
-                  "index": 49
+                  "index": 50
                 },
                 {
                   "bbox": [
@@ -4545,7 +5025,7 @@
                     500.25
                   ],
                   "spans": [],
-                  "index": 50
+                  "index": 51
                 },
                 {
                   "bbox": [
@@ -4555,7 +5035,7 @@
                     515.5
                   ],
                   "spans": [],
-                  "index": 51
+                  "index": 52
                 },
                 {
                   "bbox": [
@@ -4565,7 +5045,7 @@
                     530.75
                   ],
                   "spans": [],
-                  "index": 52
+                  "index": 53
                 },
                 {
                   "bbox": [
@@ -4575,12 +5055,12 @@
                     546.0
                   ],
                   "spans": [],
-                  "index": 53
+                  "index": 54
                 }
               ]
             }
           ],
-          "index": 49.5
+          "index": 50.5
         },
         {
           "type": "text",
@@ -4611,7 +5091,7 @@
                   "type": "text"
                 }
               ],
-              "index": 54
+              "index": 55
             },
             {
               "bbox": [
@@ -4633,7 +5113,7 @@
                   "type": "text"
                 }
               ],
-              "index": 55
+              "index": 56
             },
             {
               "bbox": [
@@ -4650,12 +5130,12 @@
                     654,
                     628
                   ],
-                  "score": 0.654,
-                  "content": ":",
+                  "score": 0.586,
+                  "content": ":,",
                   "type": "text"
                 }
               ],
-              "index": 56
+              "index": 57
             },
             {
               "bbox": [
@@ -4672,12 +5152,12 @@
                     643,
                     658
                   ],
-                  "score": 0.594,
-                  "content": ")F,!",
+                  "score": 0.668,
+                  "content": "F,!",
                   "type": "text"
                 }
               ],
-              "index": 57
+              "index": 58
             },
             {
               "bbox": [
@@ -4699,10 +5179,10 @@
                   "type": "text"
                 }
               ],
-              "index": 58
+              "index": 59
             }
           ],
-          "index": 56,
+          "index": 57,
           "bbox_fs": [
             479,
             553,
@@ -4753,7 +5233,7 @@
                   "type": "text"
                 }
               ],
-              "index": 59,
+              "index": 60,
               "is_list_end_line": true
             },
             {
@@ -4790,7 +5270,7 @@
                   "type": "text"
                 }
               ],
-              "index": 60,
+              "index": 61,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -4823,12 +5303,12 @@
                     642,
                     749
                   ],
-                  "score": 0.948,
+                  "score": 0.946,
                   "content": "는조리법이 어렵다고생각한다.",
                   "type": "text"
                 }
               ],
-              "index": 61,
+              "index": 62,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -4866,7 +5346,7 @@
                   "type": "text"
                 }
               ],
-              "index": 62,
+              "index": 63,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -4899,17 +5379,17 @@
                     648,
                     784
                   ],
-                  "score": 0.906,
+                  "score": 0.908,
                   "content": "은를 만들어 보려고 한다.",
                   "type": "text"
                 }
               ],
-              "index": 63,
+              "index": 64,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 61,
+          "index": 62,
           "bbox_fs": [
             446,
             700,
@@ -4968,7 +5448,7 @@
                   "type": "text"
                 }
               ],
-              "index": 64
+              "index": 65
             },
             {
               "bbox": [
@@ -4985,15 +5465,15 @@
                     550,
                     860
                   ],
-                  "score": 0.983,
+                  "score": 0.974,
                   "content": "바르게 배열한 것은?",
                   "type": "text"
                 }
               ],
-              "index": 65
+              "index": 66
             }
           ],
-          "index": 64.5,
+          "index": 65.5,
           "bbox_fs": [
             435,
             825,
@@ -5030,7 +5510,7 @@
                   "type": "text"
                 }
               ],
-              "index": 66
+              "index": 67
             },
             {
               "bbox": [
@@ -5063,7 +5543,7 @@
                   "type": "text"
                 }
               ],
-              "index": 67
+              "index": 68
             },
             {
               "bbox": [
@@ -5080,12 +5560,12 @@
                     691,
                     921
                   ],
-                  "score": 0.718,
+                  "score": 0.724,
                   "content": "A:,,",
                   "type": "text"
                 }
               ],
-              "index": 68
+              "index": 69
             },
             {
               "bbox": [
@@ -5113,15 +5593,15 @@
                     709,
                     938
                   ],
-                  "score": 0.986,
+                  "score": 0.983,
                   "content": "!",
                   "type": "text"
                 }
               ],
-              "index": 69
+              "index": 70
             }
           ],
-          "index": 67.5,
+          "index": 68.5,
           "bbox_fs": [
             453,
             874,
@@ -5158,10 +5638,10 @@
                   "type": "text"
                 }
               ],
-              "index": 70
+              "index": 71
             }
           ],
-          "index": 70
+          "index": 71
         },
         {
           "type": "list",
@@ -5192,7 +5672,7 @@
                   "type": "text"
                 }
               ],
-              "index": 71,
+              "index": 72,
               "is_list_end_line": true
             },
             {
@@ -5210,12 +5690,12 @@
                     557,
                     1003
                   ],
-                  "score": 0.874,
+                  "score": 0.876,
                   "content": "b.",
                   "type": "text"
                 }
               ],
-              "index": 72,
+              "index": 73,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -5239,12 +5719,12 @@
                   "type": "text"
                 }
               ],
-              "index": 73,
+              "index": 74,
               "is_list_start_line": true,
               "is_list_end_line": true
             }
           ],
-          "index": 72,
+          "index": 73,
           "bbox_fs": [
             453,
             972,
@@ -5303,7 +5783,7 @@
                   "type": "text"
                 }
               ],
-              "index": 74,
+              "index": 75,
               "is_list_start_line": true
             },
             {
@@ -5337,11 +5817,11 @@
                   "type": "text"
                 }
               ],
-              "index": 75,
+              "index": 76,
               "is_list_start_line": true
             }
           ],
-          "index": 74.5,
+          "index": 75.5,
           "bbox_fs": [
             445,
             1033,
@@ -5382,7 +5862,7 @@
                     313,
                     174
                   ],
-                  "score": 0.887,
+                  "score": 0.886,
                   "content": "16.빈칸에 들어갈 말로 알맞은 것은? [1점]",
                   "type": "text"
                 }
@@ -5483,8 +5963,8 @@
             {
               "bbox": [
                 97,
-                234,
-                314,
+                233,
+                375,
                 248
               ],
               "spans": [
@@ -5504,6 +5984,17 @@
                 },
                 {
                   "bbox": [
+                    110,
+                    233,
+                    171,
+                    248
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     199,
                     234,
                     212,
@@ -5518,6 +6009,17 @@
                 },
                 {
                   "bbox": [
+                    213,
+                    233,
+                    273,
+                    248
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     301,
                     234,
                     314,
@@ -5529,6 +6031,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    315,
+                    234,
+                    375,
+                    248
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 3
@@ -5537,8 +6050,8 @@
               "bbox": [
                 97,
                 251,
-                212,
-                264
+                272,
+                265
               ],
               "spans": [
                 {
@@ -5557,6 +6070,17 @@
                 },
                 {
                   "bbox": [
+                    110,
+                    251,
+                    171,
+                    265
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     199,
                     251,
                     212,
@@ -5568,6 +6092,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    213,
+                    251,
+                    272,
+                    265
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 4
@@ -5576,9 +6111,9 @@
           "index": 3.5,
           "bbox_fs": [
             97,
-            234,
-            314,
-            264
+            233,
+            375,
+            265
           ]
         },
         {
@@ -5678,7 +6213,7 @@
                     281,
                     394
                   ],
-                  "score": 0.849,
+                  "score": 0.851,
                   "content": "B:",
                   "type": "text"
                 }
@@ -5707,7 +6242,7 @@
               "bbox": [
                 97,
                 409,
-                269,
+                329,
                 423
               ],
               "spans": [
@@ -5727,6 +6262,17 @@
                 },
                 {
                   "bbox": [
+                    110,
+                    409,
+                    171,
+                    423
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     255,
                     409,
                     269,
@@ -5738,6 +6284,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    269,
+                    409,
+                    329,
+                    423
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 8
@@ -5746,8 +6303,8 @@
               "bbox": [
                 97,
                 426,
-                269,
-                440
+                329,
+                441
               ],
               "spans": [
                 {
@@ -5766,6 +6323,17 @@
                 },
                 {
                   "bbox": [
+                    110,
+                    426,
+                    171,
+                    440
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     255,
                     426,
                     269,
@@ -5777,6 +6345,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    270,
+                    426,
+                    329,
+                    441
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 9
@@ -5784,8 +6363,8 @@
             {
               "bbox": [
                 97,
-                444,
-                110,
+                443,
+                191,
                 457
               ],
               "spans": [
@@ -5802,6 +6381,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    110,
+                    443,
+                    191,
+                    457
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 10
@@ -5811,7 +6401,7 @@
           "bbox_fs": [
             97,
             409,
-            269,
+            329,
             457
           ]
         },
@@ -5934,7 +6524,7 @@
                     380,
                     604
                   ],
-                  "score": 0.978,
+                  "score": 0.977,
                   "content": "!",
                   "type": "text"
                 }
@@ -5962,9 +6552,9 @@
             {
               "bbox": [
                 97,
-                618,
-                269,
-                632
+                617,
+                330,
+                633
               ],
               "spans": [
                 {
@@ -5983,6 +6573,17 @@
                 },
                 {
                   "bbox": [
+                    110,
+                    617,
+                    171,
+                    633
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     255,
                     618,
                     269,
@@ -5994,6 +6595,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    269,
+                    619,
+                    330,
+                    633
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 15
@@ -6002,8 +6614,8 @@
               "bbox": [
                 97,
                 636,
-                269,
-                649
+                329,
+                650
               ],
               "spans": [
                 {
@@ -6022,6 +6634,17 @@
                 },
                 {
                   "bbox": [
+                    110,
+                    636,
+                    170,
+                    650
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     255,
                     636,
                     269,
@@ -6033,6 +6656,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    270,
+                    636,
+                    329,
+                    650
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 16
@@ -6041,7 +6675,7 @@
               "bbox": [
                 97,
                 653,
-                110,
+                182,
                 667
               ],
               "spans": [
@@ -6058,6 +6692,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    110,
+                    653,
+                    182,
+                    667
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
               "index": 17
@@ -6066,649 +6711,9 @@
           "index": 16,
           "bbox_fs": [
             97,
-            618,
-            269,
+            617,
+            330,
             667
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            434,
-            157,
-            652,
-            173
-          ],
-          "lines": [
-            {
-              "bbox": [
-                434,
-                156,
-                654,
-                174
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    434,
-                    156,
-                    654,
-                    174
-                  ],
-                  "score": 0.939,
-                  "content": "20. 대화를 이해한 내용으로 알맞은 것은?",
-                  "type": "text"
-                }
-              ],
-              "index": 18
-            }
-          ],
-          "index": 18,
-          "bbox_fs": [
-            434,
-            156,
-            654,
-            174
-          ]
-        },
-        {
-          "type": "image",
-          "bbox": [
-            446,
-            182,
-            736,
-            323
-          ],
-          "blocks": [
-            {
-              "type": "image_body",
-              "bbox": [
-                446,
-                182,
-                736,
-                323
-              ],
-              "group_id": 0,
-              "lines": [
-                {
-                  "bbox": [
-                    446,
-                    182,
-                    736,
-                    323
-                  ],
-                  "spans": [
-                    {
-                      "bbox": [
-                        446,
-                        182,
-                        736,
-                        323
-                      ],
-                      "score": 0.959,
-                      "type": "image",
-                      "image_path": "5b0438f7717b653be145de492a340fdbf16e49b7dc8ee98c426f24c04ea887b0.jpg"
-                    }
-                  ]
-                }
-              ],
-              "index": 23.5,
-              "virtual_lines": [
-                {
-                  "bbox": [
-                    446,
-                    182,
-                    736,
-                    196.1
-                  ],
-                  "spans": [],
-                  "index": 19
-                },
-                {
-                  "bbox": [
-                    446,
-                    196.1,
-                    736,
-                    210.2
-                  ],
-                  "spans": [],
-                  "index": 20
-                },
-                {
-                  "bbox": [
-                    446,
-                    210.2,
-                    736,
-                    224.29999999999998
-                  ],
-                  "spans": [],
-                  "index": 21
-                },
-                {
-                  "bbox": [
-                    446,
-                    224.29999999999998,
-                    736,
-                    238.39999999999998
-                  ],
-                  "spans": [],
-                  "index": 22
-                },
-                {
-                  "bbox": [
-                    446,
-                    238.39999999999998,
-                    736,
-                    252.49999999999997
-                  ],
-                  "spans": [],
-                  "index": 23
-                },
-                {
-                  "bbox": [
-                    446,
-                    252.49999999999997,
-                    736,
-                    266.59999999999997
-                  ],
-                  "spans": [],
-                  "index": 24
-                },
-                {
-                  "bbox": [
-                    446,
-                    266.59999999999997,
-                    736,
-                    280.7
-                  ],
-                  "spans": [],
-                  "index": 25
-                },
-                {
-                  "bbox": [
-                    446,
-                    280.7,
-                    736,
-                    294.8
-                  ],
-                  "spans": [],
-                  "index": 26
-                },
-                {
-                  "bbox": [
-                    446,
-                    294.8,
-                    736,
-                    308.90000000000003
-                  ],
-                  "spans": [],
-                  "index": 27
-                },
-                {
-                  "bbox": [
-                    446,
-                    308.90000000000003,
-                    736,
-                    323.00000000000006
-                  ],
-                  "spans": [],
-                  "index": 28
-                }
-              ]
-            }
-          ],
-          "index": 23.5
-        },
-        {
-          "type": "list",
-          "bbox": [
-            444,
-            329,
-            726,
-            415
-          ],
-          "lines": [
-            {
-              "bbox": [
-                446,
-                329,
-                626,
-                344
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    329,
-                    459,
-                    344
-                  ],
-                  "score": 0.81,
-                  "content": "①",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    460,
-                    330,
-                    626,
-                    344
-                  ],
-                  "score": 0.895,
-                  "content": "은 약속 장소를 잘못 알았다.",
-                  "type": "text"
-                }
-              ],
-              "index": 29,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                347,
-                628,
-                361
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    347,
-                    459,
-                    361
-                  ],
-                  "score": 0.84,
-                  "content": "②",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    347,
-                    628,
-                    361
-                  ],
-                  "score": 0.883,
-                  "content": "는택시를 타고 카페에 갔다.",
-                  "type": "text"
-                }
-              ],
-              "index": 30,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                364,
-                659,
-                378
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    364,
-                    459,
-                    378
-                  ],
-                  "score": 0.85,
-                  "content": "③",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    364,
-                    659,
-                    378
-                  ],
-                  "score": 0.853,
-                  "content": "는에게빨리 오라고 재촉했다.",
-                  "type": "text"
-                }
-              ],
-              "index": 31,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                381,
-                696,
-                396
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    381,
-                    459,
-                    395
-                  ],
-                  "score": 0.86,
-                  "content": "④",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    381,
-                    696,
-                    396
-                  ],
-                  "score": 0.896,
-                  "content": "과는카페에서 함께 공부하기로했다.",
-                  "type": "text"
-                }
-              ],
-              "index": 32,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            },
-            {
-              "bbox": [
-                446,
-                399,
-                727,
-                413
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    399,
-                    459,
-                    412
-                  ],
-                  "score": 0.84,
-                  "content": "⑤",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    399,
-                    727,
-                    413
-                  ],
-                  "score": 0.913,
-                  "content": "은 정류장을 지나쳐서10분 늦을 것 같다고 했다.",
-                  "type": "text"
-                }
-              ],
-              "index": 33,
-              "is_list_start_line": true,
-              "is_list_end_line": true
-            }
-          ],
-          "index": 31,
-          "bbox_fs": [
-            446,
-            329,
-            727,
-            413
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            435,
-            498,
-            754,
-            514
-          ],
-          "lines": [
-            {
-              "bbox": [
-                435,
-                497,
-                756,
-                515
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    435,
-                    497,
-                    756,
-                    515
-                  ],
-                  "score": 0.901,
-                  "content": "21. 대화의 내용으로 보아 밑줄 친 부분의 의미로 알맞은 것은?",
-                  "type": "text"
-                }
-              ],
-              "index": 34
-            }
-          ],
-          "index": 34,
-          "bbox_fs": [
-            435,
-            497,
-            756,
-            515
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            451,
-            525,
-            748,
-            578
-          ],
-          "lines": [
-            {
-              "bbox": [
-                455,
-                529,
-                746,
-                542
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    455,
-                    529,
-                    746,
-                    542
-                  ],
-                  "score": 0.847,
-                  "content": "A:?,",
-                  "type": "text"
-                }
-              ],
-              "index": 35
-            },
-            {
-              "bbox": [
-                473,
-                545,
-                506,
-                560
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    473,
-                    545,
-                    506,
-                    560
-                  ],
-                  "score": 0.973,
-                  "content": "?",
-                  "type": "text"
-                }
-              ],
-              "index": 36
-            },
-            {
-              "bbox": [
-                455,
-                563,
-                675,
-                576
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    455,
-                    563,
-                    675,
-                    576
-                  ],
-                  "score": 0.945,
-                  "content": "B:?",
-                  "type": "text"
-                }
-              ],
-              "index": 37
-            }
-          ],
-          "index": 36,
-          "bbox_fs": [
-            455,
-            529,
-            746,
-            576
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            444,
-            590,
-            699,
-            641
-          ],
-          "lines": [
-            {
-              "bbox": [
-                446,
-                591,
-                618,
-                605
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    591,
-                    459,
-                    605
-                  ],
-                  "score": 0.82,
-                  "content": "①",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    604,
-                    591,
-                    618,
-                    605
-                  ],
-                  "score": 0.78,
-                  "content": "②",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                }
-              ],
-              "index": 38
-            },
-            {
-              "bbox": [
-                446,
-                609,
-                618,
-                622
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    609,
-                    459,
-                    622
-                  ],
-                  "score": 0.87,
-                  "content": "③",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    604,
-                    609,
-                    618,
-                    622
-                  ],
-                  "score": 0.81,
-                  "content": "④",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                }
-              ],
-              "index": 39
-            },
-            {
-              "bbox": [
-                446,
-                626,
-                459,
-                640
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    626,
-                    459,
-                    640
-                  ],
-                  "score": 0.84,
-                  "content": "⑤",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                }
-              ],
-              "index": 40
-            }
-          ],
-          "index": 39,
-          "bbox_fs": [
-            446,
-            591,
-            618,
-            640
           ]
         },
         {
@@ -6735,12 +6740,12 @@
                     407,
                     750
                   ],
-                  "score": 0.888,
+                  "score": 0.894,
                   "content": "19.그림과 대화의 내용으로 보아 빈칸(a), (b)에 들어갈 말로",
                   "type": "text"
                 }
               ],
-              "index": 41
+              "index": 18
             },
             {
               "bbox": [
@@ -6762,10 +6767,10 @@
                   "type": "text"
                 }
               ],
-              "index": 42
+              "index": 19
             }
           ],
-          "index": 41.5,
+          "index": 18.5,
           "bbox_fs": [
             87,
             734,
@@ -6814,152 +6819,142 @@
                   ]
                 }
               ],
-              "index": 49.5,
+              "index": 26,
               "virtual_lines": [
                 {
                   "bbox": [
                     96,
                     776,
                     405,
-                    790.3571428571429
+                    791.4615384615385
                   ],
                   "spans": [],
-                  "index": 43
+                  "index": 20
                 },
                 {
                   "bbox": [
                     96,
-                    790.3571428571429,
+                    791.4615384615385,
                     405,
-                    804.7142857142858
+                    806.9230769230769
                   ],
                   "spans": [],
-                  "index": 44
+                  "index": 21
                 },
                 {
                   "bbox": [
                     96,
-                    804.7142857142858,
+                    806.9230769230769,
                     405,
-                    819.0714285714287
+                    822.3846153846154
                   ],
                   "spans": [],
-                  "index": 45
+                  "index": 22
                 },
                 {
                   "bbox": [
                     96,
-                    819.0714285714287,
+                    822.3846153846154,
                     405,
-                    833.4285714285716
+                    837.8461538461538
                   ],
                   "spans": [],
-                  "index": 46
+                  "index": 23
                 },
                 {
                   "bbox": [
                     96,
-                    833.4285714285716,
+                    837.8461538461538,
                     405,
-                    847.7857142857144
+                    853.3076923076923
                   ],
                   "spans": [],
-                  "index": 47
+                  "index": 24
                 },
                 {
                   "bbox": [
                     96,
-                    847.7857142857144,
+                    853.3076923076923,
                     405,
-                    862.1428571428573
+                    868.7692307692307
                   ],
                   "spans": [],
-                  "index": 48
+                  "index": 25
                 },
                 {
                   "bbox": [
                     96,
-                    862.1428571428573,
+                    868.7692307692307,
                     405,
-                    876.5000000000002
+                    884.2307692307692
                   ],
                   "spans": [],
-                  "index": 49
+                  "index": 26
                 },
                 {
                   "bbox": [
                     96,
-                    876.5000000000002,
+                    884.2307692307692,
                     405,
-                    890.8571428571431
+                    899.6923076923076
                   ],
                   "spans": [],
-                  "index": 50
+                  "index": 27
                 },
                 {
                   "bbox": [
                     96,
-                    890.8571428571431,
+                    899.6923076923076,
                     405,
-                    905.214285714286
+                    915.1538461538461
                   ],
                   "spans": [],
-                  "index": 51
+                  "index": 28
                 },
                 {
                   "bbox": [
                     96,
-                    905.214285714286,
+                    915.1538461538461,
                     405,
-                    919.5714285714289
+                    930.6153846153845
                   ],
                   "spans": [],
-                  "index": 52
+                  "index": 29
                 },
                 {
                   "bbox": [
                     96,
-                    919.5714285714289,
+                    930.6153846153845,
                     405,
-                    933.9285714285718
+                    946.076923076923
                   ],
                   "spans": [],
-                  "index": 53
+                  "index": 30
                 },
                 {
                   "bbox": [
                     96,
-                    933.9285714285718,
+                    946.076923076923,
                     405,
-                    948.2857142857147
+                    961.5384615384614
                   ],
                   "spans": [],
-                  "index": 54
+                  "index": 31
                 },
                 {
                   "bbox": [
                     96,
-                    948.2857142857147,
+                    961.5384615384614,
                     405,
-                    962.6428571428576
+                    976.9999999999999
                   ],
                   "spans": [],
-                  "index": 55
-                },
-                {
-                  "bbox": [
-                    96,
-                    962.6428571428576,
-                    405,
-                    977.0000000000005
-                  ],
-                  "spans": [],
-                  "index": 56
+                  "index": 32
                 }
               ]
             }
           ],
-          "index": 49.5
+          "index": 26
         },
         {
           "type": "text",
@@ -6973,9 +6968,9 @@
             {
               "bbox": [
                 97,
-                982,
-                110,
-                996
+                981,
+                278,
+                997
               ],
               "spans": [
                 {
@@ -6991,16 +6986,38 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    110,
+                    982,
+                    171,
+                    996
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    232,
+                    981,
+                    278,
+                    997
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 57
+              "index": 33
             },
             {
               "bbox": [
                 97,
-                1000,
-                110,
-                1013
+                998,
+                279,
+                1015
               ],
               "spans": [
                 {
@@ -7016,16 +7033,38 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    110,
+                    998,
+                    172,
+                    1015
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    231,
+                    998,
+                    279,
+                    1015
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 58
+              "index": 34
             },
             {
               "bbox": [
                 97,
-                1018,
-                110,
-                1031
+                1016,
+                268,
+                1033
               ],
               "spans": [
                 {
@@ -7041,16 +7080,38 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    114,
+                    1016,
+                    182,
+                    1032
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    231,
+                    1016,
+                    268,
+                    1033
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 59
+              "index": 35
             },
             {
               "bbox": [
                 97,
                 1035,
-                110,
-                1049
+                279,
+                1050
               ],
               "spans": [
                 {
@@ -7066,16 +7127,38 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    113,
+                    1035,
+                    182,
+                    1049
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    232,
+                    1035,
+                    279,
+                    1050
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 60
+              "index": 36
             },
             {
               "bbox": [
                 97,
-                1053,
-                110,
-                1065
+                1051,
+                278,
+                1067
               ],
               "spans": [
                 {
@@ -7091,17 +7174,724 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    110,
+                    1051,
+                    181,
+                    1067
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    232,
+                    1052,
+                    278,
+                    1067
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 }
               ],
-              "index": 61
+              "index": 37
             }
           ],
-          "index": 59,
+          "index": 35,
           "bbox_fs": [
             97,
-            982,
-            110,
-            1065
+            981,
+            279,
+            1067
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            434,
+            157,
+            652,
+            173
+          ],
+          "lines": [
+            {
+              "bbox": [
+                434,
+                156,
+                654,
+                174
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    434,
+                    156,
+                    654,
+                    174
+                  ],
+                  "score": 0.939,
+                  "content": "20. 대화를 이해한 내용으로 알맞은 것은?",
+                  "type": "text"
+                }
+              ],
+              "index": 38
+            }
+          ],
+          "index": 38,
+          "bbox_fs": [
+            434,
+            156,
+            654,
+            174
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            446,
+            182,
+            736,
+            323
+          ],
+          "blocks": [
+            {
+              "type": "image_body",
+              "bbox": [
+                446,
+                182,
+                736,
+                323
+              ],
+              "group_id": 0,
+              "lines": [
+                {
+                  "bbox": [
+                    446,
+                    182,
+                    736,
+                    323
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        446,
+                        182,
+                        736,
+                        323
+                      ],
+                      "score": 0.959,
+                      "type": "image",
+                      "image_path": "5b0438f7717b653be145de492a340fdbf16e49b7dc8ee98c426f24c04ea887b0.jpg"
+                    }
+                  ]
+                }
+              ],
+              "index": 43,
+              "virtual_lines": [
+                {
+                  "bbox": [
+                    446,
+                    182,
+                    736,
+                    197.66666666666666
+                  ],
+                  "spans": [],
+                  "index": 39
+                },
+                {
+                  "bbox": [
+                    446,
+                    197.66666666666666,
+                    736,
+                    213.33333333333331
+                  ],
+                  "spans": [],
+                  "index": 40
+                },
+                {
+                  "bbox": [
+                    446,
+                    213.33333333333331,
+                    736,
+                    228.99999999999997
+                  ],
+                  "spans": [],
+                  "index": 41
+                },
+                {
+                  "bbox": [
+                    446,
+                    228.99999999999997,
+                    736,
+                    244.66666666666663
+                  ],
+                  "spans": [],
+                  "index": 42
+                },
+                {
+                  "bbox": [
+                    446,
+                    244.66666666666663,
+                    736,
+                    260.3333333333333
+                  ],
+                  "spans": [],
+                  "index": 43
+                },
+                {
+                  "bbox": [
+                    446,
+                    260.3333333333333,
+                    736,
+                    276.0
+                  ],
+                  "spans": [],
+                  "index": 44
+                },
+                {
+                  "bbox": [
+                    446,
+                    276.0,
+                    736,
+                    291.6666666666667
+                  ],
+                  "spans": [],
+                  "index": 45
+                },
+                {
+                  "bbox": [
+                    446,
+                    291.6666666666667,
+                    736,
+                    307.33333333333337
+                  ],
+                  "spans": [],
+                  "index": 46
+                },
+                {
+                  "bbox": [
+                    446,
+                    307.33333333333337,
+                    736,
+                    323.00000000000006
+                  ],
+                  "spans": [],
+                  "index": 47
+                }
+              ]
+            }
+          ],
+          "index": 43
+        },
+        {
+          "type": "list",
+          "bbox": [
+            444,
+            329,
+            726,
+            415
+          ],
+          "lines": [
+            {
+              "bbox": [
+                446,
+                329,
+                626,
+                344
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    329,
+                    459,
+                    344
+                  ],
+                  "score": 0.81,
+                  "content": "①",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    460,
+                    330,
+                    626,
+                    344
+                  ],
+                  "score": 0.885,
+                  "content": "은 약속 장소를 잘못 알았다.",
+                  "type": "text"
+                }
+              ],
+              "index": 48,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                347,
+                628,
+                361
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    347,
+                    459,
+                    361
+                  ],
+                  "score": 0.84,
+                  "content": "②",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    347,
+                    628,
+                    361
+                  ],
+                  "score": 0.89,
+                  "content": "는택시를 타고 카페에 갔다.",
+                  "type": "text"
+                }
+              ],
+              "index": 49,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                364,
+                659,
+                378
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    364,
+                    459,
+                    378
+                  ],
+                  "score": 0.85,
+                  "content": "③",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    364,
+                    659,
+                    378
+                  ],
+                  "score": 0.868,
+                  "content": "는에게빨리 오라고 재촉했다.",
+                  "type": "text"
+                }
+              ],
+              "index": 50,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                381,
+                696,
+                396
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    381,
+                    459,
+                    395
+                  ],
+                  "score": 0.86,
+                  "content": "④",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    381,
+                    696,
+                    396
+                  ],
+                  "score": 0.898,
+                  "content": "과는카페에서 함께 공부하기로했다.",
+                  "type": "text"
+                }
+              ],
+              "index": 51,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            },
+            {
+              "bbox": [
+                446,
+                399,
+                727,
+                413
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    399,
+                    459,
+                    412
+                  ],
+                  "score": 0.84,
+                  "content": "⑤",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    399,
+                    727,
+                    413
+                  ],
+                  "score": 0.918,
+                  "content": "은 정류장을 지나쳐서10분 늦을 것 같다고 했다.",
+                  "type": "text"
+                }
+              ],
+              "index": 52,
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            }
+          ],
+          "index": 50,
+          "bbox_fs": [
+            446,
+            329,
+            727,
+            413
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            435,
+            498,
+            754,
+            514
+          ],
+          "lines": [
+            {
+              "bbox": [
+                435,
+                497,
+                756,
+                515
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    435,
+                    497,
+                    756,
+                    515
+                  ],
+                  "score": 0.9,
+                  "content": "21. 대화의 내용으로 보아 밑줄 친 부분의 의미로 알맞은 것은?",
+                  "type": "text"
+                }
+              ],
+              "index": 53
+            }
+          ],
+          "index": 53,
+          "bbox_fs": [
+            435,
+            497,
+            756,
+            515
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            451,
+            525,
+            748,
+            578
+          ],
+          "lines": [
+            {
+              "bbox": [
+                455,
+                529,
+                746,
+                542
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    455,
+                    529,
+                    746,
+                    542
+                  ],
+                  "score": 0.846,
+                  "content": "A:?,",
+                  "type": "text"
+                }
+              ],
+              "index": 54
+            },
+            {
+              "bbox": [
+                473,
+                545,
+                506,
+                560
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    473,
+                    545,
+                    506,
+                    560
+                  ],
+                  "score": 0.973,
+                  "content": "?",
+                  "type": "text"
+                }
+              ],
+              "index": 55
+            },
+            {
+              "bbox": [
+                455,
+                563,
+                675,
+                576
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    455,
+                    563,
+                    675,
+                    576
+                  ],
+                  "score": 0.934,
+                  "content": "B:?",
+                  "type": "text"
+                }
+              ],
+              "index": 56
+            }
+          ],
+          "index": 55,
+          "bbox_fs": [
+            455,
+            529,
+            746,
+            576
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            444,
+            590,
+            699,
+            641
+          ],
+          "lines": [
+            {
+              "bbox": [
+                446,
+                591,
+                688,
+                606
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    591,
+                    459,
+                    605
+                  ],
+                  "score": 0.82,
+                  "content": "①",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    591,
+                    530,
+                    606
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    604,
+                    591,
+                    618,
+                    605
+                  ],
+                  "score": 0.78,
+                  "content": "②",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    618,
+                    592,
+                    688,
+                    605
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 57
+            },
+            {
+              "bbox": [
+                446,
+                609,
+                699,
+                623
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    609,
+                    459,
+                    622
+                  ],
+                  "score": 0.87,
+                  "content": "③",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    609,
+                    541,
+                    623
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    604,
+                    609,
+                    618,
+                    622
+                  ],
+                  "score": 0.81,
+                  "content": "④",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    618,
+                    609,
+                    699,
+                    622
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 58
+            },
+            {
+              "bbox": [
+                446,
+                626,
+                552,
+                640
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    626,
+                    459,
+                    640
+                  ],
+                  "score": 0.84,
+                  "content": "⑤",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    626,
+                    552,
+                    640
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 59
+            }
+          ],
+          "index": 58,
+          "bbox_fs": [
+            446,
+            591,
+            699,
+            640
           ]
         },
         {
@@ -7128,15 +7918,15 @@
                     705,
                     742
                   ],
-                  "score": 0.887,
+                  "score": 0.885,
                   "content": "22. 밑줄 친 부분에 해당하는 그림으로 알맞은 것은?",
                   "type": "text"
                 }
               ],
-              "index": 62
+              "index": 60
             }
           ],
-          "index": 62,
+          "index": 60,
           "bbox_fs": [
             434,
             724,
@@ -7173,7 +7963,7 @@
                   "type": "text"
                 }
               ],
-              "index": 63,
+              "index": 61,
               "is_list_start_line": true
             },
             {
@@ -7196,7 +7986,7 @@
                   "type": "text"
                 }
               ],
-              "index": 64
+              "index": 62
             },
             {
               "bbox": [
@@ -7218,7 +8008,7 @@
                   "type": "text"
                 }
               ],
-              "index": 65,
+              "index": 63,
               "is_list_start_line": true
             },
             {
@@ -7236,20 +8026,43 @@
                     746,
                     821
                   ],
-                  "score": 0.8,
+                  "score": 0.804,
                   "content": ",",
                   "type": "text"
                 }
               ],
-              "index": 66
+              "index": 64
+            },
+            {
+              "bbox": [
+                474,
+                824,
+                515,
+                839
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    474,
+                    824,
+                    515,
+                    839
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 65,
+              "is_list_end_line": true
             }
           ],
-          "index": 64.5,
+          "index": 63,
           "bbox_fs": [
             454,
             756,
             746,
-            821
+            839
           ]
         },
         {
@@ -7287,15 +8100,15 @@
                     746,
                     861
                   ],
-                  "score": 0.933,
+                  "score": 0.927,
                   "content": ":것발을내걸자마자승리를얻다",
                   "type": "text"
                 }
               ],
-              "index": 67
+              "index": 66
             }
           ],
-          "index": 67,
+          "index": 66,
           "bbox_fs": [
             545,
             846,
@@ -7344,14 +8157,24 @@
                   ]
                 }
               ],
-              "index": 74,
+              "index": 72.5,
               "virtual_lines": [
                 {
                   "bbox": [
                     444,
                     873,
                     755,
-                    887.8461538461538
+                    889.0833333333334
+                  ],
+                  "spans": [],
+                  "index": 67
+                },
+                {
+                  "bbox": [
+                    444,
+                    889.0833333333334,
+                    755,
+                    905.1666666666667
                   ],
                   "spans": [],
                   "index": 68
@@ -7359,9 +8182,9 @@
                 {
                   "bbox": [
                     444,
-                    887.8461538461538,
+                    905.1666666666667,
                     755,
-                    902.6923076923076
+                    921.2500000000001
                   ],
                   "spans": [],
                   "index": 69
@@ -7369,9 +8192,9 @@
                 {
                   "bbox": [
                     444,
-                    902.6923076923076,
+                    921.2500000000001,
                     755,
-                    917.5384615384614
+                    937.3333333333335
                   ],
                   "spans": [],
                   "index": 70
@@ -7379,9 +8202,9 @@
                 {
                   "bbox": [
                     444,
-                    917.5384615384614,
+                    937.3333333333335,
                     755,
-                    932.3846153846152
+                    953.4166666666669
                   ],
                   "spans": [],
                   "index": 71
@@ -7389,9 +8212,9 @@
                 {
                   "bbox": [
                     444,
-                    932.3846153846152,
+                    953.4166666666669,
                     755,
-                    947.230769230769
+                    969.5000000000002
                   ],
                   "spans": [],
                   "index": 72
@@ -7399,9 +8222,9 @@
                 {
                   "bbox": [
                     444,
-                    947.230769230769,
+                    969.5000000000002,
                     755,
-                    962.0769230769229
+                    985.5833333333336
                   ],
                   "spans": [],
                   "index": 73
@@ -7409,9 +8232,9 @@
                 {
                   "bbox": [
                     444,
-                    962.0769230769229,
+                    985.5833333333336,
                     755,
-                    976.9230769230767
+                    1001.666666666667
                   ],
                   "spans": [],
                   "index": 74
@@ -7419,9 +8242,9 @@
                 {
                   "bbox": [
                     444,
-                    976.9230769230767,
+                    1001.666666666667,
                     755,
-                    991.7692307692305
+                    1017.7500000000003
                   ],
                   "spans": [],
                   "index": 75
@@ -7429,9 +8252,9 @@
                 {
                   "bbox": [
                     444,
-                    991.7692307692305,
+                    1017.7500000000003,
                     755,
-                    1006.6153846153843
+                    1033.8333333333337
                   ],
                   "spans": [],
                   "index": 76
@@ -7439,9 +8262,9 @@
                 {
                   "bbox": [
                     444,
-                    1006.6153846153843,
+                    1033.8333333333337,
                     755,
-                    1021.4615384615381
+                    1049.916666666667
                   ],
                   "spans": [],
                   "index": 77
@@ -7449,37 +8272,17 @@
                 {
                   "bbox": [
                     444,
-                    1021.4615384615381,
+                    1049.916666666667,
                     755,
-                    1036.307692307692
+                    1066.0000000000002
                   ],
                   "spans": [],
                   "index": 78
-                },
-                {
-                  "bbox": [
-                    444,
-                    1036.307692307692,
-                    755,
-                    1051.1538461538457
-                  ],
-                  "spans": [],
-                  "index": 79
-                },
-                {
-                  "bbox": [
-                    444,
-                    1051.1538461538457,
-                    755,
-                    1065.9999999999995
-                  ],
-                  "spans": [],
-                  "index": 80
                 }
               ]
             }
           ],
-          "index": 74
+          "index": 72.5
         }
       ]
     },
@@ -7576,7 +8379,7 @@
                     397,
                     219
                   ],
-                  "score": 0.545,
+                  "score": 0.538,
                   "content": ",",
                   "type": "text"
                 }
@@ -7598,7 +8401,7 @@
                     397,
                     237
                   ],
-                  "score": 0.599,
+                  "score": 0.583,
                   "content": ",",
                   "type": "text"
                 }
@@ -7620,7 +8423,7 @@
                     391,
                     254
                   ],
-                  "score": 0.814,
+                  "score": 0.818,
                   "content": ",",
                   "type": "text"
                 }
@@ -7642,7 +8445,7 @@
                     389,
                     271
                   ],
-                  "score": 0.894,
+                  "score": 0.891,
                   "content": ",",
                   "type": "text"
                 }
@@ -7664,7 +8467,7 @@
                     397,
                     293
                   ],
-                  "score": 0.82,
+                  "score": 0.811,
                   "content": "*:정치*:중심*:올림픽",
                   "type": "text"
                 }
@@ -7736,7 +8539,7 @@
                     268,
                     321
                   ],
-                  "score": 0.946,
+                  "score": 0.97,
                   "content": "현재 인구는 약 2,100만 명이다.",
                   "type": "text"
                 }
@@ -7773,7 +8576,7 @@
                     271,
                     339
                   ],
-                  "score": 0.967,
+                  "score": 0.987,
                   "content": "중국의 정치와 문화의 중심이다.",
                   "type": "text"
                 }
@@ -7811,7 +8614,7 @@
                     314,
                     356
                   ],
-                  "score": 0.927,
+                  "score": 0.925,
                   "content": "하계·동계 올림픽이 각각 1번씩 열렸다.",
                   "type": "text"
                 }
@@ -7849,7 +8652,7 @@
                     324,
                     374
                   ],
-                  "score": 0.884,
+                  "score": 0.885,
                   "content": "원()·명()·청() 시기에도 수도였다.",
                   "type": "text"
                 }
@@ -7887,7 +8690,7 @@
                     344,
                     391
                   ],
-                  "score": 0.921,
+                  "score": 0.923,
                   "content": "유명한 음식으로는 마파두부()가 있다.",
                   "type": "text"
                 }
@@ -7929,8 +8732,8 @@
                     583,
                     174
                   ],
-                  "score": 0.89,
-                  "content": "27.빈간에 들어갈말을<보기",
+                  "score": 0.866,
+                  "content": "27.빈간에 들어갈 말을<보기",
                   "type": "text"
                 },
                 {
@@ -7951,7 +8754,7 @@
                     756,
                     174
                   ],
-                  "score": 0.867,
+                  "score": 0.881,
                   "content": "이낱말카드로완성할때순서대로",
                   "type": "text"
                 }
@@ -7973,8 +8776,8 @@
                     578,
                     193
                   ],
-                  "score": 0.972,
-                  "content": "바르게 배열한 것은?[1점]",
+                  "score": 0.921,
+                  "content": "바르게 배열한 것은? [1점]",
                   "type": "text"
                 }
               ],
@@ -8013,7 +8816,7 @@
                     547,
                     219
                   ],
-                  "score": 0.952,
+                  "score": 0.957,
                   "content": "A:?",
                   "type": "text"
                 }
@@ -8343,7 +9146,7 @@
                     347,
                     480
                   ],
-                  "score": 0.739,
+                  "score": 0.664,
                   "content": "A:“”?",
                   "type": "text"
                 }
@@ -8387,8 +9190,8 @@
                     375,
                     515
                   ],
-                  "score": 0.636,
-                  "content": "“”",
+                  "score": 0.669,
+                  "content": "“”,",
                   "type": "text"
                 }
               ],
@@ -8594,7 +9397,7 @@
                     649,
                     450
                   ],
-                  "score": 0.887,
+                  "score": 0.89,
                   "content": "28. 문장 표현이 옳은 것만을 고른 것은?",
                   "type": "text"
                 }
@@ -8678,7 +9481,7 @@
                     572,
                     512
                   ],
-                  "score": 0.805,
+                  "score": 0.806,
                   "content": "C.",
                   "type": "text"
                 }
@@ -8760,6 +9563,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    542,
+                    506,
+                    561
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     543,
                     520,
@@ -8781,6 +9595,17 @@
                   ],
                   "score": 0.649,
                   "content": "a, c",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    567,
+                    541,
+                    568,
+                    561
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -8810,6 +9635,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    541,
+                    629,
+                    560
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     629,
                     543,
                     642,
@@ -8831,6 +9667,17 @@
                   ],
                   "score": 0.881,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    687,
+                    542,
+                    690,
+                    561
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -8894,7 +9741,7 @@
                     407,
                     624
                   ],
-                  "score": 0.888,
+                  "score": 0.882,
                   "content": "25.‘홍루몽()'에 관한글을이해한 내용으로알맞지 않은",
                   "type": "text"
                 }
@@ -8956,12 +9803,34 @@
                     391,
                     668
                   ],
-                  "score": 0.613,
+                  "score": 0.614,
                   "content": "« ,",
                   "type": "text"
                 }
               ],
               "index": 38
+            },
+            {
+              "bbox": [
+                107,
+                690,
+                391,
+                703
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    107,
+                    690,
+                    391,
+                    703
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 39
             },
             {
               "bbox": [
@@ -8978,196 +9847,53 @@
                     397,
                     720
                   ],
-                  "score": 0.592,
+                  "score": 0.562,
                   "content": ",,",
                   "type": "text"
                 }
               ],
-              "index": 39
+              "index": 40
+            },
+            {
+              "bbox": [
+                106,
+                723,
+                178,
+                738
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    106,
+                    723,
+                    178,
+                    738
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 41
             }
           ],
-          "index": 38.5,
+          "index": 39.5,
           "bbox_fs": [
             106,
             655,
             397,
-            720
+            738
           ]
         },
         {
           "type": "text",
           "bbox": [
-            435,
-            611,
-            610,
-            627
+            183,
+            745,
+            397,
+            760
           ],
           "lines": [
-            {
-              "bbox": [
-                434,
-                609,
-                611,
-                629
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    434,
-                    609,
-                    611,
-                    629
-                  ],
-                  "score": 0.903,
-                  "content": "29. 문장 표현이 옳지 않은 것은?",
-                  "type": "text"
-                }
-              ],
-              "index": 40
-            }
-          ],
-          "index": 40,
-          "bbox_fs": [
-            434,
-            609,
-            611,
-            629
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            444,
-            632,
-            576,
-            717
-          ],
-          "lines": [
-            {
-              "bbox": [
-                446,
-                632,
-                459,
-                647
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    632,
-                    459,
-                    647
-                  ],
-                  "score": 0.84,
-                  "content": "①",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                }
-              ],
-              "index": 41
-            },
-            {
-              "bbox": [
-                446,
-                650,
-                459,
-                664
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    650,
-                    459,
-                    664
-                  ],
-                  "score": 0.85,
-                  "content": "②",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                }
-              ],
-              "index": 42
-            },
-            {
-              "bbox": [
-                446,
-                667,
-                459,
-                681
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    667,
-                    459,
-                    681
-                  ],
-                  "score": 0.86,
-                  "content": "③",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                }
-              ],
-              "index": 43
-            },
-            {
-              "bbox": [
-                446,
-                685,
-                459,
-                699
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    685,
-                    459,
-                    699
-                  ],
-                  "score": 0.87,
-                  "content": "④",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                }
-              ],
-              "index": 44
-            },
-            {
-              "bbox": [
-                446,
-                702,
-                459,
-                715
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    446,
-                    702,
-                    459,
-                    715
-                  ],
-                  "score": 0.84,
-                  "content": "⑤",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                }
-              ],
-              "index": 45
-            },
             {
               "bbox": [
                 184,
@@ -9232,34 +9958,16 @@
                   "type": "text"
                 }
               ],
-              "index": 46
+              "index": 42
             }
           ],
-          "index": 43,
-          "bbox_fs": [
-            446,
-            632,
-            459,
-            715
-          ]
-        },
-        {
-          "type": "text",
-          "bbox": [
-            183,
-            745,
-            397,
-            760
-          ],
-          "lines": [],
-          "index": 46,
+          "index": 42,
           "bbox_fs": [
             184,
             745,
             398,
             759
-          ],
-          "lines_deleted": true
+          ]
         },
         {
           "type": "list",
@@ -9299,12 +10007,12 @@
                     333,
                     788
                   ],
-                  "score": 0.911,
+                  "score": 0.901,
                   "content": "명청() 시기의 유명한 소설 중 하나이다.",
                   "type": "text"
                 }
               ],
-              "index": 47,
+              "index": 43,
               "is_list_end_line": true
             },
             {
@@ -9336,12 +10044,12 @@
                     338,
                     805
                   ],
-                  "score": 0.962,
+                  "score": 0.941,
                   "content": "120년 전의 가()씨 집안에 관한 이야기이다.",
                   "type": "text"
                 }
               ],
-              "index": 48,
+              "index": 44,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -9374,12 +10082,12 @@
                     345,
                     822
                   ],
-                  "score": 0.933,
+                  "score": 0.93,
                   "content": "당시의 사회 및 사람들의 생활상을 알 수 있다.",
                   "type": "text"
                 }
               ],
-              "index": 49,
+              "index": 45,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -9412,12 +10120,12 @@
                     356,
                     839
                   ],
-                  "score": 0.974,
+                  "score": 0.975,
                   "content": "여러 외국어로 번역되어 다른 나라에 소개되었다.",
                   "type": "text"
                 }
               ],
-              "index": 50,
+              "index": 46,
               "is_list_start_line": true,
               "is_list_end_line": true
             },
@@ -9450,7 +10158,7 @@
                     407,
                     857
                   ],
-                  "score": 0.855,
+                  "score": 0.854,
                   "content": "가보옥()과 임대옥() 등 많은 인물을 묘사했다.",
                   "type": "text"
                 }
@@ -9460,12 +10168,250 @@
               "is_list_end_line": true
             }
           ],
-          "index": 49,
+          "index": 45,
           "bbox_fs": [
             97,
             773,
             407,
             857
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            435,
+            611,
+            610,
+            627
+          ],
+          "lines": [
+            {
+              "bbox": [
+                434,
+                609,
+                611,
+                629
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    434,
+                    609,
+                    611,
+                    629
+                  ],
+                  "score": 0.894,
+                  "content": "29. 문장 표현이 옳지 않은 것은?",
+                  "type": "text"
+                }
+              ],
+              "index": 48
+            }
+          ],
+          "index": 48,
+          "bbox_fs": [
+            434,
+            609,
+            611,
+            629
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            444,
+            632,
+            576,
+            717
+          ],
+          "lines": [
+            {
+              "bbox": [
+                446,
+                632,
+                567,
+                647
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    632,
+                    459,
+                    647
+                  ],
+                  "score": 0.84,
+                  "content": "①",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    633,
+                    567,
+                    646
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 47
+            },
+            {
+              "bbox": [
+                446,
+                649,
+                567,
+                664
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    650,
+                    459,
+                    664
+                  ],
+                  "score": 0.85,
+                  "content": "②",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    649,
+                    567,
+                    664
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 49
+            },
+            {
+              "bbox": [
+                446,
+                666,
+                567,
+                682
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    667,
+                    459,
+                    681
+                  ],
+                  "score": 0.86,
+                  "content": "③",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    666,
+                    567,
+                    682
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 50
+            },
+            {
+              "bbox": [
+                446,
+                684,
+                567,
+                700
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    685,
+                    459,
+                    699
+                  ],
+                  "score": 0.87,
+                  "content": "④",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    684,
+                    567,
+                    700
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 52
+            },
+            {
+              "bbox": [
+                446,
+                702,
+                577,
+                716
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    446,
+                    702,
+                    459,
+                    715
+                  ],
+                  "score": 0.84,
+                  "content": "⑤",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    702,
+                    577,
+                    716
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 53
+            }
+          ],
+          "index": 50,
+          "bbox_fs": [
+            446,
+            632,
+            577,
+            716
           ]
         },
         {
@@ -9492,15 +10438,15 @@
                     702,
                     787
                   ],
-                  "score": 0.87,
+                  "score": 0.878,
                   "content": "30. 문장 표현이 옳은 것만을 있는 대로 고른 것은?",
                   "type": "text"
                 }
               ],
-              "index": 52
+              "index": 54
             }
           ],
-          "index": 52,
+          "index": 54,
           "bbox_fs": [
             434,
             768,
@@ -9532,12 +10478,12 @@
                     542,
                     813
                   ],
-                  "score": 0.941,
+                  "score": 0.943,
                   "content": "a.?",
                   "type": "text"
                 }
               ],
-              "index": 53
+              "index": 55
             },
             {
               "bbox": [
@@ -9559,7 +10505,7 @@
                   "type": "text"
                 }
               ],
-              "index": 54
+              "index": 56
             },
             {
               "bbox": [
@@ -9576,15 +10522,15 @@
                     563,
                     847
                   ],
-                  "score": 0.87,
+                  "score": 0.863,
                   "content": "C.?",
                   "type": "text"
                 }
               ],
-              "index": 55
+              "index": 57
             }
           ],
-          "index": 54,
+          "index": 56,
           "bbox_fs": [
             453,
             799,
@@ -9632,6 +10578,17 @@
                   ],
                   "score": 0.86,
                   "content": "a",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    505,
+                    860,
+                    506,
+                    880
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -9686,6 +10643,17 @@
                 },
                 {
                   "bbox": [
+                    626,
+                    860,
+                    629,
+                    880
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     630,
                     862,
                     642,
@@ -9707,6 +10675,17 @@
                   ],
                   "score": 0.762,
                   "content": "b,c",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    689,
+                    861,
+                    690,
+                    879
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -9735,10 +10714,10 @@
                   "type": "text"
                 }
               ],
-              "index": 56
+              "index": 58
             }
           ],
-          "index": 56,
+          "index": 58,
           "bbox_fs": [
             445,
             860,
@@ -9770,15 +10749,15 @@
                     399,
                     921
                   ],
-                  "score": 0.884,
+                  "score": 0.883,
                   "content": "26.‘충칭휘귀()'에 관한 글에서 언급되지 않은것은?",
                   "type": "text"
                 }
               ],
-              "index": 57
+              "index": 59
             }
           ],
-          "index": 57,
+          "index": 59,
           "bbox_fs": [
             85,
             901,
@@ -9795,6 +10774,28 @@
             1016
           ],
           "lines": [
+            {
+              "bbox": [
+                245,
+                933,
+                397,
+                946
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    245,
+                    933,
+                    397,
+                    946
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 60
+            },
             {
               "bbox": [
                 222,
@@ -9815,7 +10816,29 @@
                   "type": "text"
                 }
               ],
-              "index": 59
+              "index": 62
+            },
+            {
+              "bbox": [
+                222,
+                966,
+                397,
+                982
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    222,
+                    966,
+                    397,
+                    982
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                }
+              ],
+              "index": 63
             },
             {
               "bbox": [
@@ -9832,42 +10855,42 @@
                     397,
                     998
                   ],
-                  "score": 0.57,
+                  "score": 0.594,
                   "content": ",",
                   "type": "text"
                 }
               ],
-              "index": 60
+              "index": 64
             },
             {
               "bbox": [
-                262,
-                1024,
-                397,
-                1038
+                222,
+                1001,
+                294,
+                1016
               ],
               "spans": [
                 {
                   "bbox": [
-                    262,
-                    1024,
-                    397,
-                    1038
+                    222,
+                    1001,
+                    294,
+                    1016
                   ],
-                  "score": 0.828,
-                  "content": "*:끓이다 *:얼얼하다",
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 }
               ],
-              "index": 62
+              "index": 66
             }
           ],
-          "index": 59.5,
+          "index": 63,
           "bbox_fs": [
             222,
-            950,
+            933,
             397,
-            998
+            1016
           ]
         },
         {
@@ -9911,7 +10934,7 @@
                   ]
                 }
               ],
-              "index": 59.5,
+              "index": 63.0,
               "virtual_lines": [
                 {
                   "bbox": [
@@ -9921,7 +10944,7 @@
                     986.5
                   ],
                   "spans": [],
-                  "index": 58
+                  "index": 61
                 },
                 {
                   "bbox": [
@@ -9931,12 +10954,12 @@
                     1047.0
                   ],
                   "spans": [],
-                  "index": 61
+                  "index": 65
                 }
               ]
             }
           ],
-          "index": 59.5
+          "index": 63.0
         },
         {
           "type": "text",
@@ -9946,15 +10969,37 @@
             397,
             1038
           ],
-          "lines": [],
-          "index": 62,
+          "lines": [
+            {
+              "bbox": [
+                262,
+                1024,
+                397,
+                1038
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    262,
+                    1024,
+                    397,
+                    1038
+                  ],
+                  "score": 0.828,
+                  "content": "*:끓이다 *:얼얼하다",
+                  "type": "text"
+                }
+              ],
+              "index": 67
+            }
+          ],
+          "index": 67,
           "bbox_fs": [
             262,
             1024,
             397,
             1038
-          ],
-          "lines_deleted": true
+          ]
         },
         {
           "type": "text",
@@ -10025,6 +11070,17 @@
                 },
                 {
                   "bbox": [
+                    218,
+                    1050,
+                    219,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     219,
                     1051,
                     232,
@@ -10046,6 +11102,17 @@
                   ],
                   "score": 0.988,
                   "content": "재료",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    279,
+                    1050,
+                    280,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -10075,6 +11142,17 @@
                 },
                 {
                   "bbox": [
+                    339,
+                    1049,
+                    341,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     342,
                     1051,
                     355,
@@ -10099,10 +11177,10 @@
                   "type": "text"
                 }
               ],
-              "index": 63
+              "index": 68
             }
           ],
-          "index": 63,
+          "index": 68,
           "bbox_fs": [
             97,
             1049,
@@ -10139,10 +11217,10 @@
                   "type": "text"
                 }
               ],
-              "index": 64
+              "index": 69
             }
           ],
-          "index": 64,
+          "index": 69,
           "bbox_fs": [
             446,
             1007,
@@ -10174,12 +11252,12 @@
                     744,
                     1044
                   ],
-                  "score": 0.979,
+                  "score": 0.967,
                   "content": "ㅇ답안지의 해당란에 필요한 내용을 정확히 기입(표기) 했는지 확인",
                   "type": "text"
                 }
               ],
-              "index": 65
+              "index": 70
             },
             {
               "bbox": [
@@ -10201,10 +11279,10 @@
                   "type": "text"
                 }
               ],
-              "index": 66
+              "index": 71
             }
           ],
-          "index": 65.5,
+          "index": 70.5,
           "bbox_fs": [
             447,
             1031,
@@ -10216,5 +11294,5 @@
     }
   ],
   "_backend": "pipeline",
-  "_version_name": "2.5.4"
+  "_version_name": "2.6.2"
 }

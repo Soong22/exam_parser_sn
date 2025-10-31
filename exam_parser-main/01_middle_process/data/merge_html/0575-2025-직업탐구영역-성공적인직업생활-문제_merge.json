@@ -211,7 +211,7 @@
   },
   {
     "type": "text",
-    "text": "2. 다음 [NCS  직업기초능력 수행 평가 활동지]의 (가)",
+    "text": ". 다음 [NCS  직업기초능력 수행 평가 활동지]의 (가)～",
     "bbox": [
       86,
       626,
@@ -222,10 +222,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9615,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 564,
-      "end_orig": 598,
+      "start_orig": 565,
+      "end_orig": 599,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -271,7 +271,7 @@
   },
   {
     "type": "text",
-    "text": "[NCS  직업기초능력  수행  평가  활동지]",
+    "text": "[NCS  직업기초능력 수행 평가 활동지]",
     "bbox": [
       156,
       675,
@@ -284,8 +284,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 633,
-      "end_orig": 659,
+      "start_orig": 570,
+      "end_orig": 593,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -398,7 +398,7 @@
       905
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>주제어</td><td rowspan=1 colspan=1>정의</td><td rowspan=1 colspan=1>하위 영역</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>업무를수행함에있어원만한 직업생활을위해 필요한 태도, 매너, 올바른 직업관</td><td rowspan=1 colspan=1>근로 윤리,공동체윤리</td></tr><tr><td rowspan=1 colspan=1>(나)</td><td rowspan=1 colspan=1>업무수행 중문제상황이발생하였을경우창조적이고 논리적인 사고를 통하여 이를올바르게 인식하고적절히해결하는 능력</td><td rowspan=1 colspan=1>사고력,문제처리능력</td></tr><tr><td rowspan=1 colspan=1>대인관계능력</td><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>갈등관리능력고객 서비스능력</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>주제어</td><td rowspan=1 colspan=1>정의</td><td rowspan=1 colspan=1>하위 영역</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>업무를수행함에있어원만한 직업생활을위해 필요한 태도, 매너, 올바른 직업관</td><td rowspan=1 colspan=1>근로 윤리,공동체윤리</td></tr><tr><td rowspan=1 colspan=1>(나)</td><td rowspan=1 colspan=1>업무수행 중문제상황이발생하였을경우,창조적이고 논리적인 사고를 통하여 이를올바르게 인식하고적절히해결하는 능력</td><td rowspan=1 colspan=1>사고력,문제처리능력</td></tr><tr><td rowspan=1 colspan=1>대인관계능력</td><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>갈등관리능력고객 서비스능력</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "1f75ad321ddc351d184006b140fc9bd0e40a935bc97cfd6d69383568c9853a39.jpg",
@@ -857,7 +857,7 @@
       903
     ],
     "page_idx": 0,
-    "table_body": "<table><tr><td colspan=\"2\">* 이직():고용보험 피보험자인 근로자와 사업주 사이의 고용관계가 끝나게 되는 것</td></tr><tr><td></td><td>등록일:2024년8월 2일</td></tr><tr><td>답변</td><td>(가)</td></tr></table>",
+    "table_body": "<table><tr><td colspan=\"2\">* 이직():고용보험 피보험자인 근로자와 사업주 사이의 고용관계가 끝나게 되는 것</td></tr><tr><td></td><td>등록일:2024년 8월 2일</td></tr><tr><td>답변</td><td>(가)</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "91e2bcbb64492795b7c537d40244155e4ec27a05f751d7999ad0a76eae77524b.jpg",
@@ -1036,16 +1036,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9811,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2094,
       "end_orig": 2162,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ [5~6]다음은 무인점포 창업 사례이다.물음에 답하시오.",
+    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ\n구분 수정 전 사업 계획서 수정 후 사업 계획서\n기업 형태 ",
     "bbox": [
       85,
       155,
@@ -1055,12 +1055,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
+      "replaced": true,
       "similarity": 0.4706,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2162,
       "end_orig": 2231,
-      "reason": "low_similarity"
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -1132,7 +1132,7 @@
       401
     ],
     "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>수정전 사업계획서</td><td rowspan=1 colspan=1>수정 후사업계획서</td></tr><tr><td rowspan=1 colspan=1>기업 형태</td><td rowspan=1 colspan=1>법인기업(유한회사)</td><td rowspan=1 colspan=1>개인 기업</td></tr><tr><td rowspan=1 colspan=1>창업방법</td><td rowspan=1 colspan=1>신규기업창업</td><td rowspan=1 colspan=1>프랜차이즈창업</td></tr><tr><td rowspan=1 colspan=1>창업자본</td><td rowspan=1 colspan=1>2,000만원</td><td rowspan=1 colspan=1>2,000만원</td></tr><tr><td rowspan=1 colspan=1>자금용도</td><td rowspan=1 colspan=1>시설 구축비: 1,400만원인건비:200만원재료비:400만원</td><td rowspan=1 colspan=1>장비 구입비:1,450만원광고비: 50만원재료비: 500만원</td></tr><tr><td rowspan=1 colspan=1>자금조달계획</td><td rowspan=1 colspan=1>무이자 정책 자금 대출금: 1,200만 원공동 창업자 출자금:800만 원</td><td rowspan=1 colspan=1>소상공인대출금: 1,000만 원A의 퇴직금: 1,000만 원</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>수정전 사업계획서</td><td rowspan=1 colspan=1>수정 후사업계획서</td></tr><tr><td rowspan=1 colspan=1>기업 형태</td><td rowspan=1 colspan=1>법인기업(유한회사)</td><td rowspan=1 colspan=1>개인 기업</td></tr><tr><td rowspan=1 colspan=1>창업방법</td><td rowspan=1 colspan=1>신규기업창업</td><td rowspan=1 colspan=1>프랜차이즈창업</td></tr><tr><td rowspan=1 colspan=1>창업자본</td><td rowspan=1 colspan=1>2,000만원</td><td rowspan=1 colspan=1>2,000만원</td></tr><tr><td rowspan=1 colspan=1>자금용도</td><td rowspan=1 colspan=1>시설 구축비: 1,400만원인건비:200만원재료비:400만원</td><td rowspan=1 colspan=1>장비 구입비: 1,450만원광고비: 50만원재료비: 500만원</td></tr><tr><td rowspan=1 colspan=1>자금조달계획</td><td rowspan=1 colspan=1>무이자정책자금대출금: 1,200만원공동 창업자 출자금:800만 원</td><td rowspan=1 colspan=1>소상공인 대출금 : 1,000만 원A의 퇴직금: 1,000만 원</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "a7b6325bef6afc66f7f57b0df30e3c6ea7809ac498cdb5cf9b7237270908e7b3.jpg",
@@ -1200,7 +1200,7 @@
   },
   {
     "type": "text",
-    "text": "③ 수정 전 사업 계획서의 기업 형태는 증권을 발행하여 일반 대중 으로부터 자본을 조달할 수 있다.",
+    "text": "③ 수정 전 사업 계획서의 기업 형태는 증권을 발행하여 일반 대중 으로부터 자본을 조달할 수 있다.\n",
     "bbox": [
       97,
       530,
@@ -1214,13 +1214,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2631,
-      "end_orig": 2686,
+      "end_orig": 2687,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 수정 후 사업 계획서의 기업 형태에서 사업자는 회사의 채무에 대해 창업 자본을 한도로 책임을 진다.",
+    "text": "④ 수정 후 사업 계획서의 기업 형태에서 사업자는 회사의 채무에 대해 창업 자본을 한도로 책임을 진다.\n",
     "bbox": [
       97,
       563,
@@ -1234,13 +1234,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2687,
-      "end_orig": 2744,
+      "end_orig": 2745,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 수정 전 사업 계획서의 기업 형태에서는 정관에 다른 규정이 없는 때에는 이사회에서 선임된 대표이사가 회사의 업무를 집행한다.",
+    "text": "⑤ 수정 전 사업 계획서의 기업 형태에서는 정관에 다른 규정이 없는 때에는 이사회에서 선임된 대표이사가 회사의 업무를 집행한다.\n",
     "bbox": [
       97,
       596,
@@ -1254,7 +1254,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2745,
-      "end_orig": 2816,
+      "end_orig": 2817,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1271,7 +1271,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9841,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2817,
       "end_orig": 2859,
@@ -1311,11 +1311,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9737,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2867,
       "end_orig": 2917,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1340,7 +1340,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 수정 후 사업 계획서에서 창업 자본에 대한 운전 자금의 비율은 수정 전 사업 계획서에 비해 감소하였다.\n",
+    "text": "ㄷ. 수정 후 사업 계획서에서 창업 자본에 대한 운전 자금의 비율은 수정 전 사업 계획서에 비해 감소하였다.",
     "bbox": [
       108,
       766,
@@ -1351,11 +1351,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9773,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2988,
-      "end_orig": 3049,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 3048,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1400,7 +1400,7 @@
   },
   {
     "type": "text",
-    "text": "7. 다음 인터뷰에 나타난 직업 윤리로 가장 적절한 것은?",
+    "text": ". 다음 인터뷰에 나타난 직업 윤리로 가장 적절한 것은?\n",
     "bbox": [
       85,
       889,
@@ -1411,10 +1411,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9787,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3150,
-      "end_orig": 3182,
+      "start_orig": 3151,
+      "end_orig": 3183,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2106,11 +2106,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9231,
+      "similarity": 0.9385,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3459,
       "end_orig": 3536,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2235,7 +2235,7 @@
   },
   {
     "type": "text",
-    "text": "① 간병급여를 신청하여 지급받을 수 있다.",
+    "text": "① 간병급여를 신청하여 지급받을 수 있다.\n",
     "bbox": [
       446,
       968,
@@ -2249,13 +2249,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3899,
-      "end_orig": 3922,
+      "end_orig": 3923,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "② 직업재활급여를 신청하여 지급받을 수 있다.",
+    "text": "② 직업재활급여를 신청하여 지급받을 수 있다.\n",
     "bbox": [
       446,
       986,
@@ -2269,13 +2269,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3923,
-      "end_orig": 3948,
+      "end_orig": 3949,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "③ 최초 부상의 업무상 재해 인정 사유는 ‘업무상 질병’에 해당한다.",
+    "text": "③ 최초 부상의 업무상 재해 인정 사유는 ‘업무상 질병’에 해당한다.\n",
     "bbox": [
       446,
       1002,
@@ -2289,13 +2289,13 @@
       "similarity": 0.931,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3949,
-      "end_orig": 3987,
+      "end_orig": 3988,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "④ 연장된 치료 기간에 대해 상병급여를 신청하여 지급받을 수 있다.",
+    "text": "④ 연장된 치료 기간에 대해 상병급여를 신청하여 지급받을 수 있다.\n",
     "bbox": [
       446,
       1018,
@@ -2309,13 +2309,13 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3988,
-      "end_orig": 4025,
+      "end_orig": 4026,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 요양으로 취업하지 못한 기간에 대해 휴업급여를 신청하여 지급 받을 수 있다.",
+    "text": "⑤ 요양으로 취업하지 못한 기간에 대해 휴업급여를 신청하여 지급 받을 수 있다.\n",
     "bbox": [
       446,
       1036,
@@ -2329,7 +2329,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4026,
-      "end_orig": 4070,
+      "end_orig": 4071,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2515,42 +2515,22 @@
   },
   {
     "type": "text",
-    "text": "ㄴ. 직업안정기관의 소개에 따라 먼 거리에 있는 직장으로 구직 활동을 한 자에게 교통비,  숙박비 등의 소요 비용을 지급한다.",
+    "text": "ㄴ. 직업안정기관의 소개에 따라 먼 거리에 있는 직장으로 구직 활동을 한 자에게 교통비,  숙박비 등의 소요 비용을 지급한다.\nㄷ. 취업이 특히 곤란하고 생활이 어려운 자로서 직업안정기관의 장이 인정 시 소정급여일수를 초과하여 일정 금액을 지급한다.",
     "bbox": [
       107,
       351,
       398,
-      384
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9903,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 4254,
-      "end_orig": 4324,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "ㄷ. 취업이 특히 곤란하고 생활이 어려운 자로서 직업안정기관의 장이 인정 시 소정급여일수를 초과하여 일정 금액을 지급한다.\n",
-    "bbox": [
-      108,
-      385,
-      397,
       416
     ],
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9811,
+      "similarity": 0.9904,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4325,
-      "end_orig": 4394,
-      "reason": "anchor_rescue+left_extend"
+      "start_orig": 4254,
+      "end_orig": 4393,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3210,7 +3190,7 @@
   },
   {
     "type": "text",
-    "text": "빈 칸에 들어갈(가)~(라)시기의 발달 과업을 각각 하나씩말해 볼까요?",
+    "text": "빈 칸에 들어갈(가)~(라)시기의 발달 과업을 각각 하나씩 말해 볼까요?",
     "bbox": [
       469,
       592,
@@ -3437,7 +3417,7 @@
       371
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명(상시 근로자 수)</td><td rowspan=1 colspan=1>A문구(4명)</td><td rowspan=1 colspan=1>B서점(30명)</td></tr><tr><td rowspan=1 colspan=1>근로자</td><td rowspan=1 colspan=1>갑(남,22세)</td><td rowspan=1 colspan=1>을(남,28세)</td></tr><tr><td rowspan=1 colspan=1>근로계약 기간</td><td rowspan=1 colspan=1>2023.1.1.부터2023.6.30.까지</td><td rowspan=1 colspan=1>2023.1.1.부터(신입 사원으로 업무 개시)</td></tr><tr><td rowspan=1 colspan=1>소정근로시간(휴게시간)</td><td rowspan=1 colspan=1>9시~18시(12시~13시)</td><td rowspan=1 colspan=1>9시~17시(12시~13시)</td></tr><tr><td rowspan=1 colspan=1>근무일/휴일</td><td rowspan=1 colspan=2>매주 월~금요일/주휴일매주일요일</td></tr><tr><td rowspan=1 colspan=1>임금</td><td rowspan=1 colspan=2>시급20,000원</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명(상시 근로자 수)</td><td rowspan=1 colspan=1>A문구(4명)</td><td rowspan=1 colspan=1>B서점(30명)</td></tr><tr><td rowspan=1 colspan=1>근로자</td><td rowspan=1 colspan=1>갑(남,22세)</td><td rowspan=1 colspan=1>을(남,28세)</td></tr><tr><td rowspan=1 colspan=1>근로계약 기간</td><td rowspan=1 colspan=1>2023.1.1.부터2023.6.30.까지</td><td rowspan=1 colspan=1>2023.1.1.부터(신입 사원으로업무 개시)</td></tr><tr><td rowspan=1 colspan=1>소정근로시간(휴게시간)</td><td rowspan=1 colspan=1>9시~18시(12시~13시)</td><td rowspan=1 colspan=1>9시~17시(12시~13시)</td></tr><tr><td rowspan=1 colspan=1>근무일/휴일</td><td rowspan=1 colspan=2>매주 월~금요일/주휴일매주일요일</td></tr><tr><td rowspan=1 colspan=1>임금</td><td rowspan=1 colspan=2>시급20,000원</td></tr></table>",
     "table_caption": [
       "[갑,을의 근로계약 내용]"
     ],
@@ -3487,7 +3467,7 @@
   },
   {
     "type": "text",
-    "text": "-첫째 주(2023. 4.3.(월)~2023. 4.9.(일))",
+    "text": "-첫째 주(2023.4.3.(월)~2023. 4.9.(일))",
     "bbox": [
       106,
       410,
@@ -3642,7 +3622,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ. A 문구 사용자와 B 서점 사용자는 긴박한 경영상의 어려움을 이유로 근로자를 해고할 경우 해고사유와 해고시기를 서면으로 통지해야 한다.\n",
+    "text": "ㄹ. A 문구 사용자와 B 서점 사용자는 긴박한 경영상의 어려움을 이유로 근로자를 해고할 경우 해고사유와 해고시기를 서면으로 통지해야 한다.",
     "bbox": [
       106,
       582,
@@ -3653,11 +3633,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9833,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7012,
-      "end_orig": 7091,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 7090,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3940,7 +3920,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 최종점수의 합계가 높은 학생부터 순서대로 나열하면 학생 A,  B,  C  순이다.\n",
+    "text": "ㄷ. 최종점수의 합계가 높은 학생부터 순서대로 나열하면 학생 A,  B,  C  순이다.",
     "bbox": [
       108,
       1005,
@@ -3951,11 +3931,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9714,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7291,
-      "end_orig": 7341,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 7340,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {

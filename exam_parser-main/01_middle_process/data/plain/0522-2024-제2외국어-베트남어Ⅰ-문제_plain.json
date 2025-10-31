@@ -196,148 +196,12 @@
                     291,
                     272
                   ],
-                  "score": 0.92,
+                  "score": 0.924,
                   "content": "1.에 공통으로 들어갈 글자는? [1점]",
                   "type": "text"
                 }
               ],
               "index": 6
-            },
-            {
-              "bbox": [
-                97,
-                383,
-                374,
-                406
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    97,
-                    386,
-                    110,
-                    400
-                  ],
-                  "score": 0.52,
-                  "content": "①",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    110,
-                    384,
-                    131,
-                    404
-                  ],
-                  "score": 0.968,
-                  "content": "ch",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    158,
-                    387,
-                    171,
-                    400
-                  ],
-                  "score": 0.5,
-                  "content": "②",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    172,
-                    383,
-                    193,
-                    406
-                  ],
-                  "score": 0.953,
-                  "content": "gh",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    219,
-                    387,
-                    232,
-                    400
-                  ],
-                  "score": 0.44,
-                  "content": "③",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    233,
-                    384,
-                    254,
-                    403
-                  ],
-                  "score": 0.988,
-                  "content": "kh",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    280,
-                    386,
-                    294,
-                    401
-                  ],
-                  "score": 0.42,
-                  "content": "④",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    294,
-                    384,
-                    316,
-                    405
-                  ],
-                  "score": 0.677,
-                  "content": "ph",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    342,
-                    387,
-                    355,
-                    400
-                  ],
-                  "score": 0.65,
-                  "content": "⑤",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    355,
-                    384,
-                    374,
-                    403
-                  ],
-                  "score": 0.972,
-                  "content": "th",
-                  "type": "text"
-                }
-              ],
-              "index": 12
             }
           ],
           "index": 6,
@@ -454,15 +318,184 @@
             372,
             402
           ],
-          "lines": [],
+          "lines": [
+            {
+              "bbox": [
+                95,
+                383,
+                374,
+                406
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    95,
+                    384,
+                    96,
+                    404
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    97,
+                    386,
+                    110,
+                    400
+                  ],
+                  "score": 0.52,
+                  "content": "①",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    110,
+                    384,
+                    131,
+                    404
+                  ],
+                  "score": 0.968,
+                  "content": "ch",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    156,
+                    383,
+                    158,
+                    406
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    158,
+                    387,
+                    171,
+                    400
+                  ],
+                  "score": 0.5,
+                  "content": "②",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    172,
+                    383,
+                    193,
+                    406
+                  ],
+                  "score": 0.953,
+                  "content": "gh",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    219,
+                    387,
+                    232,
+                    400
+                  ],
+                  "score": 0.44,
+                  "content": "③",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    233,
+                    384,
+                    254,
+                    403
+                  ],
+                  "score": 0.988,
+                  "content": "kh",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    278,
+                    384,
+                    280,
+                    405
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    280,
+                    386,
+                    294,
+                    401
+                  ],
+                  "score": 0.42,
+                  "content": "④",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    294,
+                    384,
+                    316,
+                    405
+                  ],
+                  "score": 0.677,
+                  "content": "ph",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    342,
+                    387,
+                    355,
+                    400
+                  ],
+                  "score": 0.65,
+                  "content": "⑤",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    355,
+                    384,
+                    374,
+                    403
+                  ],
+                  "score": 0.972,
+                  "content": "th",
+                  "type": "text"
+                }
+              ],
+              "index": 12
+            }
+          ],
           "index": 12,
           "bbox_fs": [
-            97,
+            95,
             383,
             374,
             406
-          ],
-          "lines_deleted": true
+          ]
         },
         {
           "type": "text",
@@ -488,7 +521,7 @@
                     307,
                     456
                   ],
-                  "score": 0.954,
+                  "score": 0.943,
                   "content": "2.밑줄 친 부분과 발음이 같은 것은?[1점]",
                   "type": "text"
                 }
@@ -528,7 +561,7 @@
                     310,
                     486
                   ],
-                  "score": 0.902,
+                  "score": 0.916,
                   "content": "Các món hai sán  Viet Nam rat ngon.",
                   "type": "text"
                 }
@@ -607,6 +640,17 @@
                 },
                 {
                   "bbox": [
+                    340,
+                    499,
+                    342,
+                    518
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     342,
                     501,
                     355,
@@ -666,7 +710,7 @@
                     328,
                     572
                   ],
-                  "score": 0.886,
+                  "score": 0.884,
                   "content": "3.에 들어갈 글자의 성조 표기가 옳은 것은?",
                   "type": "text"
                 }
@@ -804,8 +848,8 @@
                     319,
                     737
                   ],
-                  "score": 0.876,
-                  "content": "4. 빈칸에 공통으로 들어갈 말로 알맞은 것은?",
+                  "score": 0.891,
+                  "content": "4.빈칸에 공통으로 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
               ],
@@ -948,6 +992,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    795,
+                    158,
+                    816
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     798,
                     172,
@@ -969,6 +1024,17 @@
                   ],
                   "score": 0.63,
                   "content": "doi",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    217,
+                    795,
+                    219,
+                    815
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -998,6 +1064,17 @@
                 },
                 {
                   "bbox": [
+                    278,
+                    795,
+                    280,
+                    817
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     798,
                     294,
@@ -1019,6 +1096,17 @@
                   ],
                   "score": 0.851,
                   "content": "tng",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    340,
+                    794,
+                    341,
+                    818
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1082,7 +1170,7 @@
                     272,
                     867
                   ],
-                  "score": 0.865,
+                  "score": 0.862,
                   "content": "5. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -1269,6 +1357,17 @@
                 },
                 {
                   "bbox": [
+                    110,
+                    1049,
+                    129,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     1051,
                     171,
@@ -1319,6 +1418,17 @@
                 },
                 {
                   "bbox": [
+                    279,
+                    1049,
+                    280,
+                    1069
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     281,
                     1051,
                     293,
@@ -1340,6 +1450,17 @@
                   ],
                   "score": 0.873,
                   "content": "sach",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    340,
+                    1049,
+                    342,
+                    1068
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -1403,7 +1524,7 @@
                     621,
                     271
                   ],
-                  "score": 0.926,
+                  "score": 0.922,
                   "content": "6.빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -1454,7 +1575,7 @@
                     638,
                     303
                   ],
-                  "score": 0.933,
+                  "score": 0.934,
                   "content": "day có nhiéu vay dep qu!",
                   "type": "text"
                 }
@@ -1520,8 +1641,8 @@
                     585,
                     335
                   ],
-                  "score": 0.933,
-                  "content": "Con : Vang, con thü nhé.",
+                  "score": 0.92,
+                  "content": "Con : Vang, con thú nhé.",
                   "type": "text"
                 }
               ],
@@ -1610,7 +1731,7 @@
                     566,
                     383
                   ],
-                  "score": 0.941,
+                  "score": 0.943,
                   "content": "kia vay ci thür mc",
                   "type": "text"
                 }
@@ -1683,7 +1804,7 @@
                     418
                   ],
                   "score": 0.853,
-                  "content": "mc thür cai vay kia",
+                  "content": "mc thür cái váy kia",
                   "type": "text"
                 }
               ],
@@ -1718,7 +1839,7 @@
                     566,
                     435
                   ],
-                  "score": 0.868,
+                  "score": 0.873,
                   "content": "thür kia cái vay mc",
                   "type": "text"
                 }
@@ -1758,134 +1879,12 @@
                     649,
                     493
                   ],
-                  "score": 0.934,
+                  "score": 0.93,
                   "content": "7. 빈칸에 들어갈 말로 알맞은 것은?[1점]",
                   "type": "text"
                 }
               ],
               "index": 46
-            },
-            {
-              "bbox": [
-                445,
-                685,
-                741,
-                709
-              ],
-              "spans": [
-                {
-                  "bbox": [
-                    445,
-                    690,
-                    459,
-                    704
-                  ],
-                  "score": 0.29,
-                  "content": "①",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    459,
-                    688,
-                    474,
-                    706
-                  ],
-                  "score": 0.778,
-                  "content": "li",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    507,
-                    690,
-                    520,
-                    704
-                  ],
-                  "score": 0.29,
-                  "content": "②",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    520,
-                    687,
-                    550,
-                    707
-                  ],
-                  "score": 0.974,
-                  "content": "chai",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    566,
-                    687,
-                    607,
-                    707
-                  ],
-                  "score": 0.882,
-                  "content": "③ trái",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    629,
-                    690,
-                    643,
-                    704
-                  ],
-                  "score": 0.27,
-                  "content": "④",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    643,
-                    685,
-                    690,
-                    709
-                  ],
-                  "score": 0.761,
-                  "content": "ch",
-                  "type": "text"
-                },
-                {
-                  "bbox": [
-                    690,
-                    690,
-                    704,
-                    704
-                  ],
-                  "score": 0.4,
-                  "content": "⑤",
-                  "type": "text_converted",
-                  "meta": {
-                    "converted_from": "inline_equation"
-                  }
-                },
-                {
-                  "bbox": [
-                    704,
-                    685,
-                    741,
-                    709
-                  ],
-                  "score": 0.898,
-                  "content": "quyén",
-                  "type": "text"
-                }
-              ],
-              "index": 57
             }
           ],
           "index": 46,
@@ -2052,15 +2051,170 @@
             737,
             705
           ],
-          "lines": [],
+          "lines": [
+            {
+              "bbox": [
+                444,
+                685,
+                741,
+                709
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    444,
+                    688,
+                    445,
+                    706
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    445,
+                    690,
+                    459,
+                    704
+                  ],
+                  "score": 0.29,
+                  "content": "①",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    459,
+                    688,
+                    474,
+                    706
+                  ],
+                  "score": 0.778,
+                  "content": "li",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    505,
+                    687,
+                    506,
+                    707
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    507,
+                    690,
+                    520,
+                    704
+                  ],
+                  "score": 0.29,
+                  "content": "②",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    520,
+                    687,
+                    550,
+                    707
+                  ],
+                  "score": 0.974,
+                  "content": "chai",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    566,
+                    687,
+                    607,
+                    707
+                  ],
+                  "score": 0.882,
+                  "content": "③ trái",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    627,
+                    685,
+                    629,
+                    709
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    629,
+                    690,
+                    643,
+                    704
+                  ],
+                  "score": 0.27,
+                  "content": "④",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    643,
+                    685,
+                    690,
+                    709
+                  ],
+                  "score": 0.761,
+                  "content": "ch",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    690,
+                    690,
+                    704,
+                    704
+                  ],
+                  "score": 0.4,
+                  "content": "⑤",
+                  "type": "text_converted",
+                  "meta": {
+                    "converted_from": "inline_equation"
+                  }
+                },
+                {
+                  "bbox": [
+                    704,
+                    685,
+                    741,
+                    709
+                  ],
+                  "score": 0.898,
+                  "content": "quyén",
+                  "type": "text"
+                }
+              ],
+              "index": 57
+            }
+          ],
           "index": 57,
           "bbox_fs": [
-            445,
+            444,
             685,
             741,
             709
-          ],
-          "lines_deleted": true
+          ]
         },
         {
           "type": "text",
@@ -2148,7 +2302,7 @@
                     642,
                     792
                   ],
-                  "score": 0.946,
+                  "score": 0.949,
                   "content": "A: Khi nao minh phai tra sách nay?",
                   "type": "text"
                 }
@@ -2181,8 +2335,8 @@
                     608,
                     810
                   ],
-                  "score": 0.826,
-                  "content": "_(a)_ sóm _(b) tót nhé!",
+                  "score": 0.847,
+                  "content": "_(a) sóm _(b) tót nhé!",
                   "type": "text"
                 }
               ],
@@ -2264,7 +2418,7 @@
             {
               "bbox": [
                 446,
-                843,
+                842,
                 693,
                 860
               ],
@@ -2282,6 +2436,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    460,
+                    842,
+                    461,
+                    860
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -2321,6 +2486,17 @@
                 },
                 {
                   "bbox": [
+                    618,
+                    843,
+                    620,
+                    860
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     630,
                     843,
                     651,
@@ -2346,12 +2522,23 @@
             },
             {
               "bbox": [
-                446,
+                444,
                 858,
                 695,
                 878
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    858,
+                    446,
+                    878
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -2365,6 +2552,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    460,
+                    858,
+                    462,
+                    878
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -2401,6 +2599,17 @@
                   "meta": {
                     "converted_from": "inline_equation"
                   }
+                },
+                {
+                  "bbox": [
+                    618,
+                    860,
+                    620,
+                    876
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
                 },
                 {
                   "bbox": [
@@ -2477,7 +2686,7 @@
           ],
           "index": 62.5,
           "bbox_fs": [
-            446,
+            444,
             824,
             695,
             898
@@ -2507,7 +2716,7 @@
                     636,
                     954
                   ],
-                  "score": 0.924,
+                  "score": 0.932,
                   "content": "9.문장 표현이 옳은 것만을 고른 것은?",
                   "type": "text"
                 }
@@ -2547,7 +2756,7 @@
                     669,
                     981
                   ],
-                  "score": 0.907,
+                  "score": 0.909,
                   "content": "a. Chüng ta uóng ca phe da cho mt nhé.",
                   "type": "text"
                 }
@@ -2594,7 +2803,7 @@
                     700,
                     1015
                   ],
-                  "score": 0.882,
+                  "score": 0.878,
                   "content": "c. Tat ca moi bai tap nao hom nay déu khá dé.",
                   "type": "text"
                 }
@@ -2618,7 +2827,7 @@
                     706,
                     1033
                   ],
-                  "score": 0.941,
+                  "score": 0.931,
                   "content": "d. Vi bi lam quen vói chi nén toi rát hanh phúc.",
                   "type": "text"
                 }
@@ -2680,6 +2889,17 @@
                 },
                 {
                   "bbox": [
+                    505,
+                    1045,
+                    506,
+                    1066
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     1048,
                     520,
@@ -2701,6 +2921,17 @@
                   ],
                   "score": 0.713,
                   "content": "a, c",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    566,
+                    1045,
+                    568,
+                    1065
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -2730,6 +2961,17 @@
                 },
                 {
                   "bbox": [
+                    626,
+                    1045,
+                    629,
+                    1064
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     629,
                     1047,
                     643,
@@ -2751,6 +2993,17 @@
                   ],
                   "score": 0.855,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    688,
+                    1045,
+                    690,
+                    1065
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -2947,6 +3200,17 @@
                   ],
                   "score": 0.926,
                   "content": "chao ban nhé",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    190,
+                    360,
+                    199,
+                    379
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -3156,7 +3420,7 @@
                     307,
                     425
                   ],
-                  "score": 0.929,
+                  "score": 0.933,
                   "content": "11. 빈칸에 들어갈 말로 알맞은 것은?[1점]",
                   "type": "text"
                 }
@@ -3196,7 +3460,7 @@
                     240,
                     455
                   ],
-                  "score": 0.957,
+                  "score": 0.96,
                   "content": "Hoc sinh : Em chao có a.",
                   "type": "text"
                 }
@@ -3218,7 +3482,7 @@
                     236,
                     472
                   ],
-                  "score": 0.927,
+                  "score": 0.919,
                   "content": "Co Hóng : Chao em. Em",
                   "type": "text"
                 },
@@ -3554,8 +3818,8 @@
                     397,
                     666
                   ],
-                  "score": 0.906,
-                  "content": "A: Con 30 phüt nura nhi. Chüng ta di mua do uóng nhé.",
+                  "score": 0.918,
+                  "content": "A: Con 30 phüt nüra nhi. Chüng ta di mua do uóng nhé.",
                   "type": "text"
                 }
               ],
@@ -3747,7 +4011,7 @@
                     277,
                     779
                   ],
-                  "score": 0.955,
+                  "score": 0.953,
                   "content": "13. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -3787,7 +4051,7 @@
                     271,
                     808
                   ],
-                  "score": 0.944,
+                  "score": 0.946,
                   "content": "A: Chúc cau di du lich vui ve!",
                   "type": "text"
                 }
@@ -4087,8 +4351,8 @@
                     284,
                     986
                   ],
-                  "score": 0.922,
-                  "content": "B: U, minh da goi roi ma chi ay",
+                  "score": 0.943,
+                  "content": "B: U, minh da goi ri ma chi ay",
                   "type": "text"
                 }
               ],
@@ -4109,7 +4373,7 @@
                     341,
                     1004
                   ],
-                  "score": 0.924,
+                  "score": 0.934,
                   "content": "A: Có l chi ay khong mang theo dién thoai.",
                   "type": "text"
                 }
@@ -4224,7 +4488,7 @@
                     228,
                     1051
                   ],
-                  "score": 0.894,
+                  "score": 0.93,
                   "content": "khóng nghe dién thoai",
                   "type": "text"
                 },
@@ -4249,7 +4513,7 @@
                     388,
                     1050
                   ],
-                  "score": 0.901,
+                  "score": 0.913,
                   "content": "tháp hon em trai minh",
                   "type": "text"
                 }
@@ -4285,7 +4549,7 @@
                     248,
                     1068
                   ],
-                  "score": 0.907,
+                  "score": 0.926,
                   "content": "dang nói chuyén vói minh",
                   "type": "text"
                 }
@@ -4387,8 +4651,8 @@
                     747,
                     205
                   ],
-                  "score": 0.949,
-                  "content": "A: Hom qua, toi da mua qun nay cho con toi nhung",
+                  "score": 0.939,
+                  "content": "A: Hom qua, toi da mua quan nay cho con toi nhung",
                   "type": "text"
                 }
               ],
@@ -4409,7 +4673,7 @@
                     713,
                     222
                   ],
-                  "score": 0.873,
+                  "score": 0.874,
                   "content": " Anh có có nhó hon khong?",
                   "type": "text"
                 }
@@ -4453,8 +4717,8 @@
                     641,
                     256
                   ],
-                  "score": 0.923,
-                  "content": "A: Thé, cho toi tra lai cái nay nhe!",
+                  "score": 0.915,
+                  "content": "A: Thé, cho toi tra lai cái nay nhé!",
                   "type": "text"
                 }
               ],
@@ -4613,6 +4877,17 @@
                 },
                 {
                   "bbox": [
+                    504,
+                    336,
+                    506,
+                    356
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     507,
                     338,
                     520,
@@ -4649,6 +4924,17 @@
                 },
                 {
                   "bbox": [
+                    627,
+                    336,
+                    629,
+                    354
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     629,
                     338,
                     642,
@@ -4670,6 +4956,17 @@
                   ],
                   "score": 0.883,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    687,
+                    336,
+                    690,
+                    354
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -4751,7 +5048,7 @@
                     634,
                     403
                   ],
-                  "score": 0.905,
+                  "score": 0.903,
                   "content": "16. 글을 이해한 내용으로 알맞은 것은?",
                   "type": "text"
                 }
@@ -4791,7 +5088,7 @@
                     748,
                     434
                   ],
-                  "score": 0.896,
+                  "score": 0.897,
                   "content": "Gia dinh Düng có 4 nguröi: bó me, em gai va Düng.",
                   "type": "text"
                 }
@@ -4835,7 +5132,7 @@
                     748,
                     469
                   ],
-                  "score": 0.932,
+                  "score": 0.923,
                   "content": "tuói. Bó me Düng la nhan vién cong ti. Düng la sinh",
                   "type": "text"
                 }
@@ -4879,7 +5176,7 @@
                     588,
                     501
                   ],
-                  "score": 0.942,
+                  "score": 0.94,
                   "content": "gai Düng dang hoc lóp 5.",
                   "type": "text"
                 }
@@ -4933,7 +5230,7 @@
                     594,
                     531
                   ],
-                  "score": 0.99,
+                  "score": 0.989,
                   "content": "Düng의 동생은 5학년이다.",
                   "type": "text"
                 }
@@ -4970,7 +5267,7 @@
                     598,
                     548
                   ],
-                  "score": 0.937,
+                  "score": 0.927,
                   "content": "Düng의 부모님은 동갑이다.",
                   "type": "text"
                 }
@@ -5008,7 +5305,7 @@
                     604,
                     567
                   ],
-                  "score": 0.947,
+                  "score": 0.955,
                   "content": "Düng은 대학교를 졸업했다.",
                   "type": "text"
                 }
@@ -5084,7 +5381,7 @@
                     620,
                     600
                   ],
-                  "score": 0.911,
+                  "score": 0.92,
                   "content": "Düng의 가족은Ha Noi에 산다.",
                   "type": "text"
                 }
@@ -5126,7 +5423,7 @@
                     626,
                     650
                   ],
-                  "score": 0.941,
+                  "score": 0.953,
                   "content": "17. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -5166,7 +5463,7 @@
                     748,
                     682
                   ],
-                  "score": 0.948,
+                  "score": 0.942,
                   "content": "A: Bai hom nay dn day la hét. Em muón hoi gi khong?",
                   "type": "text"
                 }
@@ -5221,7 +5518,7 @@
                     567,
                     716
                   ],
-                  "score": 0.964,
+                  "score": 0.961,
                   "content": "A: Em hoc gioi lám!",
                   "type": "text"
                 }
@@ -5309,12 +5606,23 @@
             },
             {
               "bbox": [
-                446,
+                444,
                 745,
                 706,
                 765
               ],
               "spans": [
+                {
+                  "bbox": [
+                    444,
+                    745,
+                    445,
+                    763
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     446,
@@ -5407,7 +5715,7 @@
           ],
           "index": 62,
           "bbox_fs": [
-            445,
+            444,
             728,
             706,
             783
@@ -5559,7 +5867,7 @@
                     734,
                     1051
                   ],
-                  "score": 0.926,
+                  "score": 0.955,
                   "content": "Loai phong khách san",
                   "type": "text"
                 }
@@ -5595,7 +5903,7 @@
                     579,
                     1069
                   ],
-                  "score": 0.95,
+                  "score": 0.952,
                   "content": "Chuong trinh giam gi",
                   "type": "text"
                 }
@@ -5800,8 +6108,8 @@
                     329,
                     173
                   ],
-                  "score": 0.96,
-                  "content": "19. 대화를 이해한 내용으로 알맞은 것은?[1점]",
+                  "score": 0.917,
+                  "content": "19. 대화를 이해한 내용으로 알맞은 것은? [1점]",
                   "type": "text"
                 }
               ],
@@ -5840,7 +6148,7 @@
                     281,
                     205
                   ],
-                  "score": 0.955,
+                  "score": 0.929,
                   "content": "A: Khi ranh, ban thurong lam gi?",
                   "type": "text"
                 }
@@ -5862,7 +6170,7 @@
                     252,
                     223
                   ],
-                  "score": 0.944,
+                  "score": 0.948,
                   "content": "B: Minh thuong xem phim.",
                   "type": "text"
                 }
@@ -5884,7 +6192,7 @@
                     367,
                     241
                   ],
-                  "score": 0.956,
+                  "score": 0.945,
                   "content": "A: Minh cüng thé. Ban thich xem phim loai nao?",
                   "type": "text"
                 }
@@ -5906,7 +6214,7 @@
                     299,
                     259
                   ],
-                  "score": 0.971,
+                  "score": 0.975,
                   "content": "B: Minh thich xem phim hanh dong.",
                   "type": "text"
                 }
@@ -5960,7 +6268,7 @@
                     225,
                     288
                   ],
-                  "score": 0.938,
+                  "score": 0.936,
                   "content": "B thich choi bóng da.",
                   "type": "text"
                 }
@@ -5997,7 +6305,7 @@
                     271,
                     306
                   ],
-                  "score": 0.938,
+                  "score": 0.94,
                   "content": "Khi ranh, B thurong xem phim.",
                   "type": "text"
                 }
@@ -6035,8 +6343,8 @@
                     286,
                     324
                   ],
-                  "score": 0.93,
-                  "content": "A va B dang xem anh tót nghiép.",
+                  "score": 0.912,
+                  "content": "A va B dang xem anh tót nghiep.",
                   "type": "text"
                 }
               ],
@@ -6073,8 +6381,8 @@
                     300,
                     342
                   ],
-                  "score": 0.924,
-                  "content": "Khi ranh, A thuong nu án cho ban.",
+                  "score": 0.89,
+                  "content": "Khi ráanh, A thurong náu án cho ban.",
                   "type": "text"
                 }
               ],
@@ -6437,7 +6745,7 @@
                     366,
                     651
                   ],
-                  "score": 0.941,
+                  "score": 0.943,
                   "content": "d. dang dau dau qua",
                   "type": "text"
                 }
@@ -6479,6 +6787,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    665,
+                    158,
+                    684
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     667,
                     171,
@@ -6500,6 +6819,17 @@
                   ],
                   "score": 0.782,
                   "content": "a, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    217,
+                    664,
+                    219,
+                    685
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -6529,6 +6859,17 @@
                 },
                 {
                   "bbox": [
+                    278,
+                    665,
+                    280,
+                    684
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     667,
                     294,
@@ -6550,6 +6891,17 @@
                   ],
                   "score": 0.798,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    339,
+                    665,
+                    341,
+                    684
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -6715,7 +7067,7 @@
                     398,
                     792
                   ],
-                  "score": 0.917,
+                  "score": 0.915,
                   "content": "A: Chao anh. Toi muón dat vé máy bay di Hué vao",
                   "type": "text"
                 }
@@ -6877,7 +7229,7 @@
                     398,
                     900
                   ],
-                  "score": 0.952,
+                  "score": 0.967,
                   "content": "A: Vay, cho toi 1 vé chuyén 2 gio chiéu. Tu day dén",
                   "type": "text"
                 }
@@ -6934,7 +7286,7 @@
                     274,
                     937
                   ],
-                  "score": 0.9,
+                  "score": 0.925,
                   "content": "B: Mát khoáng 1 tiéng 10 phüt.",
                   "type": "text"
                 }
@@ -7038,7 +7390,7 @@
                     230,
                     1001
                   ],
-                  "score": 0.94,
+                  "score": 0.935,
                   "content": "b. muón di lüc máy gio",
                   "type": "text"
                 }
@@ -7060,8 +7412,8 @@
                     248,
                     1018
                   ],
-                  "score": 0.877,
-                  "content": "c. sáng thúr 6 thi hét vé röi",
+                  "score": 0.879,
+                  "content": "c. sáng thür 6 thi hét vé röi",
                   "type": "text"
                 }
               ],
@@ -7349,7 +7701,7 @@
                     747,
                     239
                   ],
-                  "score": 0.915,
+                  "score": 0.952,
                   "content": "A: Anh ghi ho ten, dia chi va só ho",
                   "type": "text"
                 }
@@ -7371,7 +7723,7 @@
                     680,
                     258
                   ],
-                  "score": 0.917,
+                  "score": 0.935,
                   "content": "chiéu cüa anh vao day.",
                   "type": "text"
                 }
@@ -7497,8 +7849,8 @@
                     580,
                     324
                   ],
-                  "score": 0.84,
-                  "content": "sura tú lanh cho bó me",
+                  "score": 0.88,
+                  "content": "sura tu lanh cho bó me",
                   "type": "text"
                 }
               ],
@@ -7533,7 +7885,7 @@
                     586,
                     342
                   ],
-                  "score": 0.927,
+                  "score": 0.928,
                   "content": "tró thanh dién vién hai",
                   "type": "text"
                 }
@@ -7569,7 +7921,7 @@
                     620,
                     360
                   ],
-                  "score": 0.914,
+                  "score": 0.929,
                   "content": "m tai khoán  ngan hang nay",
                   "type": "text"
                 }
@@ -7609,7 +7961,7 @@
                     627,
                     408
                   ],
-                  "score": 0.913,
+                  "score": 0.915,
                   "content": "23. 빈칸에 들어갈 말로 알맞은 것은?",
                   "type": "text"
                 }
@@ -7671,7 +8023,7 @@
                     601,
                     455
                   ],
-                  "score": 0.932,
+                  "score": 0.925,
                   "content": "B: Cho toi möt bat pho bo.",
                   "type": "text"
                 }
@@ -7726,7 +8078,7 @@
                     617,
                     488
                   ],
-                  "score": 0.942,
+                  "score": 0.937,
                   "content": "B: Có, cho toi möt cóc tra da.",
                   "type": "text"
                 }
@@ -7866,7 +8218,7 @@
                     729,
                     537
                   ],
-                  "score": 0.948,
+                  "score": 0.952,
                   "content": "thich di núi hay bién",
                   "type": "text"
                 }
@@ -7942,7 +8294,7 @@
                     654,
                     604
                   ],
-                  "score": 0.872,
+                  "score": 0.892,
                   "content": "24. 빈칸에 들어갈 말로 알맞지 않은 것은?",
                   "type": "text"
                 }
@@ -8205,7 +8557,7 @@
                     602,
                     733
                   ],
-                  "score": 0.916,
+                  "score": 0.922,
                   "content": "can di du tiec sinh nhat ba",
                   "type": "text"
                 }
@@ -8245,7 +8597,7 @@
                     677,
                     781
                   ],
-                  "score": 0.94,
+                  "score": 0.936,
                   "content": "25. 일기 예보로 보아 Can Tho의 내일 날씨는?",
                   "type": "text"
                 }
@@ -8492,7 +8844,7 @@
                     307,
                     174
                   ],
-                  "score": 0.947,
+                  "score": 0.962,
                   "content": "26. 빈칸에 들어갈 말로 알맞은 것은?[1점]",
                   "type": "text"
                 }
@@ -8554,7 +8906,7 @@
                     380,
                     247
                   ],
-                  "score": 0.859,
+                  "score": 0.856,
                   "content": " Thanh phó nay nm  mién Nam",
                   "type": "text"
                 }
@@ -8598,7 +8950,7 @@
                     379,
                     284
                   ],
-                  "score": 0.925,
+                  "score": 0.924,
                   "content": "oDay la möt trong nhüng trung tam",
                   "type": "text"
                 }
@@ -8642,7 +8994,7 @@
                     379,
                     320
                   ],
-                  "score": 0.918,
+                  "score": 0.912,
                   "content": "  day có nhüng dia diém ni tiéng",
                   "type": "text"
                 }
@@ -8664,7 +9016,7 @@
                     378,
                     336
                   ],
-                  "score": 0.871,
+                  "score": 0.897,
                   "content": "nhur cho Bén Thanh, phó di bo",
                   "type": "text"
                 }
@@ -8774,12 +9126,23 @@
             },
             {
               "bbox": [
-                97,
+                96,
                 400,
                 350,
                 420
               ],
               "spans": [
+                {
+                  "bbox": [
+                    96,
+                    400,
+                    97,
+                    420
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     97,
@@ -8862,7 +9225,7 @@
                     241,
                     435
                   ],
-                  "score": 0.945,
+                  "score": 0.912,
                   "content": "Thanh phó H Chi Minh",
                   "type": "text"
                 }
@@ -8872,7 +9235,7 @@
           ],
           "index": 10,
           "bbox_fs": [
-            97,
+            96,
             383,
             350,
             435
@@ -8942,7 +9305,7 @@
                     747,
                     204
                   ],
-                  "score": 0.942,
+                  "score": 0.941,
                   "content": "Hai Ba Trung la hai chi em, chi la Trung Trc va em",
                   "type": "text"
                 }
@@ -9008,7 +9371,7 @@
                     748,
                     258
                   ],
-                  "score": 0.917,
+                  "score": 0.916,
                   "content": "nguoi Viet Nam rat tu hao vé Hai Ba Trung. Hién nay,",
                   "type": "text"
                 }
@@ -9030,7 +9393,7 @@
                     748,
                     275
                   ],
-                  "score": 0.941,
+                  "score": 0.929,
                   "content": " Viet Nam có nhiéu truong hoc, durong phó duoc mang",
                   "type": "text"
                 }
@@ -9092,8 +9455,8 @@
                     642,
                     309
                   ],
-                  "score": 0.919,
-                  "content": "*khoinghia:봉기하다",
+                  "score": 0.845,
+                  "content": "*khoi nghia:봉기하다",
                   "type": "text"
                 },
                 {
@@ -9114,7 +9477,7 @@
                     747,
                     309
                   ],
-                  "score": 0.922,
+                  "score": 0.924,
                   "content": "danh duói:물리치다",
                   "type": "text"
                 }
@@ -9227,7 +9590,7 @@
                     584,
                     371
                   ],
-                  "score": 0.94,
+                  "score": 0.943,
                   "content": "40년에 봉기를 일으켰다.",
                   "type": "text"
                 }
@@ -9265,7 +9628,7 @@
                     624,
                     390
                   ],
-                  "score": 0.939,
+                  "score": 0.942,
                   "content": "23년간 Dong Han군과 교전했다.",
                   "type": "text"
                 }
@@ -9341,7 +9704,7 @@
                     714,
                     424
                   ],
-                  "score": 0.951,
+                  "score": 0.954,
                   "content": "Trung Trac이라는 이름의 학교와 도로를 건설했다.",
                   "type": "text"
                 }
@@ -9469,7 +9832,7 @@
                     398,
                     567
                   ],
-                  "score": 0.894,
+                  "score": 0.891,
                   "content": "Tuán : Höm nay la ngay 20 tháng 11, ngay Nha giáo",
                   "type": "text"
                 }
@@ -9515,8 +9878,8 @@
                     372,
                     600
                   ],
-                  "score": 0.931,
-                  "content": "Ha-na : Vay, vao ngay nay hoc sinh thuong lam gi?",
+                  "score": 0.925,
+                  "content": "Ha-na : Vay, vao ngay nay hoc sinh thurong lam gi?",
                   "type": "text"
                 }
               ],
@@ -9562,7 +9925,7 @@
                     286,
                     635
                   ],
-                  "score": 0.855,
+                  "score": 0.863,
                   "content": "co dé bay to long cám on.",
                   "type": "text"
                 }
@@ -9687,7 +10050,7 @@
                     228,
                     701
                   ],
-                  "score": 0.984,
+                  "score": 0.985,
                   "content": "a. La ngay 20 thng 11.",
                   "type": "text"
                 }
@@ -9711,7 +10074,7 @@
                     329,
                     720
                   ],
-                  "score": 0.919,
+                  "score": 0.921,
                   "content": "b. Hoc sinh phai mc áo dai vao ngay nay.",
                   "type": "text"
                 }
@@ -9735,7 +10098,7 @@
                     355,
                     738
                   ],
-                  "score": 0.939,
+                  "score": 0.938,
                   "content": "c. Vao ngay nay, các thay co khong dén truong.",
                   "type": "text"
                 }
@@ -9843,6 +10206,17 @@
                 },
                 {
                   "bbox": [
+                    156,
+                    785,
+                    158,
+                    804
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     158,
                     788,
                     171,
@@ -9864,6 +10238,17 @@
                   ],
                   "score": 0.873,
                   "content": "a, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    217,
+                    785,
+                    219,
+                    805
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -9893,6 +10278,17 @@
                 },
                 {
                   "bbox": [
+                    278,
+                    785,
+                    280,
+                    804
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
                     280,
                     787,
                     294,
@@ -9914,6 +10310,17 @@
                   ],
                   "score": 0.89,
                   "content": "b, d",
+                  "type": "text"
+                },
+                {
+                  "bbox": [
+                    340,
+                    786,
+                    341,
+                    804
+                  ],
+                  "score": 1.0,
+                  "content": "",
                   "type": "text"
                 },
                 {
@@ -10107,8 +10514,8 @@
                     399,
                     916
                   ],
-                  "score": 0.861,
-                  "content": "khong thé thiéu trong büra com",
+                  "score": 0.871,
+                  "content": "khong thé thiéu trong bura com",
                   "type": "text"
                 }
               ],
@@ -10129,7 +10536,7 @@
                     399,
                     933
                   ],
-                  "score": 0.918,
+                  "score": 0.916,
                   "content": "thuong ngay cüa nguoi Viet Nam.",
                   "type": "text"
                 }
@@ -10173,7 +10580,7 @@
                     399,
                     967
                   ],
-                  "score": 0.939,
+                  "score": 0.938,
                   "content": "cá bién va muói.  Viet Nam có",
                   "type": "text"
                 }
@@ -10195,7 +10602,7 @@
                     398,
                     986
                   ],
-                  "score": 0.921,
+                  "score": 0.926,
                   "content": "nhiéu noi lam nuróc mm, trong dó tieu biéu la Phú Quóc,",
                   "type": "text"
                 }
@@ -10275,8 +10682,8 @@
                     398,
                     1022
                   ],
-                  "score": 0.892,
-                  "content": "* gia vi:양념 *muói: 소금",
+                  "score": 0.919,
+                  "content": "* gia vi:양념 *muói:소금",
                   "type": "text"
                 }
               ],
@@ -10370,12 +10777,23 @@
             },
             {
               "bbox": [
-                97,
+                95,
                 1051,
                 277,
                 1068
               ],
               "spans": [
+                {
+                  "bbox": [
+                    95,
+                    1051,
+                    96,
+                    1067
+                  ],
+                  "score": 1.0,
+                  "content": "",
+                  "type": "text"
+                },
                 {
                   "bbox": [
                     97,
@@ -10449,7 +10867,7 @@
           "lines": [],
           "index": 53.5,
           "bbox_fs": [
-            97,
+            95,
             1033,
             369,
             1068
@@ -10658,8 +11076,8 @@
                     747,
                     707
                   ],
-                  "score": 0.873,
-                  "content": "Van Miéu – Quóc Tür Giám nm ó Ha Noi. Van Miéu",
+                  "score": 0.897,
+                  "content": "Van Miéu – Quc Tür Gim nm o Ha Noi. Ván Miéu",
                   "type": "text"
                 }
               ],
@@ -10724,8 +11142,8 @@
                     748,
                     760
                   ],
-                  "score": 0.906,
-                  "content": "tho Khóng Tü, con Quóc Tu Giám duroc xem la truöng",
+                  "score": 0.913,
+                  "content": "tho Khóng Tü, con Quóc Tü Giám duoc xem la truöng",
                   "type": "text"
                 }
               ],
@@ -10768,7 +11186,7 @@
                     748,
                     794
                   ],
-                  "score": 0.886,
+                  "score": 0.888,
                   "content": "dén Van Miéu – Quóc Tü Giám de cau may mn truróc",
                   "type": "text"
                 }
@@ -10921,7 +11339,7 @@
                     671,
                     879
                   ],
-                  "score": 0.959,
+                  "score": 0.954,
                   "content": "Ván Miéu duoc xay dung vao nm 1070.",
                   "type": "text"
                 }
@@ -10997,7 +11415,7 @@
                     755,
                     914
                   ],
-                  "score": 0.915,
+                  "score": 0.917,
                   "content": "Nhiéu hoc sinh dén Ván Miu – Quóc Tü Giám dé thue nha.",
                   "type": "text"
                 }
@@ -11167,5 +11585,5 @@
     }
   ],
   "_backend": "pipeline",
-  "_version_name": "2.5.4"
+  "_version_name": "2.6.2"
 }

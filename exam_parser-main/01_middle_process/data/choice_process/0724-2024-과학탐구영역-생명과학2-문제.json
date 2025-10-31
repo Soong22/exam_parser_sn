@@ -151,7 +151,7 @@
   },
   {
     "type": "text",
-    "text": "2.표는 식물을 구성하는 조직계의 특징을 나타낸 것이다.A와 B는",
+    "text": "ㄹ.표는 식물을 구성하는 조직계의 특징을 나타낸 것이다.A와 B는",
     "bbox": [
       86,
       474,
@@ -298,7 +298,7 @@
   },
   {
     "type": "text",
-    "text": "⑦ 은 E의 활성 부위에결합하여 E의 작용을 저해한다.",
+    "text": "⑦ 은 E의 활성 부위에결합하여 E의작용을 저해한다.",
     "bbox": [
       98,
       778,
@@ -323,22 +323,19 @@
     "original_type": "table"
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "0 S1 S2 A의 농도",
     "bbox": [
-      239,
-      819,
-      391,
-      887
+      267,
+      874,
+      394,
+      889
     ],
-    "page_idx": 0,
-    "image_path": "b297614f5ed5437dccebd7c71aed1a55e1a21cfe8b6a1e02456fcb4ba266d7b2.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 0
   },
   {
     "type": "text",
-    "text": "이에대한 설명으로 옳은것만을<보기",
+    "text": "이에대한 설명으로옳은것만을<보기",
     "bbox": [
       108,
       897,
@@ -382,7 +379,7 @@
   },
   {
     "type": "text",
-    "text": "7.S1일 때 초기 반응 속도는(나)에서가 (다)에서보다 빠르다.",
+    "text": "ㄱ.S1일 때 초기 반응 속도는(나)에서가(다)에서보다 빠르다.",
     "bbox": [
       108,
       956,
@@ -517,7 +514,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로옮은 것만을<보기>에서 있는 대로 고른 것은?",
+    "text": "이에 대한 설명으로옳은 것만을<보기>에서 있는 대로 고른 것은?",
     "bbox": [
       456,
       362,
@@ -528,7 +525,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       456,
       404,
@@ -708,7 +705,7 @@
   },
   {
     "type": "text",
-    "text": "7. 은RuBP이다.",
+    "text": "ㄱ. 은RuBP이다.",
     "bbox": [
       456,
       717,
@@ -730,7 +727,7 @@
   },
   {
     "type": "text",
-    "text": "드.캘빈 회로에서",
+    "text": "ㄷ.캘빈 회로에서",
     "bbox": [
       456,
       750,
@@ -884,7 +881,7 @@
   },
   {
     "type": "text",
-    "text": "7.A는 최초의 단세포 진핵생물이다.",
+    "text": "ㄱ.A는 최초의 단세포 진핵생물이다.",
     "bbox": [
       456,
       988,
@@ -895,7 +892,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.B는 핵막을 갖는다.",
+    "text": "ㄴ.B는핵막을 갖는다.",
     "bbox": [
       455,
       1006,
@@ -928,7 +925,7 @@
   },
   {
     "type": "text",
-    "text": "7.그림은 효모의 알코을 발효에서 물질 전환 과정 I~을,표는 I~에서 생성되는 물질",
+    "text": "ㄱ.그림은 효모의 알코을 발효에서 물질 전환 과정 I~을,표는 I~에서 생성되는 물질",
     "bbox": [
       86,
       159,
@@ -1075,7 +1072,7 @@
   },
   {
     "type": "text",
-    "text": "7. ㄴ은 NAD+이다.",
+    "text": "ㄱ. ㄴ은 NAD+이다.",
     "bbox": [
       107,
       374,
@@ -1163,7 +1160,7 @@
   },
   {
     "type": "text",
-    "text": "조건을달리했을때 시간에따른 광합성 속도를,표는 이 식물의 광합성 과정의 명반응에서 일어나는 반응 (가)와(나)를 나타낸것이다.",
+    "text": "조건을 달리했을때 시간에따른 광합성 속도를,표는 이 식물의 광합성 과정의 명반응에서 일어나는 반응 (가)와(나)를 나타낸것이다.",
     "bbox": [
       97,
       489,
@@ -1325,7 +1322,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       108,
       716,
@@ -1533,18 +1530,37 @@
     "page_idx": 1
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "골수에서 세포 추출 →(가) 뼈 배양",
     "bbox": [
-      134,
-      874,
-      366,
-      938
+      146,
+      876,
+      367,
+      905
     ],
-    "page_idx": 1,
-    "image_path": "0fd29da1d83e8043687717069728975cd1bd70116ee47af998288e13843256d0.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "page_idx": 1
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circledcirc",
+    "bbox": [
+      144,
+      912,
+      158,
+      927
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "역분화를 일으키는 유전자 삼입 →(4) 체세포 배양",
+    "bbox": [
+      138,
+      910,
+      367,
+      939
+    ],
+    "page_idx": 1
   },
   {
     "type": "text",
@@ -1702,7 +1718,7 @@
   },
   {
     "type": "text",
-    "text": "① 을 순차적으로 첨가한다.",
+    "text": "① 을 순차적으로첨가한다.",
     "bbox": [
       531,
       284,
@@ -1808,7 +1824,7 @@
   },
   {
     "type": "text",
-    "text": "이에대한 설명으로옳은 것만을<보>",
+    "text": "이에대한 설명으로옳은 것만을<보기",
     "bbox": [
       456,
       470,
@@ -1830,7 +1846,7 @@
   },
   {
     "type": "text",
-    "text": "에서 있는 대로 고른 것은?(단, 4탄소 화합물, ADP, Pi는 충분히 첨가되었다.) [3점]",
+    "text": "에서 있는 대로 고른 것은?(단, 4탄소 화합물, ADP,Pi는 충분히 첨가되었다.) [3점]",
     "bbox": [
       447,
       470,
@@ -1841,7 +1857,7 @@
   },
   {
     "type": "text",
-    "text": "7. ㄴ은 Y이다.",
+    "text": "ㄱ. ㄴ은 Y이다.",
     "bbox": [
       456,
       528,
@@ -1852,7 +1868,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.단위 시간당 미토콘드리아의 전자 전달계를 통해 이동하는 전자의수는I에서가Ⅱ에서보다 많다.",
+    "text": "ㄴ.단위 시간당 미토콘드리아의 전자 전달계를 통해 이동하는 전자의 수는I에서가Ⅱ에서보다 많다.",
     "bbox": [
       455,
       545,
@@ -1987,7 +2003,7 @@
   },
   {
     "type": "text",
-    "text": "I과Ⅱ중하나로부터Y가전사되었고, 염기 개수는X가 Y의2배이다. Y의",
+    "text": "I과Ⅱ중하나로부터Y가전사되었고, 염기 개수는X가Y의2배이다. Y의",
     "bbox": [
       455,
       882,
@@ -2086,7 +2102,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       456,
       989,
@@ -2284,7 +2300,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       108,
       501,
@@ -2306,7 +2322,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       106,
       517,
@@ -2317,7 +2333,7 @@
   },
   {
     "type": "text",
-    "text": "⑦ 은환경 변화에 대한 개체의적응능력과 무관하게일어난다.",
+    "text": "⑦ 은환경 변화에 대한 개체의 적응능력과 무관하게일어난다.",
     "bbox": [
       123,
       517,
@@ -2438,7 +2454,7 @@
   },
   {
     "type": "text",
-    "text": "는프라이머 X를,는프라이머 Y를,는프라이머Z를 가진다",
+    "text": "는프라이머 X를,는프라이머 Y를,는 프라이머Z를 가진다",
     "bbox": [
       116,
       727,
@@ -2482,7 +2498,7 @@
   },
   {
     "type": "text",
-    "text": "5'- ⑦0CAATATGO⑦GOCTCACTCOG⑦C-3' 나와를구성하는염기를모두합쳐서구한",
+    "text": "5'- ⑦0CAATATGOGOCTCACTCOG⑦C-3' 나와를구성하는염기를모두합쳐서구한",
     "bbox": [
       105,
       823,
@@ -2614,7 +2630,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       1051,
@@ -2734,7 +2750,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       455,
       369,
@@ -2756,7 +2772,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       387,
@@ -2812,7 +2828,7 @@
   },
   {
     "type": "text",
-    "text": "16.다음은이중 가닥DNA x와 제한 효소에 대한 자료이다.",
+    "text": "16.다음은 이중 가닥DNAx와 제한 효소에 대한 자료이다.",
     "bbox": [
       434,
       569,
@@ -2878,7 +2894,7 @@
   },
   {
     "type": "text",
-    "text": "5'-AjGATCT-3' 5'-GGTACiC-3' 5-CiTCGAG-3' 3-TCTAGA-5' 3'-CICATGG-5' 3'-GAGCTC-5' BglⅡ KpnI XhoI : 절단위치",
+    "text": "5'-AjGATCT-3' 5'-GGTACiC-3' 5-CiTCGAG-3' 3-TCTAGA-5' 3'-CICATGG-5 3'-GAGCTC-5' BglⅡ KpnI XhoI : 절단위치",
     "bbox": [
       493,
       731,
@@ -2889,7 +2905,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇx를 시험관 I~IV에 넣고 제한 효소를 첨가하여 완전히 자른결과 생성된DNA 조각 수와 각 DNA 조각의 염기 수는 표와 같다.",
+    "text": "ㅇx를 시험관 I~IV에 넣고 제한 효소를 첨가하여 완전히 자른결과생성된DNA 조각 수와 각 DNA 조각의 염기 수는 표와 같다.",
     "bbox": [
       455,
       792,
@@ -2940,7 +2956,7 @@
       915
     ],
     "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>시험관</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>V</td></tr><tr><td rowspan=1 colspan=1>첨가한제한효소</td><td rowspan=1 colspan=1>BglⅡ</td><td rowspan=1 colspan=1>Kpn I</td><td rowspan=1 colspan=1>Xho I</td><td rowspan=1 colspan=1>BglⅡ, Kpn I</td></tr><tr><td rowspan=1 colspan=1>생성된DNA 조각 수</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=1>생성된 각 DNA조각의 염기 수</td><td rowspan=1 colspan=1>12, a, b</td><td rowspan=1 colspan=1>30, 38</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>12, 18, 18, 20</td></tr></table>",
+    "table_body": "<table><tr><td rowspan=1 colspan=1>시험관</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>V</td></tr><tr><td rowspan=1 colspan=1>첨가한제한효소</td><td rowspan=1 colspan=1>BglⅡ</td><td rowspan=1 colspan=1>Kpn I</td><td rowspan=1 colspan=1>Xho I</td><td rowspan=1 colspan=1>BglⅡ, Kpn I</td></tr><tr><td rowspan=1 colspan=1>생성된DNA 조각수</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=1>생성된 각 DNA조각의 염기 수</td><td rowspan=1 colspan=1>12, a, b</td><td rowspan=1 colspan=1>30, 38</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>12, 18, 18, 20</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "a53eeb1af753e2089ee5e81670496735bd37b610c323598591fee439e6a96461.jpg",
@@ -2948,7 +2964,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한설명으로 옳은 것만을<보기>에서 있는 대로 고른 것은?",
+    "text": "이에 대한설명으로 옮은 것만을<보기>에서 있는 대로 고른 것은?",
     "bbox": [
       456,
       930,
@@ -2970,7 +2986,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       455,
       972,
@@ -3047,7 +3063,7 @@
   },
   {
     "type": "text",
-    "text": ";",
+    "text": ",",
     "bbox": [
       280,
       158,
@@ -3201,7 +3217,7 @@
   },
   {
     "type": "text",
-    "text": "와(나)를 순서 없이 나타낸 것이다.",
+    "text": "와(나)를 순서없이 나타낸 것이다.",
     "bbox": [
       135,
       258,
@@ -3296,7 +3312,7 @@
       357
     ],
     "page_idx": 3,
-    "table_body": "<table><tr><td>구분</td><td colspan=\"2\">염기 서열</td></tr><tr><td>I</td><td colspan=\"2\">5&#x27;- CGCTACGTCACGCATGCG</td></tr><tr><td>I</td><td>@- CTTACGACTAG[</td><td>7 AT</td></tr></table>",
+    "table_body": "<table><tr><td>구분</td><td colspan=\"2\">염기 서열</td></tr><tr><td>I</td><td colspan=\"2\">5&#x27;- CGCTACGTCACGCATGCG</td></tr><tr><td>I</td><td>@- CTTACGACTAGl</td><td>7 AT</td></tr></table>",
     "table_caption": [],
     "table_footnote": [],
     "image_path": "3717823e10b39048bbcc70c2b9dd2a8ecf4755319f9d4acc9cb313fdf8163fc6.jpg",
@@ -3304,7 +3320,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇX는8개의 아미노산으로구성되고,1개의세린,1개의 아스파트산을 가진다.",
+    "text": "ㅇX는8개의 아미노산으로구성되고,1개의 세린,1개의 아스파트산을 가진다.",
     "bbox": [
       107,
       360,
@@ -3326,7 +3342,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇY는9개의 아미노산으로구성된다.",
+    "text": "Y는9개의 아미노산으로구성된다.",
     "bbox": [
       106,
       425,
@@ -3396,7 +3412,7 @@
   },
   {
     "type": "text",
-    "text": "7.",
+    "text": "ㄱ.",
     "bbox": [
       108,
       660,
@@ -3716,7 +3732,7 @@
   },
   {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을<보>",
+    "text": "이에 대한 설명으로 옳은것만을<보>",
     "bbox": [
       456,
       463,
@@ -3771,7 +3787,7 @@
   },
   {
     "type": "text",
-    "text": "L.",
+    "text": "ㄴ.",
     "bbox": [
       455,
       538,
@@ -3804,7 +3820,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ.Y는C에 결합한다.",
+    "text": "ㄷ.Y는 C에 결합한다.",
     "bbox": [
       456,
       555,
@@ -3837,7 +3853,7 @@
   },
   {
     "type": "text",
-    "text": "ㅇI과Ⅱ는각각하디·바인베르크평형이유지되는집단이며, I과ⅡI를구성하는개체수는각각",
+    "text": "ㅇI과Ⅱ는각각하디·바인베르크평형이유지되는집단이며, I과ⅡI를 구성하는개체 수는각각",
     "bbox": [
       455,
       686,
@@ -3936,11 +3952,11 @@
   },
   {
     "type": "text",
-    "text": "Ⅱ서",
+    "text": ", Ⅱ서",
     "bbox": [
       467,
-      816,
-      500,
+      790,
+      749,
       847
     ],
     "page_idx": 3
@@ -3958,7 +3974,7 @@
   },
   {
     "type": "text",
-    "text": "이다.I에서A의 빈도와I에서 B의빈도는같다.",
+    "text": "이다.I에서A의 빈도와I에서B의빈도는같다.",
     "bbox": [
       521,
       816,
@@ -3985,17 +4001,6 @@
       587,
       849,
       638,
-      876
-    ],
-    "page_idx": 3
-  },
-  {
-    "type": "text",
-    "text": ".",
-    "bbox": [
-      639,
-      846,
-      644,
       876
     ],
     "page_idx": 3

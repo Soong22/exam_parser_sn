@@ -136,7 +136,7 @@
   },
   {
     "type": "text",
-    "text": "2. 끝 글자를 이어 갈 때 빈칸에 들어갈 수 있는 낱말의 의미는?",
+    "text": ". 끝 글자를 이어 갈 때 빈칸에 들어갈 수 있는 낱말의 의미는?\n",
     "bbox": [
       85,
       392,
@@ -147,16 +147,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9804,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 128,
-      "end_orig": 165,
+      "start_orig": 129,
+      "end_orig": 166,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "NATUR RAUM KATZE ① 사과 ② 은행 ③ 음악 ④ 정원 ⑤ 학생",
+    "text": "① 사과 ② 은행 ③ 음악 ④ 정원 ⑤ 학생",
     "bbox": [
       97,
       428,
@@ -166,12 +166,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
+      "replaced": true,
       "similarity": 0.6818,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 166,
       "end_orig": 190,
-      "reason": "low_similarity"
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -290,7 +290,7 @@
   },
   {
     "type": "text",
-    "text": "Aber  auf  dem  Foto  sieht  sie  (b) aus.",
+    "text": "Aber  auf  dem  Foto  sieht  sie  (b) aus. ",
     "bbox": [
       124,
       797,
@@ -301,10 +301,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9831,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 380,
-      "end_orig": 422,
+      "end_orig": 423,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -469,22 +469,28 @@
     }
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "⑤",
     "bbox": [
-      449,
-      348,
-      750,
-      420
+      717,
+      351,
+      730,
+      364
     ],
     "page_idx": 0,
-    "image_path": "c520a99d0f02546d43061624b448633939999dacfd14cbbff519dddcc03f6881.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 938,
+      "end_orig": 942,
+      "reason": "low_similarity"
+    }
   },
   {
     "type": "text",
-    "text": "7. 빈칸에 들어갈 말로 알맞은 것은?  [1점] ",
+    "text": ". 빈칸에 들어갈 말로 알맞은 것은?  [1점] ",
     "bbox": [
       434,
       462,
@@ -495,10 +501,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9744,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 943,
-      "end_orig": 971,
+      "start_orig": 192,
+      "end_orig": 219,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1083,7 +1089,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9895,
+      "similarity": 0.9789,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2025,
       "end_orig": 2169,
@@ -1457,7 +1463,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9375,
+      "similarity": 0.9231,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2981,
       "end_orig": 3029,
@@ -1497,7 +1503,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9706,
+      "similarity": 0.9412,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3076,
       "end_orig": 3122,
@@ -1546,7 +1552,7 @@
   },
   {
     "type": "text",
-    "text": "15.빈간에들어갈 말로알맞은것을<보기",
+    "text": "15. 빈칸에 들어갈 말로 알맞은 것을 <보기",
     "bbox": [
       435,
       506,
@@ -1556,12 +1562,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3228,
+      "end_orig": 3253,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1757,7 +1763,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9855,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3373,
       "end_orig": 3472,
@@ -1766,7 +1772,7 @@
   },
   {
     "type": "text",
-    "text": "① a-b-c ② a−c -b ③ b - a − c ④ ㄷ −a −b ⑤ ㄷ − b - a",
+    "text": "① a - b - c ② a - c - b ③ b - a - c\n④ c - a - b ⑤ c - b - a",
     "bbox": [
       445,
       732,
@@ -1776,12 +1782,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
+      "replaced": true,
       "similarity": 0.7667,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3473,
       "end_orig": 3532,
-      "reason": "low_similarity"
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -1985,7 +1991,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9747,
+      "similarity": 0.9873,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3811,
       "end_orig": 3910,
@@ -2796,10 +2802,30 @@
   },
   {
     "type": "text",
-    "text": "Traditionell  machen  die  Kinder  am  Tag  davor ihre  Schuhe  sehr  sauber  und  stellen  sie  am Abend  vor  ihre  Haustür.  Am  nächsten  Morgen finden  sie  in  den  Schuhen  kleine  Geschenke.  Man  sagt  dann, die  Geschenke  sind  vom  Nikolaus.\n",
+    "text": "Traditionell  machen  die  Kinder  am  Tag  davor ihre  Schuhe  sehr  sauber  und  stellen  sie  am Abend  vor  ihre  Haustür.  Am  nächsten  Morgen",
+    "bbox": [
+      517,
+      864,
+      747,
+      913
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9907,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5624,
+      "end_orig": 5772,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "finden  sie  in  den  Schuhen  kleine  Geschenke.  Man  sagt  dann, die  Geschenke  sind  vom  Nikolaus.",
     "bbox": [
       453,
-      864,
+      914,
       748,
       948
     ],
@@ -2807,26 +2833,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9946,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5624,
-      "end_orig": 5878,
+      "start_orig": 5773,
+      "end_orig": 5877,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      457,
-      825,
-      509,
-      906
-    ],
-    "page_idx": 2,
-    "image_path": "8db1401114daf6392e22dc2dc56330ae24cb6fe752ddeefb93f7cb60aaac1a0b.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3224,7 +3236,7 @@
   },
   {
     "type": "text",
-    "text": "c.  현재는 ‘빈의 대관람차’  전체가 카페로 운영되고 있다.",
+    "text": ".  현재는 ‘빈의 대관람차’  전체가 카페로 운영되고 있다.\n",
     "bbox": [
       104,
       442,
@@ -3235,10 +3247,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9231,
+      "similarity": 0.902,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6874,
-      "end_orig": 6909,
+      "start_orig": 6875,
+      "end_orig": 6910,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3301,20 +3313,6 @@
       "end_orig": 7014,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      104,
-      557,
-      226,
-      629
-    ],
-    "page_idx": 3,
-    "image_path": "031c1a9be8b02555ecdea2deaeea4201f354d4a580df572bcc3a6ba75b0fa944.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3886,7 +3884,7 @@
   },
   {
     "type": "text",
-    "text": "c. Lasst  du  die  Tasche  hier?",
+    "text": ". Lasst  du  die  Tasche  hier?\n",
     "bbox": [
       452,
       493,
@@ -3897,10 +3895,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9778,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8285,
-      "end_orig": 8317,
+      "start_orig": 8286,
+      "end_orig": 8318,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4086,7 +4084,7 @@
   },
   {
     "type": "text",
-    "text": "c. Ich  habe  mich  über  die  Nachricht  geärgert.",
+    "text": " Ich  habe  mich  über  die  Nachricht  geärgert.",
     "bbox": [
       473,
       862,
@@ -4097,9 +4095,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.973,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8712,
+      "start_orig": 8714,
       "end_orig": 8763,
       "reason": "passed_threshold_no_ws"
     }

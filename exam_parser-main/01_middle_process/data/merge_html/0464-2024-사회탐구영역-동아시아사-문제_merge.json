@@ -90,7 +90,7 @@
   },
   {
     "type": "text",
-    "text": "2. (가)  왕조에 대한 설명으로 옳은 것은?",
+    "text": ". (가)  왕조에 대한 설명으로 옳은 것은?\n",
     "bbox": [
       84,
       716,
@@ -101,10 +101,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.973,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 132,
-      "end_orig": 158,
+      "start_orig": 133,
+      "end_orig": 159,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1124,10 +1124,30 @@
   },
   {
     "type": "text",
-    "text": "② 명대 관학으로 채택되었다.\n③ 다이호 율령 제정에 영향을 끼쳤다.\n",
+    "text": "② 명대 관학으로 채택되었다.\n",
     "bbox": [
       446,
       1003,
+      591,
+      1018
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1022,
+      "end_orig": 1039,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③ 다이호 율령 제정에 영향을 끼쳤다.\n",
+    "bbox": [
+      446,
+      1019,
       632,
       1034
     ],
@@ -1135,9 +1155,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9825,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1022,
+      "start_orig": 1039,
       "end_orig": 1061,
       "reason": "passed_threshold_no_ws"
     }
@@ -1458,160 +1478,6 @@
   },
   {
     "type": "text",
-    "text": "7. (가)  지역을 지도에서 옳게 고른 것은?  [3점]\n",
-    "bbox": [
-      86,
-      642,
-      320,
-      659
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 1517,
-      "end_orig": 1550,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "포르투갈은 몰라카를 점령하여 동방 무역의 교두보로 삼았고,중국 으로부터 (가)에서의 거주권도 인정받아 막대한 이익을 얻고 있습니다.만약 우리가 이 지역을 빼앗으면 포르투갈을 대신하여 일본에",
-    "bbox": [
-      120,
-      692,
-      370,
-      727
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "중국 생사를 공급할 수 있을 것입니다.또한 아시아에서 포르투갈이 누리고",
-    "bbox": [
-      120,
-      731,
-      370,
-      740
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "있는 독점적 지위를 뺏을 수 있으며,동시에 몰라카도 공략할 수 있습니다.",
-    "bbox": [
-      120,
-      743,
-      370,
-      753
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "(가) 을/를 점령하면 결국 우리는 전 세계가 그토록 갈망하는 중국의 부와 상품을 얻을 수 있습니다.",
-    "bbox": [
-      120,
-      756,
-      370,
-      779
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "바타비아 총독 얀 코엔으로부터",
-    "bbox": [
-      263,
-      784,
-      371,
-      795
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      126,
-      815,
-      375,
-      1043
-    ],
-    "page_idx": 1,
-    "image_path": "44ea0b22b580c885b0eb435a49f766bd32223901f5c1a398c21d3e540c395e75.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄷ ④ ② ⑤①",
-    "bbox": [
-      95,
-      1050,
-      373,
-      1070
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
     "text": "8. (가)  왕조 시기 동아시아 상황에 대한 설명으로 옳은 것은?  [3점] ",
     "bbox": [
       434,
@@ -1623,7 +1489,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9677,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1571,
       "end_orig": 1615,
@@ -1892,7 +1758,7 @@
   },
   {
     "type": "text",
-    "text": "이자료는 태양력 적용전에 제작된 음력으로표기된 달력입니다.",
+    "text": "이자료는 태양력 적용전에 제작된 음력으로 표기된 달력입니다.",
     "bbox": [
       475,
       497,
@@ -1951,37 +1817,157 @@
     }
   },
   {
-    "type": "image",
+    "type": "text",
+    "text": "ㄱ.(가) 지역을 지도에서 옳게 고른 것은? [3점]",
     "bbox": [
-      450,
-      542,
-      739,
-      682
+      86,
+      642,
+      320,
+      659
     ],
     "page_idx": 1,
-    "image_path": "a99c8f91a6a3f57c1635f785fa2dc0289219225c47dbac40df770b2af7dc1b14.jpg",
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "포르투갈은 몰라카를 점령하여 동방 무역의 교두보로 삼았고,중국 으로부터 (가)에서의 거주권도 인정받아 막대한 이익을 얻고 있습니다.만약 우리가 이 지역을 빼앗으면 포르투갈을 대신하여 일본에",
+    "bbox": [
+      120,
+      692,
+      370,
+      727
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "중국 생사를 공급할 수 있을 것입니다.또한 아시아에서 포르투갈이 누리고",
+    "bbox": [
+      120,
+      731,
+      370,
+      740
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "있는 독점적 지위를 뺏을 수 있으며,동시에 몰라카도 공략할 수 있습니다.",
+    "bbox": [
+      120,
+      743,
+      370,
+      753
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(가) 을/를 점령하면 결국 우리는 전 세계가 그토록 갈망하는 중국의 부와 상품을 얻을 수 있습니다.",
+    "bbox": [
+      120,
+      756,
+      370,
+      779
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "바타비아 총독 얀 코엔으로부터",
+    "bbox": [
+      263,
+      784,
+      371,
+      795
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      126,
+      815,
+      375,
+      1043
+    ],
+    "page_idx": 1,
+    "image_path": "44ea0b22b580c885b0eb435a49f766bd32223901f5c1a398c21d3e540c395e75.jpg",
     "alt": "",
     "caption": null,
     "original_type": "image"
   },
   {
     "type": "text",
-    "text": "① 광무개혁을 추진하는 관리\n② 도쿄 대학에서 연구하는 학생\n③ 광저우에서 교역하는 영국 상인\n④ 태평천국 운동을 진압하는 군인\n⑤ 막부 타도 운동에 참여하는 무사",
+    "text": "① ㄱ ② ㄴ ③ ㄷ ④ ② ⑤① 양력1월29일 음력 1을 1월 1일 ① 광무개혁을 추진하는 관리 ② 도쿄 대학에서 연구하는 학생 ③ 광저우에서 교역하는 영국 상인 ④ 태평천국 운동을 진압하는군인 ⑤ 막부 타도 운동에참여하는무사",
     "bbox": [
-      446,
-      691,
+      95,
+      554,
       620,
-      772
+      1070
     ],
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.5258,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2035,
-      "end_orig": 2126,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 2057,
+      "end_orig": 2196,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2511,7 +2497,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9091,
+      "similarity": 0.9545,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2929,
       "end_orig": 2958,
@@ -3574,7 +3560,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 조선 의용대가 중국 국민당 정부의 지원을 받았다.\n",
+    "text": "ㄷ. 조선 의용대가 중국 국민당 정부의 지원을 받았다.",
     "bbox": [
       107,
       705,
@@ -3585,11 +3571,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9565,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4461,
-      "end_orig": 4492,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 4491,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4114,7 +4100,7 @@
   },
   {
     "type": "text",
-    "text": "20. 교사의 질문에 대한 학생의 답변으로 가장 적절한 것은?[3점] 이 자료는 경제 개발을 위해 실시한 이 운동과 관련된 선전물입니다.",
+    "text": "20.교사의 질문에 대한 학생의 답변으로 가장 적절한 것은?[3점] 이 자료는 경제 개발을 위해 실시한 이 운동과 관련된 선전물입니다.",
     "bbox": [
       435,
       576,

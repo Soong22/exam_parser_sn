@@ -10,9 +10,9 @@ import json, re, unicodedata
 # 경로/설정 (하드코딩)
 # =========================
 # 입력: 폴더 또는 단일 파일 경로
-SRC_PATH = Path(r"exam_parser-main\01_middle_process\data\cleaned")
+SRC_PATH = Path(r"exam_parser-main\01_middle_process\data\cleand")
 # 출력: 폴더 또는 단일 파일 경로
-DST_PATH = Path(r"exam_parser-main\01_middle_process/data/plain")
+DST_PATH = Path(r"exam_parser-main\01_middle_process\data\plain")
 
 # 폴더 모드에서 매칭할 파일 패턴(재귀 탐색)
 GLOB_PATTERN = "*.json"

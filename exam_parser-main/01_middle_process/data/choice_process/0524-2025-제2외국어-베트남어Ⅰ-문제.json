@@ -48,17 +48,6 @@
     "page_idx": 0
   },
   {
-    "type": "text",
-    "text": "6. 빈간에 들어갈 말로 알맞은 것은?",
-    "bbox": [
-      434,
-      254,
-      621,
-      272
-    ],
-    "page_idx": 0
-  },
-  {
     "type": "image",
     "bbox": [
       97,
@@ -71,6 +60,17 @@
     "alt": "",
     "caption": null,
     "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "6. 빈간에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      434,
+      254,
+      621,
+      272
+    ],
+    "page_idx": 0
   },
   {
     "type": "text",
@@ -118,23 +118,12 @@
   },
   {
     "type": "text",
-    "text": "2.밑줄 친 부분과 발음이 같은 것은?[1점]",
+    "text": "ㄹ.밑줄 친 부분과 발음이 같은 것은?[1점]",
     "bbox": [
       84,
       434,
       307,
       451
-    ],
-    "page_idx": 0
-  },
-  {
-    "type": "text",
-    "text": "7. 빈칸 (a), (b)에 들어갈 말로 알맞은 것은?",
-    "bbox": [
-      434,
-      430,
-      661,
-      448
     ],
     "page_idx": 0
   },
@@ -151,6 +140,17 @@
     "alt": "",
     "caption": null,
     "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. 빈칸 (a), (b)에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      434,
+      430,
+      661,
+      448
+    ],
+    "page_idx": 0
   },
   {
     "type": "text",
@@ -212,7 +212,7 @@
   },
   {
     "type": "text",
-    "text": "8. 빈칸에 들어갈 말로 알맞은 것은?[1점]",
+    "text": "8.빈칸에 들어갈 말로 알맞은 것은?[1점]",
     "bbox": [
       434,
       651,
@@ -270,12 +270,23 @@
   },
   {
     "type": "text",
-    "text": "① t ② bat ③ doi ④ ㄷhai ⑤ quyén ① dn ② gi ③ ④ ㄷhay ⑤ khoi",
+    "text": "① dn ② gi ③ ④ ㄷhay ⑤ khoi",
     "bbox": [
       97,
+      903,
+      384,
+      926
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "① t ② bat ③ doi ④ ㄷhai ⑤ quyén",
+    "bbox": [
+      446,
       855,
       741,
-      926
+      875
     ],
     "page_idx": 0
   },
@@ -287,6 +298,17 @@
       970,
       320,
       987
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "9.문장 표현이옳은 것만을 고른 것은?",
+    "bbox": [
+      434,
+      932,
+      636,
+      951
     ],
     "page_idx": 0
   },
@@ -314,12 +336,12 @@
   },
   {
     "type": "text",
-    "text": "9.문장 표현이 옳은 것만을 고른 것은?",
+    "text": "① nm ② tt ③ hong ④ mang ⑤ ngn",
     "bbox": [
-      434,
-      932,
-      636,
-      951
+      96,
+      1047,
+      387,
+      1072
     ],
     "page_idx": 0
   },
@@ -336,7 +358,7 @@
   },
   {
     "type": "text",
-    "text": "b. Ca tuan nay to vui vi ngay nao cüng duoc me khen.",
+    "text": "b. Ca tuan nay tó vui vi ngay nao cüng duoc me khen.",
     "bbox": [
       453,
       983,
@@ -347,7 +369,7 @@
   },
   {
     "type": "text",
-    "text": "c. Tó hoc luat dé biét chúr khóng muón tro nén luat su.",
+    "text": "ㄷ. Tó hoc luat dé biét chúr khóng muón tro nén luat su.",
     "bbox": [
       453,
       1001,
@@ -369,12 +391,12 @@
   },
   {
     "type": "text",
-    "text": "① nm ② tt ③ hong ④ mang ⑤ ngn ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
-      96,
-      1047,
+      445,
+      1049,
       732,
-      1072
+      1070
     ],
     "page_idx": 0
   },
@@ -518,7 +540,7 @@
   },
   {
     "type": "text",
-    "text": "Lan la nhan vien cöng ti. Lan dang sóng thanh phó Da Nng. Lan rat thich nghe K-pop. He nm sau, Lan sé di du lich Han Quóc.",
+    "text": "Lan la nhan vien cöng ti. Lan dang sóng ó thanh phó Da Nng. Lan rat thich nghe K-pop. He nm sau, Lan sé di du lich Han Quóc.",
     "bbox": [
       453,
       187,
@@ -620,7 +642,7 @@
   },
   {
     "type": "text",
-    "text": "trién lam ⑤ dé toi khám cho anh",
+    "text": "trién lam ⑤ dé toi khm cho anh",
     "bbox": [
       446,
       470,
@@ -631,7 +653,7 @@
   },
   {
     "type": "text",
-    "text": "16.빈칸에 들어갈 말로알맞은 것을",
+    "text": "16.빈칸에 들어갈 말로 알맞은 것을",
     "bbox": [
       435,
       545,
@@ -752,7 +774,7 @@
   },
   {
     "type": "text",
-    "text": "a. Em mua 2 can b. 1 can cam bao nhiéu tin c. Anh giam gi cho em duoc khóng",
+    "text": "a. Em mua 2 can b. 1 can cam bao nhiéu tién ㄷ. Anh giam gi cho em duoc khóng",
     "bbox": [
       453,
       738,
@@ -785,7 +807,7 @@
   },
   {
     "type": "text",
-    "text": "A: So thich cua chi la gi?",
+    "text": "A: Só thich cua chi la gi?",
     "bbox": [
       105,
       907,
@@ -978,7 +1000,7 @@
   },
   {
     "type": "text",
-    "text": "A: Bay gio, ban di n pho voi minh nhé.",
+    "text": "A: Bay gi, ban di n pho vói minh nhe.",
     "bbox": [
       105,
       404,
@@ -1011,10 +1033,21 @@
   },
   {
     "type": "text",
-    "text": "a. da goi nham b. có viéc khác c. chon mau nay d. phai lam bai tap ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a. da goi nham b. có viéc khác ㄷ. chon mau nay d. phai lam bai tap",
+    "bbox": [
+      104,
+      491,
+      359,
+      527
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
       97,
-      491,
+      540,
       383,
       560
     ],
@@ -1058,7 +1091,7 @@
   },
   {
     "type": "text",
-    "text": "21.빈간에 들어갈 말로알맞은것만을",
+    "text": "21.빈칸에 들어갈 말로 알맞은 것만을",
     "bbox": [
       86,
       901,
@@ -1091,7 +1124,7 @@
   },
   {
     "type": "text",
-    "text": "A: Tur day dn siéu thi ABC ?",
+    "text": "A: Tur day dén siéu thi ABC ?",
     "bbox": [
       105,
       931,
@@ -1124,7 +1157,7 @@
   },
   {
     "type": "text",
-    "text": "a. bao xa b. có xa khong c. di duong nao d. có ng nm a ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a. bao xa b. có xa khong ㄷ. di duong nao d. có ng nm a ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
     "bbox": [
       96,
       999,
@@ -1182,7 +1215,7 @@
   },
   {
     "type": "text",
-    "text": "Gia dinh cüa Ha có ng, bó me, em trai va Ha. Ong cüa Ha vn con khoe. Bó cüa Ha la cóng an, con me cüa Ha la giáo vién. Em trai cüa Ha la sinh vién nm thú 4 cúa Trurong Dai hoc HN.",
+    "text": "Gia dinh cüa Ha có ng, bó me, em trai va Ha. Ong cüa Ha vn con khoe. Bó cüa Ha la cóng an, con me cüa Ha la giáo vién. Em trai cüa Ha la sinh vién nm thúr 4 cúa Trurong Dai hoc HN.",
     "bbox": [
       453,
       503,
@@ -1361,7 +1394,7 @@
   },
   {
     "type": "text",
-    "text": "B: Chi gúri nhanh hay güui thuong?",
+    "text": "B : Chi gúri nhanh hay güuri thuong?",
     "bbox": [
       538,
       955,
@@ -1427,7 +1460,7 @@
   },
   {
     "type": "text",
-    "text": "* am lich: 음력 * hang nm: 매년 ① Tét Nguyen dan ② Ngay Sách Viet Nam ③ Nm Du lich Quóc gia ④ Nm Quóc té Gia dinh ⑤ Ngay Thé thao Viet Nam",
+    "text": "* am lich: 음력 * hàng nm: 매년 ① Tét Nguyen dan ② Ngay Sách Viet Nam ③ Nm Du lich Quóc gia ④ Nm Quóc té Gia dinh ⑤ Ngay Thé thao Viet Nam",
     "bbox": [
       96,
       248,
@@ -1438,7 +1471,7 @@
   },
   {
     "type": "text",
-    "text": "27.‘벤타인 시장(cho BénThanh)'에 관한 글을 이해한 내용으로 알맞은것만을",
+    "text": "27.‘벤타인 시장(cho BénThanh)'에 관한 글을이해한 내용으로 알맞은것만을",
     "bbox": [
       86,
       382,
@@ -1471,7 +1504,7 @@
   },
   {
     "type": "text",
-    "text": "4 Cho Bén Thanh la möt cho lón nm ö trung tam Thanh phó H Chi Minh. Ö day bán nhiéu loai hang hoá nhu hoa qua, quan áo,. va cón bán dó luu niém danh cho du khách. Ngoai ra, cón có cho dém thurong duoc mö xung quanh cho Bén Thanh.",
+    "text": "4 Cho Bén Thanh la möt cho lón nm trung tam Thanh phó H Chi Minh. Ö day bán nhiéu loai hang hoá nhu hoa qua, quan áo,. va con bán do luu niém danh cho du khách. Ngoai ra, cón có cho dém thurong duoc mó xung quanh cho Bén Thanh.",
     "bbox": [
       105,
       432,
@@ -1548,7 +1581,7 @@
   },
   {
     "type": "text",
-    "text": "c. Du khách có thé mua dó luu niém ó day.",
+    "text": "ㄷ. Du khách có thé mua dó luu niém ó day.",
     "bbox": [
       105,
       632,
@@ -1614,7 +1647,7 @@
   },
   {
     "type": "text",
-    "text": "Day la duong Ba Trieu a? Ba Triéu có nghia la gi?",
+    "text": "Day la duong Ba Triéu a? Ba Triéu có nghia la gi?",
     "bbox": [
       143,
       780,
@@ -1625,7 +1658,7 @@
   },
   {
     "type": "text",
-    "text": "Tuán : Ba Triéu la nü anh hung dan töc cua Viet Nam.",
+    "text": "Tuán : Ba Triéu la nür anh hung dan toc cua Viet Nam.",
     "bbox": [
       105,
       798,
@@ -1895,7 +1928,7 @@
   },
   {
     "type": "text",
-    "text": "Nhüng chiéc tröng dong nay da duroc tim thay khp nuoc Viet Nam. Tröng dong Dong Son cho thay ki thuat luyén kim rat cao cua ván hoá Dong Son, cách ngay nay khoáng 2.500 nm.",
+    "text": "Nhüng chiéc tröng dong nay da duroc tim thay khp nuoc Viet Nam. Tröng dong Dong Son cho thay ki thuat luyén kim rat cao cua ván hoá Dong Son, cách ngay nay khoáng ㄹ.500 nm.",
     "bbox": [
       454,
       708,
@@ -1972,7 +2005,7 @@
   },
   {
     "type": "text",
-    "text": "c. La thúr duoc su dung dé lam nón lá binh dan.",
+    "text": "ㄷ. La thúr duoc su dung dé lam nón lá binh dan.",
     "bbox": [
       453,
       887,

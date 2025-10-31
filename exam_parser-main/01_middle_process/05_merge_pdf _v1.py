@@ -9,7 +9,7 @@ from bisect import bisect_left
 # ======================================================
 # 폴더 경로 (여기만 네 환경에 맞게 수정)
 # ======================================================
-XHTML_DIR_IN = Path(r"output_html")                        # 각 문제 폴더에 index.xhtml 존재
+XHTML_DIR_IN = Path(r"exam_parser-main\00_html")                        # 각 문제 폴더에 index.xhtml 존재
 JSON_DIR_IN  = Path(r"exam_parser-main\01_middle_process\data\choice_process")  # 병합 대상 JSON 폴더(재귀)
 OUT_DIR      = Path(r"exam_parser-main\01_middle_process\data\merge_html")                   # 출력 루트
 
@@ -167,6 +167,17 @@ def _reinclude_left_marker_context(src: str, start_idx: int, lookback: int = 8) 
     if m:
         return a + m.start()
     return start_idx
+
+RE_ENUM = r"\u2460-\u2473\u2474-\u247D\u2776-\u2793"  # ①~⑩ 등
+_re_has_multi_enums = re.compile(rf"[{RE_ENUM}].*?[{RE_ENUM}]")
+
+def _is_option_line(s: str) -> bool:
+    # 2개 이상 열거기호가 있으면 선지 라인으로 간주
+    return bool(_re_has_multi_enums.search(s or ""))
+
+def _enum_sequence(s: str) -> str:
+    # 문자열에서 열거기호만 뽑아서 시퀀스 생성
+    return "".join(ch for ch in (s or "") if re.match(rf"[{RE_ENUM}]", ch))
 
 # ===== 정규화(검색용) =====
 def _simplify_and_map(src: str):
@@ -905,10 +916,18 @@ def replace_text_blocks(jdata: list, src_text: str) -> int:
         # 승인/거절
         accepted = False
         reason = ""
+
+        # (A) 제**조 특례
         if _article_head_equivalent(orig, new_text):
             accepted = True; reason = "제**조"
+        # (B) 일반 임계값 통과
         elif (orig_hanless == new_hanless or sim >= SIM_THRESHOLD):
             accepted = True; reason = "passed_threshold_no_ws"
+        
+        # (C) 선지-라인 관대 수락: 열거기호 시퀀스만 맞으면 OK
+        elif _is_option_line(orig) and _is_option_line(new_text):
+            if _enum_sequence(orig) == _enum_sequence(new_text):
+                accepted = True; reason = "option_line_enumerator_match"
 
         if not accepted:
             # 마지막 구명줄: 앵커-윈도우 재시도

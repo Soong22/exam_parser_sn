@@ -1,60 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제5교시",
-    "bbox": [
-      95,
-      153,
-      177,
-      190
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "제2외국어/한문 영역(아랍어I)",
-    "bbox": [
-      203,
-      144,
-      695,
-      199
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      194,
-      208,
-      656,
-      238
-    ],
-    "page_idx": 0,
-    "image_path": "d65721aeb5d4bac66e09ecd9d16ef3ca1301694ed23df09ae9abcd0806a6fdf4.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "text",
     "text": "1. 밑줄 친 부분에 공통으로 사용된 자음은? [1점]\n",
     "bbox": [
       89,
@@ -75,7 +21,7 @@
   },
   {
     "type": "text",
-    "text": "6. 빈칸에 들어갈 말로 알맞은 것은? [1점]\n",
+    "text": "6. 빈칸에 들어갈 말로 알맞은 것은? [1점]",
     "bbox": [
       438,
       256,
@@ -89,7 +35,7 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 910,
-      "end_orig": 937,
+      "end_orig": 936,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -135,7 +81,7 @@
   },
   {
     "type": "text",
-    "text": ". 밑줄 친 낱말과 동일한 모음 배열을 가진 것은? [1점]\n",
+    "text": "2. 밑줄 친 낱말과 동일한 모음 배열을 가진 것은? [1점]\n",
     "bbox": [
       88,
       398,
@@ -146,26 +92,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9796,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 82,
+      "start_orig": 81,
       "end_orig": 116,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      99,
-      420,
-      404,
-      473
-    ],
-    "page_idx": 0,
-    "image_path": "3d04637fb46464288e7601394bb50ccd05dceaf82da105b4e5796dc36917325c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -208,21 +140,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      106,
-      564,
-      367,
-      648
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td></td><td>&quot;</td><td></td><td>°: 5</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "3e23bffb2e83780831c2a710b5ad3156635e3100aa8d0c41210f35ad07104d5d.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "4. 속도 제한 표지판의 숫자를 아라비아 숫자로 바르게 표기한 것은?\n",
     "bbox": [
@@ -243,20 +160,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      100,
-      733,
-      318,
-      883
-    ],
-    "page_idx": 0,
-    "image_path": "2fd2df60691963bb7fabdaf4ec1848a604be1c5e6b3149672473650e1c666a0f.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "5. 빈칸에 들어갈 말에 해당하는 그림은?",
     "bbox": [
@@ -275,20 +178,6 @@
       "end_orig": 909,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      98,
-      942,
-      407,
-      1072
-    ],
-    "page_idx": 0,
-    "image_path": "5dcc50d1bfb026f5d78e6f82adf8e2c179d7c2e58d2cb1c14954a1468a44e38d.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -312,7 +201,7 @@
   },
   {
     "type": "text",
-    "text": ". 빈칸에 들어갈 말로 알맞은 것은? ",
+    "text": "7. 빈칸에 들어갈 말로 알맞은 것은?",
     "bbox": [
       438,
       398,
@@ -323,10 +212,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9677,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 911,
-      "end_orig": 932,
+      "start_orig": 1309,
+      "end_orig": 1330,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -511,20 +400,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      448,
-      849,
-      757,
-      1022
-    ],
-    "page_idx": 0,
-    "image_path": "5bddfe080110572ed2d1f925b32bd84d1d6931dcac4e76403e429b0b8e07bc56.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① ② ③ o ④ ⑤",
     "bbox": [
@@ -605,26 +480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\frac { \\dot { 9 } } { 1 1 } )",
-    "bbox": [
-      709,
-      229,
-      726,
-      247
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "1135",
     "bbox": [
@@ -643,20 +498,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      449,
-      261,
-      757,
-      371
-    ],
-    "page_idx": 1,
-    "image_path": "55275a087d4908ab6b5f295975f6cffd0566ce05607f91895e6072a262eacccc.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -697,20 +538,6 @@
       "end_orig": 3437,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      98,
-      518,
-      405,
-      571
-    ],
-    "page_idx": 1,
-    "image_path": "325523c2f9a98f6e1d3374844aa8890ee4bee18decb78c9feb6a7abc9bf222ad.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -993,20 +820,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      99,
-      178,
-      209,
-      285
-    ],
-    "page_idx": 2,
-    "image_path": "d9d931b464ca6e152deed3a4c0edcb492fad40f67f3d1b6b4843eba65d10d574.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "SL:A B A",
     "bbox": [
@@ -1065,20 +878,6 @@
       "end_orig": 6668,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      98,
-      429,
-      405,
-      531
-    ],
-    "page_idx": 2,
-    "image_path": "95b1c1262ad83a6523dc3ddef9774d6caca1bc7f7abf6e9ef2855ac2e7df8983.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1182,7 +981,7 @@
   },
   {
     "type": "text",
-    "text": "① ② ③ㄴ ④ ⑤",
+    "text": "① ② ③l ④ ⑤",
     "bbox": [
       96,
       1027,
@@ -1281,26 +1080,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ { \\cdot \\circ \\dagger }",
-    "bbox": [
-      698,
-      499,
-      711,
-      513
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "순서대로 바르게 배열한 것은?",
     "bbox": [
@@ -1319,34 +1098,6 @@
       "end_orig": 8779,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      449,
-      540,
-      752,
-      636
-    ],
-    "page_idx": 2,
-    "image_path": "72a02e346f3cac29f59d2a30f38294af48ad817584e5a3567c192527648bb07b.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      451,
-      646,
-      757,
-      735
-    ],
-    "page_idx": 2,
-    "image_path": "22222770fc5f6b33d87a20c36c23185b944c0d4235c7a01858de734d5135f0c5.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1709,20 +1460,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      453,
-      179,
-      753,
-      461
-    ],
-    "page_idx": 3,
-    "image_path": "a3e9a2e8930f383b3e56d9f6270fe62f128959097be11282a6f891cd6fe95d38.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 도하 ② 메카 ③ 암만 ④ 튀니스 ⑤ 아부다비",
     "bbox": [
@@ -1881,5 +1618,268 @@
       "end_orig": null,
       "reason": "not_found"
     }
+  },
+  {
+    "type": "text",
+    "text": "제5교시",
+    "bbox": [
+      95,
+      153,
+      177,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제2외국어/한문 영역(아랍어I)",
+    "bbox": [
+      203,
+      144,
+      695,
+      199
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      194,
+      208,
+      656,
+      238
+    ],
+    "page_idx": 0,
+    "image_path": "d65721aeb5d4bac66e09ecd9d16ef3ca1301694ed23df09ae9abcd0806a6fdf4.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      99,
+      420,
+      404,
+      473
+    ],
+    "page_idx": 0,
+    "image_path": "3d04637fb46464288e7601394bb50ccd05dceaf82da105b4e5796dc36917325c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      106,
+      564,
+      367,
+      648
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td></td><td>&quot;</td><td></td><td>°: 5</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "3e23bffb2e83780831c2a710b5ad3156635e3100aa8d0c41210f35ad07104d5d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      100,
+      733,
+      318,
+      883
+    ],
+    "page_idx": 0,
+    "image_path": "2fd2df60691963bb7fabdaf4ec1848a604be1c5e6b3149672473650e1c666a0f.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      98,
+      942,
+      407,
+      1072
+    ],
+    "page_idx": 0,
+    "image_path": "5dcc50d1bfb026f5d78e6f82adf8e2c179d7c2e58d2cb1c14954a1468a44e38d.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      448,
+      849,
+      757,
+      1022
+    ],
+    "page_idx": 0,
+    "image_path": "5bddfe080110572ed2d1f925b32bd84d1d6931dcac4e76403e429b0b8e07bc56.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\frac { \\dot { 9 } } { 1 1 } )",
+    "bbox": [
+      709,
+      229,
+      726,
+      247
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      449,
+      261,
+      757,
+      371
+    ],
+    "page_idx": 1,
+    "image_path": "55275a087d4908ab6b5f295975f6cffd0566ce05607f91895e6072a262eacccc.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      98,
+      518,
+      405,
+      571
+    ],
+    "page_idx": 1,
+    "image_path": "325523c2f9a98f6e1d3374844aa8890ee4bee18decb78c9feb6a7abc9bf222ad.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      99,
+      178,
+      209,
+      285
+    ],
+    "page_idx": 2,
+    "image_path": "d9d931b464ca6e152deed3a4c0edcb492fad40f67f3d1b6b4843eba65d10d574.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      98,
+      429,
+      405,
+      531
+    ],
+    "page_idx": 2,
+    "image_path": "95b1c1262ad83a6523dc3ddef9774d6caca1bc7f7abf6e9ef2855ac2e7df8983.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { \\cdot \\circ \\dagger }",
+    "bbox": [
+      698,
+      499,
+      711,
+      513
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      449,
+      540,
+      752,
+      636
+    ],
+    "page_idx": 2,
+    "image_path": "72a02e346f3cac29f59d2a30f38294af48ad817584e5a3567c192527648bb07b.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      451,
+      646,
+      757,
+      735
+    ],
+    "page_idx": 2,
+    "image_path": "22222770fc5f6b33d87a20c36c23185b944c0d4235c7a01858de734d5135f0c5.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      453,
+      179,
+      753,
+      461
+    ],
+    "page_idx": 3,
+    "image_path": "a3e9a2e8930f383b3e56d9f6270fe62f128959097be11282a6f891cd6fe95d38.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

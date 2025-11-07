@@ -26,12 +26,12 @@ RE_MARKER_TOKEN = re.compile(r"\(?\s*(" + RE_CIRCLED_NUM + r")\s*\)?")
 
 # 문제번호 패턴 (원형숫자로 시작하는 줄은 제외)
 RE_Q_HEADER = re.compile(
-    rf"^(?!\s*{RE_CIRCLED_NUM})\s*(?:문\s*)?([1-9]\d{{0,2}})\s*(?:\)|[.。．])\s+{_DOT_DATE_TAIL_GUARD}",
+    rf"^(?!\s*{RE_CIRCLED_NUM})\s*(?:문\s*)?([1-9]\d{{0,2}})\s*(?:\)|[.。．])\s*{_DOT_DATE_TAIL_GUARD}",
     re.UNICODE,
 )
 
 RE_LEAD_QNUM = re.compile(
-    rf"^\s*(?:문\s*)?\d{{1,3}}\s*(?:\)\s+|[.。．]\s+{_DOT_DATE_TAIL_GUARD})",
+    rf"^\s*(?:문\s*)?\d{{1,3}}\s*(?:\)\s*|[.。．]\s*{_DOT_DATE_TAIL_GUARD})",
     re.UNICODE,
 )
 
@@ -79,9 +79,10 @@ IMAGE_MOVE = False
 IMAGE_OVERWRITE = True
 
 # 입출력 기본 폴더
-LAYOUT_DIR = r"exam_parser-main\01_middle_process\data\merge_html"        # 입력: *.json
+LAYOUT_DIR = r"exam_parser-main\01_middle_process\data\layout"        # 입력: *.json
+# LAYOUT_DIR = r"exam_parser-main\01_middle_process\data\merge_html"        # 입력: *.json
 FORMAT_DIR = r"exam_parser-main\02_parsing\data\00_final"               # 출력: *.jsonl
-ANSWER_DIR = r"exam_parser-main\02_parsing\data\정답\2025_직업탐구영역_정답_개선본"                              # 비워두면 자동 탐색
+ANSWER_DIR = r"exam_parser-main\02_parsing\data\정답\2021_2024_수능정답데이터_직업탐구"                              # 비워두면 자동 탐색
 
 # =============================================================================
 # 2) 경로/글로벌 유틸 (맥/윈도우 공통 안전화)

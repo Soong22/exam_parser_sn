@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      90,
-      153,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 54,
-      "end_orig": 60,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "직업탐구 영역(인간 발달)",
-    "bbox": [
-      228,
-      144,
-      609,
-      200
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      707,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "f7ed189f11e23bff530c9942a09714516f3af91de36fee2b49ad7eb068ef823b.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 다음 일기에서 정호가 속한 시기의 발달 특성에 대한 설명으로 가장 적절한 것은?",
     "bbox": [
       87,
@@ -296,7 +241,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 [실험 결과]를 통해 알 수 있는 아동 A,  B가 속한 시기의 발달 특성으로 적절한 것만을 <보기",
+    "text": "2. 다음 [실험 결과]를 통해 알 수 있는 아동 A,  B가 속한 시기의 발달 특성으로 적절한 것만을 <보기",
     "bbox": [
       86,
       578,
@@ -307,31 +252,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9882,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 438,
+      "start_orig": 437,
       "end_orig": 498,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      268,
-      597,
-      277,
-      608
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -535,21 +460,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      105,
-      835,
-      396,
-      921
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>아동 A의 대답</td><td rowspan=1 colspan=1>아동 B의 대답</td></tr><tr><td rowspan=1 colspan=1>1단계</td><td rowspan=1 colspan=1>똑같아요</td><td rowspan=1 colspan=1>똑같아요</td></tr><tr><td rowspan=1 colspan=1>2단계</td><td rowspan=1 colspan=1>똑같아요 제 과자는 두개지만 합하면 선생님 것과두개라서선생님보다더같아요</td><td rowspan=1 colspan=1>똑같지 않아요 제 과자는지만 합하면 선생님 것과두개라서선생님보다더많아요</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "42193a0c3f580e07c9c9314ae1368fc5577f4d8b6693e6e59a5c3e40d54987a9.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "ㄱ. 아동 A가 속한 시기에는 탈중심화가 나타나기 시작한다.",
     "bbox": [
@@ -611,7 +521,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "① 7 ② L ③ 7,ㄷ ④L,ㄷ ⑤ 7,L,ㄷ",
     "bbox": [
       96,
       1050,
@@ -621,12 +531,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1034,
-      "end_orig": 1069,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -650,26 +560,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      556,
-      275,
-      565,
-      286
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  (단,  피아제의 도덕성 발달 이론에 근거한다.)  [3점]\n",
     "bbox": [
@@ -688,22 +578,6 @@
       "end_orig": 1182,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      315,
-      738,
-      487
-    ],
-    "page_idx": 0,
-    "image_path": "10097d7699381dc9f29c7de1b02ce241554da4cf7d02896f68b6f963b69e1306.jpg",
-    "alt": "",
-    "caption": [
-      "<보기>"
-    ],
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -767,7 +641,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② ㄷ ③ 7,L ④L,ㄷ ⑤ ㄱ,L,ㄷ",
     "bbox": [
       444,
       607,
@@ -777,12 +651,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1331,
-      "end_orig": 1366,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1003,26 +877,6 @@
       "start_orig": 1846,
       "end_orig": 1879,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 5 - 6 ]",
-    "bbox": [
-      85,
-      156,
-      119,
-      172
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1506,26 +1360,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circled{ \\div }",
-    "bbox": [
-      130,
-      927,
-      143,
-      939
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "Human DL",
     "bbox": [
@@ -1704,20 +1538,6 @@
       "end_orig": 3909,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      460,
-      200,
-      744,
-      358
-    ],
-    "page_idx": 1,
-    "image_path": "c70995cbcefdc48385a58586f13a39a640e2fdb26443bc1dddc5b1bbbf3edbdd.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2041,7 +1861,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       748,
@@ -2078,21 +1898,6 @@
       "end_orig": 3102,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      450,
-      827,
-      747,
-      973
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td colspan=\"2\"></td><td rowspan=\"2\">상품 구매 후기</td><td rowspan=\"2\">상품문의</td><td rowspan=\"2\"></td></tr><tr><td>상품상세정보</td><td>관련 상품</td></tr><tr><td colspan=\"2\"></td><td colspan=\"3\">5 박으0 2024년월일 제품: 수유 쿠션 우리 아이에게 수유할 때 사용하려고 구매했어요.크기가 제 허리를 감쌀 만큼 넓어서 사용하기 편해요.아이가 아직 목을 못 가누기 때문에 수유 후에 쿠션에 앉혀 놓고 목을 받쳐 트림을 시킬 때도 좋아요. 큰 소리가 나면 아이가 갑자기 팔다리를 짝 펼치는 반응을 보일 때가 있어요.그러면 잠들고도 한동안 안고 있어야 하는데 그럴 때도 도움이 돼요.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a98da5e0f8b4c8cab800c3f17c9e22fdb7108ab8f794c25547d091be9d6340f6.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2215,26 +2020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 7 } )",
-    "bbox": [
-      248,
-      158,
-      267,
-      172
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "),  (나)에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?\n",
     "bbox": [
@@ -2296,7 +2081,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ.(4)",
+    "text": "2.(4)",
     "bbox": [
       120,
       270,
@@ -2309,8 +2094,8 @@
       "replaced": false,
       "similarity": 0.5714,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4753,
-      "end_orig": 4757,
+      "start_orig": 5940,
+      "end_orig": 5942,
       "reason": "low_similarity"
     }
   },
@@ -2416,7 +2201,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       95,
       450,
@@ -2426,12 +2211,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3409,
-      "end_orig": 3444,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2635,26 +2420,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textsuperscript { \\textregistered }",
-    "bbox": [
-      286,
-      871,
-      297,
-      883
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "같은 직업을 갖고 마주치는 사이 A씨 B씨 있울 소급 사람 친구 서로 다른 성격을 가지고 있지만 대 인생에 대한가치관이 유사하고, ⑦ 서로의부족함을채워주는사이 C씨 D씨 ① 가는 매력 여과망에 해당한다.",
     "bbox": [
@@ -2712,26 +2477,6 @@
       "start_orig": 3904,
       "end_orig": 3905,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { \\scriptsize { \\mathtt { E } } \\mathtt { p } }",
-    "bbox": [
-      112,
-      1021,
-      125,
-      1034
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2795,26 +2540,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 4 }",
-    "bbox": [
-      112,
-      1054,
-      125,
-      1067
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "가 속한 여과망의 바로 다음 단계는",
     "bbox": [
@@ -2832,26 +2557,6 @@
       "start_orig": 3962,
       "end_orig": 3981,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { \\scriptsize { \\mathtt { E } } \\bar { \\mathtt { t } } }",
-    "bbox": [
-      297,
-      1053,
-      309,
-      1067
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2975,26 +2680,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 4 }",
-    "bbox": [
-      514,
-      275,
-      528,
-      289
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "제가 싫어하는 설거지 당번을 제외해 주기로 부모님과 약속했어요.  그래서 열심히 공부했어요",
     "bbox": [
@@ -3095,26 +2780,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { \\ 4 }",
-    "bbox": [
-      600,
-      449,
-      614,
-      463
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에 대한 설명으로 옳은 것만을 <보기>",
     "bbox": [
@@ -3132,26 +2797,6 @@
       "start_orig": 4526,
       "end_orig": 4547,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      473,
-      468,
-      483,
-      479
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3255,26 +2900,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 }",
-    "bbox": [
-      472,
-      559,
-      485,
-      572
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "와",
     "bbox": [
@@ -3292,26 +2917,6 @@
       "start_orig": 4645,
       "end_orig": 4646,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { \\ 4 }",
-    "bbox": [
-      497,
-      559,
-      510,
-      572
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3336,7 +2941,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ.",
+    "text": "2.",
     "bbox": [
       456,
       576,
@@ -3346,32 +2951,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4677,
-      "end_orig": 4679,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 }",
-    "bbox": [
-      472,
-      576,
-      485,
-      589
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 4739,
+      "end_orig": 4741,
+      "reason": "low_similarity"
     }
   },
   {
@@ -3396,7 +2981,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ,  ㄴ ② ㄱ,  ㄷ ③ ㄴ,  ㄹ\n④ ㄱ,  ㄷ,  ㄹ ⑤ ㄴ,  ㄷ,  ㄹ",
+    "text": "① 7,L ② 7,ㄷ ③ ㄴ,ㄹ ④ ㄱ,ㄷㄹ ⑤ L,ㄷ,ㄹ",
     "bbox": [
       445,
       620,
@@ -3406,12 +2991,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9787,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4731,
-      "end_orig": 4778,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -3696,7 +3281,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       1051,
@@ -3706,12 +3291,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5296,
-      "end_orig": 5331,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -3853,36 +3438,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      120,
-      325,
-      385,
-      423
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>활동일자</td><td rowspan=1 colspan=1>활동내용</td></tr><tr><td rowspan=1 colspan=1>2024.3.18.</td><td rowspan=1 colspan=1>야구를 좋아하여 스포츠 분석가가 되는 방법에 대한동영상을 찾아봄.</td></tr><tr><td rowspan=1 colspan=1>2024.6.20.</td><td rowspan=1 colspan=1>다양한 경험을 위해 진로 박람회에 참여하여 코딩프로그램제작을 체험함</td></tr><tr><td rowspan=1 colspan=1>2024.9.4.</td><td rowspan=1 colspan=1>최근 요리에 관심이 생겨 요리 동아리에 적극적으로참여하고 있으나 아직 이를 진로로 정할지 확신이없다는 내용의 보고서를 작성함.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "c2039a100b42a4d64b7ad7397ccd1a90dbf4e85c4a1aa0a61e2aa15ea1525ef0.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      115,
-      438,
-      388,
-      510
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>문항</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=1 colspan=1>주어진 역할과 과업에 몰두하고 있나요?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr><tr><td rowspan=1 colspan=1>의사 결정을 한 후 성취하기 위한 활동에 능동적으로참여하고 있나요?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "79556914cbe5a0eb6e9f758add6cb306f8db9d8f5752f83fc8a8bf3a190b952c.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -4245,26 +3800,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { ^ { 7 } H } )",
-    "bbox": [
-      560,
-      158,
-      578,
-      172
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "),  (나)에 대한 설명으로 적절한 것만을 <보기>에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -4385,26 +3920,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      614,
-      412,
-      622,
-      423
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "ㄱ. (가)는 생태학적 체계 이론이다.",
     "bbox": [
@@ -4486,7 +4001,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ,  ㄴ ② ㄱ,  ㄷ ③ ㄴ,  ㄹ\n④ ㄱ,  ㄷ,  ㄹ ⑤ ㄴ,  ㄷ,  ㄹ",
+    "text": "① 7,L ② 7,ㄷ ③ L,2 ④ ㄱ,ㄷ,ㄹ ⑤ㄴ,ㄷㄹ",
     "bbox": [
       445,
       524,
@@ -4496,12 +4011,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9787,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6622,
-      "end_orig": 6669,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -4522,26 +4037,6 @@
       "start_orig": 6670,
       "end_orig": 6729,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      616,
-      610,
-      626,
-      622
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4623,21 +4118,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      475,
-      725,
-      726,
-      826
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>아동 A의 특성</td><td rowspan=1 colspan=1>활동내용</td></tr><tr><td rowspan=1 colspan=1>유치가 빠진 자리에영구치가 나고 있음.</td><td rowspan=1 colspan=1>치아 관리 방법에 대한 동영상을 보여 줌.</td></tr><tr><td rowspan=1 colspan=1>다중 서열화 능력을획득하기 시작함.</td><td rowspan=1 colspan=1>색, 크기,재질이 다양한 구슬을 활용하여기준에 따라 분류하고,순서를매기는게임을하도록함</td></tr><tr><td rowspan=1 colspan=1>동의어와 다의어를이해할 수 있음.</td><td rowspan=1 colspan=1>낱말 카드의 단어를 이용하여 동의어와다의어를 포함한 문장을 만들도록 함.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "cead8d2a1eefdb181f30c8419736cfee4c164b7b94c49b07a96e705c9b69509c.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -4798,5 +4278,525 @@
       "end_orig": 6945,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      90,
+      153,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 54,
+      "end_orig": 60,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "직업탐구 영역(인간 발달)",
+    "bbox": [
+      228,
+      144,
+      609,
+      200
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      707,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "f7ed189f11e23bff530c9942a09714516f3af91de36fee2b49ad7eb068ef823b.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      268,
+      597,
+      277,
+      608
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      105,
+      835,
+      396,
+      921
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>아동 A의 대답</td><td rowspan=1 colspan=1>아동 B의 대답</td></tr><tr><td rowspan=1 colspan=1>1단계</td><td rowspan=1 colspan=1>똑같아요</td><td rowspan=1 colspan=1>똑같아요</td></tr><tr><td rowspan=1 colspan=1>2단계</td><td rowspan=1 colspan=1>똑같아요 제 과자는 두개지만 합하면 선생님 것과두개라서선생님보다더같아요</td><td rowspan=1 colspan=1>똑같지 않아요 제 과자는지만 합하면 선생님 것과두개라서선생님보다더많아요</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "42193a0c3f580e07c9c9314ae1368fc5577f4d8b6693e6e59a5c3e40d54987a9.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      556,
+      275,
+      565,
+      286
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      315,
+      738,
+      487
+    ],
+    "page_idx": 0,
+    "image_path": "10097d7699381dc9f29c7de1b02ce241554da4cf7d02896f68b6f963b69e1306.jpg",
+    "alt": "",
+    "caption": [
+      "<보기>"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 5 - 6 ]",
+    "bbox": [
+      85,
+      156,
+      119,
+      172
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled{ \\div }",
+    "bbox": [
+      130,
+      927,
+      143,
+      939
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      460,
+      200,
+      744,
+      358
+    ],
+    "page_idx": 1,
+    "image_path": "c70995cbcefdc48385a58586f13a39a640e2fdb26443bc1dddc5b1bbbf3edbdd.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      450,
+      827,
+      747,
+      973
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td colspan=\"2\"></td><td rowspan=\"2\">상품 구매 후기</td><td rowspan=\"2\">상품문의</td><td rowspan=\"2\"></td></tr><tr><td>상품상세정보</td><td>관련 상품</td></tr><tr><td colspan=\"2\"></td><td colspan=\"3\">5 박으0 2024년월일 제품: 수유 쿠션 우리 아이에게 수유할 때 사용하려고 구매했어요.크기가 제 허리를 감쌀 만큼 넓어서 사용하기 편해요.아이가 아직 목을 못 가누기 때문에 수유 후에 쿠션에 앉혀 놓고 목을 받쳐 트림을 시킬 때도 좋아요. 큰 소리가 나면 아이가 갑자기 팔다리를 짝 펼치는 반응을 보일 때가 있어요.그러면 잠들고도 한동안 안고 있어야 하는데 그럴 때도 도움이 돼요.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a98da5e0f8b4c8cab800c3f17c9e22fdb7108ab8f794c25547d091be9d6340f6.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 7 } )",
+    "bbox": [
+      248,
+      158,
+      267,
+      172
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textsuperscript { \\textregistered }",
+    "bbox": [
+      286,
+      871,
+      297,
+      883
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { \\scriptsize { \\mathtt { E } } \\mathtt { p } }",
+    "bbox": [
+      112,
+      1021,
+      125,
+      1034
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 4 }",
+    "bbox": [
+      112,
+      1054,
+      125,
+      1067
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { \\scriptsize { \\mathtt { E } } \\bar { \\mathtt { t } } }",
+    "bbox": [
+      297,
+      1053,
+      309,
+      1067
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 4 }",
+    "bbox": [
+      514,
+      275,
+      528,
+      289
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { \\ 4 }",
+    "bbox": [
+      600,
+      449,
+      614,
+      463
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      473,
+      468,
+      483,
+      479
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 }",
+    "bbox": [
+      472,
+      559,
+      485,
+      572
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { \\ 4 }",
+    "bbox": [
+      497,
+      559,
+      510,
+      572
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 }",
+    "bbox": [
+      472,
+      576,
+      485,
+      589
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      120,
+      325,
+      385,
+      423
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>활동일자</td><td rowspan=1 colspan=1>활동내용</td></tr><tr><td rowspan=1 colspan=1>2024.3.18.</td><td rowspan=1 colspan=1>야구를 좋아하여 스포츠 분석가가 되는 방법에 대한동영상을 찾아봄.</td></tr><tr><td rowspan=1 colspan=1>2024.6.20.</td><td rowspan=1 colspan=1>다양한 경험을 위해 진로 박람회에 참여하여 코딩프로그램제작을 체험함</td></tr><tr><td rowspan=1 colspan=1>2024.9.4.</td><td rowspan=1 colspan=1>최근 요리에 관심이 생겨 요리 동아리에 적극적으로참여하고 있으나 아직 이를 진로로 정할지 확신이없다는 내용의 보고서를 작성함.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "c2039a100b42a4d64b7ad7397ccd1a90dbf4e85c4a1aa0a61e2aa15ea1525ef0.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      115,
+      438,
+      388,
+      510
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>문항</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=1 colspan=1>주어진 역할과 과업에 몰두하고 있나요?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr><tr><td rowspan=1 colspan=1>의사 결정을 한 후 성취하기 위한 활동에 능동적으로참여하고 있나요?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "79556914cbe5a0eb6e9f758add6cb306f8db9d8f5752f83fc8a8bf3a190b952c.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { ^ { 7 } H } )",
+    "bbox": [
+      560,
+      158,
+      578,
+      172
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      614,
+      412,
+      622,
+      423
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      616,
+      610,
+      626,
+      622
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      475,
+      725,
+      726,
+      826
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>아동 A의 특성</td><td rowspan=1 colspan=1>활동내용</td></tr><tr><td rowspan=1 colspan=1>유치가 빠진 자리에영구치가 나고 있음.</td><td rowspan=1 colspan=1>치아 관리 방법에 대한 동영상을 보여 줌.</td></tr><tr><td rowspan=1 colspan=1>다중 서열화 능력을획득하기 시작함.</td><td rowspan=1 colspan=1>색, 크기,재질이 다양한 구슬을 활용하여기준에 따라 분류하고,순서를매기는게임을하도록함</td></tr><tr><td rowspan=1 colspan=1>동의어와 다의어를이해할 수 있음.</td><td rowspan=1 colspan=1>낱말 카드의 단어를 이용하여 동의어와다의어를 포함한 문장을 만들도록 함.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "cead8d2a1eefdb181f30c8419736cfee4c164b7b94c49b07a96e705c9b69509c.jpg",
+    "original_type": "table"
   }
 ]

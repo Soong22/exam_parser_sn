@@ -6,9 +6,12 @@ from typing import Any, Dict, List, Optional, Iterable, Tuple
 # ============================================================
 # 하드코딩 경로 
 # ============================================================
-INPUT_MIDDLE_DIR     = Path(r"exam_parser-main\01_middle_process\data\middle")
+INPUT_MIDDLE_DIR     = Path(r"exam_parser-main\01_middle_process\data\middle\2023\0111-2023-국어영역-국어영역-문제_middle.json")
 OUTPUT_CLEANED_DIR   = Path(r"exam_parser-main\01_middle_process\data\cleand")
 OUTPUT_CLEANED_DIR.mkdir(parents=True, exist_ok=True)
+
+# 폴더 검색 시에만 적용할 기본 필터(파일명에 '문제' 포함)
+ONLY_PROBLEM_FILES = True   # 단일 파일 입력일 때는 이 옵션과 무관하게 그 파일을 처리
 
 # ============================================================
 # 설정
@@ -437,18 +440,34 @@ def _unique_path(dst_dir: Path, filename: str) -> Path:
             return cand
         k += 1
 
+def _list_target_files(inp: Path, only_problem: bool = True) -> List[Path]:
+    """
+    입력 경로가 파일이면 그 파일만, 폴더면 재귀 스캔.
+    only_problem=True 면(폴더 스캔 시) 파일명에 '문제' 포함만 선택.
+    """
+    if inp.is_file():
+        # 단일 파일은 무조건 대상
+        return [inp]
+    # 폴더 스캔
+    patt = "*.json"
+    files = list(inp.rglob(patt))
+    if only_problem:
+        files = [p for p in files if "문제" in p.stem or "문제" in str(p.parent)]
+    return files
+
 def run_pipeline():
-    # 문제 폴더만: 아래 한 줄로 교체
-    files = [p for p in INPUT_MIDDLE_DIR.rglob("*.json") if "문제" in str(p)]
-    # files = list(INPUT_MIDDLE_DIR.rglob("*.json"))
+    files = _list_target_files(INPUT_MIDDLE_DIR, only_problem=ONLY_PROBLEM_FILES)
     print(f"🔍 대상 파일: {len(files)}개")
+    if not files:
+        print("⚠️ 대상 파일이 없습니다. 경로 또는 필터(ONLY_PROBLEM_FILES)를 확인하세요.")
+        return
 
     for src in files:
         # 출력은 모두 OUTPUT_CLEANED_DIR 한 폴더로 모으고,
         # 파일명 충돌 시 _1, _2 ... 자동 부여
         dst_flat = _unique_path(OUTPUT_CLEANED_DIR, src.name)
         try:
-            clean_one_json(src, dst_flat)  # clean_one_json은 받은 경로에 그대로 씀
+            clean_one_json(src, dst_flat)
             print(f"✅ {src} → {dst_flat.name} 생성 완료")
         except Exception as e:
             print(f"⚠️ 오류 ({src}): {e}")

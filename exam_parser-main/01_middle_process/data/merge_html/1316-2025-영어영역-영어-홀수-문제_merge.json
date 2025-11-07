@@ -1,126 +1,6 @@
 [
   {
     "type": "text",
-    "text": "2025학년도 대학수학능력시험 문제지",
-    "bbox": [
-      262,
-      113,
-      579,
-      142
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "제3교시",
-    "bbox": [
-      91,
-      154,
-      175,
-      192
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "영어 영역",
-    "bbox": [
-      333,
-      143,
-      508,
-      202
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "홀수형",
-    "bbox": [
-      674,
-      169,
-      754,
-      208
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "1번부터  17번까지는  듣고  답하는  문제입니다.  1번부터",
-    "bbox": [
-      106,
-      236,
-      397,
-      252
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 0,
-      "end_orig": 35,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "15번까지는 한 번만 들려주고, 16번부터 17번까지는 두 번 들려줍니다. 방송을 잘 듣고 답을 하시기 바랍니다.\n",
-    "bbox": [
-      95,
-      255,
-      398,
-      289
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 36,
-      "end_orig": 100,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. 다음을  듣고,  여자가  하는  말의  목적으로  가장  적절한  것을 고르시오",
     "bbox": [
       86,
@@ -161,7 +41,7 @@
   },
   {
     "type": "text",
-    "text": ". 대화를 듣고,  남자의 의견으로 가장 적절한 것을 고르시오.\n",
+    "text": "2. 대화를 듣고,  남자의 의견으로 가장 적절한 것을 고르시오.",
     "bbox": [
       84,
       457,
@@ -172,10 +52,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9811,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 260,
-      "end_orig": 296,
+      "start_orig": 259,
+      "end_orig": 295,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -420,20 +300,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      96,
-      731,
-      404,
-      923
-    ],
-    "page_idx": 0,
-    "image_path": "5188b0635f7d5397d4e30b0ee93b011f016ac294b1283460a48fcf8d5d083163.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "5. 대화를 듣고,  남자가 할 일로 가장 적절한 것을 고르시오.",
     "bbox": [
@@ -515,7 +381,7 @@
   },
   {
     "type": "text",
-    "text": ". 대화를  듣고,  남자가  Streamline  Broadcasting  Workshop에 갈 수 없는 이유를 고르시오.\n",
+    "text": "7. 대화를  듣고,  남자가  Streamline  Broadcasting  Workshop에 갈 수 없는 이유를 고르시오.",
     "bbox": [
       434,
       225,
@@ -526,10 +392,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9907,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 855,
-      "end_orig": 925,
+      "start_orig": 854,
+      "end_orig": 924,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -732,23 +598,6 @@
       "end_orig": 1316,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      445,
-      659,
-      753,
-      778
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=5 colspan=1>①2③4</td><td rowspan=1 colspan=1>Kit</td><td rowspan=1 colspan=1>Price</td><td rowspan=1 colspan=1>PlantVarieties</td><td rowspan=1 colspan=1>Pot Material</td><td rowspan=1 colspan=1>Plant GrowingGuide</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>$40</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Plastic</td><td rowspan=1 colspan=1>×</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>$45</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Wood</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>$45</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Metal</td><td rowspan=1 colspan=1>×</td></tr><tr><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>$50</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Ceramic</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>E</td><td rowspan=1 colspan=1>$60</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Glass</td><td rowspan=1 colspan=1>O</td></tr></table>",
-    "table_caption": [
-      "Plant Seed Kits"
-    ],
-    "table_footnote": [],
-    "image_path": "731b28ff9587708342f44509bd7d09b05923dba295697b80eaf06e95ce5d5c8b.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1332,7 +1181,7 @@
   },
   {
     "type": "text",
-    "text": "② Let’s head out for the concert far in advance.\n",
+    "text": "② Let’s head out for the concert far in advance.",
     "bbox": [
       97,
       618,
@@ -1343,10 +1192,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9487,
+      "similarity": 0.9744,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2848,
-      "end_orig": 2897,
+      "end_orig": 2896,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1408,26 +1257,6 @@
       "start_orig": 3005,
       "end_orig": 3060,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 1 6 \\sim 1 7 ]",
-    "bbox": [
-      86,
-      753,
-      133,
-      768
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1631,26 +1460,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "1 0 \\ \\mathrm { a . m }",
-    "bbox": [
-      574,
-      245,
-      609,
-      258
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ". Unfortunately, as you may already know, the weather forecast says that there is going to be a downpour throughout the race day. We truly hoped that the race would go smoothly. However, it is likely that the  heavy  rain  will  make  the  roads  too  slippery  and dangerous for the racers to run safely. As a result, we have decided to cancel the race. We hope you understand and we promise to hold another race in the near future.",
     "bbox": [
@@ -1803,11 +1612,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9524,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5029,
       "end_orig": 5052,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1823,11 +1632,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9524,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5055,
       "end_orig": 5078,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2331,26 +2140,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      689,
-      468,
-      696,
-      477
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "widget: 제품",
     "bbox": [
@@ -2511,26 +2300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\% )",
-    "bbox": [
-      104,
-      221,
-      120,
-      232
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "30 28 28 25 24 21 20 16 16 17 18 18 15 12 11 12 10 5 0 Director Writer Editor Producer (Role) 2020 2021 2022",
     "bbox": [
@@ -2568,26 +2337,6 @@
       "start_orig": 11384,
       "end_orig": 11468,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "1 0 0 \\ \\mathrm { U } . \\mathrm { S }",
-    "bbox": [
-      245,
-      424,
-      287,
-      437
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2691,26 +2440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "20 \\%",
-    "bbox": [
-      342,
-      596,
-      367,
-      610
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "in each of  the  three  years.",
     "bbox": [
@@ -2728,26 +2457,6 @@
       "start_orig": 12100,
       "end_orig": 12130,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { 5 } \\mathrm { I n } \\ 2 0 2 2",
-    "bbox": [
-      202,
-      613,
-      259,
-      627
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3069,21 +2778,6 @@
       "end_orig": 13597,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      461,
-      361,
-      746,
-      430
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Price</td><td rowspan=1 colspan=1>Additional Benefit</td></tr><tr><td rowspan=1 colspan=1>1-Day</td><td rowspan=1 colspan=1>$10</td><td rowspan=3 colspan=1>10% off admission formajor tourist attractions</td></tr><tr><td rowspan=1 colspan=1>3-Day</td><td rowspan=1 colspan=1>$25</td></tr><tr><td rowspan=1 colspan=1>5-Day</td><td rowspan=1 colspan=1>$40</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "4cbb93896fdd5c983080dc89151241f16893cd6affcd181e3ae8c272a20da5ee.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3666,26 +3360,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      336,
-      451,
-      343,
-      460
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "crude: 투박한",
     "bbox": [
@@ -3766,26 +3440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      215,
-      1055,
-      223,
-      1065
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "taint: 더럽히다",
     "bbox": [
@@ -3806,26 +3460,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      297,
-      1055,
-      310,
-      1065
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "altruistic: 이타주의의",
     "bbox": [
@@ -3843,26 +3477,6 @@
       "start_orig": 17195,
       "end_orig": 17212,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 3 1 \\sim 3 4 ]",
-    "bbox": [
-      433,
-      158,
-      482,
-      173
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3926,26 +3540,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      501,
-      494,
-      509,
-      502
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "sociosemantic: 사회의미론적인",
     "bbox": [
@@ -3966,26 +3560,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      654,
-      493,
-      667,
-      503
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "transparent: 투명한\n① linguistic insight ② artistic imagination\n③ literary sensibility ④ alternative perspective\n⑤ personal involvement",
     "bbox": [
@@ -3998,7 +3572,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9828,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 18385,
       "end_orig": 18517,
@@ -4083,26 +3657,6 @@
       "start_orig": 19520,
       "end_orig": 19535,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      672,
-      964,
-      685,
-      974
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4326,26 +3880,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "[ 3 6 \\sim 3 7 ]",
-    "bbox": [
-      434,
-      585,
-      482,
-      600
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "주어진  글  다음에  이어질  글의  순서로  가장  적절한 것을 고르시오.",
     "bbox": [
@@ -4406,26 +3940,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      310,
-      964,
-      318,
-      973
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "constrain: 속박하다",
     "bbox": [
@@ -4447,7 +3961,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄷategorize one's patterns of conduct in legal and productive ways ② ㄴead people to reevaluate their roles and practices in a society ③ encourage new ways of thinking which promote creative ideas ④ reinforce one's behavior within legal and established contexts ⑤ facilitate productive activity by establishing roles and practices",
+    "text": "① categorize one’s patterns of conduct in legal and productive ways\n② lead people to reevaluate their roles and practices in a society\n③ encourage new ways of thinking which promote creative ideas\n④ reinforce one’s behavior within legal and established contexts\n⑤ facilitate productive activity by establishing roles and practices",
     "bbox": [
       97,
       983,
@@ -4457,12 +3971,12 @@
     "page_idx": 5,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.0462,
+      "replaced": true,
+      "similarity": 0.9929,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 22060,
-      "end_orig": 22403,
-      "reason": "low_similarity"
+      "start_orig": 21897,
+      "end_orig": 22227,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4546,26 +4060,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      592,
-      997,
-      600,
-      1006
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "ditch: 개천",
     "bbox": [
@@ -4583,26 +4077,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      657,
-      997,
-      671,
-      1007
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4643,26 +4117,6 @@
       "start_orig": 24602,
       "end_orig": 24619,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\begin{array} { c } { { \\textsuperscript { \\textregistered } ( \\mathbf { B } ) - ( \\mathbf { A } ) - ( \\mathbf { C } ) } } \\\\ { { \\textcircled { 4 } \\ ( \\mathbf { C } ) - ( \\mathbf { A } ) - ( \\mathbf { B } ) } } \\end{array}",
-    "bbox": [
-      603,
-      1016,
-      709,
-      1052
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4826,26 +4280,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      341,
-      549,
-      354,
-      559
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "array: 정렬 ① (A) − (C) − (B) ② (B) − (A) − (C) ③ (B) − (C) − (A) ④ (C) − (A) − (B) ⑤ (C) − (B) − (A)",
     "bbox": [
@@ -4863,26 +4297,6 @@
       "start_orig": 25783,
       "end_orig": 25879,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 3 8 \\sim 3 9 ]",
-    "bbox": [
-      85,
-      645,
-      132,
-      660
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4966,26 +4380,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      240,
-      1055,
-      248,
-      1064
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "patent: 특허",
     "bbox": [
@@ -5003,26 +4397,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      310,
-      1054,
-      323,
-      1065
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5103,26 +4477,6 @@
       "start_orig": 28411,
       "end_orig": 28427,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      618,
-      536,
-      631,
-      546
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5278,7 +4632,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.8533,
+      "similarity": 0.86,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 29757,
       "end_orig": 29936,
@@ -5363,26 +4717,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      118,
-      622,
-      126,
-      631
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5483,26 +4817,6 @@
       "start_orig": 30236,
       "end_orig": 30265,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 4 3 \\sim 4 5 ]",
-    "bbox": [
-      85,
-      857,
-      133,
-      873
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5746,26 +5060,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\sim ( \\mathrm { e } )",
-    "bbox": [
-      517,
-      795,
-      542,
-      811
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "중에서 가리키는 대상이 나머지 넷과 다른 것은?",
     "bbox": [
@@ -5943,6 +5237,712 @@
       "start_orig": 31346,
       "end_orig": 31395,
       "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "2025학년도 대학수학능력시험 문제지",
+    "bbox": [
+      262,
+      113,
+      579,
+      142
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제3교시",
+    "bbox": [
+      91,
+      154,
+      175,
+      192
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "영어 영역",
+    "bbox": [
+      333,
+      143,
+      508,
+      202
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "홀수형",
+    "bbox": [
+      674,
+      169,
+      754,
+      208
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "1번부터  17번까지는  듣고  답하는  문제입니다.  1번부터",
+    "bbox": [
+      106,
+      236,
+      397,
+      252
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 0,
+      "end_orig": 35,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "15번까지는 한 번만 들려주고, 16번부터 17번까지는 두 번 들려줍니다. 방송을 잘 듣고 답을 하시기 바랍니다.\n",
+    "bbox": [
+      95,
+      255,
+      398,
+      289
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 36,
+      "end_orig": 100,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      731,
+      404,
+      923
+    ],
+    "page_idx": 0,
+    "image_path": "5188b0635f7d5397d4e30b0ee93b011f016ac294b1283460a48fcf8d5d083163.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      445,
+      659,
+      753,
+      778
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=5 colspan=1>①2③4</td><td rowspan=1 colspan=1>Kit</td><td rowspan=1 colspan=1>Price</td><td rowspan=1 colspan=1>PlantVarieties</td><td rowspan=1 colspan=1>Pot Material</td><td rowspan=1 colspan=1>Plant GrowingGuide</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>$40</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Plastic</td><td rowspan=1 colspan=1>×</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>$45</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Wood</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>$45</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Metal</td><td rowspan=1 colspan=1>×</td></tr><tr><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>$50</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Ceramic</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>E</td><td rowspan=1 colspan=1>$60</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Glass</td><td rowspan=1 colspan=1>O</td></tr></table>",
+    "table_caption": [
+      "Plant Seed Kits"
+    ],
+    "table_footnote": [],
+    "image_path": "731b28ff9587708342f44509bd7d09b05923dba295697b80eaf06e95ce5d5c8b.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 1 6 \\sim 1 7 ]",
+    "bbox": [
+      86,
+      753,
+      133,
+      768
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 0 \\ \\mathrm { a . m }",
+    "bbox": [
+      574,
+      245,
+      609,
+      258
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      689,
+      468,
+      696,
+      477
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\% )",
+    "bbox": [
+      104,
+      221,
+      120,
+      232
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 0 0 \\ \\mathrm { U } . \\mathrm { S }",
+    "bbox": [
+      245,
+      424,
+      287,
+      437
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "20 \\%",
+    "bbox": [
+      342,
+      596,
+      367,
+      610
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 5 } \\mathrm { I n } \\ 2 0 2 2",
+    "bbox": [
+      202,
+      613,
+      259,
+      627
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      461,
+      361,
+      746,
+      430
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Price</td><td rowspan=1 colspan=1>Additional Benefit</td></tr><tr><td rowspan=1 colspan=1>1-Day</td><td rowspan=1 colspan=1>$10</td><td rowspan=3 colspan=1>10% off admission formajor tourist attractions</td></tr><tr><td rowspan=1 colspan=1>3-Day</td><td rowspan=1 colspan=1>$25</td></tr><tr><td rowspan=1 colspan=1>5-Day</td><td rowspan=1 colspan=1>$40</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "4cbb93896fdd5c983080dc89151241f16893cd6affcd181e3ae8c272a20da5ee.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      336,
+      451,
+      343,
+      460
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      215,
+      1055,
+      223,
+      1065
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      297,
+      1055,
+      310,
+      1065
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 3 1 \\sim 3 4 ]",
+    "bbox": [
+      433,
+      158,
+      482,
+      173
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      501,
+      494,
+      509,
+      502
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      654,
+      493,
+      667,
+      503
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      672,
+      964,
+      685,
+      974
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 3 6 \\sim 3 7 ]",
+    "bbox": [
+      434,
+      585,
+      482,
+      600
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      310,
+      964,
+      318,
+      973
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      592,
+      997,
+      600,
+      1006
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      657,
+      997,
+      671,
+      1007
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\begin{array} { c } { { \\textsuperscript { \\textregistered } ( \\mathbf { B } ) - ( \\mathbf { A } ) - ( \\mathbf { C } ) } } \\\\ { { \\textcircled { 4 } \\ ( \\mathbf { C } ) - ( \\mathbf { A } ) - ( \\mathbf { B } ) } } \\end{array}",
+    "bbox": [
+      603,
+      1016,
+      709,
+      1052
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      341,
+      549,
+      354,
+      559
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 3 8 \\sim 3 9 ]",
+    "bbox": [
+      85,
+      645,
+      132,
+      660
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      240,
+      1055,
+      248,
+      1064
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      310,
+      1054,
+      323,
+      1065
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      618,
+      536,
+      631,
+      546
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      118,
+      622,
+      126,
+      631
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 4 3 \\sim 4 5 ]",
+    "bbox": [
+      85,
+      857,
+      133,
+      873
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\sim ( \\mathrm { e } )",
+    "bbox": [
+      517,
+      795,
+      542,
+      811
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
     }
   }
 ]

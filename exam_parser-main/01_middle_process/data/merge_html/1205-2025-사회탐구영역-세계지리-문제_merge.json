@@ -1,46 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      91,
-      152,
-      173,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 53,
-      "end_orig": 59,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "사회탐구 영역(세계지리)",
-    "bbox": [
-      234,
-      144,
-      607,
-      199
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. 다음 자료의 (가),",
     "bbox": [
       86,
@@ -57,26 +17,6 @@
       "start_orig": 93,
       "end_orig": 107,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\psi )",
-    "bbox": [
-      188,
-      256,
-      207,
-      270
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -100,37 +40,8 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      97,
-      298,
-      404,
-      459
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>U-RO</td><td>(가) 의 로바니에미에 있는 산타클로스 마을은 많은 관광객이 찾는 곳이다.이 마을에 있는 사진 속 조형물은 북극권(Arctic Circle)의 경계선상에 세워져 있고,경계선의 북쪽이 북극권에 해당한다.</td></tr><tr><td>Tropic of Capricorn</td><td>(나)의 해안 사막에 있는 사구 위에서는 다른 사구 위로 올라오는 일출과 대서양으로 떨어지는 일몰을 모두 볼 수 있다.이 사막의 동쪽 내륙에 있는 도로에는 사진과 같이 남회귀선(Tropic of Capricorn)을 나타내는 표지판이 있다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "9b35ad851aaeb2d427b0e61a6a1b411fcf3140b627f1635ed9faf1f1a2b424fc.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      469,
-      404,
-      542
-    ],
-    "page_idx": 0,
-    "image_path": "3df36f1ce5121d35adfea78a532ad46c6d15948795e3d1338ee90cd9e28fe7d0.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "(가) (4) (가) (4) (가) (4) ① ㄱ L ② ㄱ 2 ③ ㄴ 4 C L 5 C 2",
+    "text": "(가) (4) (가) (4) (가) (4) ① 7 L ② 7 2 ③ L 4 C L 5 C 2",
     "bbox": [
       97,
       548,
@@ -150,7 +61,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 자료는 세 국가의 국장에 관한 것이다.  이에 대한 설명으로",
+    "text": "2. 다음 자료는 세 국가의 국장에 관한 것이다.  이에 대한 설명으로",
     "bbox": [
       86,
       661,
@@ -161,9 +72,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9818,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 467,
+      "start_orig": 466,
       "end_orig": 505,
       "reason": "passed_threshold_no_ws"
     }
@@ -189,26 +100,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "< 1 1 > 1 >",
-    "bbox": [
-      155,
-      679,
-      192,
-      693
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?  (단,  (가)∼(다)는 각각 모로코, 우즈베키스탄,  이스라엘 중 하나임.)  [3점]\n",
     "bbox": [
@@ -227,38 +118,6 @@
       "end_orig": 578,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      707,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
-    "table_caption": [
-      "신문"
-    ],
-    "table_footnote": [],
-    "image_path": "ab9512ce37e99e4965e077e2419f64d754da198435b3f5ccf4f29e6e8e97595f.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      96,
-      720,
-      404,
-      944
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(나)</td><td rowspan=2 colspan=1>(다)N기족기</td></tr><tr><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>국장 왼쪽에는 목화,오른쪽에는 밀이 있고</td><td rowspan=1 colspan=1>국장 중앙의 방패에는</td><td rowspan=4 colspan=1>방패 모양의 국장 중앙에는 유대인의 전통적인촛대인 메노라가 있고,그 좌우에 올리브 가지가</td></tr><tr><td rowspan=1 colspan=1>ㄴ아틀라스산맥과그</td></tr><tr><td rowspan=1 colspan=1>중앙에는 신화 속의 새가</td><td rowspan=1 colspan=1>뒤로 떠오르는 태양이</td></tr><tr><td rowspan=1 colspan=1>있다.그 뒤에 떠오르는</td><td rowspan=1 colspan=1>있다.방패의 위에는</td></tr><tr><td rowspan=2 colspan=1>태양과 ㄱ아랄해로흘러가는 아무다리야와</td><td rowspan=1 colspan=1>왕국을 상징하는 왕관이,</td><td rowspan=1 colspan=1>있다.오래 전에 국장 속</td></tr><tr><td rowspan=1 colspan=1>아래에는 쿠란에서</td><td rowspan=2 colspan=1>메노라는ㄷ예루살램에있는 성전에서 사용되었다.</td></tr><tr><td rowspan=1 colspan=1>시르다리야 두 강이그려져 있다.</td><td rowspan=1 colspan=1>인용한 글귀가 있다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "1d5f265a5e76748eb2592f75d40d89e80cbddcb19089d51d1b4a782a5b1b6393.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -381,26 +240,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      123,
-      1004,
-      136,
-      1018
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에는 유대교,  이슬람교,  크리스트교의 성지가 모두 있다.",
     "bbox": [
@@ -422,7 +261,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ.",
+    "text": "2.",
     "bbox": [
       107,
       1021,
@@ -432,32 +271,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 960,
-      "end_orig": 962,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\gamma \\mathsf { h } ) \\sim ( \\mathsf { r } \\mathsf { l } )",
-    "bbox": [
-      124,
-      1020,
-      173,
-      1035
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 1006,
+      "end_orig": 1008,
+      "reason": "low_similarity"
     }
   },
   {
@@ -478,26 +297,6 @@
       "start_orig": 972,
       "end_orig": 990,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathbb { E } ] \\circ ]",
-    "bbox": [
-      342,
-      1020,
-      369,
-      1035
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -522,7 +321,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ④ ⑤",
+    "text": "① 7,L ② 7,ㄷ ③ ④ ⑤",
     "bbox": [
       96,
       1050,
@@ -579,22 +378,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      455,
-      331,
-      743,
-      423
-    ],
-    "page_idx": 0,
-    "image_path": "b82a5d19571005b0da8496a35e3cf789d263c53d8565072ccd4b7180c1a11b02.jpg",
-    "alt": "",
-    "caption": [
-      "\"폭25m,깊이 30m 구덩이의 비밀'"
-    ],
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -657,26 +440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\boxed { \\left( 7 \\mathsf { F } \\right) } \\boxed { { \\mathsf { o } } \\mathsf { I } }",
-    "bbox": [
-      632,
-      466,
-      669,
-      480
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "속한다",
     "bbox": [
@@ -694,26 +457,6 @@
       "start_orig": 4697,
       "end_orig": 4700,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\boxed { ( 7 4 ) }",
-    "bbox": [
-      699,
-      466,
-      729,
-      480
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -754,26 +497,6 @@
       "start_orig": 4164,
       "end_orig": 4166,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\Delta + \\frac { \\alpha } { 1 }",
-    "bbox": [
-      472,
-      507,
-      489,
-      518
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -897,21 +620,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      451,
-      802,
-      748,
-      973
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td></td><td>국가 내 특정 종교의 신자가 절대 다수를 차지하는 경우에도 종교 전파 등으로 다양한 종교 경관이 나타난다. 튀르키예는 국민 대다수가(가)</td><td></td></tr><tr><td></td><td>(나)건축물로 이곳에는 십자가와 종탑이 있다. 인도네시아도 국민</td><td>신자이지만,아나톨리아의 데린쿠유에 있는 성 테오도르 교회는</td></tr><tr><td></td><td>대다수가 (가) 신자이지만,욕야카르타 인근 보로부두르 사원</td><td></td></tr><tr><td>되었음을 알 수 있다.</td><td>에서는 불상과 탑을 볼 수 있어 과거 이 지역에 (다) 가 전파</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>한편, 싱가포르는 어느 한 종교의 신자가 절대 다수를 차지하지 않아</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>특정 종교 경관이 두드러지지 않고 사원,교회,모스크 등 다양한</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>종교 경관이 나타난다.리틀 인디아 지구에는 스리 비라마칼리암만</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>사원이 있는데,이곳은 다양한 신을 믿는 (라) 사원이다.</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "dbb18e04dbc7c48905a4f7560c4df8afce22d2ec55a0165259cea6bf0bea0155.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "1",
     "bbox": [
@@ -929,26 +637,6 @@
       "start_orig": 4736,
       "end_orig": 4737,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( 7 )",
-    "bbox": [
-      462,
-      987,
-      479,
-      1000
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1032,26 +720,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 )",
-    "bbox": [
-      658,
-      1037,
-      675,
-      1050
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "신자보다 많다.",
     "bbox": [
@@ -1089,26 +757,6 @@
       "start_orig": 1787,
       "end_orig": 1797,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\downarrow ) > ( \\downarrow ) > ( \\downarrow ) > ( \\downarrow ) \\Rightarrow ( \\downarrow ) \\downarrow",
-    "bbox": [
-      538,
-      1054,
-      660,
-      1067
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1169,26 +817,6 @@
       "start_orig": 6517,
       "end_orig": 6550,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 4 ) } }",
-    "bbox": [
-      126,
-      211,
-      141,
-      222
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1309,26 +937,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\mathsf { h } ) } }",
-    "bbox": [
-      184,
-      298,
-      200,
-      310
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1473,7 +1081,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② C ③ ㄱ, ㄴ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② C ③ ㄱ, ㄴ ④ L, ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       442,
@@ -1512,26 +1120,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( 7 ) \\frac { 2 } { 2 }",
-    "bbox": [
-      346,
-      498,
-      405,
-      513
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "각각 사우디아라비아,  이집트,  튀르키예 중 하나임.)  [3점]\n",
     "bbox": [
@@ -1552,22 +1140,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      134,
-      539,
-      366,
-      666
-    ],
-    "page_idx": 1,
-    "image_path": "6b52d5a96e0c3961d268578b9fe6472816dd263191773470f32db975866576a1.jpg",
-    "alt": "",
-    "caption": [
-      "*무역액(유로)과 비율(%)은 2020~2023년 평균값임. * * (가)~(다) 국가의 대() 유럽 연합 수출액 및 수입액 기준 1위 품목만을 나타냄."
-    ],
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "①",
     "bbox": [
@@ -1585,26 +1157,6 @@
       "start_orig": 6709,
       "end_orig": 6710,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\psi )",
-    "bbox": [
-      114,
-      706,
-      132,
-      720
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1709,7 +1261,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.다음자료의",
+    "text": "7. 다음 자료의",
     "bbox": [
       85,
       807,
@@ -1719,32 +1271,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.8333,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4814,
-      "end_orig": 4821,
-      "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 } \\mathsf { h } )",
-    "bbox": [
-      167,
-      809,
-      186,
-      823
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 5879,
+      "end_orig": 5888,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1785,26 +1317,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 4 ) } }",
-    "bbox": [
-      212,
-      845,
-      228,
-      856
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1908,20 +1420,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      97,
-      959,
-      239,
-      1062
-    ],
-    "page_idx": 1,
-    "image_path": "080d9c0ff98563f3af90dd9d368542b163370d411168dbf041fc2e132ed94b87.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "(가) (4) ① D B ② D C ③ E A ④ E B 5 E C",
     "bbox": [
@@ -1980,37 +1478,6 @@
       "end_orig": 6036,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      609,
-      230,
-      750,
-      344
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=4>(만 명)</td></tr><tr><td rowspan=1 colspan=1>국가</td><td rowspan=1 colspan=1>도시 인구</td><td rowspan=1 colspan=1>촌락인구</td><td rowspan=1 colspan=1>수도 인구</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>18,255</td><td rowspan=1 colspan=1>2,832</td><td rowspan=1 colspan=1>447</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>3,996</td><td rowspan=1 colspan=1>951</td><td rowspan=1 colspan=1>1,057</td></tr><tr><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>1,593</td><td rowspan=1 colspan=1>226</td><td rowspan=1 colspan=1>668</td></tr><tr><td rowspan=1 colspan=1>(라)</td><td rowspan=1 colspan=1>331</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>174</td></tr></table>",
-    "table_caption": [
-      "<인구 분포>"
-    ],
-    "table_footnote": [],
-    "image_path": "312ec108496aab86925ff9c8ae5b8cc78b5963935ebf7867f1d75c11d7527874.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      449,
-      217,
-      599,
-      390
-    ],
-    "page_idx": 1,
-    "image_path": "6abe00090c11bad83679e70482468fe74c32f8cf29f8fdd91cf03923b5a004de.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2173,26 +1640,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( \\sharp ) \\circ \\rVert",
-    "bbox": [
-      480,
-      508,
-      539,
-      522
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한 설명으로 옳은 것은? (단, (가)~(라)는 각각수력,지열,태양광·태양열,풍력 중 하나임.)",
     "bbox": [
@@ -2205,31 +1652,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.5,
+      "similarity": 0.6889,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4266,
-      "end_orig": 4322,
+      "start_orig": 5976,
+      "end_orig": 6038,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      446,
-      564,
-      753,
-      630
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>순위</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(나)</td><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>(라)</td></tr><tr><td rowspan=1 colspan=1>1위</td><td rowspan=1 colspan=1>러시아</td><td rowspan=1 colspan=1>독일</td><td rowspan=1 colspan=1>독일</td><td rowspan=1 colspan=1>이탈리아</td></tr><tr><td rowspan=1 colspan=1>2위</td><td rowspan=1 colspan=1>노르웨이</td><td rowspan=1 colspan=1>영국</td><td rowspan=1 colspan=1>에스파냐</td><td rowspan=1 colspan=1>아이슬란드</td></tr><tr><td rowspan=1 colspan=1>3위</td><td rowspan=1 colspan=1>스웨덴</td><td rowspan=1 colspan=1>에스파냐</td><td rowspan=1 colspan=1>이탈리아</td><td rowspan=1 colspan=1>러시아</td></tr></table>",
-    "table_caption": [
-      "<유럽의 신·재생 에너지 발전량 상위 3개국>"
-    ],
-    "table_footnote": [
-      "(2021년)"
-    ],
-    "image_path": "6edee9eabf9fbaf605645db0e6c6776cf54902be56a15f3189fda71d85afb9ea.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2272,26 +1700,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 } \\mathsf { H } )",
-    "bbox": [
-      609,
-      666,
-      628,
-      679
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "보다 많다.",
     "bbox": [
@@ -2329,26 +1737,6 @@
       "start_orig": 3527,
       "end_orig": 3543,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\psi )",
-    "bbox": [
-      589,
-      682,
-      607,
-      695
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2412,26 +1800,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ") ( 7 7 ) \\sim ( \\overrightarrow { c } \\vert )",
-    "bbox": [
-      456,
-      715,
-      511,
-      729
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "중 전 세계 발전량은(라)가 가장 많다.",
     "bbox": [
@@ -2472,26 +1840,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\div } \\textcircled { \\div } \\textcircled { \\div } \\textcircled { \\div }",
-    "bbox": [
-      649,
-      745,
-      689,
-      760
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한설명으로 옳지 않은 것은?",
     "bbox": [
@@ -2512,35 +1860,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      458,
-      788,
-      724,
-      888
-    ],
-    "page_idx": 1,
-    "image_path": "4e62c13f79433d8ed2e11d21c1fe4f710d40490ed411b605bb5ef70d1f83d919.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      450,
-      888,
-      749,
-      974
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=5 colspan=1>필리핀 안경원숭이로 알려진 타르시어(Tarsier)로 유명한 보홀섬에 다녀왔어요.이 섬에는  석회 동굴인 카공카공 동굴지대가있어요.이곳에서는ㄴ탄산칼슘의침전으로 형성된 다양한 지형을 관찰할 수있었어요. 보홀섬에 가면 타르시어를 보고,이곳도 꼭 한번 가 보세요.</td><td rowspan=1 colspan=1></td><td rowspan=4 colspan=1>영화&#x27;OO&#x27;의 촬영지로 더욱 유명해진 베트남짱안에 다녀왔어요.이곳은 가파르게 솟은석회암 봉우리인 ㄷ탑카르스트가멋진풍경을 뽑내는곳이에요.그리고ㄹ 이곳의또 다른 특징은 토양이 붉은색을 띠는 것</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>이에요.이번 여행에서 영화 속 지형들을실제로 볼 수 있었어요.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "882cbf045928b9ad1898af6ec994ea34fed694a5c47d22d98e141c9e79f2345c.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "①",
     "bbox": [
@@ -2558,26 +1877,6 @@
       "start_orig": 6063,
       "end_orig": 6066,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\frac { \\textcircled { \\scriptsize { < } } } { 1 }",
-    "bbox": [
-      461,
-      985,
-      485,
-      999
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2661,26 +1960,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      487,
-      1052,
-      500,
-      1066
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "은건조한 지역보다 습윤한 지역에서 잘 발달한다.",
     "bbox": [
@@ -2721,26 +2000,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { ^ { 7 } H } )",
-    "bbox": [
-      326,
-      158,
-      344,
-      172
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ",(나) 대본이 방송되는 비행기의 경로를 지도의",
     "bbox": [
@@ -2758,26 +2017,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D } { \\circ } \\| ,",
-    "bbox": [
-      262,
-      176,
-      303,
-      190
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2921,26 +2160,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "5 , 0 0 0 \\mathrm { m } { \\times } \\mathrm { t }",
-    "bbox": [
-      123,
-      310,
-      159,
-      322
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "넘는 화산도 분포합니다.(후략)",
     "bbox": [
@@ -2959,20 +2178,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      107,
-      340,
-      394,
-      470
-    ],
-    "page_idx": 2,
-    "image_path": "f64c33b9780857d7fdc2c2ae9f8cbebf5f2538cb83faf9d3bb361d6bebd7caf1.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3035,26 +2240,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\lvert >",
-    "bbox": [
-      326,
-      624,
-      335,
-      636
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?(단,",
     "bbox": [
@@ -3072,26 +2257,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( \\square ) \\frac { 2 } { 2 }",
-    "bbox": [
-      179,
-      641,
-      239,
-      654
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3113,37 +2278,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      105,
-      694,
-      250,
-      902
-    ],
-    "page_idx": 2,
-    "image_path": "1eb5d3516030cc5a7c2b99b94ccb57a04637ffad38fd49157072c1fa31a14843.jpg",
-    "alt": "",
-    "caption": [
-      "<지역(대륙)별 곡물 수출·수입량><곡물의 순 수출·수입량 상위 2개국>"
-    ],
-    "original_type": "image"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      257,
-      709,
-      401,
-      869
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>연도</td><td rowspan=1 colspan=2>순 수출량</td><td rowspan=1 colspan=2>순수입량</td></tr><tr><td rowspan=1 colspan=1>1위</td><td rowspan=1 colspan=1>2위</td><td rowspan=1 colspan=1>1위</td><td rowspan=1 colspan=1>2위</td></tr><tr><td rowspan=1 colspan=1>2018</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>러시아</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>중국</td></tr><tr><td rowspan=1 colspan=1>2019</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>운크라이나</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>멕시코</td></tr><tr><td rowspan=1 colspan=1>2020</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>운크라이나</td><td rowspan=1 colspan=1>중국</td><td rowspan=1 colspan=1>B</td></tr><tr><td rowspan=1 colspan=1>202</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>아르헨티나</td><td rowspan=1 colspan=1>중국</td><td rowspan=1 colspan=1>B</td></tr><tr><td rowspan=1 colspan=1>2022</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>아른헨티나</td><td rowspan=1 colspan=1>중국</td><td rowspan=1 colspan=1>B</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "c46cbbc578e27a1310d9c0213649623ecdba718fef8505682ed88fb2556fc72a.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3306,26 +2440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
-    "bbox": [
-      484,
-      158,
-      513,
-      172
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "지역에 대한 설명으로 옳은 것은? (단, A~D는 각각 지도의 네 지역 중 하나임.)",
     "bbox": [
@@ -3344,35 +2458,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      445,
-      200,
-      753,
-      248
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>D</td></tr><tr><td rowspan=1 colspan=1>최한월 평균 기온(°C)</td><td rowspan=1 colspan=1>-45.6</td><td rowspan=1 colspan=1>-21.4</td><td rowspan=1 colspan=1>3.9</td><td rowspan=1 colspan=1>-24.4</td></tr><tr><td rowspan=1 colspan=1>기온의 연교차(C)</td><td rowspan=1 colspan=1>60.9</td><td rowspan=1 colspan=1>40.5</td><td rowspan=1 colspan=1>14.2</td><td rowspan=1 colspan=1>29.9</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "474ebbf49ef7e19f4012dec87e55ccaee763dc8a274cbe1b5bd55dbb75a19ebb.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      489,
-      258,
-      709,
-      361
-    ],
-    "page_idx": 2,
-    "image_path": "bf63ad833eaaadcb7ccb20746619ecc25e97024c6490dcd55051fdbe9bb05549.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3475,26 +2560,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
-    "bbox": [
-      461,
-      437,
-      491,
-      452
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "중 7월 낮 길이가 가장 긴 곳은 A이다.\n",
     "bbox": [
@@ -3532,26 +2597,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\gamma \\mathsf { h } ) \\sim ( \\mathsf { r } \\mathsf { l } )",
-    "bbox": [
-      521,
-      471,
-      567,
-      486
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3613,21 +2658,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      449,
-      559,
-      749,
-      620
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>체결도시</td><td rowspan=1 colspan=1>체결연도</td><td rowspan=1 colspan=1>협약의 주요 내용</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>1972</td><td rowspan=1 colspan=1>폐기물 등의 투기에 의한 해양 오염 방지</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>1987</td><td rowspan=1 colspan=1>오존층 파괴 물질의 생산과 사용 규제</td></tr><tr><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>2015</td><td rowspan=1 colspan=1>선진국과 개발 도상국 모두의 온실가스 감축 의무 규정</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "6f69301e87c83f38d8e6505d51489428f930193e646c015466bd532f2152f60d.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3750,26 +2780,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\cdot \\gamma ) \\sim ( \\mathbb { E } ] ) \\circ \\|",
-    "bbox": [
-      527,
-      736,
-      573,
-      750
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한설명으로 옳은것만을<보>",
     "bbox": [
@@ -3787,26 +2797,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      724,
-      739,
-      735,
-      749
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3828,20 +2818,6 @@
       "end_orig": 5308,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      456,
-      778,
-      743,
-      950
-    ],
-    "page_idx": 2,
-    "image_path": "143af34874cc4a1c120cd9926d2b80e5e3a0a34b71df41109039fa353483f7ea.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3885,7 +2861,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ.(다)는 주로 바람에 날린 모래의 침식 작용으로 형성된다.",
+    "text": "드.(다)는 주로 바람에 날린 모래의 침식 작용으로 형성된다.",
     "bbox": [
       456,
       1005,
@@ -3905,7 +2881,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ.",
+    "text": "2.",
     "bbox": [
       456,
       1022,
@@ -3916,31 +2892,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.6667,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 6755,
-      "end_orig": 6757,
-      "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( \\tt { C } ) > 7",
-    "bbox": [
-      473,
-      1021,
-      533,
-      1035
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -3965,7 +2921,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ, ㄴ ② ㄱ, ㄷ ③ㄴ, ㄷ ④ㄴ, ㄹ ⑤",
+    "text": "①7,L ② ㄱ,ㄷ ③ㄴ,ㄷ ④ㄴ,ㄹ ⑤",
     "bbox": [
       444,
       1051,
@@ -4001,26 +2957,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C }",
-    "bbox": [
-      287,
-      158,
-      316,
-      172
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4061,26 +2997,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
-    "bbox": [
-      130,
-      191,
-      146,
-      203
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4204,20 +3120,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      120,
-      305,
-      380,
-      376
-    ],
-    "page_idx": 3,
-    "image_path": "0c8fe07c5e29b2cc76e80e67a8964a84b8cb3bb16643b72e8ac3692c81cc1849.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "(가) (4) (다) (가) (4) (다) ① A B C ② A C B ③ B A C ④ B C A ⑤ C B A",
     "bbox": [
@@ -4255,26 +3157,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 7 } )",
-    "bbox": [
-      174,
-      486,
-      193,
-      499
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4396,20 +3278,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      100,
-      629,
-      224,
-      734
-    ],
-    "page_idx": 3,
-    "image_path": "5530dc998a4ca1f2232426740faf68012f5201c3370e026bbaa5d5031630aa10.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -4572,26 +3440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\downarrow ) > ( \\downarrow ) > ( \\zeta \\models )",
-    "bbox": [
-      253,
-      983,
-      334,
-      997
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "순으로 많다.",
     "bbox": [
@@ -4652,26 +3500,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\circ ] \\ C ]",
-    "bbox": [
-      149,
-      1049,
-      189,
-      1063
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ".",
     "bbox": [
@@ -4712,26 +3540,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
-    "bbox": [
-      445,
-      176,
-      474,
-      189
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "지역에 대한 설명으로 옳은 것은?  (단,  (가),  (나)  시기는 각각 1월,  7월 중 하나임.)  [3점]",
     "bbox": [
@@ -4752,20 +3560,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      459,
-      216,
-      744,
-      339
-    ],
-    "page_idx": 3,
-    "image_path": "654cd850707d3e0ef253c4f3676ab9459817a25bf23d1f406b2533d64706e6a1.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "* 강수량 차이",
     "bbox": [
@@ -4783,26 +3577,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "=",
-    "bbox": [
-      507,
-      341,
-      515,
-      349
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4826,26 +3600,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\bar { \\mathsf { Q } } { \\mathsf { \\Pi } } \\div 4",
-    "bbox": [
-      628,
-      341,
-      649,
-      349
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "(ci) ** 평균 기온 차이",
     "bbox": [
@@ -4863,26 +3617,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "=",
-    "bbox": [
-      515,
-      351,
-      523,
-      360
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4904,20 +3638,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      500,
-      367,
-      699,
-      484
-    ],
-    "page_idx": 3,
-    "image_path": "d3d3f75c0f63cfe9e27c7a1f72c07e6a0285088caa88b9ee459d876d295a8468.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -5040,26 +3760,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      473,
-      616,
-      483,
-      627
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]",
     "bbox": [
@@ -5097,26 +3797,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
-    "bbox": [
-      499,
-      664,
-      517,
-      676
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5300,26 +3980,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( \\overrightarrow { 4 } ) \\div",
-    "bbox": [
-      473,
-      914,
-      533,
-      928
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "모두 유럽 연합(EU) 가입국이다.",
     "bbox": [
@@ -5341,7 +4001,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄷ ② ㄴㄹ ③ ㄷ, ㄹ ④ ㄱ, ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄹ",
+    "text": "① 7,ㄷ ② Lㄹ ③ ㄷ,ㄹ ④ ㄱ,ㄴ,ㄷ ⑤ 7,ㄴ,ㄹ",
     "bbox": [
       446,
       944,
@@ -5397,6 +4057,1346 @@
       "start_orig": 6766,
       "end_orig": 6806,
       "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      91,
+      152,
+      173,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 53,
+      "end_orig": 59,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "사회탐구 영역(세계지리)",
+    "bbox": [
+      234,
+      144,
+      607,
+      199
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\psi )",
+    "bbox": [
+      188,
+      256,
+      207,
+      270
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      97,
+      298,
+      404,
+      459
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>U-RO</td><td>(가) 의 로바니에미에 있는 산타클로스 마을은 많은 관광객이 찾는 곳이다.이 마을에 있는 사진 속 조형물은 북극권(Arctic Circle)의 경계선상에 세워져 있고,경계선의 북쪽이 북극권에 해당한다.</td></tr><tr><td>Tropic of Capricorn</td><td>(나)의 해안 사막에 있는 사구 위에서는 다른 사구 위로 올라오는 일출과 대서양으로 떨어지는 일몰을 모두 볼 수 있다.이 사막의 동쪽 내륙에 있는 도로에는 사진과 같이 남회귀선(Tropic of Capricorn)을 나타내는 표지판이 있다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "9b35ad851aaeb2d427b0e61a6a1b411fcf3140b627f1635ed9faf1f1a2b424fc.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      469,
+      404,
+      542
+    ],
+    "page_idx": 0,
+    "image_path": "3df36f1ce5121d35adfea78a532ad46c6d15948795e3d1338ee90cd9e28fe7d0.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 1 >",
+    "bbox": [
+      155,
+      679,
+      192,
+      693
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      707,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
+    "table_caption": [
+      "신문"
+    ],
+    "table_footnote": [],
+    "image_path": "ab9512ce37e99e4965e077e2419f64d754da198435b3f5ccf4f29e6e8e97595f.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      96,
+      720,
+      404,
+      944
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(나)</td><td rowspan=2 colspan=1>(다)N기족기</td></tr><tr><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>국장 왼쪽에는 목화,오른쪽에는 밀이 있고</td><td rowspan=1 colspan=1>국장 중앙의 방패에는</td><td rowspan=4 colspan=1>방패 모양의 국장 중앙에는 유대인의 전통적인촛대인 메노라가 있고,그 좌우에 올리브 가지가</td></tr><tr><td rowspan=1 colspan=1>ㄴ아틀라스산맥과그</td></tr><tr><td rowspan=1 colspan=1>중앙에는 신화 속의 새가</td><td rowspan=1 colspan=1>뒤로 떠오르는 태양이</td></tr><tr><td rowspan=1 colspan=1>있다.그 뒤에 떠오르는</td><td rowspan=1 colspan=1>있다.방패의 위에는</td></tr><tr><td rowspan=2 colspan=1>태양과 ㄱ아랄해로흘러가는 아무다리야와</td><td rowspan=1 colspan=1>왕국을 상징하는 왕관이,</td><td rowspan=1 colspan=1>있다.오래 전에 국장 속</td></tr><tr><td rowspan=1 colspan=1>아래에는 쿠란에서</td><td rowspan=2 colspan=1>메노라는ㄷ예루살램에있는 성전에서 사용되었다.</td></tr><tr><td rowspan=1 colspan=1>시르다리야 두 강이그려져 있다.</td><td rowspan=1 colspan=1>인용한 글귀가 있다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "1d5f265a5e76748eb2592f75d40d89e80cbddcb19089d51d1b4a782a5b1b6393.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      123,
+      1004,
+      136,
+      1018
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\gamma \\mathsf { h } ) \\sim ( \\mathsf { r } \\mathsf { l } )",
+    "bbox": [
+      124,
+      1020,
+      173,
+      1035
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathbb { E } ] \\circ ]",
+    "bbox": [
+      342,
+      1020,
+      369,
+      1035
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      455,
+      331,
+      743,
+      423
+    ],
+    "page_idx": 0,
+    "image_path": "b82a5d19571005b0da8496a35e3cf789d263c53d8565072ccd4b7180c1a11b02.jpg",
+    "alt": "",
+    "caption": [
+      "\"폭25m,깊이 30m 구덩이의 비밀'"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\boxed { \\left( 7 \\mathsf { F } \\right) } \\boxed { { \\mathsf { o } } \\mathsf { I } }",
+    "bbox": [
+      632,
+      466,
+      669,
+      480
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\boxed { ( 7 4 ) }",
+    "bbox": [
+      699,
+      466,
+      729,
+      480
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\Delta + \\frac { \\alpha } { 1 }",
+    "bbox": [
+      472,
+      507,
+      489,
+      518
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      451,
+      802,
+      748,
+      973
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td></td><td>국가 내 특정 종교의 신자가 절대 다수를 차지하는 경우에도 종교 전파 등으로 다양한 종교 경관이 나타난다. 튀르키예는 국민 대다수가(가)</td><td></td></tr><tr><td></td><td>(나)건축물로 이곳에는 십자가와 종탑이 있다. 인도네시아도 국민</td><td>신자이지만,아나톨리아의 데린쿠유에 있는 성 테오도르 교회는</td></tr><tr><td></td><td>대다수가 (가) 신자이지만,욕야카르타 인근 보로부두르 사원</td><td></td></tr><tr><td>되었음을 알 수 있다.</td><td>에서는 불상과 탑을 볼 수 있어 과거 이 지역에 (다) 가 전파</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>한편, 싱가포르는 어느 한 종교의 신자가 절대 다수를 차지하지 않아</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>특정 종교 경관이 두드러지지 않고 사원,교회,모스크 등 다양한</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>종교 경관이 나타난다.리틀 인디아 지구에는 스리 비라마칼리암만</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>사원이 있는데,이곳은 다양한 신을 믿는 (라) 사원이다.</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "dbb18e04dbc7c48905a4f7560c4df8afce22d2ec55a0165259cea6bf0bea0155.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 )",
+    "bbox": [
+      462,
+      987,
+      479,
+      1000
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 )",
+    "bbox": [
+      658,
+      1037,
+      675,
+      1050
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\downarrow ) > ( \\downarrow ) > ( \\downarrow ) > ( \\downarrow ) \\Rightarrow ( \\downarrow ) \\downarrow",
+    "bbox": [
+      538,
+      1054,
+      660,
+      1067
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 4 ) } }",
+    "bbox": [
+      126,
+      211,
+      141,
+      222
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\mathsf { h } ) } }",
+    "bbox": [
+      184,
+      298,
+      200,
+      310
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( 7 ) \\frac { 2 } { 2 }",
+    "bbox": [
+      346,
+      498,
+      405,
+      513
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      134,
+      539,
+      366,
+      666
+    ],
+    "page_idx": 1,
+    "image_path": "6b52d5a96e0c3961d268578b9fe6472816dd263191773470f32db975866576a1.jpg",
+    "alt": "",
+    "caption": [
+      "*무역액(유로)과 비율(%)은 2020~2023년 평균값임. * * (가)~(다) 국가의 대() 유럽 연합 수출액 및 수입액 기준 1위 품목만을 나타냄."
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\psi )",
+    "bbox": [
+      114,
+      706,
+      132,
+      720
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 } \\mathsf { h } )",
+    "bbox": [
+      167,
+      809,
+      186,
+      823
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 4 ) } }",
+    "bbox": [
+      212,
+      845,
+      228,
+      856
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      959,
+      239,
+      1062
+    ],
+    "page_idx": 1,
+    "image_path": "080d9c0ff98563f3af90dd9d368542b163370d411168dbf041fc2e132ed94b87.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      609,
+      230,
+      750,
+      344
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=4>(만 명)</td></tr><tr><td rowspan=1 colspan=1>국가</td><td rowspan=1 colspan=1>도시 인구</td><td rowspan=1 colspan=1>촌락인구</td><td rowspan=1 colspan=1>수도 인구</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>18,255</td><td rowspan=1 colspan=1>2,832</td><td rowspan=1 colspan=1>447</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>3,996</td><td rowspan=1 colspan=1>951</td><td rowspan=1 colspan=1>1,057</td></tr><tr><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>1,593</td><td rowspan=1 colspan=1>226</td><td rowspan=1 colspan=1>668</td></tr><tr><td rowspan=1 colspan=1>(라)</td><td rowspan=1 colspan=1>331</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>174</td></tr></table>",
+    "table_caption": [
+      "<인구 분포>"
+    ],
+    "table_footnote": [],
+    "image_path": "312ec108496aab86925ff9c8ae5b8cc78b5963935ebf7867f1d75c11d7527874.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      449,
+      217,
+      599,
+      390
+    ],
+    "page_idx": 1,
+    "image_path": "6abe00090c11bad83679e70482468fe74c32f8cf29f8fdd91cf03923b5a004de.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\sharp ) \\circ \\rVert",
+    "bbox": [
+      480,
+      508,
+      539,
+      522
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      446,
+      564,
+      753,
+      630
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>순위</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(나)</td><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>(라)</td></tr><tr><td rowspan=1 colspan=1>1위</td><td rowspan=1 colspan=1>러시아</td><td rowspan=1 colspan=1>독일</td><td rowspan=1 colspan=1>독일</td><td rowspan=1 colspan=1>이탈리아</td></tr><tr><td rowspan=1 colspan=1>2위</td><td rowspan=1 colspan=1>노르웨이</td><td rowspan=1 colspan=1>영국</td><td rowspan=1 colspan=1>에스파냐</td><td rowspan=1 colspan=1>아이슬란드</td></tr><tr><td rowspan=1 colspan=1>3위</td><td rowspan=1 colspan=1>스웨덴</td><td rowspan=1 colspan=1>에스파냐</td><td rowspan=1 colspan=1>이탈리아</td><td rowspan=1 colspan=1>러시아</td></tr></table>",
+    "table_caption": [
+      "<유럽의 신·재생 에너지 발전량 상위 3개국>"
+    ],
+    "table_footnote": [
+      "(2021년)"
+    ],
+    "image_path": "6edee9eabf9fbaf605645db0e6c6776cf54902be56a15f3189fda71d85afb9ea.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 } \\mathsf { H } )",
+    "bbox": [
+      609,
+      666,
+      628,
+      679
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\psi )",
+    "bbox": [
+      589,
+      682,
+      607,
+      695
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ") ( 7 7 ) \\sim ( \\overrightarrow { c } \\vert )",
+    "bbox": [
+      456,
+      715,
+      511,
+      729
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\div } \\textcircled { \\div } \\textcircled { \\div } \\textcircled { \\div }",
+    "bbox": [
+      649,
+      745,
+      689,
+      760
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      458,
+      788,
+      724,
+      888
+    ],
+    "page_idx": 1,
+    "image_path": "4e62c13f79433d8ed2e11d21c1fe4f710d40490ed411b605bb5ef70d1f83d919.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      450,
+      888,
+      749,
+      974
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=5 colspan=1>필리핀 안경원숭이로 알려진 타르시어(Tarsier)로 유명한 보홀섬에 다녀왔어요.이 섬에는  석회 동굴인 카공카공 동굴지대가있어요.이곳에서는ㄴ탄산칼슘의침전으로 형성된 다양한 지형을 관찰할 수있었어요. 보홀섬에 가면 타르시어를 보고,이곳도 꼭 한번 가 보세요.</td><td rowspan=1 colspan=1></td><td rowspan=4 colspan=1>영화&#x27;OO&#x27;의 촬영지로 더욱 유명해진 베트남짱안에 다녀왔어요.이곳은 가파르게 솟은석회암 봉우리인 ㄷ탑카르스트가멋진풍경을 뽑내는곳이에요.그리고ㄹ 이곳의또 다른 특징은 토양이 붉은색을 띠는 것</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>이에요.이번 여행에서 영화 속 지형들을실제로 볼 수 있었어요.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "882cbf045928b9ad1898af6ec994ea34fed694a5c47d22d98e141c9e79f2345c.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\frac { \\textcircled { \\scriptsize { < } } } { 1 }",
+    "bbox": [
+      461,
+      985,
+      485,
+      999
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      487,
+      1052,
+      500,
+      1066
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { ^ { 7 } H } )",
+    "bbox": [
+      326,
+      158,
+      344,
+      172
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D } { \\circ } \\| ,",
+    "bbox": [
+      262,
+      176,
+      303,
+      190
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "5 , 0 0 0 \\mathrm { m } { \\times } \\mathrm { t }",
+    "bbox": [
+      123,
+      310,
+      159,
+      322
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      107,
+      340,
+      394,
+      470
+    ],
+    "page_idx": 2,
+    "image_path": "f64c33b9780857d7fdc2c2ae9f8cbebf5f2538cb83faf9d3bb361d6bebd7caf1.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\lvert >",
+    "bbox": [
+      326,
+      624,
+      335,
+      636
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\square ) \\frac { 2 } { 2 }",
+    "bbox": [
+      179,
+      641,
+      239,
+      654
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      105,
+      694,
+      250,
+      902
+    ],
+    "page_idx": 2,
+    "image_path": "1eb5d3516030cc5a7c2b99b94ccb57a04637ffad38fd49157072c1fa31a14843.jpg",
+    "alt": "",
+    "caption": [
+      "<지역(대륙)별 곡물 수출·수입량><곡물의 순 수출·수입량 상위 2개국>"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      257,
+      709,
+      401,
+      869
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>연도</td><td rowspan=1 colspan=2>순 수출량</td><td rowspan=1 colspan=2>순수입량</td></tr><tr><td rowspan=1 colspan=1>1위</td><td rowspan=1 colspan=1>2위</td><td rowspan=1 colspan=1>1위</td><td rowspan=1 colspan=1>2위</td></tr><tr><td rowspan=1 colspan=1>2018</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>러시아</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>중국</td></tr><tr><td rowspan=1 colspan=1>2019</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>운크라이나</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>멕시코</td></tr><tr><td rowspan=1 colspan=1>2020</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>운크라이나</td><td rowspan=1 colspan=1>중국</td><td rowspan=1 colspan=1>B</td></tr><tr><td rowspan=1 colspan=1>202</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>아르헨티나</td><td rowspan=1 colspan=1>중국</td><td rowspan=1 colspan=1>B</td></tr><tr><td rowspan=1 colspan=1>2022</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>아른헨티나</td><td rowspan=1 colspan=1>중국</td><td rowspan=1 colspan=1>B</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "c46cbbc578e27a1310d9c0213649623ecdba718fef8505682ed88fb2556fc72a.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
+    "bbox": [
+      484,
+      158,
+      513,
+      172
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      445,
+      200,
+      753,
+      248
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>D</td></tr><tr><td rowspan=1 colspan=1>최한월 평균 기온(°C)</td><td rowspan=1 colspan=1>-45.6</td><td rowspan=1 colspan=1>-21.4</td><td rowspan=1 colspan=1>3.9</td><td rowspan=1 colspan=1>-24.4</td></tr><tr><td rowspan=1 colspan=1>기온의 연교차(C)</td><td rowspan=1 colspan=1>60.9</td><td rowspan=1 colspan=1>40.5</td><td rowspan=1 colspan=1>14.2</td><td rowspan=1 colspan=1>29.9</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "474ebbf49ef7e19f4012dec87e55ccaee763dc8a274cbe1b5bd55dbb75a19ebb.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      489,
+      258,
+      709,
+      361
+    ],
+    "page_idx": 2,
+    "image_path": "bf63ad833eaaadcb7ccb20746619ecc25e97024c6490dcd55051fdbe9bb05549.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
+    "bbox": [
+      461,
+      437,
+      491,
+      452
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\gamma \\mathsf { h } ) \\sim ( \\mathsf { r } \\mathsf { l } )",
+    "bbox": [
+      521,
+      471,
+      567,
+      486
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      449,
+      559,
+      749,
+      620
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>체결도시</td><td rowspan=1 colspan=1>체결연도</td><td rowspan=1 colspan=1>협약의 주요 내용</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>1972</td><td rowspan=1 colspan=1>폐기물 등의 투기에 의한 해양 오염 방지</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>1987</td><td rowspan=1 colspan=1>오존층 파괴 물질의 생산과 사용 규제</td></tr><tr><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>2015</td><td rowspan=1 colspan=1>선진국과 개발 도상국 모두의 온실가스 감축 의무 규정</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "6f69301e87c83f38d8e6505d51489428f930193e646c015466bd532f2152f60d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\cdot \\gamma ) \\sim ( \\mathbb { E } ] ) \\circ \\|",
+    "bbox": [
+      527,
+      736,
+      573,
+      750
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      724,
+      739,
+      735,
+      749
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      456,
+      778,
+      743,
+      950
+    ],
+    "page_idx": 2,
+    "image_path": "143af34874cc4a1c120cd9926d2b80e5e3a0a34b71df41109039fa353483f7ea.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\tt { C } ) > 7",
+    "bbox": [
+      473,
+      1021,
+      533,
+      1035
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C }",
+    "bbox": [
+      287,
+      158,
+      316,
+      172
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
+    "bbox": [
+      130,
+      191,
+      146,
+      203
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      120,
+      305,
+      380,
+      376
+    ],
+    "page_idx": 3,
+    "image_path": "0c8fe07c5e29b2cc76e80e67a8964a84b8cb3bb16643b72e8ac3692c81cc1849.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 7 } )",
+    "bbox": [
+      174,
+      486,
+      193,
+      499
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      100,
+      629,
+      224,
+      734
+    ],
+    "page_idx": 3,
+    "image_path": "5530dc998a4ca1f2232426740faf68012f5201c3370e026bbaa5d5031630aa10.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\downarrow ) > ( \\downarrow ) > ( \\zeta \\models )",
+    "bbox": [
+      253,
+      983,
+      334,
+      997
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\circ ] \\ C ]",
+    "bbox": [
+      149,
+      1049,
+      189,
+      1063
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
+    "bbox": [
+      445,
+      176,
+      474,
+      189
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      459,
+      216,
+      744,
+      339
+    ],
+    "page_idx": 3,
+    "image_path": "654cd850707d3e0ef253c4f3676ab9459817a25bf23d1f406b2533d64706e6a1.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "=",
+    "bbox": [
+      507,
+      341,
+      515,
+      349
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bar { \\mathsf { Q } } { \\mathsf { \\Pi } } \\div 4",
+    "bbox": [
+      628,
+      341,
+      649,
+      349
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "=",
+    "bbox": [
+      515,
+      351,
+      523,
+      360
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      500,
+      367,
+      699,
+      484
+    ],
+    "page_idx": 3,
+    "image_path": "d3d3f75c0f63cfe9e27c7a1f72c07e6a0285088caa88b9ee459d876d295a8468.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      473,
+      616,
+      483,
+      627
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
+    "bbox": [
+      499,
+      664,
+      517,
+      676
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\overrightarrow { 4 } ) \\div",
+    "bbox": [
+      473,
+      914,
+      533,
+      928
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
     }
   }
 ]

@@ -1,66 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제5교시",
-    "bbox": [
-      91,
-      154,
-      174,
-      190
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "제2외국어/한문 영역(독일어I)",
-    "bbox": [
-      200,
-      146,
-      693,
-      201
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "성명 수험번호",
-    "bbox": [
-      191,
-      211,
-      462,
-      239
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. 밑줄 친 부분과 같은 발음이 들어 있는 것은?",
     "bbox": [
       86,
@@ -152,11 +92,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9524,
+      "similarity": 0.9841,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 140,
       "end_orig": 193,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -181,7 +121,7 @@
   },
   {
     "type": "text",
-    "text": "3.빈칸에 들어갈 말로 알맞은 것은? [1점] ① ㄴuft ② Fahrt ③ Strabe ④ Autobahn ⑤ Einladung",
+    "text": "3.빈칸에 들어갈 말로 알맞은 것은? [1점] ① Luft ② Fahrt ③ Strabe ④ Autobahn ⑤ Einladung",
     "bbox": [
       86,
       541,
@@ -192,26 +132,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.4407,
+      "similarity": 0.4576,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2639,
       "end_orig": 2730,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      96,
-      564,
-      404,
-      715
-    ],
-    "page_idx": 0,
-    "image_path": "de01375d82f8813ab6fcb49902d76961d1c256f0e8fa6119566c6b76f69e0d5e.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -231,26 +157,6 @@
       "start_orig": 366,
       "end_orig": 376,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { b } ) \\mathsf { d } \\parallel",
-    "bbox": [
-      155,
-      775,
-      181,
-      789
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -366,7 +272,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9438,
+      "similarity": 0.9663,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 733,
       "end_orig": 787,
@@ -474,26 +380,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { ~ B ~ : ~ }",
-    "bbox": [
-      454,
-      303,
-      471,
-      316
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "Das  ist  mein  Bruder  Sven.",
     "bbox": [
@@ -575,7 +461,7 @@
   },
   {
     "type": "text",
-    "text": " 빈칸에 들어갈 말로 알맞지 않은 것은?",
+    "text": "7. 빈칸에 들어갈 말로 알맞지 않은 것은?",
     "bbox": [
       434,
       490,
@@ -586,10 +472,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9412,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4475,
-      "end_orig": 4497,
+      "start_orig": 1077,
+      "end_orig": 1101,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -646,7 +532,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9861,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1180,
       "end_orig": 1287,
@@ -812,20 +698,6 @@
       "end_orig": 1596,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      866,
-      556,
-      976
-    ],
-    "page_idx": 0,
-    "image_path": "1899df9f78f7cc8684f9fb45326b84cced14bd668e78c82f1d2d884245ce69f4.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1088,21 +960,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      100,
-      612,
-      397,
-      762
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>•</td></tr><tr><td>… 9 09:00</td></tr><tr><td>80%다 = Hamburg Q</td></tr><tr><td>heute Montag, 28. August</td></tr><tr><td>23° 21° 18°</td></tr><tr><td>15° 12° </td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "ce790d47bca43176b6db42afacb77b5a9b85df09fb9e7d35ed521a1bd7f97f08.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① Um  18  Uhr  ist  es  klar.",
     "bbox": [
@@ -1275,7 +1132,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9915,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2756,
       "end_orig": 2921,
@@ -1300,26 +1157,6 @@
       "start_orig": 2922,
       "end_orig": 2960,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathbb { O }",
-    "bbox": [
-      459,
-      182,
-      473,
-      197
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1400,26 +1237,6 @@
       "start_orig": 3122,
       "end_orig": 3179,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      579,
-      349,
-      587,
-      358
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1663,26 +1480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      664,
-      625,
-      675,
-      637
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?",
     "bbox": [
@@ -1763,20 +1560,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      446,
-      645,
-      564,
-      762
-    ],
-    "page_idx": 1,
-    "image_path": "00a9962a26f9da16f74ad75a949da60950a765a1c7b459a13c07b0c88586a338.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "a. bin  kaputt b. bin  ganz  froh\nc. kann  nicht  weiter d. brauche  keine  Hilfe",
     "bbox": [
@@ -1789,7 +1572,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9833,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3689,
       "end_orig": 3770,
@@ -1798,7 +1581,7 @@
   },
   {
     "type": "text",
-    "text": "① a, b ② a, c ③ b, c ④ b, d ⑤ㄷ, d",
+    "text": "① a,  b ② a,  c ③ b,  c ④ b,  d ⑤ c,  d",
     "bbox": [
       444,
       829,
@@ -1808,12 +1591,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3771,
+      "end_orig": 3810,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1897,46 +1680,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { u m } \\ 1 8 \\ \\mathrm { U h r \\ 3 0 }",
-    "bbox": [
-      639,
-      945,
-      712,
-      958
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { B } : \\mathrm { A c h }",
-    "bbox": [
-      454,
-      962,
-      495,
-      975
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ",  du  hast  Recht.",
     "bbox": [
@@ -1955,20 +1698,6 @@
       "end_orig": 4033,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      448,
-      991,
-      749,
-      1064
-    ],
-    "page_idx": 1,
-    "image_path": "4caeb89326704a722cea485cf0125e4de62c0d46e7b5b2d312f24e142c4122cb.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2003,10 +1732,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0571,
+      "similarity": 0.1111,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4682,
-      "end_orig": 4684,
+      "start_orig": 4351,
+      "end_orig": 4354,
       "reason": "low_similarity"
     }
   },
@@ -2023,10 +1752,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.4444,
+      "similarity": 0.1176,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4101,
-      "end_orig": 4133,
+      "start_orig": 4222,
+      "end_orig": 4226,
       "reason": "low_similarity"
     }
   },
@@ -2188,26 +1917,6 @@
       "start_orig": 4794,
       "end_orig": 4819,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      302,
-      792,
-      312,
-      803
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2383,7 +2092,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.989,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4948,
       "end_orig": 5076,
@@ -2403,11 +2112,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.8333,
+      "similarity": 0.9,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5077,
       "end_orig": 5136,
-      "reason": "option_line_enumerator_match"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2511,20 +2220,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      453,
-      438,
-      563,
-      507
-    ],
-    "page_idx": 2,
-    "image_path": "4f939a92a79cadd51d50efe2970b26b2fe8d27d1eb9e0dd26cde774a66ae5830.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "Dieses  Fest  findet  immer  Ende  März oder  im  April  statt.  Meistens bekommen  Kinder  an  diesem  Fest Eier  oder  Hasen  aus  Schokolade.  Die",
     "bbox": [
@@ -2625,20 +2320,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      450,
-      729,
-      551,
-      832
-    ],
-    "page_idx": 2,
-    "image_path": "daf21141d0c95ea096fe633bfb175cf5ae3e2bab4917624a39a74324d2cf6309.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "a  300 Jahren  Tee  getrunken.  Nach  einiger Zeit  entstand  eine  Teekultur  mit  einer Teezeremonie.  Dabei  legt  man  ein Stück  Zucker  in  eine  Tasse.  Darauf gießt  man  schwarzen  Tee,  und  danach kommt  Sahne  hinein.  So  kann  man  zuerst  die  Sahne,  dann den  starken  Tee und  am  Ende  den  süß",
     "bbox": [
@@ -2699,26 +2380,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      662,
-      912,
-      669,
-      920
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "Zeremonie : 의식 *gieBen :붓다",
     "bbox": [
@@ -2736,26 +2397,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      669,
-      927,
-      678,
-      936
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2840,7 +2481,7 @@
   },
   {
     "type": "text",
-    "text": ". Der  Tee wird  mit  Sahne  und  Zucker  getrunken.\n",
+    "text": "c. Der  Tee wird  mit  Sahne  und  Zucker  getrunken.",
     "bbox": [
       453,
       1005,
@@ -2851,10 +2492,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.987,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6481,
-      "end_orig": 6534,
+      "start_orig": 6480,
+      "end_orig": 6533,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2880,7 +2521,7 @@
   },
   {
     "type": "text",
-    "text": "① a, b ② a, d ③ b, C ④ b, d ⑤ ㄷ, d",
+    "text": "① a,  b ② a,  d ③ b,  c ④ b,  d ⑤ c,  d",
     "bbox": [
       445,
       1048,
@@ -2890,12 +2531,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6594,
+      "end_orig": 6633,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2976,26 +2617,6 @@
       "start_orig": 6748,
       "end_orig": 6752,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ":",
-    "bbox": [
-      126,
-      225,
-      135,
-      234
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3159,20 +2780,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      102,
-      444,
-      212,
-      531
-    ],
-    "page_idx": 3,
-    "image_path": "1ff1cd5803c1e841319ff18161fb1a7ebc961f307467c3f8a68fff01b3abf14c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "Caspar  David  Friedrich  ist  einer  der berühmtesten  Maler  der  deutschen Romantik.  Er  kam  1774 in  Greifswald zur  Welt  und  starb  1840 in  Dresden.",
     "bbox": [
@@ -3233,26 +2840,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      202,
-      594,
-      210,
-      603
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "Romantik :  낭만주의  * Landschaft : 풍경 * Jahrhundertausstellung :  세기의 전시회",
     "bbox": [
@@ -3270,26 +2857,6 @@
       "start_orig": 7390,
       "end_orig": 7461,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      316,
-      608,
-      324,
-      618
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3431,20 +2998,6 @@
       "end_orig": 7628,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      104,
-      808,
-      212,
-      897
-    ],
-    "page_idx": 3,
-    "image_path": "e5cbe03b7ace19e6797a95481aa9fd5d1663e8c85830b2a49a95ebbdb6af9a88.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3647,20 +3200,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      446,
-      182,
-      754,
-      406
-    ],
-    "page_idx": 3,
-    "image_path": "66eb11ab1055e93649095751b03376592836dc2d5602b02ee8f14962bbe5c44c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① Baume ② Bäume ③ Baums\n④ Bäumen ⑤ Bäumer",
     "bbox": [
@@ -3822,7 +3361,7 @@
   },
   {
     "type": "text",
-    "text": ". Der  Urlaub  des  Beamters  ist  bald  zu  Ende.\n",
+    "text": "c. Der  Urlaub  des  Beamters  ist  bald  zu  Ende.",
     "bbox": [
       476,
       744,
@@ -3833,16 +3372,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9859,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8658,
-      "end_orig": 8709,
+      "start_orig": 8657,
+      "end_orig": 8708,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "① a ② ㄷ ③ a, b ④ b, c ⑤ a,b,c",
+    "text": "① a ② c ③ a,  b ④ b,  c ⑤  a,  b,  c",
     "bbox": [
       446,
       784,
@@ -3852,12 +3391,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8709,
+      "end_orig": 8745,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3922,7 +3461,7 @@
   },
   {
     "type": "text",
-    "text": ". Sie  benutzt  das  scharfste  Messer  zum  Kochen.\n",
+    "text": "c. Sie  benutzt  das  scharfste  Messer  zum  Kochen.",
     "bbox": [
       454,
       900,
@@ -3933,10 +3472,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9873,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8869,
-      "end_orig": 8922,
+      "start_orig": 8868,
+      "end_orig": 8921,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3962,7 +3501,7 @@
   },
   {
     "type": "text",
-    "text": "① a, b ② a, d ③ b, C ④ b, d ⑤ ㄷ, d",
+    "text": "① a,  b ② a,  d ③ b,  c ④ b,  d ⑤ c,  d",
     "bbox": [
       446,
       943,
@@ -3972,12 +3511,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8981,
+      "end_orig": 9020,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4019,5 +3558,466 @@
       "end_orig": 9070,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제5교시",
+    "bbox": [
+      91,
+      154,
+      174,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제2외국어/한문 영역(독일어I)",
+    "bbox": [
+      200,
+      146,
+      693,
+      201
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "성명 수험번호",
+    "bbox": [
+      191,
+      211,
+      462,
+      239
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      564,
+      404,
+      715
+    ],
+    "page_idx": 0,
+    "image_path": "de01375d82f8813ab6fcb49902d76961d1c256f0e8fa6119566c6b76f69e0d5e.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { b } ) \\mathsf { d } \\parallel",
+    "bbox": [
+      155,
+      775,
+      181,
+      789
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { ~ B ~ : ~ }",
+    "bbox": [
+      454,
+      303,
+      471,
+      316
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      866,
+      556,
+      976
+    ],
+    "page_idx": 0,
+    "image_path": "1899df9f78f7cc8684f9fb45326b84cced14bd668e78c82f1d2d884245ce69f4.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      100,
+      612,
+      397,
+      762
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>•</td></tr><tr><td>… 9 09:00</td></tr><tr><td>80%다 = Hamburg Q</td></tr><tr><td>heute Montag, 28. August</td></tr><tr><td>23° 21° 18°</td></tr><tr><td>15° 12° </td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "ce790d47bca43176b6db42afacb77b5a9b85df09fb9e7d35ed521a1bd7f97f08.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathbb { O }",
+    "bbox": [
+      459,
+      182,
+      473,
+      197
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      579,
+      349,
+      587,
+      358
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      664,
+      625,
+      675,
+      637
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      645,
+      564,
+      762
+    ],
+    "page_idx": 1,
+    "image_path": "00a9962a26f9da16f74ad75a949da60950a765a1c7b459a13c07b0c88586a338.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { u m } \\ 1 8 \\ \\mathrm { U h r \\ 3 0 }",
+    "bbox": [
+      639,
+      945,
+      712,
+      958
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B } : \\mathrm { A c h }",
+    "bbox": [
+      454,
+      962,
+      495,
+      975
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      448,
+      991,
+      749,
+      1064
+    ],
+    "page_idx": 1,
+    "image_path": "4caeb89326704a722cea485cf0125e4de62c0d46e7b5b2d312f24e142c4122cb.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      302,
+      792,
+      312,
+      803
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      453,
+      438,
+      563,
+      507
+    ],
+    "page_idx": 2,
+    "image_path": "4f939a92a79cadd51d50efe2970b26b2fe8d27d1eb9e0dd26cde774a66ae5830.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      450,
+      729,
+      551,
+      832
+    ],
+    "page_idx": 2,
+    "image_path": "daf21141d0c95ea096fe633bfb175cf5ae3e2bab4917624a39a74324d2cf6309.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      662,
+      912,
+      669,
+      920
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      669,
+      927,
+      678,
+      936
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ":",
+    "bbox": [
+      126,
+      225,
+      135,
+      234
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      102,
+      444,
+      212,
+      531
+    ],
+    "page_idx": 3,
+    "image_path": "1ff1cd5803c1e841319ff18161fb1a7ebc961f307467c3f8a68fff01b3abf14c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      202,
+      594,
+      210,
+      603
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      316,
+      608,
+      324,
+      618
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      104,
+      808,
+      212,
+      897
+    ],
+    "page_idx": 3,
+    "image_path": "e5cbe03b7ace19e6797a95481aa9fd5d1663e8c85830b2a49a95ebbdb6af9a88.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      182,
+      754,
+      406
+    ],
+    "page_idx": 3,
+    "image_path": "66eb11ab1055e93649095751b03376592836dc2d5602b02ee8f14962bbe5c44c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

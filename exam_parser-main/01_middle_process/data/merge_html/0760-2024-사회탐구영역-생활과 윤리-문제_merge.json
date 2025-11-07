@@ -1,81 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      90,
-      153,
-      173,
-      190
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 55,
-      "end_orig": 61,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "사회탐구 영역(생활과 윤리)",
-    "bbox": [
-      214,
-      145,
-      621,
-      200
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      340,
-      209,
-      603,
-      237
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "d43f7e45ec706ed2a681f218cc12a16d8ed2fed024ef924c7b1648af58dbf700.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
-    "text": "제[ ] 선택",
-    "bbox": [
-      615,
-      210,
-      700,
-      236
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 81,
-      "end_orig": 88,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. (가),  (나)  윤리학의 핵심 과제로 가장 적절한 것은?",
     "bbox": [
       86,
@@ -216,7 +141,7 @@
   },
   {
     "type": "text",
-    "text": "⑤ (가)와 (나): 도덕 언어의 의미와 도덕 추론의 구조를 분석하는 것이다\n2. ",
+    "text": "⑤ (가)와 (나): 도덕 언어의 의미와 도덕 추론의 구조를 분석하는 것이다\n",
     "bbox": [
       97,
       470,
@@ -227,16 +152,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9851,
+      "similarity": 0.9846,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 458,
-      "end_orig": 504,
+      "end_orig": 501,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": ". 다음을 주장한 사상가의 입장에서 <문제 상황>  속 A에게 제시할 조언으로 가장 적절한 것은?  [3점]\n",
+    "text": "2. 다음을 주장한 사상가의 입장에서 <문제 상황>  속 A에게 제시할 조언으로 가장 적절한 것은?  [3점]\n",
     "bbox": [
       86,
       542,
@@ -247,9 +172,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9888,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 502,
+      "start_orig": 501,
       "end_orig": 563,
       "reason": "passed_threshold_no_ws"
     }
@@ -452,26 +377,6 @@
       "start_orig": 921,
       "end_orig": 930,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "o \\mathrm { \\textmu }",
-    "bbox": [
-      175,
-      800,
-      190,
-      814
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -693,21 +598,6 @@
       "end_orig": 1380,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      446,
-      297,
-      753,
-      444
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>(가)</td><td colspan=\"6\">인간 배아 복제는 줄기세포를 추출하기 위해 인간 배아를 파괴하여 인간의 생명권을 침해하기 때문에 허용되어서는 안 된다.</td></tr><tr><td rowspan=\"2\">(4)</td><td colspan=\"3\">인간의 생명권을 침해하는 대전제 행위는 허용되어서는 안 된다.</td><td colspan=\"2\">+ 소전제</td></tr><tr><td colspan=\"3\"></td><td colspan=\"2\">7 ↓</td></tr><tr><td colspan=\"3\"></td><td colspan=\"3\">인간 배아를 파괴하는 인간 배아 복제는 결론</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "5e04858c334451a0f83d06965444909e513918a1b8948e24d93f5449221bb34d.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1311,7 +1201,7 @@
   },
   {
     "type": "text",
-    "text": ". (가)의 사상가 갑,  을의 입장을 (나)  그림으로 탐구하고자 할 때, ",
+    "text": "7. (가)의 사상가 갑,  을의 입장을 (나)  그림으로 탐구하고자 할 때,",
     "bbox": [
       86,
       581,
@@ -1322,31 +1212,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9836,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2697,
-      "end_orig": 2740,
+      "start_orig": 2696,
+      "end_orig": 2739,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
-    "bbox": [
-      96,
-      601,
-      135,
-      615
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1367,26 +1237,6 @@
       "start_orig": 2745,
       "end_orig": 2763,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      292,
-      603,
-      302,
-      613
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1508,20 +1358,6 @@
       "end_orig": 3016,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      151,
-      791,
-      377,
-      923
-    ],
-    "page_idx": 1,
-    "image_path": "6b89deb5316ca1c2b5053f6ddf365e38b3941d0891861ef4eff4687d00f0af57.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1661,26 +1497,6 @@
       "start_orig": 3223,
       "end_orig": 3250,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { > }",
-    "bbox": [
-      664,
-      159,
-      673,
-      171
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1904,26 +1720,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      723,
-      538,
-      733,
-      550
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?",
     "bbox": [
@@ -2065,7 +1861,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       781,
@@ -2075,12 +1871,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4090,
-      "end_orig": 4125,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2544,26 +2340,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      698,
-      159,
-      707,
-      170
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?",
     "bbox": [
@@ -2585,7 +2361,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ,  ㄴ ② ㄱ,  ㄷ ③ ㄴ,  ㄷ ④ ㄴ,  ㄹ ⑤",
+    "text": "① 7,L ② 7,ㄷ ③ L,ㄷ ④ L,2 ⑤",
     "bbox": [
       96,
       452,
@@ -2595,12 +2371,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6632,
-      "end_orig": 6665,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2665,7 +2441,7 @@
   },
   {
     "type": "text",
-    "text": "관청에서쓰는모든 물건은 하늘에서 비처럼내리고 땅에서 물처럼 솟는 것이 아니니,씀씀이를 절약하면서 물건 사용의 폐해를 살펴 백성들의 힘을 덜어 주어야 한다.",
+    "text": "◦ 관청에서 쓰는 모든 물건은 하늘에서 비처럼 내리고 땅에서 물처럼 솟는 것이 아니니,  씀씀이를 절약하면서 물건 사용의 폐해를 살펴 백성들의 힘을 덜어 주어야 한다.",
     "bbox": [
       108,
       564,
@@ -2675,17 +2451,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9927,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5032,
+      "end_orig": 5125,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "청럼한 선비는 벼슬자리에 부임하러 갈 때 가족을 데려가지 않는데,이때의 가족이란 아내와 자식을 일컫는다.형제 간에는",
+    "text": "◦ 청렴한 선비는 벼슬자리에 부임하러 갈 때 가족을 데려가지 않는데,  이때의 가족이란 아내와 자식을 일컫는다.  형제 간에는",
     "bbox": [
       109,
       614,
@@ -2695,12 +2471,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9709,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5126,
+      "end_orig": 5196,
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -2715,12 +2491,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5197,
+      "end_orig": 5223,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2765,7 +2541,7 @@
   },
   {
     "type": "text",
-    "text": "① 사사로운 정()에 따른 이익보다는 청럼을 중시해야 한다.",
+    "text": "① 사사로운 정(情)에 따른 이익보다는 청렴을 중시해야 한다.\n",
     "bbox": [
       97,
       678,
@@ -2775,12 +2551,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9615,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5224,
+      "end_orig": 5259,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2865,7 +2641,7 @@
   },
   {
     "type": "text",
-    "text": "13. 갑, 을의 입장으로 가장 적절한 것은?",
+    "text": "13. 갑,  을의 입장으로 가장 적절한 것은?",
     "bbox": [
       87,
       803,
@@ -2875,12 +2651,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5404,
+      "end_orig": 5430,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3065,7 +2841,7 @@
   },
   {
     "type": "text",
-    "text": "<보기>",
+    "text": "<보  기>",
     "bbox": [
       574,
       354,
@@ -3078,8 +2854,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8014,
-      "end_orig": 8018,
+      "start_orig": 5911,
+      "end_orig": 5917,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3204,26 +2980,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      641,
-      647,
-      651,
-      658
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?  [3점]\n",
     "bbox": [
@@ -3244,21 +3000,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      445,
-      672,
-      751,
-      945
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td>(가) 생각하지 말라.생명 공동체의 통합성과 안정성 그리고</td><td colspan=\"2\">갑: 동물을 폭력적으로 다루면 고통에 대한 공감이 무녀져 결국 타인과의 관계에서 인간의 도덕성에 매우 유익한 천성적 소질이 고갈될 수 있다. 을: 어떤 존재가 느끼는 고통을 고려하지 않는 것은 옳지 않다.이익 평등 고려의 원리는 그 존재의 고통을 다른 존재의 고통과 평등하게 계산하도록 한다. 병: 경제적 이익 계산의 문제로만 바람직한 대지의 이용을</td></tr><tr><td>(나4)</td><td>아름다움의 보전에 이바지한다면 그것은 옳다. A</td><td>범 레&gt; A:갑만의 입장 B:을만의 입장 C:병만의 입장 D: 을과병만의 공통입장</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "16659ac2934203023dd5393c295849779e6061638119140bd034970036df67e1.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "<보  기>",
     "bbox": [
@@ -3273,8 +3014,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8276,
-      "end_orig": 8282,
+      "start_orig": 6462,
+      "end_orig": 6468,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4019,26 +3760,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      698,
-      159,
-      707,
-      170
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -4379,20 +4100,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      641,
-      650,
-      748,
-      780
-    ],
-    "page_idx": 3,
-    "image_path": "b5277d3e98df8c6418c75a04a1e39cf6957e291a0fac61965e6261321899a8c7.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 종교 간의 평화 실현에 타인과의 대화 역량은 불필요하다.\n",
     "bbox": [
@@ -4531,5 +4238,298 @@
       "end_orig": 8757,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      90,
+      153,
+      173,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 55,
+      "end_orig": 61,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "사회탐구 영역(생활과 윤리)",
+    "bbox": [
+      214,
+      145,
+      621,
+      200
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제[ ] 선택",
+    "bbox": [
+      615,
+      210,
+      700,
+      236
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 81,
+      "end_orig": 88,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      340,
+      209,
+      603,
+      237
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "d43f7e45ec706ed2a681f218cc12a16d8ed2fed024ef924c7b1648af58dbf700.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "o \\mathrm { \\textmu }",
+    "bbox": [
+      175,
+      800,
+      190,
+      814
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      446,
+      297,
+      753,
+      444
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>(가)</td><td colspan=\"6\">인간 배아 복제는 줄기세포를 추출하기 위해 인간 배아를 파괴하여 인간의 생명권을 침해하기 때문에 허용되어서는 안 된다.</td></tr><tr><td rowspan=\"2\">(4)</td><td colspan=\"3\">인간의 생명권을 침해하는 대전제 행위는 허용되어서는 안 된다.</td><td colspan=\"2\">+ 소전제</td></tr><tr><td colspan=\"3\"></td><td colspan=\"2\">7 ↓</td></tr><tr><td colspan=\"3\"></td><td colspan=\"3\">인간 배아를 파괴하는 인간 배아 복제는 결론</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "5e04858c334451a0f83d06965444909e513918a1b8948e24d93f5449221bb34d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
+    "bbox": [
+      96,
+      601,
+      135,
+      615
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      292,
+      603,
+      302,
+      613
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      151,
+      791,
+      377,
+      923
+    ],
+    "page_idx": 1,
+    "image_path": "6b89deb5316ca1c2b5053f6ddf365e38b3941d0891861ef4eff4687d00f0af57.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { > }",
+    "bbox": [
+      664,
+      159,
+      673,
+      171
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      723,
+      538,
+      733,
+      550
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      698,
+      159,
+      707,
+      170
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      641,
+      647,
+      651,
+      658
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      445,
+      672,
+      751,
+      945
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td>(가) 생각하지 말라.생명 공동체의 통합성과 안정성 그리고</td><td colspan=\"2\">갑: 동물을 폭력적으로 다루면 고통에 대한 공감이 무녀져 결국 타인과의 관계에서 인간의 도덕성에 매우 유익한 천성적 소질이 고갈될 수 있다. 을: 어떤 존재가 느끼는 고통을 고려하지 않는 것은 옳지 않다.이익 평등 고려의 원리는 그 존재의 고통을 다른 존재의 고통과 평등하게 계산하도록 한다. 병: 경제적 이익 계산의 문제로만 바람직한 대지의 이용을</td></tr><tr><td>(나4)</td><td>아름다움의 보전에 이바지한다면 그것은 옳다. A</td><td>범 레&gt; A:갑만의 입장 B:을만의 입장 C:병만의 입장 D: 을과병만의 공통입장</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "16659ac2934203023dd5393c295849779e6061638119140bd034970036df67e1.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      698,
+      159,
+      707,
+      170
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      641,
+      650,
+      748,
+      780
+    ],
+    "page_idx": 3,
+    "image_path": "b5277d3e98df8c6418c75a04a1e39cf6957e291a0fac61965e6261321899a8c7.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

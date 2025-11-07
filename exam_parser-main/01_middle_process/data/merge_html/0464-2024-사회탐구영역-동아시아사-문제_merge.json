@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      91,
-      152,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 54,
-      "end_orig": 60,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "사회탐구 영역(동아시아사)",
-    "bbox": [
-      223,
-      146,
-      619,
-      201
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      707,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "2b097fea3e1077b594b4442e473805339d58fe1ca495506d200b32491994c845.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. (가)에 들어갈 유물로 가장 적절한 것은?",
     "bbox": [
       87,
@@ -75,22 +20,8 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      94,
-      280,
-      395,
-      646
-    ],
-    "page_idx": 0,
-    "image_path": "a642bdc7edd637284bda8c4eb4491338cb7fd21bac738165b497e3c86051f6d2.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": ". (가)  왕조에 대한 설명으로 옳은 것은?\n",
+    "text": "2. (가)  왕조에 대한 설명으로 옳은 것은?",
     "bbox": [
       84,
       716,
@@ -101,26 +32,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.973,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 133,
-      "end_orig": 159,
+      "start_orig": 132,
+      "end_orig": 158,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      105,
-      744,
-      398,
-      858
-    ],
-    "page_idx": 0,
-    "image_path": "a3655e186d46b8a1c47c682db620df745959e042bea70454e91f27a72e929cea.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -180,26 +97,6 @@
       "start_orig": 304,
       "end_orig": 312,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 4 ) } }",
-    "bbox": [
-      189,
-      939,
-      208,
-      953
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -563,26 +460,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\scriptsize { \\mathrm { E } } }",
-    "bbox": [
-      453,
-      514,
-      487,
-      529
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "국가에 대한 설명으로 옳은 것은?  [3점] ",
     "bbox": [
@@ -640,26 +517,6 @@
       "start_orig": 639,
       "end_orig": 683,
       "reason": "anchor_rescue+left_extend"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      673,
-      565,
-      686,
-      579
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -763,26 +620,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
-    "bbox": [
-      487,
-      695,
-      511,
-      709
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "백강 전투에서 승리하였다.",
     "bbox": [
@@ -823,26 +660,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      487,
-      712,
-      500,
-      726
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에 문성 공주를 보냈다.",
     "bbox": [
@@ -880,26 +697,6 @@
       "start_orig": 927,
       "end_orig": 928,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\circled{5}",
-    "bbox": [
-      461,
-      729,
-      474,
-      742
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1223,26 +1020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { { 7 } h } )",
-    "bbox": [
-      106,
-      158,
-      123,
-      171
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "막부 시기의 동아시아 문화에 대한 설명으로 옳지 않은 것은?\n",
     "bbox": [
@@ -1261,20 +1038,6 @@
       "end_orig": 1155,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      100,
-      202,
-      262,
-      320
-    ],
-    "page_idx": 1,
-    "image_path": "c247f2cf6e0679e36a8f552541619f38c0a7e4299f76fdcacd481c1be43ab8ee.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1497,26 +1260,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
-    "bbox": [
-      477,
-      194,
-      496,
-      207
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "의 선대 황제가 화북을 평정한 후 얼마 지나지 않아 상(上)이 제나라를 정벌하려 하였다.  상은 군대를 이끌고 남하하여",
     "bbox": [
@@ -1717,26 +1460,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } \\textcircled { < } ]",
-    "bbox": [
-      492,
-      450,
-      516,
-      465
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "있었던 시기에 동아시아에서 볼 수 있는 모습으로 가장 적절한 것은?",
     "bbox": [
@@ -1818,7 +1541,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.(가) 지역을 지도에서 옳게 고른 것은? [3점]",
+    "text": "7.(가) 지역을 지도에서 옳게 고른 것은? [3점]",
     "bbox": [
       86,
       642,
@@ -1937,20 +1660,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      126,
-      815,
-      375,
-      1043
-    ],
-    "page_idx": 1,
-    "image_path": "44ea0b22b580c885b0eb435a49f766bd32223901f5c1a398c21d3e540c395e75.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① ㄱ ② ㄴ ③ ㄷ ④ ② ⑤① 양력1월29일 음력 1을 1월 1일 ① 광무개혁을 추진하는 관리 ② 도쿄 대학에서 연구하는 학생 ③ 광저우에서 교역하는 영국 상인 ④ 태평천국 운동을 진압하는군인 ⑤ 막부 타도 운동에참여하는무사",
     "bbox": [
@@ -1988,26 +1697,6 @@
       "start_orig": 2127,
       "end_orig": 2130,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 } \\mathsf { h } )",
-    "bbox": [
-      461,
-      801,
-      479,
-      815
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2128,26 +1817,6 @@
       "start_orig": 2372,
       "end_orig": 2390,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( \\psi ) } }",
-    "bbox": [
-      618,
-      938,
-      637,
-      952
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2289,20 +1958,6 @@
       "end_orig": 2584,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      104,
-      207,
-      237,
-      297
-    ],
-    "page_idx": 2,
-    "image_path": "d141a6fe6609c74bca686e6084f1c1609e3d0367312cea17540ed1ee774ef8d8.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2903,20 +2558,6 @@
       "end_orig": 3527,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      451,
-      201,
-      744,
-      407
-    ],
-    "page_idx": 2,
-    "image_path": "1ee62a8315020d310e11cb2d84c4f35b942ad4b07ffd6dedaf7ea9a40e6a78c5.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3580,7 +3221,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       95,
       735,
@@ -4159,20 +3800,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      459,
-      656,
-      730,
-      839
-    ],
-    "page_idx": 3,
-    "image_path": "c95bf9aac2d1438c9fb6c5c49ef6d0579c2176a1ce0e8f2996a473dc7e2e7a8f.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 덴메이 대기근의 원인이 되었어요.\n",
     "bbox": [
@@ -4271,5 +3898,378 @@
       "end_orig": 5659,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      91,
+      152,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 54,
+      "end_orig": 60,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "사회탐구 영역(동아시아사)",
+    "bbox": [
+      223,
+      146,
+      619,
+      201
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      707,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "2b097fea3e1077b594b4442e473805339d58fe1ca495506d200b32491994c845.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      94,
+      280,
+      395,
+      646
+    ],
+    "page_idx": 0,
+    "image_path": "a642bdc7edd637284bda8c4eb4491338cb7fd21bac738165b497e3c86051f6d2.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      105,
+      744,
+      398,
+      858
+    ],
+    "page_idx": 0,
+    "image_path": "a3655e186d46b8a1c47c682db620df745959e042bea70454e91f27a72e929cea.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 4 ) } }",
+    "bbox": [
+      189,
+      939,
+      208,
+      953
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\scriptsize { \\mathrm { E } } }",
+    "bbox": [
+      453,
+      514,
+      487,
+      529
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      673,
+      565,
+      686,
+      579
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
+    "bbox": [
+      487,
+      695,
+      511,
+      709
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      487,
+      712,
+      500,
+      726
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled{5}",
+    "bbox": [
+      461,
+      729,
+      474,
+      742
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { { 7 } h } )",
+    "bbox": [
+      106,
+      158,
+      123,
+      171
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      100,
+      202,
+      262,
+      320
+    ],
+    "page_idx": 1,
+    "image_path": "c247f2cf6e0679e36a8f552541619f38c0a7e4299f76fdcacd481c1be43ab8ee.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
+    "bbox": [
+      477,
+      194,
+      496,
+      207
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { < } ]",
+    "bbox": [
+      492,
+      450,
+      516,
+      465
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      126,
+      815,
+      375,
+      1043
+    ],
+    "page_idx": 1,
+    "image_path": "44ea0b22b580c885b0eb435a49f766bd32223901f5c1a398c21d3e540c395e75.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 } \\mathsf { h } )",
+    "bbox": [
+      461,
+      801,
+      479,
+      815
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( \\psi ) } }",
+    "bbox": [
+      618,
+      938,
+      637,
+      952
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      104,
+      207,
+      237,
+      297
+    ],
+    "page_idx": 2,
+    "image_path": "d141a6fe6609c74bca686e6084f1c1609e3d0367312cea17540ed1ee774ef8d8.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      451,
+      201,
+      744,
+      407
+    ],
+    "page_idx": 2,
+    "image_path": "1ee62a8315020d310e11cb2d84c4f35b942ad4b07ffd6dedaf7ea9a40e6a78c5.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      459,
+      656,
+      730,
+      839
+    ],
+    "page_idx": 3,
+    "image_path": "c95bf9aac2d1438c9fb6c5c49ef6d0579c2176a1ce0e8f2996a473dc7e2e7a8f.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

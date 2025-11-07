@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      91,
-      152,
-      173,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 54,
-      "end_orig": 60,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "사회탐구 영역(사회·문화)",
-    "bbox": [
-      225,
-      143,
-      616,
-      200
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      129,
-      208,
-      707,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>성명</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "89c13f8113d06ae857909ed71b07de24b68a4f569ebfab7b05dcd1c138cb7f6a.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 밑줄 친",
     "bbox": [
       87,
@@ -72,26 +17,6 @@
       "start_orig": 95,
       "end_orig": 102,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\textmd { U } }",
-    "bbox": [
-      145,
-      256,
-      178,
-      270
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -112,26 +37,6 @@
       "start_orig": 106,
       "end_orig": 138,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      229,
-      306,
-      250,
-      318
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -232,26 +137,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      182,
-      379,
-      194,
-      391
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -375,26 +260,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      113,
-      492,
-      125,
-      505
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "과 같은 현상은 필연성의 원리가 적용된다.",
     "bbox": [
@@ -456,7 +321,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 글에서 사회․문화 현상을 바라보는 필자의 관점에 대한 옳은 설명만을",
+    "text": "2. 다음 글에서 사회․문화 현상을 바라보는 필자의 관점에 대한 옳은 설명만을",
     "bbox": [
       85,
       568,
@@ -467,31 +332,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9538,
+      "similarity": 0.9697,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 287,
+      "start_orig": 286,
       "end_orig": 329,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "< 1 1 > 1 > 0 1 1",
-    "bbox": [
-      169,
-      586,
-      217,
-      600
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -676,7 +521,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ④ ㄴ2 ⑤",
+    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ④ L2 ⑤",
     "bbox": [
       97,
       797,
@@ -735,26 +580,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      357,
-      893,
-      377,
-      905
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " 회사는 수평적으로 분권화된 조직을 통해 구성원들이 함께 결정을 내려 출판 공정을 관리하고 도서를 출간한다 출판 회사는 세부적으로",
     "bbox": [
@@ -792,26 +617,6 @@
       "start_orig": 874,
       "end_orig": 934,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      284,
-      946,
-      304,
-      957
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -955,26 +760,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      644,
-      257,
-      654,
-      269
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?",
     "bbox": [
@@ -992,26 +777,6 @@
       "start_orig": 1182,
       "end_orig": 1197,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      486,
-      302,
-      504,
-      312
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1095,20 +860,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      722,
-      334,
-      748,
-      366
-    ],
-    "page_idx": 0,
-    "image_path": "5ca3ce24ee49f0da9047df33a4404da5b622c1b50ce75b7e756b9583cf0f948e.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "공모전에 참여하면서 느낀 점이나 공모전 준비에 도움이 되었던 경험이 있다면 말씀해 주세요.",
     "bbox": [
@@ -1169,20 +920,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      721,
-      419,
-      748,
-      451
-    ],
-    "page_idx": 0,
-    "image_path": "08dee09887b90f9104880df828fa4f673f1e9d0c38f3e851502921b8ae536418.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "저는 갑과 함께",
     "bbox": [
@@ -1200,26 +937,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\frac { 1 } { 2 5 } \\frac { 1 } { 2 5 }",
-    "bbox": [
-      537,
-      471,
-      554,
-      480
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1303,26 +1020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      614,
-      519,
-      623,
-      530
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "ㄱ. 갑과 병 모두 비공식 조직에 속해 있다.",
     "bbox": [
@@ -1375,16 +1072,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9778,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1264,
       "end_orig": 1324,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ  ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ 7,ㄷ ④ㄴ,ㄷ ⑤ ㄱ,ㄴ,ㄷ",
     "bbox": [
       443,
       614,
@@ -1394,12 +1091,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1324,
-      "end_orig": 1360,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1483,26 +1180,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circled{1}",
-    "bbox": [
-      535,
-      815,
-      546,
-      826
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " 집단의 학업 성취도가  집단의 학업 성취도보다 유의미하게 낮았다 ",
     "bbox": [
@@ -1540,26 +1217,6 @@
       "start_orig": 1835,
       "end_orig": 1837,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      485,
-      840,
-      496,
-      852
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1743,26 +1400,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      487,
-      1053,
-      500,
-      1067
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "을 지지하는 근거로 사용할 수 없다.",
     "bbox": [
@@ -1800,26 +1437,6 @@
       "start_orig": 2083,
       "end_orig": 2090,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\textcircled { \\scriptsize { \\scriptsize { \\cdot } } } } \\textcircled { \\scriptsize { \\circ } } \\textcircled { \\scriptsize { \\cdot } }",
-    "bbox": [
-      145,
-      158,
-      190,
-      172
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1903,26 +1520,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circled{1}",
-    "bbox": [
-      353,
-      230,
-      364,
-      241
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "손을 잘 씻는 문화가 형성되었다.",
     "bbox": [
@@ -1940,26 +1537,6 @@
       "start_orig": 2267,
       "end_orig": 2285,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      209,
-      243,
-      221,
-      254
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2063,26 +1640,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
-    "bbox": [
-      112,
-      354,
-      136,
-      368
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "주류 문화가 하위문화로 변한 사례이다.",
     "bbox": [
@@ -2164,7 +1721,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 글에서 필자가 강조하는 현대 사회의 대중이 가져야 할 자세로 가장 적절한 것은?\n",
+    "text": "7. 다음 글에서 필자가 강조하는 현대 사회의 대중이 가져야 할 자세로 가장 적절한 것은?",
     "bbox": [
       85,
       453,
@@ -2175,10 +1732,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9863,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2665,
-      "end_orig": 2715,
+      "start_orig": 2664,
+      "end_orig": 2714,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2463,26 +2020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\textcircled { \\scriptsize { \\scriptsize { \\cdot } } } } \\textcircled { \\scriptsize { \\circ } } \\textcircled { \\scriptsize { \\cdot } }",
-    "bbox": [
-      145,
-      780,
-      189,
-      794
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한 설명으로 옳은 것은?  [3점] ",
     "bbox": [
@@ -2523,26 +2060,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      317,
-      814,
-      337,
-      826
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " ○○ 다국적 기업에 대한 ㉠불매 운동을 전개하였다.",
     "bbox": [
@@ -2560,26 +2077,6 @@
       "start_orig": 3353,
       "end_orig": 3382,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\circled{1}",
-    "bbox": [
-      233,
-      828,
-      245,
-      839
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2623,26 +2120,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      156,
-      880,
-      176,
-      891
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " ○○ 다국적 기업에 선의의 의도가 있었을지라도,  무분별한 시장 확대가",
     "bbox": [
@@ -2663,26 +2140,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      162,
-      893,
-      174,
-      904
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "저개발국의 영아 건강을 심각하게 위협하는 결과를 초래한 것이다.  이로 인해",
     "bbox": [
@@ -2700,26 +2157,6 @@
       "start_orig": 3572,
       "end_orig": 3614,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      212,
-      906,
-      232,
-      917
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2820,26 +2257,6 @@
       "start_orig": 3867,
       "end_orig": 3868,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      113,
-      1020,
-      125,
-      1033
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3023,26 +2440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { < 3 }",
-    "bbox": [
-      482,
-      391,
-      495,
-      402
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "모둠>과",
     "bbox": [
@@ -3060,26 +2457,6 @@
       "start_orig": 4536,
       "end_orig": 4540,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "{ < } 4",
-    "bbox": [
-      531,
-      391,
-      545,
-      402
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3103,26 +2480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "< 1",
-    "bbox": [
-      589,
-      404,
-      603,
-      415
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "모둠>은",
     "bbox": [
@@ -3140,26 +2497,6 @@
       "start_orig": 4590,
       "end_orig": 4594,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "{ < } 5",
-    "bbox": [
-      638,
-      404,
-      652,
-      415
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3183,26 +2520,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "< 1",
-    "bbox": [
-      643,
-      417,
-      657,
-      428
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "모둠>과 E를 배정받은",
     "bbox": [
@@ -3220,26 +2537,6 @@
       "start_orig": 4638,
       "end_orig": 4650,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "{ < } 5",
-    "bbox": [
-      482,
-      430,
-      496,
-      441
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3323,26 +2620,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { ‰ }",
-    "bbox": [
-      498,
-      527,
-      507,
-      538
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에 배정된 속성은 문화의 각 요소들이 상호 유기적으로 연결되어 영향을 주고받는 것을 의미한다.",
     "bbox": [
@@ -3383,26 +2660,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { < 2 }",
-    "bbox": [
-      461,
-      559,
-      477,
-      572
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "모둠>에 배정된 속성은 공유성,",
     "bbox": [
@@ -3420,26 +2677,6 @@
       "start_orig": 4846,
       "end_orig": 4863,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { < } 5",
-    "bbox": [
-      627,
-      559,
-      643,
-      573
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3483,26 +2720,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { < } 3",
-    "bbox": [
-      461,
-      609,
-      476,
-      622
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "모둠",
     "bbox": [
@@ -3523,26 +2740,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\tt > 0",
-    "bbox": [
-      497,
-      610,
-      511,
-      622
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "|아니라",
     "bbox": [
@@ -3560,26 +2757,6 @@
       "start_orig": 4931,
       "end_orig": 4936,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "{ < } 4",
-    "bbox": [
-      556,
-      609,
-      572,
-      622
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3723,26 +2900,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "1 >",
-    "bbox": [
-      480,
-      759,
-      494,
-      770
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "시기별 계층 구성 비율",
     "bbox": [
@@ -3760,26 +2917,6 @@
       "start_orig": 5169,
       "end_orig": 5181,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\% )",
-    "bbox": [
-      591,
-      759,
-      606,
-      770
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3801,23 +2938,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      453,
-      855,
-      745,
-      930
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=2 colspan=2>구분</td><td rowspan=1 colspan=3>부모계층(1970년)</td><td rowspan=2 colspan=2>구분</td><td rowspan=1 colspan=3>본인의 24년 전계층(2000년)</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=3 colspan=1>본인의현재 계층(2024년)</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>정</td><td rowspan=1 colspan=1></td><td rowspan=3 colspan=1>본인의현재 계층(2024년)</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>정</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>을</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>무</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>을</td><td rowspan=1 colspan=1>무</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>병</td><td rowspan=1 colspan=1>갑</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>갑</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>병</td></tr></table>",
-    "table_caption": [
-      "<자료 2 > 갑~무의 사회 이동 결과"
-    ],
-    "table_footnote": [],
-    "image_path": "cde106a063d837d42b3a3fcfa42eb91fbfa3ad413ab81be4805c85ffbf45eaba.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3960,26 +3080,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circled{1}",
-    "bbox": [
-      219,
-      205,
-      231,
-      217
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "장례 문화가 있다 족은 깊은 산이나",
     "bbox": [
@@ -4017,26 +3117,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      168,
-      218,
-      180,
-      230
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4120,26 +3200,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 4 ) } }",
-    "bbox": [
-      186,
-      285,
-      204,
-      298
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "하는 태도를 지녀야 한다\n",
     "bbox": [
@@ -4220,26 +3280,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      113,
-      348,
-      125,
-      362
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "은 비물질문화에,  ㉤은 물질문화에 해당한다.\n",
     "bbox": [
@@ -4317,26 +3357,6 @@
       "start_orig": 6036,
       "end_orig": 6086,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      198,
-      440,
-      207,
-      451
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4580,26 +3600,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      340,
-      726,
-      361,
-      738
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "고등학교 학생의 일상생활을 관찰한 연구 기관의 보고서를 분석함 이후 휴대 전화 의존도가 높은 학생들에게 질문하여 사용 용도와 중독 증상 등에 대한 이야기를 깊이 있게 나누고 이 과정을 녹음함 ",
     "bbox": [
@@ -4818,23 +3818,6 @@
       "end_orig": 7363,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      453,
-      271,
-      747,
-      420
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>질문</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>채점결과</td></tr><tr><td rowspan=1 colspan=1>일탈자가 부정적 자아를 내면화하는 과정에주목하는가?</td><td rowspan=1 colspan=1>B,C</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>3점</td></tr><tr><td rowspan=1 colspan=1>타인과의 상호 작용이 일탈에 미치는 영향을강조하는가?</td><td rowspan=1 colspan=1>B,D</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>2점</td></tr><tr><td rowspan=1 colspan=1>일탈을 규정하는 객관적인 기준이 존재한다고보는가?</td><td rowspan=1 colspan=1>B,D</td><td rowspan=1 colspan=1>A,C</td><td rowspan=1 colspan=1>1점</td></tr><tr><td rowspan=1 colspan=1>문화적 목표와 제도적 수단 간의 괴리가일탈의 원인이라고 보는가?</td><td rowspan=1 colspan=1>B,C</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>3점</td></tr><tr><td rowspan=1 colspan=4>→지무변로체전히며만게 전으 이로에느 가1전으트리게 전은 이로에느 가 0전으</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [
-      "* 질문별로 채점하며,맞게 적은 이론에는 각 1점을,틀리게 적은 이론에는 각 0점을 부여함. 질문별 만점은 4점임."
-    ],
-    "image_path": "703aa098916613a02dc24386989b60e7d20bb355c0d6baac857385a1b87c4fbf.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -5057,25 +4040,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      454,
-      807,
-      746,
-      889
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>구분</td><td rowspan=2 colspan=1>A 수급자</td><td rowspan=2 colspan=1>B수급자</td><td rowspan=2 colspan=1>중복수급자</td><td rowspan=1 colspan=2>비()수급자</td></tr><tr><td rowspan=1 colspan=1>탈락자</td><td rowspan=1 colspan=1>비()탈락자</td></tr><tr><td rowspan=1 colspan=1>(가) 지역</td><td rowspan=1 colspan=1>73</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>10</td></tr><tr><td rowspan=1 colspan=1>(나) 지역</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=1>(다) 지역</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>32</td></tr></table>",
-    "table_caption": [
-      "(단위: %)"
-    ],
-    "table_footnote": [
-      "* 중복 수급자 : A 수급자이면서 동시에 B수급자인 사람"
-    ],
-    "image_path": "e31d3a6925a1d23cdbabcbdbeb3135df9bced909e3dd516e2b1b7a5a3380b09f.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① ㉠은 (나) 지역의 선별적 복지의 성격이 강한 제도에만 해당하는 수급자 비율보다 작다.",
     "bbox": [
@@ -5113,26 +4077,6 @@
       "start_orig": 8375,
       "end_orig": 8379,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { ( 7 7 ) }",
-    "bbox": [
-      486,
-      954,
-      503,
-      966
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5236,26 +4180,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      297,
-      159,
-      307,
-      171
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?  (단",
     "bbox": [
@@ -5293,43 +4217,6 @@
       "start_orig": 8607,
       "end_orig": 8681,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      104,
-      236,
-      398,
-      321
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td>진위 판단</td><td colspan=\"2\">진위 판단에 부합하는 진술</td><td>채점 결과</td></tr><tr><td rowspan=\"2\">참</td><td>A와 달리 B는</td><td>희소자원의차등분배가개인의</td><td rowspan=\"2\">0점</td></tr><tr><td>성취동기에</td><td>긍정적으로작용한다고 본다</td></tr><tr><td>거짓</td><td>B와달리 A는</td><td>(가)</td><td>7</td></tr></table>",
-    "table_caption": [
-      "<확인 평가>"
-    ],
-    "table_footnote": [],
-    "image_path": "29d7e7ad5d220de27e5b362a6b8c04dd88dc748b9a7954cd29f1e15c0d86838f.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      105,
-      325,
-      111,
-      333
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5453,26 +4340,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } \\textcircled { \\circ } ]",
-    "bbox": [
-      122,
-      447,
-      144,
-      461
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " ‘1점’이라면,  (가)에 ‘사회적 희소가치의 분배 기준은 사회 전체가 합의한 것이라고 본다.’가 들어갈 수 없다.",
     "bbox": [
@@ -5494,7 +4361,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ④ ⑤",
+    "text": "① 7,L ② 7,ㄷ ③ ④ ⑤",
     "bbox": [
       97,
       493,
@@ -5673,26 +4540,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circled{1}",
-    "bbox": [
-      215,
-      680,
-      226,
-      691
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "국에서 생활을 계속해야 할지 차별이 없는 다른 나라로 이주해야 할지 고민하였다\n",
     "bbox": [
@@ -5750,26 +4597,6 @@
       "start_orig": 9949,
       "end_orig": 9950,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
-    "bbox": [
-      112,
-      738,
-      137,
-      752
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5953,21 +4780,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      455,
-      187,
-      745,
-      384
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td colspan=\"3\"></td></tr><tr><td colspan=\"3\">Q A국 디저트 열풍에 대한 조사 Q • • • •</td></tr><tr><td>• A국에서 유행하는 B국의 고급 초콜릿 디저트 B국의 상류 사회에서즐겨 먹던 고급 초콜릿을 B국에 여행을 다녀온 A국 사람 들이 기념 선물로 들여 오면서 A국에서 다수가 좋아하는 디저트가 됨. 작성자:갑</td><td>o A국의 전통 음식을 재해석한복고풍 디저트 A국연예인이 자국의 인기 있는 TV 프로그램에서 사라진 전통 음식을 찾아 젊은 세대의 입맛에 맞는 독특한 디저트를 만들어 소개함. 이후이 디저트는 A국의 여러 세대에서즐겨 먹는 다양한 디저트 중 하나가 됨 작성자:을</td><td>A국 사람들이 정보를 공유하며 즐겨먹는 C국디저트 C국 유명 요리사가 자국의 전통 디저트를 판매하는 카페를A국에 차리면서 SNS를 통해 카페 정보가 A국 사람들에게 공유됨. A국 사람들이 이 디저트를 즐겨 새로운 음식 문화로 정착됨 작성자:병</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "cc4e8487baff4f377aa3c322cbbe62e31351e4c21f97172ab34b344da402ea3e.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "ㄱ. 서구 중심적 사고라는 비판을 피하기 어렵다.",
     "bbox": [
@@ -6009,7 +4821,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 지속적으로 발전하는 사회를 설명하기 용이하다.",
+    "text": "ㄷ. 지속적으로 발전하는 사회를 설명하기 용이하다.\n",
     "bbox": [
       108,
       1005,
@@ -6020,11 +4832,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9565,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 9881,
-      "end_orig": 9909,
-      "reason": "passed_threshold_no_ws"
+      "end_orig": 9910,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -6049,7 +4861,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ,  ㄴ  ② ㄱ,  ㄷ  ③ ㄴ,  ㄷ ④ ㄴ,  ㄹ  ⑤",
+    "text": "①7,L ②7,ㄷ ③ㄴ,ㄷ ④ㄴ,ㄹ ⑤",
     "bbox": [
       95,
       1051,
@@ -6059,12 +4871,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 9940,
-      "end_orig": 9976,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -6228,26 +5040,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\bar { \\overline { { \\mathbf { o } } } } \\mathbf { \\vec { h } } 0 \\mathbf { \\vec { 4 } }",
-    "bbox": [
-      676,
-      599,
-      696,
-      610
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "분석하였다 ",
     "bbox": [
@@ -6286,21 +5078,6 @@
       "end_orig": 10340,
       "reason": "anchor_rescue+left_extend"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      454,
-      629,
-      745,
-      677
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>A 기간</td><td rowspan=1 colspan=1>B기간</td></tr><tr><td rowspan=1 colspan=1>노령화 지수증가율(%)</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>50</td></tr><tr><td rowspan=1 colspan=1>노년인구증가율(%)</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>50</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "0284427bd008ae801e280a19f8d1bcc7ca9e83e0987b24b6782302aa49e8e64d.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -6399,7 +5176,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 10517,
       "end_orig": 10551,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -6523,26 +5300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { t } ^ { + 5 0 }",
-    "bbox": [
-      618,
-      902,
-      642,
-      915
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "년보다 t+30년이 크다.",
     "bbox": [
@@ -6583,26 +5340,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { t } ^ { + 5 0 }",
-    "bbox": [
-      555,
-      919,
-      578,
-      932
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "년보다",
     "bbox": [
@@ -6620,26 +5357,6 @@
       "start_orig": 10764,
       "end_orig": 10767,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { t } { + } 3 0 ",
-    "bbox": [
-      610,
-      919,
-      633,
-      932
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -6663,26 +5380,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { t } { + } 3 0",
-    "bbox": [
-      461,
-      935,
-      484,
-      948
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "년보다",
     "bbox": [
@@ -6700,26 +5397,6 @@
       "start_orig": 10793,
       "end_orig": 10796,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "t ^ { + 5 0 }",
-    "bbox": [
-      516,
-      935,
-      540,
-      948
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -6780,6 +5457,1329 @@
       "start_orig": 10817,
       "end_orig": 10857,
       "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      91,
+      152,
+      173,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 54,
+      "end_orig": 60,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "사회탐구 영역(사회·문화)",
+    "bbox": [
+      225,
+      143,
+      616,
+      200
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      129,
+      208,
+      707,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>성명</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "89c13f8113d06ae857909ed71b07de24b68a4f569ebfab7b05dcd1c138cb7f6a.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\textmd { U } }",
+    "bbox": [
+      145,
+      256,
+      178,
+      270
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      229,
+      306,
+      250,
+      318
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      182,
+      379,
+      194,
+      391
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      113,
+      492,
+      125,
+      505
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 1 > 0 1 1",
+    "bbox": [
+      169,
+      586,
+      217,
+      600
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      357,
+      893,
+      377,
+      905
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      284,
+      946,
+      304,
+      957
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      644,
+      257,
+      654,
+      269
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      486,
+      302,
+      504,
+      312
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      722,
+      334,
+      748,
+      366
+    ],
+    "page_idx": 0,
+    "image_path": "5ca3ce24ee49f0da9047df33a4404da5b622c1b50ce75b7e756b9583cf0f948e.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      721,
+      419,
+      748,
+      451
+    ],
+    "page_idx": 0,
+    "image_path": "08dee09887b90f9104880df828fa4f673f1e9d0c38f3e851502921b8ae536418.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 1 } { 2 5 } \\frac { 1 } { 2 5 }",
+    "bbox": [
+      537,
+      471,
+      554,
+      480
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      614,
+      519,
+      623,
+      530
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled{1}",
+    "bbox": [
+      535,
+      815,
+      546,
+      826
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      485,
+      840,
+      496,
+      852
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      487,
+      1053,
+      500,
+      1067
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\textcircled { \\scriptsize { \\scriptsize { \\cdot } } } } \\textcircled { \\scriptsize { \\circ } } \\textcircled { \\scriptsize { \\cdot } }",
+    "bbox": [
+      145,
+      158,
+      190,
+      172
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled{1}",
+    "bbox": [
+      353,
+      230,
+      364,
+      241
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      209,
+      243,
+      221,
+      254
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
+    "bbox": [
+      112,
+      354,
+      136,
+      368
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\textcircled { \\scriptsize { \\scriptsize { \\cdot } } } } \\textcircled { \\scriptsize { \\circ } } \\textcircled { \\scriptsize { \\cdot } }",
+    "bbox": [
+      145,
+      780,
+      189,
+      794
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      317,
+      814,
+      337,
+      826
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled{1}",
+    "bbox": [
+      233,
+      828,
+      245,
+      839
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      156,
+      880,
+      176,
+      891
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      162,
+      893,
+      174,
+      904
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      212,
+      906,
+      232,
+      917
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      113,
+      1020,
+      125,
+      1033
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { < 3 }",
+    "bbox": [
+      482,
+      391,
+      495,
+      402
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "{ < } 4",
+    "bbox": [
+      531,
+      391,
+      545,
+      402
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1",
+    "bbox": [
+      589,
+      404,
+      603,
+      415
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "{ < } 5",
+    "bbox": [
+      638,
+      404,
+      652,
+      415
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1",
+    "bbox": [
+      643,
+      417,
+      657,
+      428
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "{ < } 5",
+    "bbox": [
+      482,
+      430,
+      496,
+      441
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { ‰ }",
+    "bbox": [
+      498,
+      527,
+      507,
+      538
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { < 2 }",
+    "bbox": [
+      461,
+      559,
+      477,
+      572
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { < } 5",
+    "bbox": [
+      627,
+      559,
+      643,
+      573
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { < } 3",
+    "bbox": [
+      461,
+      609,
+      476,
+      622
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\tt > 0",
+    "bbox": [
+      497,
+      610,
+      511,
+      622
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "{ < } 4",
+    "bbox": [
+      556,
+      609,
+      572,
+      622
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 >",
+    "bbox": [
+      480,
+      759,
+      494,
+      770
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\% )",
+    "bbox": [
+      591,
+      759,
+      606,
+      770
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      453,
+      855,
+      745,
+      930
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=2 colspan=2>구분</td><td rowspan=1 colspan=3>부모계층(1970년)</td><td rowspan=2 colspan=2>구분</td><td rowspan=1 colspan=3>본인의 24년 전계층(2000년)</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=3 colspan=1>본인의현재 계층(2024년)</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>정</td><td rowspan=1 colspan=1></td><td rowspan=3 colspan=1>본인의현재 계층(2024년)</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>정</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>을</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>무</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>을</td><td rowspan=1 colspan=1>무</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>병</td><td rowspan=1 colspan=1>갑</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>갑</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>병</td></tr></table>",
+    "table_caption": [
+      "<자료 2 > 갑~무의 사회 이동 결과"
+    ],
+    "table_footnote": [],
+    "image_path": "cde106a063d837d42b3a3fcfa42eb91fbfa3ad413ab81be4805c85ffbf45eaba.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled{1}",
+    "bbox": [
+      219,
+      205,
+      231,
+      217
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      168,
+      218,
+      180,
+      230
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 4 ) } }",
+    "bbox": [
+      186,
+      285,
+      204,
+      298
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      113,
+      348,
+      125,
+      362
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      198,
+      440,
+      207,
+      451
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      340,
+      726,
+      361,
+      738
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      453,
+      271,
+      747,
+      420
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>질문</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>채점결과</td></tr><tr><td rowspan=1 colspan=1>일탈자가 부정적 자아를 내면화하는 과정에주목하는가?</td><td rowspan=1 colspan=1>B,C</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>3점</td></tr><tr><td rowspan=1 colspan=1>타인과의 상호 작용이 일탈에 미치는 영향을강조하는가?</td><td rowspan=1 colspan=1>B,D</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>2점</td></tr><tr><td rowspan=1 colspan=1>일탈을 규정하는 객관적인 기준이 존재한다고보는가?</td><td rowspan=1 colspan=1>B,D</td><td rowspan=1 colspan=1>A,C</td><td rowspan=1 colspan=1>1점</td></tr><tr><td rowspan=1 colspan=1>문화적 목표와 제도적 수단 간의 괴리가일탈의 원인이라고 보는가?</td><td rowspan=1 colspan=1>B,C</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>3점</td></tr><tr><td rowspan=1 colspan=4>→지무변로체전히며만게 전으 이로에느 가1전으트리게 전은 이로에느 가 0전으</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [
+      "* 질문별로 채점하며,맞게 적은 이론에는 각 1점을,틀리게 적은 이론에는 각 0점을 부여함. 질문별 만점은 4점임."
+    ],
+    "image_path": "703aa098916613a02dc24386989b60e7d20bb355c0d6baac857385a1b87c4fbf.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      807,
+      746,
+      889
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>구분</td><td rowspan=2 colspan=1>A 수급자</td><td rowspan=2 colspan=1>B수급자</td><td rowspan=2 colspan=1>중복수급자</td><td rowspan=1 colspan=2>비()수급자</td></tr><tr><td rowspan=1 colspan=1>탈락자</td><td rowspan=1 colspan=1>비()탈락자</td></tr><tr><td rowspan=1 colspan=1>(가) 지역</td><td rowspan=1 colspan=1>73</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>10</td></tr><tr><td rowspan=1 colspan=1>(나) 지역</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=1>(다) 지역</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>32</td></tr></table>",
+    "table_caption": [
+      "(단위: %)"
+    ],
+    "table_footnote": [
+      "* 중복 수급자 : A 수급자이면서 동시에 B수급자인 사람"
+    ],
+    "image_path": "e31d3a6925a1d23cdbabcbdbeb3135df9bced909e3dd516e2b1b7a5a3380b09f.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { ( 7 7 ) }",
+    "bbox": [
+      486,
+      954,
+      503,
+      966
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      297,
+      159,
+      307,
+      171
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      104,
+      236,
+      398,
+      321
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td>진위 판단</td><td colspan=\"2\">진위 판단에 부합하는 진술</td><td>채점 결과</td></tr><tr><td rowspan=\"2\">참</td><td>A와 달리 B는</td><td>희소자원의차등분배가개인의</td><td rowspan=\"2\">0점</td></tr><tr><td>성취동기에</td><td>긍정적으로작용한다고 본다</td></tr><tr><td>거짓</td><td>B와달리 A는</td><td>(가)</td><td>7</td></tr></table>",
+    "table_caption": [
+      "<확인 평가>"
+    ],
+    "table_footnote": [],
+    "image_path": "29d7e7ad5d220de27e5b362a6b8c04dd88dc748b9a7954cd29f1e15c0d86838f.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      105,
+      325,
+      111,
+      333
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { \\circ } ]",
+    "bbox": [
+      122,
+      447,
+      144,
+      461
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled{1}",
+    "bbox": [
+      215,
+      680,
+      226,
+      691
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
+    "bbox": [
+      112,
+      738,
+      137,
+      752
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      455,
+      187,
+      745,
+      384
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td colspan=\"3\"></td></tr><tr><td colspan=\"3\">Q A국 디저트 열풍에 대한 조사 Q • • • •</td></tr><tr><td>• A국에서 유행하는 B국의 고급 초콜릿 디저트 B국의 상류 사회에서즐겨 먹던 고급 초콜릿을 B국에 여행을 다녀온 A국 사람 들이 기념 선물로 들여 오면서 A국에서 다수가 좋아하는 디저트가 됨. 작성자:갑</td><td>o A국의 전통 음식을 재해석한복고풍 디저트 A국연예인이 자국의 인기 있는 TV 프로그램에서 사라진 전통 음식을 찾아 젊은 세대의 입맛에 맞는 독특한 디저트를 만들어 소개함. 이후이 디저트는 A국의 여러 세대에서즐겨 먹는 다양한 디저트 중 하나가 됨 작성자:을</td><td>A국 사람들이 정보를 공유하며 즐겨먹는 C국디저트 C국 유명 요리사가 자국의 전통 디저트를 판매하는 카페를A국에 차리면서 SNS를 통해 카페 정보가 A국 사람들에게 공유됨. A국 사람들이 이 디저트를 즐겨 새로운 음식 문화로 정착됨 작성자:병</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "cc4e8487baff4f377aa3c322cbbe62e31351e4c21f97172ab34b344da402ea3e.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bar { \\overline { { \\mathbf { o } } } } \\mathbf { \\vec { h } } 0 \\mathbf { \\vec { 4 } }",
+    "bbox": [
+      676,
+      599,
+      696,
+      610
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      629,
+      745,
+      677
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>A 기간</td><td rowspan=1 colspan=1>B기간</td></tr><tr><td rowspan=1 colspan=1>노령화 지수증가율(%)</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>50</td></tr><tr><td rowspan=1 colspan=1>노년인구증가율(%)</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>50</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "0284427bd008ae801e280a19f8d1bcc7ca9e83e0987b24b6782302aa49e8e64d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { t } ^ { + 5 0 }",
+    "bbox": [
+      618,
+      902,
+      642,
+      915
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { t } ^ { + 5 0 }",
+    "bbox": [
+      555,
+      919,
+      578,
+      932
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { t } { + } 3 0 ",
+    "bbox": [
+      610,
+      919,
+      633,
+      932
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { t } { + } 3 0",
+    "bbox": [
+      461,
+      935,
+      484,
+      948
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "t ^ { + 5 0 }",
+    "bbox": [
+      516,
+      935,
+      540,
+      948
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
     }
   }
 ]

@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      90,
-      153,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 54,
-      "end_orig": 60,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "사회탐구 영역(정치와 법)",
-    "bbox": [
-      228,
-      145,
-      608,
-      199
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      705,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "22a100c7df505c0702cda6dcf665eabbfbb404f6b73fbd8da7a176bf2023b25d.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 다음 자료에 대한 설명으로 옳은 것은?",
     "bbox": [
       86,
@@ -133,21 +78,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      132,
-      349,
-      367,
-      382
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>A와 B는모두</td><td>(가)</td><td>을/를 정치로보고있지만, A는</td></tr><tr><td>(4)</td><td colspan=\"2\">을/를 정치로본다는점에서 B와 구별됩니다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "9cc7fb90d6274037281f721ba252053a7d2e93de89f1f4cde1c2dd4c9b906709.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -251,7 +181,7 @@
   },
   {
     "type": "text",
-    "text": ". 법치주의의 유형 A에 대한 옳은 설명만을 <보기>에서 고른 것은? ",
+    "text": "2. 법치주의의 유형 A에 대한 옳은 설명만을 <보기>에서 고른 것은?",
     "bbox": [
       85,
       515,
@@ -262,10 +192,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9831,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 337,
-      "end_orig": 376,
+      "start_orig": 336,
+      "end_orig": 375,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -487,26 +417,6 @@
       "start_orig": 908,
       "end_orig": 920,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { B } ^ { \\mathrm { o } ] ] }",
-    "bbox": [
-      181,
-      843,
-      202,
-      857
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -950,43 +860,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      454,
-      822,
-      746,
-      897
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>구분</td><td rowspan=1 colspan=3>정당별 의석수(석)</td></tr><tr><td rowspan=1 colspan=1>A당</td><td rowspan=1 colspan=1>B당</td><td rowspan=1 colspan=1>C당</td></tr><tr><td rowspan=1 colspan=1>t대</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>6</td></tr><tr><td rowspan=1 colspan=1>t+1대</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>5</td></tr><tr><td rowspan=1 colspan=1>t+2대</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>7</td></tr></table>",
-    "table_caption": [
-      "<t~t+2대 의회의 정당별 의석수>"
-    ],
-    "table_footnote": [],
-    "image_path": "2278c0470e42aa3e0b551170a603532f35fee3d860ab7ea732cb73cc43780887.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      454,
-      900,
-      461,
-      908
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "정당별 의석수는 해당 의회 의원의 임기 내에서 변동이 없고 행정부 수반의 당적은 임기 내에서 변동이 없음 ",
     "bbox": [
@@ -1147,26 +1020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
-    "bbox": [
-      187,
-      210,
-      204,
-      222
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "는 점에서 정치 과정에 영향력을 행사하는 주체로 볼 수 있지만 는",
     "bbox": [
@@ -1184,26 +1037,6 @@
       "start_orig": 2769,
       "end_orig": 2805,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( \\updownarrow ) } }",
-    "bbox": [
-      196,
-      226,
-      213,
-      237
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1368,7 +1201,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 자료에 대한 법적 판단으로 옳은 것은?\n",
+    "text": "7. 다음 자료에 대한 법적 판단으로 옳은 것은?",
     "bbox": [
       85,
       437,
@@ -1379,10 +1212,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9744,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3261,
-      "end_orig": 3288,
+      "start_orig": 3260,
+      "end_orig": 3287,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1567,26 +1400,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D } { \\circ } \\|",
-    "bbox": [
-      202,
-      798,
-      241,
-      811
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한 설명으로 옳은 것은?",
     "bbox": [
@@ -1665,20 +1478,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      100,
-      825,
-      164,
-      939
-    ],
-    "page_idx": 1,
-    "image_path": "3f60c94087c40fa1ef31ddecb91d72bac45797e0e3b621727198e423ef510ce9.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1841,26 +1640,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\diamond \\diamond",
-    "bbox": [
-      676,
-      308,
-      699,
-      322
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " ◇◇법 조항에 따라 디엔에이(DNA)  감식 시료 채취 대상자가 되었다.  이에",
     "bbox": [
@@ -1921,26 +1700,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\diamond \\diamond",
-    "bbox": [
-      558,
-      375,
-      581,
-      389
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " ◇◇법 조항에 대하여 위헌 법률 심판을 제청해 줄 것을 C에 신청하였다.  C가 을의 제청 신청을 기각",
     "bbox": [
@@ -1981,26 +1740,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\bigotimes \\bigotimes",
-    "bbox": [
-      506,
-      408,
-      529,
-      422
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " ◇◇법 조항이 자신의 신체의 자유를 침해한다고 주장하며 B에 헌법 소원 심판을 청구하였다.  이에 대해 B는",
     "bbox": [
@@ -2018,26 +1757,6 @@
       "start_orig": 4323,
       "end_orig": 4384,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigotimes \\bigotimes",
-    "bbox": [
-      454,
-      442,
-      477,
-      456
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3721,20 +3440,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      104,
-      185,
-      148,
-      256
-    ],
-    "page_idx": 3,
-    "image_path": "c98cbb584bf3c9abbefc017e474128e7a814ed263a78a0bdcf22646da32e40da.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "매크로 프로그램을 이용하여 인기 가수의 콘서트 입장권을 대량으로 선점한 자가 콘서트 입장권 구매를 원하는 자에게 웃돈을 얹어 재판매하는 암표 거래 사례가 증가하고 있습니다.판매업자와 구매자의 자유로운 의사에",
     "bbox": [
@@ -4112,26 +3817,6 @@
       "start_orig": 9843,
       "end_orig": 9859,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
-    "bbox": [
-      224,
-      812,
-      263,
-      826
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4535,26 +4220,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      672,
-      427,
-      681,
-      438
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -4735,35 +4400,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      450,
-      643,
-      748,
-      738
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>&lt;1안&gt;</td><td rowspan=1 colspan=1>현행에서 지역구 의원 선거 제도만 변경함.지역구 의원 선거에서 선거구 수만50개로 축소하고,선거구별로 같은 수의 의회 의원을 득표순으로 선출함.</td></tr><tr><td rowspan=1 colspan=1>&lt;2안&gt;</td><td rowspan=1 colspan=1>현행에서 지역구 의원 선거 제도만 변경함.지역구 의원 선거에서 당선을 위한조건을 유효 투표 총수의 과반 득표로 함.1차 투표에서 이 조건을 충족하는후보자가있으면 당선인으로 확정하고,당선인이 없을 경우1위와2위득표자만을대상으로2차 투표를 실시하여 최다 득표자를 당선인으로 결정함.</td></tr><tr><td rowspan=1 colspan=1>&lt;3안&gt;</td><td rowspan=1 colspan=1>지역구 의원 선출 방식과 비례 대표 의원 선출 방식은 현행과 동일하게 유지함.전체 지역구 의석수와 전체 비례 대표 의석수가 동수가 되도록 함.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "67c55517c91895e6841d859cc34892e2b0e312c5448db9f85b633cafffd4ef97.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      451,
-      740,
-      748,
-      766
-    ],
-    "page_idx": 3,
-    "image_path": "35a2809af3c5767aa1fad801e3140f6b6810e6811f6e47e697eb50b21e6f229a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "<보  기>",
     "bbox": [
@@ -4824,26 +4460,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "< 2 0 k > 9",
-    "bbox": [
-      472,
-      844,
-      512,
-      857
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "경우,  지역구 의원 선거 제도에는 다른 후보자들이 얻은 표를 모두 합한 것보다 더 많은 표를 얻은 후보자가 당선되도록 하는 대표 결정 방식이 적용되고 있습니다.",
     "bbox": [
@@ -4865,7 +4481,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. <3안>을 적용하더라도 각 정당의 정당 투표 득표율과 각 정당의 총의석률이 불일치하는 현상이 나타날 가능성을 배제할 수 없습니다.",
+    "text": "ㄷ. <3안>을 적용하더라도 각 정당의 정당 투표 득표율과 각 정당의 총의석률이 불일치하는 현상이 나타날 가능성을 배제할 수 없습니다.\n",
     "bbox": [
       456,
       894,
@@ -4876,16 +4492,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9828,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 10830,
-      "end_orig": 10905,
-      "reason": "passed_threshold_no_ws"
+      "end_orig": 10906,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③ 7,ㄷ ④ L, ⑤ ㄱ,L,ㄷ",
     "bbox": [
       443,
       953,
@@ -4941,6 +4557,390 @@
       "start_orig": 10953,
       "end_orig": 10992,
       "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      90,
+      153,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 54,
+      "end_orig": 60,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "사회탐구 영역(정치와 법)",
+    "bbox": [
+      228,
+      145,
+      608,
+      199
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      705,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "22a100c7df505c0702cda6dcf665eabbfbb404f6b73fbd8da7a176bf2023b25d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      132,
+      349,
+      367,
+      382
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>A와 B는모두</td><td>(가)</td><td>을/를 정치로보고있지만, A는</td></tr><tr><td>(4)</td><td colspan=\"2\">을/를 정치로본다는점에서 B와 구별됩니다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "9cc7fb90d6274037281f721ba252053a7d2e93de89f1f4cde1c2dd4c9b906709.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B } ^ { \\mathrm { o } ] ] }",
+    "bbox": [
+      181,
+      843,
+      202,
+      857
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      822,
+      746,
+      897
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>구분</td><td rowspan=1 colspan=3>정당별 의석수(석)</td></tr><tr><td rowspan=1 colspan=1>A당</td><td rowspan=1 colspan=1>B당</td><td rowspan=1 colspan=1>C당</td></tr><tr><td rowspan=1 colspan=1>t대</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>6</td></tr><tr><td rowspan=1 colspan=1>t+1대</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>5</td></tr><tr><td rowspan=1 colspan=1>t+2대</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>7</td></tr></table>",
+    "table_caption": [
+      "<t~t+2대 의회의 정당별 의석수>"
+    ],
+    "table_footnote": [],
+    "image_path": "2278c0470e42aa3e0b551170a603532f35fee3d860ab7ea732cb73cc43780887.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      454,
+      900,
+      461,
+      908
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
+    "bbox": [
+      187,
+      210,
+      204,
+      222
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( \\updownarrow ) } }",
+    "bbox": [
+      196,
+      226,
+      213,
+      237
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D } { \\circ } \\|",
+    "bbox": [
+      202,
+      798,
+      241,
+      811
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      100,
+      825,
+      164,
+      939
+    ],
+    "page_idx": 1,
+    "image_path": "3f60c94087c40fa1ef31ddecb91d72bac45797e0e3b621727198e423ef510ce9.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\diamond \\diamond",
+    "bbox": [
+      676,
+      308,
+      699,
+      322
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\diamond \\diamond",
+    "bbox": [
+      558,
+      375,
+      581,
+      389
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigotimes \\bigotimes",
+    "bbox": [
+      506,
+      408,
+      529,
+      422
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigotimes \\bigotimes",
+    "bbox": [
+      454,
+      442,
+      477,
+      456
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      104,
+      185,
+      148,
+      256
+    ],
+    "page_idx": 3,
+    "image_path": "c98cbb584bf3c9abbefc017e474128e7a814ed263a78a0bdcf22646da32e40da.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
+    "bbox": [
+      224,
+      812,
+      263,
+      826
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      672,
+      427,
+      681,
+      438
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      450,
+      643,
+      748,
+      738
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>&lt;1안&gt;</td><td rowspan=1 colspan=1>현행에서 지역구 의원 선거 제도만 변경함.지역구 의원 선거에서 선거구 수만50개로 축소하고,선거구별로 같은 수의 의회 의원을 득표순으로 선출함.</td></tr><tr><td rowspan=1 colspan=1>&lt;2안&gt;</td><td rowspan=1 colspan=1>현행에서 지역구 의원 선거 제도만 변경함.지역구 의원 선거에서 당선을 위한조건을 유효 투표 총수의 과반 득표로 함.1차 투표에서 이 조건을 충족하는후보자가있으면 당선인으로 확정하고,당선인이 없을 경우1위와2위득표자만을대상으로2차 투표를 실시하여 최다 득표자를 당선인으로 결정함.</td></tr><tr><td rowspan=1 colspan=1>&lt;3안&gt;</td><td rowspan=1 colspan=1>지역구 의원 선출 방식과 비례 대표 의원 선출 방식은 현행과 동일하게 유지함.전체 지역구 의석수와 전체 비례 대표 의석수가 동수가 되도록 함.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "67c55517c91895e6841d859cc34892e2b0e312c5448db9f85b633cafffd4ef97.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      451,
+      740,
+      748,
+      766
+    ],
+    "page_idx": 3,
+    "image_path": "35a2809af3c5767aa1fad801e3140f6b6810e6811f6e47e697eb50b21e6f229a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 2 0 k > 9",
+    "bbox": [
+      472,
+      844,
+      512,
+      857
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
     }
   }
 ]

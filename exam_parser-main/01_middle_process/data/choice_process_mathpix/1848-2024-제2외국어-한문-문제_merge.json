@@ -1,0 +1,3651 @@
+[
+  {
+    "type": "text",
+    "text": "제2외국어/한문 영역(한문I)",
+    "bbox": [
+      216,
+      146,
+      677,
+      200
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제5교시",
+    "bbox": [
+      91,
+      153,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "1. 그림과 대화의 내용으로 보아 ㉠에 들어갈 것은?  [1점]\n",
+    "bbox": [
+      85,
+      253,
+      371,
+      272
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9804,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3,
+      "end_orig": 39,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      279,
+      406,
+      660
+    ],
+    "page_idx": 0,
+    "image_path": "9c5e16232118167f4ed8a9b71feffdd19f5c0b5cfaa05885a838302d4955ff98.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "교사: 이 그림은 조선 후기의 대표적 화가인 김홍도의 작품 입니다. 그림을 감상해 볼까요?",
+    "bbox": [
+      106,
+      664,
+      398,
+      698
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 39,
+      "end_orig": 89,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "민지: 용틀임하듯 굴곡진 매화나무의 둥치와 청아한 꽃의 모습이 잘 어우러졌네요.",
+    "bbox": [
+      107,
+      702,
+      396,
+      734
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 90,
+      "end_orig": 134,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "영수: 매화를 무척 사랑했던 김홍도의 노년기 작품이라 하는데, 아무래도 그의 심정이 깃들어 있겠지요?",
+    "bbox": [
+      107,
+      738,
+      397,
+      771
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 135,
+      "end_orig": 191,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "교사: 그래요. 그림 오른쪽에 ‘늙은 줄기는 봄의 뜻 머금었고’ 라는 의미의 ‘老幹含(㉠)意’라는 구절도 쓰여 있어요.\n",
+    "bbox": [
+      106,
+      776,
+      397,
+      808
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8842,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 192,
+      "end_orig": 259,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  ㉠,  ㉢ ②  ㉠,  ㉣  ③  ㉡,  ㉢\n④  ㉠,  ㉡,  ㉣ ⑤",
+    "bbox": [
+      97,
+      826,
+      355,
+      840
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.4167,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 756,
+      "end_orig": 798,
+      "reason": "option_line_enumerator_match"
+    }
+  },
+  {
+    "type": "text",
+    "text": "2. 그림과 대화의 내용으로 보아 ㉠에 들어갈 것은?  [1점]\n①  司 ②  任 ③  井 ④  右 ⑤",
+    "bbox": [
+      86,
+      878,
+      370,
+      1071
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9677,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 284,
+      "end_orig": 341,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      902,
+      404,
+      1045
+    ],
+    "page_idx": 0,
+    "image_path": "cc34ee48dd06a33cb7d2ad89cd895515b4caf5c07f149e162f850eeba624d8f6.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      392,
+      210,
+      651,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "c2d915eec29925828042fa16b9caaecf7fbd2fc6eb83e451f5bb49d3b9700b92.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "3. 상반되는 뜻을 지닌 한자끼리 연결한 것만을 <보기",
+    "bbox": [
+      434,
+      254,
+      697,
+      271
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 351,
+      "end_orig": 381,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에서 고른 것은?  [1점] ",
+    "bbox": [
+      446,
+      254,
+      756,
+      291
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 382,
+      "end_orig": 398,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      697,
+      257,
+      707,
+      269
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보 기>",
+    "bbox": [
+      574,
+      294,
+      626,
+      313
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.5714,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2477,
+      "end_orig": 2480,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ.",
+    "bbox": [
+      495,
+      314,
+      555,
+      329
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 405,
+      "end_orig": 407,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ.",
+    "bbox": [
+      647,
+      315,
+      707,
+      329
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 415,
+      "end_orig": 417,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "□.",
+    "bbox": [
+      494,
+      332,
+      555,
+      347
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  ㄱ, ㄷ ②  ㄱ, ㄹ ③  ㄴ, ㄷ\n④  ㄴ, ㄹ ⑤  ㄷ, ㄹ",
+    "bbox": [
+      445,
+      361,
+      699,
+      401
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 445,
+      "end_orig": 489,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "4. 단어장의 내용으로 보아 ㉠에 들어갈 것은?  [1점]\n①  風月 ②  波及 ③  風波 ④  波動 ⑤",
+    "bbox": [
+      434,
+      441,
+      704,
+      577
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9825,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 490,
+      "end_orig": 548,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      466,
+      753,
+      555
+    ],
+    "page_idx": 0,
+    "image_path": "c9c2acde9ba0f82425f9ecebe45c67345512be1ff616ae3a987367d95b154f6e.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "5. 그림과 대화의 내용으로 보아",
+    "bbox": [
+      435,
+      623,
+      598,
+      641
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 553,
+      "end_orig": 571,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "들어갈 것은?  [1점]\n①  旅券 ②  外國 ③  身分 ④  旅行 ⑤",
+    "bbox": [
+      446,
+      623,
+      718,
+      841
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 575,
+      "end_orig": 614,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { \\circ } \\textcircled { 1 }",
+    "bbox": [
+      599,
+      624,
+      622,
+      639
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      445,
+      647,
+      754,
+      820
+    ],
+    "page_idx": 0,
+    "image_path": "f7b7a6497ab2a5fb92246753f96fa7e98560b185ebb57b42947529381c439ae5.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "6. 화살표 방향으로 성어를 채울 때,",
+    "bbox": [
+      434,
+      887,
+      620,
+      906
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 619,
+      "end_orig": 640,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "들어갈 것은?",
+    "bbox": [
+      645,
+      887,
+      715,
+      906
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 831,
+      "end_orig": 838,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } { \\circ } | |",
+    "bbox": [
+      620,
+      889,
+      644,
+      904
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      445,
+      910,
+      579,
+      1044
+    ],
+    "page_idx": 0,
+    "image_path": "97ed255590a5ae0f003db7278ff27a660b1f60d4b4db0dca8095dcd9fd9389ef.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "[가로 열쇠]",
+    "bbox": [
+      602,
+      932,
+      664,
+      949
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 652,
+      "end_orig": 660,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "같은무리끼리서로 사컴.",
+    "bbox": [
+      606,
+      950,
+      735,
+      968
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "[세로열쇠]",
+    "bbox": [
+      601,
+      985,
+      664,
+      1002
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 675,
+      "end_orig": 683,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이름과 실상이 서로 부합함.",
+    "bbox": [
+      608,
+      1005,
+      737,
+      1019
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 684,
+      "end_orig": 699,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① ②\n③ ④\n⑤",
+    "bbox": [
+      445,
+      1052,
+      704,
+      1066
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3566,
+      "end_orig": 3575,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "7.",
+    "bbox": [
+      86,
+      156,
+      105,
+      174
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 727,
+      "end_orig": 729,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "중 옳은 것만을 있는 대로 고른 것은?",
+    "bbox": [
+      140,
+      156,
+      327,
+      174
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 734,
+      "end_orig": 755,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\div }",
+    "bbox": [
+      105,
+      158,
+      140,
+      172
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      182,
+      403,
+      389
+    ],
+    "page_idx": 1,
+    "image_path": "1274236d151f249535bb616f74da15024907baffeddd4d71730b12ff05e61201.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "①⑦ ㄷ ② 7,② ③ ㄴ,ㄷ ④ ⑦,①,② ⑤ ①,ㄷ,②",
+    "bbox": [
+      95,
+      395,
+      351,
+      433
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "8.그림과글의 내용으로 보아 ⑦ 에 들어갈 것은?[1점] '(ㅁ)'은‘습관’이라는뜻이 있어,원래 상태를 유지하려 한다는의미로도 사용합니다.그래서 이 글자 뒤에''을 결합하면'물체가 외부의 힘을",
+    "bbox": [
+      86,
+      502,
+      391,
+      561
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.3626,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 810,
+      "end_orig": 941,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "받지 않는 한 그대로 머물러 있거나 계속하여 움직이려는 성질'을 뜻하는 말이 됩니다.이 그림이 우리가 흔히 경험할 수 있는 예입니다.",
+    "bbox": [
+      111,
+      561,
+      391,
+      585
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      119,
+      589,
+      401,
+      705
+    ],
+    "page_idx": 1,
+    "image_path": "c81e0dfde9ef10b703c65b55ab0d95723703f07c865a7a968dadf38cf04f1348.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "①  ㉠,  ㉢ ②  ㉠,  ㉣  ③  ㉡,  ㉢\n④  ㉠,  ㉡,  ㉣ ⑤",
+    "bbox": [
+      97,
+      713,
+      355,
+      727
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.4167,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 756,
+      "end_orig": 798,
+      "reason": "option_line_enumerator_match"
+    }
+  },
+  {
+    "type": "text",
+    "text": "9. 그림의 한자로 만들 수 있는 사자성어의 의미와 관계있는 것은?",
+    "bbox": [
+      86,
+      800,
+      405,
+      818
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 870,
+      "end_orig": 907,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      104,
+      823,
+      397,
+      972
+    ],
+    "page_idx": 1,
+    "image_path": "fcc2aaf5900bdc21f60d4472c0e82b00286d88c4be87bef4d8ed99317907d765.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "①  여기저기 몹시 바쁘게 돌아다니네.\n",
+    "bbox": [
+      97,
+      978,
+      282,
+      992
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 908,
+      "end_orig": 930,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  질문과 상관없이 엉뚱한 대답을 하네.\n",
+    "bbox": [
+      97,
+      996,
+      298,
+      1010
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 930,
+      "end_orig": 954,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③ 끔끔히 살피지 않고 대충 보아 넘기는군.",
+    "bbox": [
+      97,
+      1014,
+      314,
+      1031
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  어리석은 질문에도 현명하게 답을 하는군.\n",
+    "bbox": [
+      97,
+      1033,
+      318,
+      1047
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 980,
+      "end_orig": 1006,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  꾸준히 노력하면 반드시 목표를 이룰 거야.\n",
+    "bbox": [
+      97,
+      1052,
+      323,
+      1065
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1006,
+      "end_orig": 1033,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "10. 광고의 내용으로 보아",
+    "bbox": [
+      435,
+      156,
+      570,
+      174
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1033,
+      "end_orig": 1048,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "들어갈 것은?[1점] 아픔도 기쁨도 함께 느껴야지요.",
+    "bbox": [
+      522,
+      156,
+      692,
+      199
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { \\circ } \\textcircled { 1 }",
+    "bbox": [
+      570,
+      158,
+      594,
+      172
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "아이의 눈높이에서(⑦)해 주세요 ① ② ③ ④ ⑤",
+    "bbox": [
+      446,
+      199,
+      704,
+      356
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      523,
+      221,
+      671,
+      329
+    ],
+    "page_idx": 1,
+    "image_path": "2af2c4e813a35ac1b68bd64456b48039cdf1b2d67ff4ba0bc2dc793893a70dc2.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "11. 글의 내용과 관계있는 것은?",
+    "bbox": [
+      435,
+      405,
+      601,
+      424
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1096,
+      "end_orig": 1115,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "근래의  사건을  보면,  정승들이  처음에는  모두  ‘형조에서 아뢴 것이 옳다.’라고 하다가 사헌부와 사간원에서 죄를 주",
+    "bbox": [
+      456,
+      438,
+      746,
+      471
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9388,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1116,
+      "end_orig": 1185,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "라고 상소한 뒤에는 또  ‘형조가 그르고 사헌부와 사간원이 옳다.’라고 하였다.  그들이 다른 뜻이 있어서 이랬다저랬다",
+    "bbox": [
+      456,
+      476,
+      746,
+      508
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1186,
+      "end_orig": 1252,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "하는 게 아니고,  한 사람이 옳다 하면 여럿이 따라서 옳다 하고,  한  사람이  그르다  하면  여럿이  따라서  그르다고  한 것이다.  이것은  자세히  생각하지  않고  줏대  없이  남의  의",
+    "bbox": [
+      456,
+      513,
+      746,
+      562
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1253,
+      "end_orig": 1366,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "견에 따라 움직이는 폐단이다.",
+    "bbox": [
+      455,
+      567,
+      602,
+      582
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1367,
+      "end_orig": 1383,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "-[춘정집-",
+    "bbox": [
+      688,
+      586,
+      748,
+      606
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.8,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1384,
+      "end_orig": 1390,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  牛耳讀經 ②  多多益善 ③  破竹之勢\n④  漁父之利 ⑤",
+    "bbox": [
+      446,
+      618,
+      663,
+      651
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1392,
+      "end_orig": 1425,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "12. 그림과 대화의 내용으로 보아 ㉠에 들어갈 것은?  [1점]\n① ",
+    "bbox": [
+      434,
+      700,
+      727,
+      718
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9455,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1432,
+      "end_orig": 1471,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "'자신을수양한 뒤에 남을 맞아. 그런 의미가 되려면 다스린다.'라는뜻의 성어를",
+    "bbox": [
+      456,
+      731,
+      742,
+      757
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "세번째글자를()로 쓰려한것같은데, 잘못쓴 써야 해 글자가있네 ① 주 ② ③ ④ ⑤",
+    "bbox": [
+      445,
+      743,
+      738,
+      922
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "13. 글에서 경계하고 있는 것은?",
+    "bbox": [
+      434,
+      969,
+      601,
+      987
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1494,
+      "end_orig": 1513,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      465,
+      1003,
+      600,
+      1016
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "- 열자",
+    "bbox": [
+      698,
+      1020,
+      742,
+      1041
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8571,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1532,
+      "end_orig": 1536,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  자만 ②  아집 ③  방종 ④  독선 ⑤  탐욕",
+    "bbox": [
+      445,
+      1050,
+      734,
+      1069
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1539,
+      "end_orig": 1568,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "14. 글의 내용과 관계있는 것은?",
+    "bbox": [
+      86,
+      158,
+      252,
+      173
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1569,
+      "end_orig": 1588,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "\n- 백언해",
+    "bbox": [
+      117,
+      190,
+      398,
+      228
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8889,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1601,
+      "end_orig": 1607,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  一心協力 ②  一石二鳥 ③  初志一貫\n④  易地思之 ⑤",
+    "bbox": [
+      97,
+      240,
+      314,
+      275
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9091,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1610,
+      "end_orig": 1643,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "5. 글의 내용으로 보아 ㉠과",
+    "bbox": [
+      86,
+      329,
+      237,
+      345
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.88,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1651,
+      "end_orig": 1667,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled { 1 } \\circ \\forall \\vert",
+    "bbox": [
+      237,
+      329,
+      261,
+      343
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "공통으로 들어갈 것은?",
+    "bbox": [
+      261,
+      329,
+      376,
+      345
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1671,
+      "end_orig": 1683,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "0(⑦),.",
+    "bbox": [
+      108,
+      360,
+      248,
+      376
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(①),.",
+    "bbox": [
+      107,
+      417,
+      279,
+      432
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.3333,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1744,
+      "end_orig": 1748,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  亡 ②  長 ③  弱 ④  賤 ⑤",
+    "bbox": [
+      97,
+      466,
+      355,
+      484
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9091,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1745,
+      "end_orig": 1766,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "6. 글의 내용으로 보아 ㉠에 들어갈 것은?\n",
+    "bbox": [
+      86,
+      537,
+      304,
+      555
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9189,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1771,
+      "end_orig": 1796,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "나의 성찰 일지",
+    "bbox": [
+      214,
+      572,
+      289,
+      588
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "명언",
+    "bbox": [
+      128,
+      598,
+      289,
+      615
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "나의 다짐",
+    "bbox": [
+      129,
+      629,
+      174,
+      645
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다른 사람이 나를 의심하는 이유는 평소 행동이 남에게 믿음을 주지 못했기 때문이다.",
+    "bbox": [
+      127,
+      647,
+      352,
+      677
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "언제나 언행을 믿음직하게 해야겠다.",
+    "bbox": [
+      127,
+      678,
+      286,
+      693
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  信 ②  責 ③  喜 ④  怒 ⑤",
+    "bbox": [
+      97,
+      715,
+      356,
+      730
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1796,
+      "end_orig": 1817,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 1 7 \\sim 1 8 ]",
+    "bbox": [
+      85,
+      786,
+      133,
+      802
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다음 글을 읽고 물음에 답하시오.",
+    "bbox": [
+      134,
+      786,
+      297,
+      803
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1829,
+      "end_orig": 1847,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑦,,,(①).",
+    "bbox": [
+      104,
+      820,
+      363,
+      835
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "7. 글의 내용으로 보아 ㉠의 의미로 옳은 것은?\n",
+    "bbox": [
+      86,
+      876,
+      330,
+      893
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9268,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1890,
+      "end_orig": 1918,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  남의 어려움을 보고 외면해서는 안 된다.\n",
+    "bbox": [
+      96,
+      898,
+      313,
+      913
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1918,
+      "end_orig": 1944,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  이익을 보면 의로운지 먼저 생각해야 한다.\n",
+    "bbox": [
+      97,
+      917,
+      325,
+      932
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1944,
+      "end_orig": 1971,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  일이 일어나기 전에 앞을 내다볼 줄 알아야 한다.\n",
+    "bbox": [
+      97,
+      935,
+      356,
+      950
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1971,
+      "end_orig": 2002,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  마음이 없으면 아무리 눈앞에 있어도 보이지 않는다.\n",
+    "bbox": [
+      97,
+      954,
+      372,
+      968
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2002,
+      "end_orig": 2034,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  자신의 잘못을 솔직히 인정하지 않고 변명하면 안 된다.\n",
+    "bbox": [
+      97,
+      973,
+      388,
+      987
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2034,
+      "end_orig": 2068,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "8. 윗글의 내용으로 보아 ㉡에 들어갈 것은?\n",
+    "bbox": [
+      86,
+      1029,
+      320,
+      1047
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9231,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2069,
+      "end_orig": 2095,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  止 ②  色 ③  味 ④  恩 ⑤",
+    "bbox": [
+      97,
+      1052,
+      355,
+      1067
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2095,
+      "end_orig": 2116,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "19. 글의 내용을 교훈으로 삼아야 할 사람은?",
+    "bbox": [
+      435,
+      157,
+      663,
+      173
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2120,
+      "end_orig": 2146,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": ".",
+    "bbox": [
+      466,
+      190,
+      549,
+      203
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "無面從退有後言.\n- 서경 -\n",
+    "bbox": [
+      697,
+      208,
+      748,
+      228
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8889,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2147,
+      "end_orig": 2163,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  잘 알지도 못하면서 나서는 사람\n②  사리 분별없이 무모하게 덤비는 사람\n③  시작한 일을 끝까지 해내지 못하는 사람\n④  우물쭈물하며 쉽게 결정을 내리지 못하는 사람\n⑤  앞에서는 따르는 척하고 뒤로는 딴말하는 사람",
+    "bbox": [
+      446,
+      240,
+      692,
+      327
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2163,
+      "end_orig": 2287,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "不稱其所短.\n- 순자 -\n",
+    "bbox": [
+      349,
+      379,
+      399,
+      399
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8889,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1697,
+      "end_orig": 1711,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다음 글을 읽고 물음에 답하시오.",
+    "bbox": [
+      482,
+      387,
+      646,
+      405
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2296,
+      "end_orig": 2314,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 2 0 \\sim 2 1 ]",
+    "bbox": [
+      434,
+      388,
+      482,
+      403
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",,,.",
+    "bbox": [
+      442,
+      423,
+      746,
+      458
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "-[여씨춘추]",
+    "bbox": [
+      330,
+      435,
+      396,
+      456
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.8333,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1736,
+      "end_orig": 1743,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "\n- 태허정집 -\n",
+    "bbox": [
+      679,
+      460,
+      745,
+      478
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2348,
+      "end_orig": 2358,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "20.",
+    "bbox": [
+      434,
+      496,
+      461,
+      516
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2358,
+      "end_orig": 2361,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "독음으로 옳은 것은?  [1점]\n①  존폐 ②  흥폐 ③  흥성 ④  흥망 ⑤  황폐",
+    "bbox": [
+      445,
+      496,
+      732,
+      537
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2365,
+      "end_orig": 2412,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\textcircled { \\div }",
+    "bbox": [
+      462,
+      499,
+      486,
+      514
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "21. 윗글의 중심 내용으로 옳은 것은?",
+    "bbox": [
+      434,
+      576,
+      626,
+      596
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2413,
+      "end_orig": 2435,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": ").",
+    "bbox": [
+      306,
+      598,
+      347,
+      615
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\textcircled{7}",
+    "bbox": [
+      290,
+      599,
+      306,
+      613
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  각자의 능력에 맞게 직책을 맡겨야 한다.\n",
+    "bbox": [
+      445,
+      600,
+      662,
+      614
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2436,
+      "end_orig": 2462,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "-[가정집-",
+    "bbox": [
+      329,
+      615,
+      379,
+      631
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  위정자는 다른 사람의 본보기가 되어야 한다.\n",
+    "bbox": [
+      446,
+      618,
+      683,
+      633
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2462,
+      "end_orig": 2490,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  민생의 안정은 생업을 보장하는 데 달려 있다.\n",
+    "bbox": [
+      446,
+      636,
+      689,
+      651
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2490,
+      "end_orig": 2519,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  누구에게나 차별 없는 교육의 기회가 주어져야 한다.\n",
+    "bbox": [
+      446,
+      655,
+      721,
+      670
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2519,
+      "end_orig": 2551,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  교육으로 인재를 양성하는 데 정치의 성패가 달려 있다. ",
+    "bbox": [
+      446,
+      674,
+      737,
+      688
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2551,
+      "end_orig": 2585,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다음 글을 읽고 물음에 답하시오.",
+    "bbox": [
+      482,
+      747,
+      646,
+      765
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2593,
+      "end_orig": 2611,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 2 2 \\sim 2 3 ]",
+    "bbox": [
+      434,
+      748,
+      482,
+      763
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",.",
+    "bbox": [
+      454,
+      782,
+      747,
+      796
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",,.",
+    "bbox": [
+      444,
+      801,
+      635,
+      814
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "而皆主於禮.\n* 厲(려) :  사납다\n- 퇴계집 -\n",
+    "bbox": [
+      668,
+      822,
+      747,
+      857
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.963,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2663,
+      "end_orig": 2692,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "- 대학",
+    "bbox": [
+      349,
+      838,
+      399,
+      859
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1882,
+      "end_orig": 1886,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "22.",
+    "bbox": [
+      434,
+      875,
+      461,
+      894
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2692,
+      "end_orig": 2695,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "과 짜임이 같은 것은?  [1점]\n①  日出 ②  卒業 ③  多情 ④  山川 ⑤",
+    "bbox": [
+      445,
+      875,
+      704,
+      912
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.973,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2697,
+      "end_orig": 2741,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "23. 윗글에 대한 이해로 옳은 것은?",
+    "bbox": [
+      434,
+      955,
+      616,
+      974
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2746,
+      "end_orig": 2767,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  학생끼리도 존중하는 마음을 가져야 해.\n",
+    "bbox": [
+      445,
+      978,
+      658,
+      993
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2768,
+      "end_orig": 2793,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  스승과 제자 간에 각각 지켜야 할 도리가 있어.\n",
+    "bbox": [
+      446,
+      997,
+      694,
+      1011
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2793,
+      "end_orig": 2823,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  스승에게 배웠지만 제자가 더 뛰어날 수도 있군.\n",
+    "bbox": [
+      446,
+      1015,
+      700,
+      1029
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2823,
+      "end_orig": 2853,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  가르치고 배우면서 스승과 제자가 함께 발전하지.\n",
+    "bbox": [
+      446,
+      1034,
+      704,
+      1048
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2853,
+      "end_orig": 2883,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  훌륭한 스승 아래에서 훌륭한 제자가 나오는 거야",
+    "bbox": [
+      446,
+      1052,
+      710,
+      1067
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2883,
+      "end_orig": 2912,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다음 글을 읽고 물음에 답하시오.",
+    "bbox": [
+      133,
+      157,
+      298,
+      175
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 2 4 \\sim 2 5 ]",
+    "bbox": [
+      85,
+      158,
+      133,
+      173
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ":“,(⑦),.",
+    "bbox": [
+      95,
+      192,
+      397,
+      225
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.1818,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3092,
+      "end_orig": 3096,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①,.”",
+    "bbox": [
+      147,
+      210,
+      256,
+      225
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.4,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2940,
+      "end_orig": 2943,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "24. 글의 내용으로 보아",
+    "bbox": [
+      85,
+      267,
+      211,
+      285
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2914,
+      "end_orig": 2928,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "들어갈 것은?",
+    "bbox": [
+      235,
+      267,
+      304,
+      285
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2932,
+      "end_orig": 2939,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { \\circ } \\textcircled { 1 }",
+    "bbox": [
+      212,
+      269,
+      235,
+      283
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  薄 ②  足 ③  富 ④  高 ⑤",
+    "bbox": [
+      96,
+      290,
+      355,
+      304
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2940,
+      "end_orig": 2961,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "25. 윗글의 내용으로 보아 ㉡의 의미와 관계있는 것은?\n① ",
+    "bbox": [
+      85,
+      352,
+      361,
+      369
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9388,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2965,
+      "end_orig": 2999,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  고생 끝에 낙이 온다.\n",
+    "bbox": [
+      97,
+      374,
+      219,
+      389
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2997,
+      "end_orig": 3013,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  뿌리 없는 나무가 없다.\n",
+    "bbox": [
+      97,
+      393,
+      229,
+      407
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3013,
+      "end_orig": 3030,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  음지도 양지 될 때가 있다.\n",
+    "bbox": [
+      97,
+      411,
+      245,
+      425
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3030,
+      "end_orig": 3049,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  일찍 핀 꽃이 일찍 시든다.\n",
+    "bbox": [
+      97,
+      429,
+      246,
+      444
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3049,
+      "end_orig": 3068,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  윗물이 맑아야 아랫물도 맑다.\n",
+    "bbox": [
+      97,
+      447,
+      262,
+      463
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3068,
+      "end_orig": 3088,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다음 시를 읽고 물음에 답하시오.",
+    "bbox": [
+      133,
+      535,
+      297,
+      553
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3096,
+      "end_orig": 3114,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 2 6 \\sim 2 7 ]",
+    "bbox": [
+      86,
+      536,
+      133,
+      551
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(가) ",
+    "bbox": [
+      95,
+      568,
+      280,
+      586
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8571,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3115,
+      "end_orig": 3119,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①,",
+    "bbox": [
+      118,
+      588,
+      250,
+      603
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3300,
+      "end_orig": 3302,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      251,
+      588,
+      263,
+      602
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": " (나) 渭城朝雨浥輕塵,  客舍靑靑柳色㉣新. ",
+    "bbox": [
+      95,
+      644,
+      325,
+      660
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9091,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3168,
+      "end_orig": 3193,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",.",
+    "bbox": [
+      119,
+      663,
+      313,
+      678
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": " 渭城(위성) :  지명",
+    "bbox": [
+      149,
+      686,
+      239,
+      699
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3214,
+      "end_orig": 3227,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": ") :  적시다   * 塵(진) :  먼지\n- 왕유, ",
+    "bbox": [
+      249,
+      686,
+      398,
+      719
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9697,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3235,
+      "end_orig": 3265,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      140,
+      687,
+      149,
+      697
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      240,
+      687,
+      249,
+      697
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "26.",
+    "bbox": [
+      85,
+      739,
+      113,
+      758
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3277,
+      "end_orig": 3280,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "의 풀이로 옳지 않은 것은?",
+    "bbox": [
+      147,
+      739,
+      279,
+      758
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3284,
+      "end_orig": 3299,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\sim \\textcircled { \\textmd { U } }",
+    "bbox": [
+      114,
+      741,
+      146,
+      756
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① ⑦ :드물다",
+    "bbox": [
+      96,
+      761,
+      171,
+      777
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.8333,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3300,
+      "end_orig": 3311,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": " :  외롭다 ③  ㉢ :  돌아가다\n④  ㉣ :  새롭다 ⑤  ㉤ :  고치다",
+    "bbox": [
+      96,
+      761,
+      385,
+      796
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.913,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3316,
+      "end_orig": 3360,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{2} \\textcircled{1}",
+    "bbox": [
+      199,
+      762,
+      229,
+      776
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "27. 위 시에 대한 이해로 옳지 않은 것은?",
+    "bbox": [
+      85,
+      841,
+      299,
+      861
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3361,
+      "end_orig": 3386,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① (가)의 시적 화자는 객지에서 ②(가)에는 계절적 배경을 고향을 그리워하고 있군.",
+    "bbox": [
+      113,
+      869,
+      380,
+      896
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③ (나)는 ④ (나)에는 시적 묻고답하는 화자의이별에 형식으로시상이 대한 아쉬움이 전개되고있어 드러나있군 ⑤(가)와 (나)에는 모두시각적 이미지가 나타나있어",
+    "bbox": [
+      102,
+      942,
+      398,
+      1065
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다음 글을 읽고 물음에 답하시오.",
+    "bbox": [
+      482,
+      157,
+      646,
+      175
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 2 8 \\sim 3 0 ]",
+    "bbox": [
+      433,
+      158,
+      482,
+      174
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "…(중략)… ⑦,.,, “.”“.”",
+    "bbox": [
+      443,
+      191,
+      747,
+      243
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 }",
+    "bbox": [
+      452,
+      191,
+      465,
+      206
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①.",
+    "bbox": [
+      478,
+      228,
+      529,
+      243
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3428,
+      "end_orig": 3430,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "-맹자-",
+    "bbox": [
+      348,
+      230,
+      399,
+      248
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "*(굴):파다 -임하필기-",
+    "bbox": [
+      678,
+      250,
+      747,
+      286
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "28.",
+    "bbox": [
+      434,
+      304,
+      461,
+      323
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3396,
+      "end_orig": 3399,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "과 ㉡의 풀이가 모두 옳은 것은? ",
+    "bbox": [
+      462,
+      304,
+      632,
+      323
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8889,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3401,
+      "end_orig": 3420,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① 일찍이 끝내 ② 일찍이 마치다\n③ 맛보다 끝내 ④ 맛보다 마치다\n⑤ 시험하다 끝내",
+    "bbox": [
+      446,
+      328,
+      722,
+      399
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9851,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3428,
+      "end_orig": 3475,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "29. 윗글의 내용으로 보아 ㉮의 태도로 알맞은 것은?\n① ",
+    "bbox": [
+      435,
+      485,
+      698,
+      503
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9787,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3476,
+      "end_orig": 3509,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  포용 ②  강직 ③  원만 ④  겸손 ⑤  양보",
+    "bbox": [
+      445,
+      506,
+      733,
+      524
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3507,
+      "end_orig": 3536,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "30. 윗글의 내용을 이해한 그림으로 알맞은 것은?",
+    "bbox": [
+      434,
+      609,
+      683,
+      627
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3537,
+      "end_orig": 3565,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "- 신광수",
+    "bbox": [
+      292,
+      610,
+      397,
+      625
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3152,
+      "end_orig": 3157,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      632,
+      738,
+      721
+    ],
+    "page_idx": 3,
+    "image_path": "926e5231e4a326d8e0b97e46417e1a32188297f13a23c0215dd31a7138dd9dd2.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      445,
+      731,
+      738,
+      821
+    ],
+    "page_idx": 3,
+    "image_path": "8f9989688ef90069285b5a0abe436314a525f98e9cdfd63170ea566b5099bb63.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "알수있는 시어가 쓰였어.",
+    "bbox": [
+      284,
+      882,
+      389,
+      896
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "*  확인 사항",
+    "bbox": [
+      445,
+      1007,
+      507,
+      1023
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3576,
+      "end_orig": 3584,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오",
+    "bbox": [
+      447,
+      1031,
+      744,
+      1064
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9688,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3585,
+      "end_orig": 3624,
+      "reason": "passed_threshold_no_ws"
+    }
+  }
+]

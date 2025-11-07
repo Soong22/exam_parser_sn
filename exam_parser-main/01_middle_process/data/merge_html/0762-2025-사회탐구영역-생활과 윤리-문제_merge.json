@@ -1,81 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      91,
-      153,
-      173,
-      190
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 55,
-      "end_orig": 61,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "사회탐구 영역(생활과 윤리)",
-    "bbox": [
-      214,
-      145,
-      621,
-      200
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      339,
-      209,
-      598,
-      237
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "abce6ee656efe63c61b773eec0f24396053a2415c89f3c11f4c77ddcae3cd87d.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
-    "text": "제[ ] 선택",
-    "bbox": [
-      616,
-      212,
-      700,
-      236
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 81,
-      "end_orig": 88,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. (가),  (나)  윤리학의 핵심 과제로 가장 적절한 것은?",
     "bbox": [
       86,
@@ -556,7 +481,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ.다음 토론의 핵심 쟁점으로 가장 적절한 것은?[3점]",
+    "text": "2.다음 토론의 핵심 쟁점으로 가장 적절한 것은?[3점]",
     "bbox": [
       85,
       738,
@@ -1155,26 +1080,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      375,
-      159,
-      384,
-      171
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?",
     "bbox": [
@@ -1395,26 +1300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } { \\circ } | |",
-    "bbox": [
-      288,
-      471,
-      312,
-      486
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한 반론의 근거로 가장 적절한 것은?  [3점]\n",
     "bbox": [
@@ -1433,21 +1318,6 @@
       "end_orig": 2640,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      96,
-      513,
-      404,
-      648
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>(가)</td><td colspan=\"7\">인공 지능 기술은 인간의 일자리를 축소시키므로 법으로 규제해야 한다.</td></tr><tr><td rowspan=\"2\">(나)</td><td rowspan=\"2\">대전제</td><td colspan=\"2\">인간의 일자리를 축소시키는 기술은 법으로 규제해야 한다.</td><td rowspan=\"2\">+ ↓</td><td rowspan=\"2\">소전제</td><td colspan=\"2\" rowspan=\"2\">7</td></tr><tr><td></td><td></td></tr><tr><td colspan=\"2\" rowspan=\"2\"></td><td></td><td></td><td colspan=\"3\">인공 지능 기술은 법으로 규제해야</td></tr><tr><td></td><td>결론 한다.</td><td colspan=\"3\"></td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "e45289da37aca9ec451da6433f9939fa0f53daf1258f6c632139cd8786acebb7.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1570,26 +1440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D } { \\circ } \\|",
-    "bbox": [
-      445,
-      176,
-      484,
-      190
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "해당하는 적절한 진술만을 <보기>",
     "bbox": [
@@ -1607,26 +1457,6 @@
       "start_orig": 3414,
       "end_orig": 3432,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      644,
-      177,
-      655,
-      189
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1648,21 +1478,6 @@
       "end_orig": 3454,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      446,
-      219,
-      751,
-      492
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>(가)</td><td colspan=\"3\">갑:이성이 없는 존재자들은 단지 수단으로서 상대적 가치 만을 갖지만,모든 이성적 존재자들은 수단으로서만이 아니라 항상 동시에 목적으로 대우받아야 한다. 을:오로지 경제적 이익에 바탕을 둔 보전 체계는 절망적일 정도로 편향되어 있어 대지 공동체의 필수적인 수많은 요소들을 절멸시키는 경향이 있다. 병:고통과 쾌락을느낄수있는능력은어떤존재의 고통을 다른 존재의 동일한 고통과 평등하게 계산하기 위한</td></tr><tr><td>(나)</td><td>요구의 전제 조건이다. A 병</td><td>&lt;범 레) A:갑만의 입장 B:병만의입장 C :을과 병만의 공통 입장 D:갑과을과 병의 공통입장</td><td></td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "04e3335d781399d0e386731f95c4bc6e4cd254301c9565ea2c52e5ec5cb534d9.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2022,26 +1837,6 @@
       "start_orig": 3929,
       "end_orig": 3961,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      698,
-      775,
-      707,
-      786
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2745,21 +2540,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      102,
-      828,
-      399,
-      965
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td>00신문 0000년 00월 00일</td></tr><tr><td>칼럼</td></tr><tr><td>내가 잘못 생각할 수 있고 다른 사람이 옳을 수도 있다.인간은 함께 노력해야만 진리에 다가갈 수 있다.이러한 비판적 합리주의는 비판적 논증과 반박에 귀를 기울이며, 경험으로부터 배울 용의가 있는 태도라고 말할 수 있다.특히 경험 세계에 관련될 수 밖에 없는 과학적 명제의 경우,이는 언제든 반박될 수 있어야 한다.경험 과학 이론은 그 이론을 반증할 수 있는 실험 결과를 얻는다면 뒤집어질 수 있다.이론의 과학성을 구성하는 것은 바로 이러한 반증 가능성이다.이론에 대한 모든 관찰은 그 이론으로 부터 도출된 예측을 반증하려는 시도라 할 수 있다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "7e2d71f1fc9128bb255820e781c5f8bf7ef0ded62e0af69dbe6bfd966b448ae5.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① 실험 결과에 의해 예측이 반증된 경험 과학 이론은 거부된다.\n",
     "bbox": [
@@ -2880,26 +2660,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
-    "bbox": [
-      445,
-      176,
-      484,
-      190
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "들어갈 적절한 질문만을 <보기",
     "bbox": [
@@ -2917,26 +2677,6 @@
       "start_orig": 5698,
       "end_orig": 5714,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      633,
-      177,
-      644,
-      189
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2998,20 +2738,6 @@
       "end_orig": 5892,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      447,
-      315,
-      734,
-      454
-    ],
-    "page_idx": 2,
-    "image_path": "c9f426e30c5c271067f0057ad630ff8f346a92e3d357a7738c039bb7c9f24724.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3151,26 +2877,6 @@
       "start_orig": 6126,
       "end_orig": 6158,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      697,
-      791,
-      707,
-      802
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3392,21 +3098,6 @@
       "end_orig": 6656,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      96,
-      219,
-      401,
-      502
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td>(가)</td><td>갑: 공적 정의가 원리와 표준으로 삼는 것은 어떤 종류와 어느 정도의 형벌인가?오직 보복법만이 형벌의 질과 양을명확하게 제시한다. 을: 법은 공동 이익을 지향하는 일반 의지의 지도를 받아야 한다.법을 어긴 범죄자는 더 이상 조국의 구성원이 아니고 조국과 전쟁을 벌이는 자이다. 병: 종신 노역형만으로도 가장 완강한 자의 마음을 억제 하기에 충분한 엄격성을 지닌다.종신 노역형은 사형 이상의 확실한 효과를 가져온다.</td></tr><tr><td>(나)</td><td>&lt;범레 갑 →: 비판의 방향 A~F: 비판의 내용 A/B FE &lt;예 시) A→ C A는갑이을에게 제기할 을 병 수있는비판임 D</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "5b0a4b0be2aae8e5b98d665561cb539dafb363b8539537d9113d7b23011ace5d.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -4169,34 +3860,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      471,
-      806,
-      545,
-      883
-    ],
-    "page_idx": 3,
-    "image_path": "372386b02ced11065d335f26961e6404bf8619936a964760839e8bf8af68eb1d.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      646,
-      807,
-      714,
-      883
-    ],
-    "page_idx": 3,
-    "image_path": "7323efa0b4590fc97223e63d5e1e6338f6f4378060b8e23062aea0c0c0601432.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 갑 : 사회경제적 불평등 완화는 통일의 근거에 포함될 수 없다.\n",
     "bbox": [
@@ -4335,5 +3998,342 @@
       "end_orig": 8707,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      91,
+      153,
+      173,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 55,
+      "end_orig": 61,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "사회탐구 영역(생활과 윤리)",
+    "bbox": [
+      214,
+      145,
+      621,
+      200
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제[ ] 선택",
+    "bbox": [
+      616,
+      212,
+      700,
+      236
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 81,
+      "end_orig": 88,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      339,
+      209,
+      598,
+      237
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "abce6ee656efe63c61b773eec0f24396053a2415c89f3c11f4c77ddcae3cd87d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      375,
+      159,
+      384,
+      171
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } { \\circ } | |",
+    "bbox": [
+      288,
+      471,
+      312,
+      486
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      96,
+      513,
+      404,
+      648
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>(가)</td><td colspan=\"7\">인공 지능 기술은 인간의 일자리를 축소시키므로 법으로 규제해야 한다.</td></tr><tr><td rowspan=\"2\">(나)</td><td rowspan=\"2\">대전제</td><td colspan=\"2\">인간의 일자리를 축소시키는 기술은 법으로 규제해야 한다.</td><td rowspan=\"2\">+ ↓</td><td rowspan=\"2\">소전제</td><td colspan=\"2\" rowspan=\"2\">7</td></tr><tr><td></td><td></td></tr><tr><td colspan=\"2\" rowspan=\"2\"></td><td></td><td></td><td colspan=\"3\">인공 지능 기술은 법으로 규제해야</td></tr><tr><td></td><td>결론 한다.</td><td colspan=\"3\"></td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "e45289da37aca9ec451da6433f9939fa0f53daf1258f6c632139cd8786acebb7.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D } { \\circ } \\|",
+    "bbox": [
+      445,
+      176,
+      484,
+      190
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      644,
+      177,
+      655,
+      189
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      446,
+      219,
+      751,
+      492
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>(가)</td><td colspan=\"3\">갑:이성이 없는 존재자들은 단지 수단으로서 상대적 가치 만을 갖지만,모든 이성적 존재자들은 수단으로서만이 아니라 항상 동시에 목적으로 대우받아야 한다. 을:오로지 경제적 이익에 바탕을 둔 보전 체계는 절망적일 정도로 편향되어 있어 대지 공동체의 필수적인 수많은 요소들을 절멸시키는 경향이 있다. 병:고통과 쾌락을느낄수있는능력은어떤존재의 고통을 다른 존재의 동일한 고통과 평등하게 계산하기 위한</td></tr><tr><td>(나)</td><td>요구의 전제 조건이다. A 병</td><td>&lt;범 레) A:갑만의 입장 B:병만의입장 C :을과 병만의 공통 입장 D:갑과을과 병의 공통입장</td><td></td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "04e3335d781399d0e386731f95c4bc6e4cd254301c9565ea2c52e5ec5cb534d9.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      698,
+      775,
+      707,
+      786
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      102,
+      828,
+      399,
+      965
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td>00신문 0000년 00월 00일</td></tr><tr><td>칼럼</td></tr><tr><td>내가 잘못 생각할 수 있고 다른 사람이 옳을 수도 있다.인간은 함께 노력해야만 진리에 다가갈 수 있다.이러한 비판적 합리주의는 비판적 논증과 반박에 귀를 기울이며, 경험으로부터 배울 용의가 있는 태도라고 말할 수 있다.특히 경험 세계에 관련될 수 밖에 없는 과학적 명제의 경우,이는 언제든 반박될 수 있어야 한다.경험 과학 이론은 그 이론을 반증할 수 있는 실험 결과를 얻는다면 뒤집어질 수 있다.이론의 과학성을 구성하는 것은 바로 이러한 반증 가능성이다.이론에 대한 모든 관찰은 그 이론으로 부터 도출된 예측을 반증하려는 시도라 할 수 있다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "7e2d71f1fc9128bb255820e781c5f8bf7ef0ded62e0af69dbe6bfd966b448ae5.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
+    "bbox": [
+      445,
+      176,
+      484,
+      190
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      633,
+      177,
+      644,
+      189
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      315,
+      734,
+      454
+    ],
+    "page_idx": 2,
+    "image_path": "c9f426e30c5c271067f0057ad630ff8f346a92e3d357a7738c039bb7c9f24724.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      697,
+      791,
+      707,
+      802
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      96,
+      219,
+      401,
+      502
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td>(가)</td><td>갑: 공적 정의가 원리와 표준으로 삼는 것은 어떤 종류와 어느 정도의 형벌인가?오직 보복법만이 형벌의 질과 양을명확하게 제시한다. 을: 법은 공동 이익을 지향하는 일반 의지의 지도를 받아야 한다.법을 어긴 범죄자는 더 이상 조국의 구성원이 아니고 조국과 전쟁을 벌이는 자이다. 병: 종신 노역형만으로도 가장 완강한 자의 마음을 억제 하기에 충분한 엄격성을 지닌다.종신 노역형은 사형 이상의 확실한 효과를 가져온다.</td></tr><tr><td>(나)</td><td>&lt;범레 갑 →: 비판의 방향 A~F: 비판의 내용 A/B FE &lt;예 시) A→ C A는갑이을에게 제기할 을 병 수있는비판임 D</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "5b0a4b0be2aae8e5b98d665561cb539dafb363b8539537d9113d7b23011ace5d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      471,
+      806,
+      545,
+      883
+    ],
+    "page_idx": 3,
+    "image_path": "372386b02ced11065d335f26961e6404bf8619936a964760839e8bf8af68eb1d.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      646,
+      807,
+      714,
+      883
+    ],
+    "page_idx": 3,
+    "image_path": "7323efa0b4590fc97223e63d5e1e6338f6f4378060b8e23062aea0c0c0601432.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 import json, re
 from pathlib import Path
-from typing import List, Dict, Any, Optional, Iterable, Tuple
+from typing import List, Dict, Any, Optional, Iterable, Tuple, Union
 
 # ===== 경로(하드코딩) =====
-SRC_DIR = Path(r"exam_parser-main\01_middle_process\data\plain")     # cleaned JSON들 (para_blocks 포함)
-DST_DIR = Path(r"exam_parser-main\01_middle_process\data\content_list")  # 결과 저장
+SRC_DIR = Path(r"exam_parser-main\01_middle_process\data\plain\0111-2023-국어영역-국어영역-문제_converted.json")  # 폴더 또는 단일 파일
+DST_DIR = Path(r"exam_parser-main\01_middle_process\data\content_list")  # 폴더 또는 단일 파일
 
-DST_DIR.mkdir(parents=True, exist_ok=True)
+DST_DIR.parent.mkdir(parents=True, exist_ok=True) if DST_DIR.suffix else DST_DIR.mkdir(parents=True, exist_ok=True)
 
 # ===== 유틸 & 규칙 =====
 SENT_END_RE = re.compile(r"(다\.)|([\.!?][”\")\]]?)\s*$")
@@ -40,7 +40,6 @@ def get_span_text(sp: Dict[str, Any]) -> str:
         v = sp.get(k)
         if isinstance(v, str):
             return v
-    # 수식 필드가 텍스트로만 오는 경우도 보정
     for k in ("latex", "math", "formula", "asciimath"):
         v = sp.get(k)
         if isinstance(v, str):
@@ -53,19 +52,16 @@ def iter_child_blocks(block: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
         yield from iter_child_blocks(sub)
 
 def iter_spans_from_block_deep(block: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
-    # 현재층
     if isinstance(block.get("lines"), list) and block["lines"]:
         for line in block["lines"]:
             for sp in (line.get("spans") or []):
                 yield sp
     for sp in (block.get("spans") or []):
         yield sp
-    # 하위 블록들
     for sub in (block.get("blocks") or []):
         yield from iter_spans_from_block_deep(sub)
 
 def join_text_in(block: Dict[str, Any]) -> str:
-    """lines/spans 안의 텍스트들을 공백 1칸으로 합치기 (캡션 텍스트 등 추출용)"""
     parts: List[str] = []
     for sp in iter_spans_from_block_deep(block):
         if norm_type(sp.get("type")) == "inline_equation":
@@ -81,7 +77,6 @@ def is_inline_equation_span(sp: Dict[str, Any]) -> bool:
     t = norm_type(sp.get("type"))
     if "inline" in t and ("equation" in t or "math" in t or "formula" in t):
         return True
-    # content에 수식 문자열만 들어간 경우도 허용
     for k in ("latex", "math", "formula", "asciimath"):
         if isinstance(sp.get(k), str):
             return True
@@ -101,7 +96,6 @@ def is_table_block(blk: Dict[str, Any]) -> bool:
         return True
     if "table" in t and ("caption" not in t and "footnote" not in t):
         return True
-    # 컨테이너만 있고 바디는 하위에 있는 경우도 존재
     for sp in iter_spans_from_block_deep(blk):
         if norm_type(sp.get("type")) == "table":
             return True
@@ -121,7 +115,6 @@ def is_image_block(blk: Dict[str, Any]) -> bool:
 
 # ===== 페이로드 추출 =====
 def extract_table_payload(blk: Dict[str, Any]) -> Dict[str, Any]:
-    # 본문
     table_body = blk.get("table_body") or blk.get("html") or blk.get("content") or ""
     if not table_body:
         for sub in iter_child_blocks(blk):
@@ -135,7 +128,6 @@ def extract_table_payload(blk: Dict[str, Any]) -> Dict[str, Any]:
                 if table_body:
                     break
 
-    # ⬇️ 이미지 경로 주워오기 (블록 → 하위블록 → 스팬)
     img_path = get_image_path_any(blk)
     if not img_path:
         for sub in iter_child_blocks(blk):
@@ -150,7 +142,6 @@ def extract_table_payload(blk: Dict[str, Any]) -> Dict[str, Any]:
                 if img_path:
                     break
 
-    # 캡션/각주
     captions: List[str] = []
     footnotes: List[str] = []
     for sub in (blk.get("blocks") or []):
@@ -166,10 +157,9 @@ def extract_table_payload(blk: Dict[str, Any]) -> Dict[str, Any]:
         "table_body": table_body or "",
         "table_caption": captions,
         "table_footnote": footnotes,
-        "image_path": img_path,                # ⬅️ 추가
+        "image_path": img_path,
         "original_type": blk.get("type"),
     }
-
 
 def extract_image_payload(blk: Dict[str, Any]) -> Dict[str, Any]:
     img_path = blk.get("img_path") or blk.get("image_path") or blk.get("path") or ""
@@ -187,7 +177,6 @@ def extract_image_payload(blk: Dict[str, Any]) -> Dict[str, Any]:
                 if img_path:
                     break
 
-    # 캡션이 컨테이너 내부의 caption 블록으로 따로 있는 경우 합치기
     if caption is None:
         caps: List[str] = []
         for sub in (blk.get("blocks") or []):
@@ -231,7 +220,6 @@ def flush_sentence(acc: List[Dict[str, Any]], buf_text: str, buf_bbox: Optional[
 def fold_block_to_items(block: Dict[str, Any], page_idx: int) -> List[Dict[str, Any]]:
     out: List[Dict[str, Any]] = []
 
-    # 표/이미지/행간수식 컨테이너/블록 우선 처리
     if is_table_block(block):
         payload = extract_table_payload(block)
         out.append({
@@ -263,7 +251,6 @@ def fold_block_to_items(block: Dict[str, Any], page_idx: int) -> List[Dict[str, 
         })
         return out
 
-    # 일반 텍스트 + 인라인 수식 (재귀 spans)
     buf_text = ""
     buf_bbox: Optional[List[float]] = None
 
@@ -272,7 +259,6 @@ def fold_block_to_items(block: Dict[str, Any], page_idx: int) -> List[Dict[str, 
         txt = get_span_text(sp)
         bbox = get_bbox_any(sp)
 
-        # 스팬이 이미지/표로 오는 특수 케이스도 안전 처리
         if ("image" in sptype) or ("figure" in sptype) or ("img" in sptype) or ("picture" in sptype):
             if buf_text:
                 buf_text, buf_bbox = flush_sentence(out, buf_text, buf_bbox, page_idx)
@@ -314,13 +300,10 @@ def fold_block_to_items(block: Dict[str, Any], page_idx: int) -> List[Dict[str, 
                 })
             continue
 
-        # 일반 텍스트
         if txt:
             buf_text = clean_spaces((buf_text + " " + txt) if buf_text else txt)
-            # 텍스트 bbox만 누적
             buf_bbox = union_bbox(buf_bbox, bbox)
 
-        # 문장 경계면 flush
         if buf_text and SENT_END_RE.search(buf_text):
             buf_text, buf_bbox = flush_sentence(out, buf_text, buf_bbox, page_idx)
 
@@ -332,7 +315,6 @@ def fold_block_to_items(block: Dict[str, Any], page_idx: int) -> List[Dict[str, 
 def page_to_items(page: Dict[str, Any]) -> List[Dict[str, Any]]:
     seq: List[Dict[str, Any]] = []
     page_idx = page.get("page_idx", 0)
-    # cleaned 기준: para_blocks 안에 모든 상위 블록이 들어있음
     for blk in (page.get("para_blocks") or []):
         seq.extend(fold_block_to_items(blk, page_idx))
     return seq
@@ -345,15 +327,51 @@ def convert_file_to_flat_content_list(src: Path, dst: Path):
     dst.parent.mkdir(parents=True, exist_ok=True)
     dst.write_text(json.dumps(flat, ensure_ascii=False, indent=2), encoding="utf-8")
 
+# ==== 파일/폴더 입출력 헬퍼 ====
+def transform_out_name(src_name: str) -> str:
+    p = Path(src_name)
+    stem = p.stem
+    for tail in ("_converted", "_plain", "_middle"):
+        if stem.endswith(tail):
+            stem = stem[: -len(tail)]
+            break
+    return f"{stem}_content_list.json"
+
+def list_input_files(src_path: Path) -> List[Path]:
+    if src_path.is_file():
+        return [src_path]
+    return sorted([p for p in src_path.rglob("*.json") if p.is_file()])
+
+def compute_dst_path(src: Path, src_root: Path, dst_root_or_file: Path) -> Path:
+    """dst_root_or_file가 폴더면 상대경로 유지 + 파일명 변환, 파일이면 그대로 사용"""
+    if dst_root_or_file.suffix:
+        # 단일 파일 목적지
+        return dst_root_or_file
+    rel = src.relative_to(src_root)
+    out_name = transform_out_name(rel.name)
+    return (dst_root_or_file / rel.parent / out_name)
+
 def main():
-    files = list(SRC_DIR.rglob("*.json"))
-    print(f"🔍 {len(files)}개 파일 처리")
-    for src in files:
-        rel = src.relative_to(SRC_DIR)
-        out_name = rel.stem.replace("_plain", "") + "_content_list.json"
-        dst = DST_DIR / rel.with_name(out_name)
-        convert_file_to_flat_content_list(src, dst)
-        print(f"✅ {rel} → {out_name}")
+    src = SRC_DIR
+    dst = DST_DIR
+    files = list_input_files(src)
+
+    if not files:
+        print(f"[WARN] No JSON found under: {src}")
+        return
+
+    # 목적지가 파일인데 입력이 여러 개인 경우 방지
+    if dst.suffix and len(files) > 1:
+        print("[ERROR] DST_DIR이 단일 파일 경로인데, SRC에서 여러 파일이 감지되었습니다. DST를 폴더로 지정하세요.")
+        return
+
+    print(f"🔍 처리 대상: {len(files)}개")
+    src_root = src.parent if src.is_file() else src
+    for i, src_file in enumerate(files, 1):
+        dst_path = compute_dst_path(src_file, src_root, dst)
+        print(f"[{i}/{len(files)}] {src_file} -> {dst_path}")
+        convert_file_to_flat_content_list(src_file, dst_path)
+        print("  ✅ done")
 
 if __name__ == "__main__":
     main()

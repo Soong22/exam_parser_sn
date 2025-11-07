@@ -1,20 +1,18 @@
 # -*- coding: utf-8 -*-
 from pathlib import Path
-import json, re, unicodedata
+import json, re, unicodedata, sys
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
-from typing import Optional, Tuple
+from typing import Optional, Tuple, List, Dict
 from bisect import bisect_left
 
 # ======================================================
-# 폴더 경로 (여기만 네 환경에 맞게 수정)
+# 입력/출력 경로 (네 환경에 맞게 수정)
+# - 파일 또는 폴더 모두 가능
 # ======================================================
-XHTML_DIR_IN = Path(r"exam_parser-main\00_html")                        # 각 문제 폴더에 index.xhtml 존재
-JSON_DIR_IN  = Path(r"exam_parser-main\01_middle_process\data\choice_process")  # 병합 대상 JSON 폴더(재귀)
-OUT_DIR      = Path(r"exam_parser-main\01_middle_process\data\merge_html")                   # 출력 루트
-
-# JSON ↔ XHTML 이름 유사도 매칭 임계값
-NAME_SIM_THRESHOLD = 0.66
+XHTML_FILE_IN = Path(r"exam_parser-main\00_html")   # html/xhtml 파일 또는 폴더
+JSON_FILE_IN  = Path(r"exam_parser-main\01_middle_process\data\2025_mathpix_merge")  # json 파일 또는 폴더
+OUT_DIR       = Path(r"exam_parser-main\01_middle_process\data\merge_html")  # 출력 루트(폴더)
 
 # ======================================================
 # ===== 설정 (원본 그대로) =====
@@ -68,7 +66,6 @@ def extract_plain_from_xhtml(xhtml_html: str, p_only: bool = True) -> str:
                                 rows.append(row.strip())
                         if rows:
                             parts.append("\n".join(rows))
-            # 페이지 사이 공백 줄은 굳이 추가하지 않음(정렬 안정성 위해)
         txt = "\n".join(p for p in parts if p)
         # 탭/캐리지리턴 제거(기존 규칙과 동일)
         return txt.replace("\t", "").replace("\r", "")
@@ -465,8 +462,15 @@ def _simplify_kosyllable_digit_only(s: str) -> str:
     return "".join(out)
 
 # ===== 한자 좌측 컨텍스트 재포함 =====
-_re_left_han_colon = re.compile(f"([{_HAN_CLASS}]+[ \\t]*[:\\uFF1A])[ \\t]*$")
-_re_left_han_wave  = re.compile(f"([{_HAN_CLASS}][ \\t]*[~\\u301C\\uFF5E\\u223C][ \\t]*[{_HAN_CLASS}])[ \\t]*$")
+def _build_han_charclass() -> str:  # (이미 위에 정의했지만 안전)
+    parts = []
+    for lo, hi in _HAN_BLOCKS:
+        if hi <= 0xFFFF: parts.append(f"\\u{lo:04X}-\\u{hi:04X}")
+        else:            parts.append(f"\\U{lo:08X}-\\U{hi:08X}")
+    return "".join(parts)
+
+_re_left_han_colon = re.compile(f"([{_build_han_charclass()}]+[ \\t]*[:\\uFF1A])[ \\t]*$")
+_re_left_han_wave  = re.compile(f"([{_build_han_charclass()}][ \\t]*[~\\u301C\\uFF5E\\u223C][ \\t]*[{_build_han_charclass()}])[ \\t]*$")
 def _reinclude_left_han_context(src: str, start_idx: int, lookback: int = 24) -> int:
     a = max(0, start_idx - lookback)
     left = src[a:start_idx]
@@ -990,87 +994,203 @@ def replace_text_blocks(jdata: list, src_text: str) -> int:
     return replaced_cnt
 
 # ======================================================
-# ===== 폴더 매칭/실행 유틸 (이름 유사도 기반) =====
+# ===== I/O 유틸 (단일/배치 지원) =====
 # ======================================================
-_SUFFIX_CLEAN_RE = re.compile(r"(?:_content_list|_choice_plain|_layout|_middle)(?:_[^\\/]+)?$", re.I)
 
-def _json_key_from_path(p: Path) -> str:
-    stem = unicodedata.normalize("NFC", p.stem)
-    stem = _SUFFIX_CLEAN_RE.sub("", stem)
-    return _simplify_only(stem)
+_HTML_EXTS = {".html", ".xhtml", ".htm"}
 
-def _xhtml_key_from_path(p: Path) -> str:
-    name = unicodedata.normalize("NFC", p.stem)
-    # index.xhtml이므로 부모 폴더명을 키로 사용
-    return _simplify_only(name)
+def _norm_stem(p: Path) -> str:
+    """
+    페어링을 위한 stem 정규화:
+    - 확장자 제거
+    - 흔한 접미어 제거: _merge, -merge, _converted, -converted,
+      _mathpix_converted, -mathpix-converted, _mathpix, _ocr, _final 등
+    - 접미어가 여러 개 연달아 붙어 있어도 전부 제거
+    """
+    s = p.stem
 
-def _best_match_xhtml_for_json(json_path: Path, xhtml_files) -> Tuple[Optional[Path], float, str, str]:
-    jkey_raw = json_path.stem
-    jkey = _json_key_from_path(json_path)
-    best, best_score, best_key = None, 0.0, ""
-    for x in xhtml_files:
-        xkey_raw = x.stem
-        xkey = _xhtml_key_from_path(x)
-        if jkey and xkey and (jkey in xkey or xkey in jkey):
-            score = 1.1  # 부분 포함 보너스(사실상 확정)
-        else:
-            score = SequenceMatcher(None, jkey, xkey).ratio()
-        if score > best_score:
-            best, best_score, best_key = x, score, xkey_raw
-    return best, best_score, jkey_raw, best_key
+    # 1) 대표 접미어 블록 제거 (여러 번/여러 형태 연달아 있어도 한번에 삭제)
+    s = re.sub(
+        r"(?i)(?:[-_]*(?:merge|converted|mathpix(?:[-_]*converted)?|ocr|final))+$",
+        "",
+        s,
+    )
 
-def _process_one_pair(json_path: Path, xhtml_path: Path) -> int:
-    jdata = json.loads(json_path.read_text(encoding="utf-8"))
-    xhtml = xhtml_path.read_text(encoding="utf-8")
+    # 2) 혹시 남은 꼬리 구분자 정리
+    s = re.sub(r"[-_]+$", "", s)
+
+    return s
+
+def _read_json_any(path: Path):
+    text = path.read_text(encoding="utf-8")
+    return json.loads(text)
+
+def _write_json_pretty(path: Path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+def _find_all_files(root: Path, exts: set, recursive: bool = True) -> List[Path]:
+    if not root.exists():
+        return []
+    if root.is_file():
+        return [root] if root.suffix.lower() in exts else []
+    # dir
+    pats = []
+    for ext in exts:
+        pats.append(f"**/*{ext}" if recursive else f"*{ext}")
+    out = []
+    for pat in pats:
+        out.extend(root.glob(pat))
+    return sorted(set(out))
+
+def _index_by_stem(paths: List[Path]) -> Dict[str, List[Path]]:
+    mp: Dict[str, List[Path]] = {}
+    for p in paths:
+        stem = _norm_stem(p)
+        mp.setdefault(stem, []).append(p)
+    return mp
+
+def _choose_html_for_json(json_path: Path, html_index: Dict[str, List[Path]], html_all: List[Path]) -> Optional[Path]:
+    stem = _norm_stem(json_path)
+    # 1) 동일 stem 최우선
+    cand = html_index.get(stem)
+    if cand:
+        # 우선순위: .html/.xhtml → 파일명에 converted 포함 → 그 외
+        def _pri(p: Path):
+            score = 0
+            if p.suffix.lower() in (".html", ".xhtml", ".htm"): score -= 2
+            if "converted" in p.name.lower(): score -= 1
+            return (score, len(str(p)))
+        return sorted(cand, key=_pri)[0]
+
+    # 2) html이 폴더가 아니라 단일 파일이면 그거 사용(마지막 수단)
+    if len(html_all) == 1:
+        return html_all[0]
+    return None
+
+def _output_path_for_json(out_root: Path, json_root: Path, json_path: Path) -> Path:
+    """
+    json_root 하위 구조 보존 + 파일명은 *_merge.json
+    """
+    try:
+        rel = json_path.relative_to(json_root)
+        parent = rel.parent
+    except Exception:
+        parent = Path(".")
+    return out_root / parent / f"{json_path.stem}_merge.json"
+
+def _process_pair(json_path: Path, html_path: Path, out_path: Path) -> bool:
+    try:
+        jdata = _read_json_any(json_path)
+    except Exception as e:
+        print(f"  [ERR] JSON 읽기 실패: {json_path} -> {e}")
+        return False
+    try:
+        xhtml = html_path.read_text(encoding="utf-8")
+    except Exception as e:
+        print(f"  [ERR] HTML 읽기 실패: {html_path} -> {e}")
+        return False
+
     src_text = extract_plain_from_xhtml(xhtml, p_only=True)
     replaced = replace_text_blocks(jdata, src_text)
+    _write_json_pretty(out_path, jdata)
+    print(f"  [OK] {json_path.name}  ×  {html_path.name}  →  {out_path.name}  (replaced={replaced})")
+    return True
 
-    out_dir = OUT_DIR / json_path.relative_to(JSON_DIR_IN).parent
-    out_dir.mkdir(parents=True, exist_ok=True)
-    stem = json_path.stem.removesuffix("_process")
-    out_path = out_dir / f"{stem}_merge.json"
-    out_path.write_text(json.dumps(jdata, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"[WRITE] {out_path}")
-    return replaced
+# ======================================================
+# ===== 실행부: 단일/배치 자동 판별 =====
+# ======================================================
 
-def folder_main():
+def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    # 모든 index.xhtml 수집
-    def _collect_html_files(base: Path):
-        return (
-            list(base.rglob("*.html"))
-            + list(base.rglob("*.xhtml"))
-            + list(base.rglob("*.htm"))
-        )
+    json_is_file = JSON_FILE_IN.exists() and JSON_FILE_IN.is_file()
+    html_is_file = XHTML_FILE_IN.exists() and XHTML_FILE_IN.is_file()
+    json_is_dir  = JSON_FILE_IN.exists() and JSON_FILE_IN.is_dir()
+    html_is_dir  = XHTML_FILE_IN.exists() and XHTML_FILE_IN.is_dir()
 
-    xhtml_files = _collect_html_files(XHTML_DIR_IN)
-    if not xhtml_files:
-        print(f"[WARN] html 없음: {XHTML_DIR_IN}")
+    if not JSON_FILE_IN.exists():
+        print(f"[ERR] JSON 경로가 없습니다: {JSON_FILE_IN}")
+        return
+    if not XHTML_FILE_IN.exists():
+        print(f"[ERR] HTML 경로가 없습니다: {XHTML_FILE_IN}")
+        return
 
-    # 모든 JSON 수집
-    json_files  = [p for p in JSON_DIR_IN.rglob("*.json")]
-    if not json_files:
-        print(f"[WARN] JSON 없음: {JSON_DIR_IN}")
+    # ===== 케이스 A: 파일 × 파일 =====
+    if json_is_file and html_is_file:
+        out_path = OUT_DIR / f"{JSON_FILE_IN.stem}_merge.json"
+        print(f"[PAIR-ONE] {JSON_FILE_IN.name}  <->  {XHTML_FILE_IN.name}")
+        ok = _process_pair(JSON_FILE_IN, XHTML_FILE_IN, out_path)
+        if ok:
+            print(f"[DONE] 단일 페어 병합 완료. 출력: {out_path}")
+        return
 
-    total = 0
-    matched = 0
-    for j in sorted(json_files):
-        total += 1
-        best_x, score, jname, xname = _best_match_xhtml_for_json(j, xhtml_files)
-        if best_x is None or score < NAME_SIM_THRESHOLD:
-            print(f"[SKIP] 이름 유사도 낮음: {j.name}  (best={xname}, score={score:.3f})")
-            continue
-        print(f"[PAIR] {j.name}  <->  {best_x}  (score={score:.3f})")
-        try:
-            replaced = _process_one_pair(j, best_x)
-            print(f"       → replaced {replaced} blocks")
-            matched += 1
-        except Exception as e:
-            print(f"[ERROR] 처리 중 오류: {j} / {best_x}\n    {e}")
+    # ===== 케이스 B: 폴더 × 폴더 (배치) =====
+    if json_is_dir and html_is_dir:
+        json_list = _find_all_files(JSON_FILE_IN, {".json"})
+        html_list = _find_all_files(XHTML_FILE_IN, _HTML_EXTS)
+        if not json_list:
+            print(f"[ERR] JSON 폴더에 처리할 파일이 없습니다: {JSON_FILE_IN}")
+            return
+        if not html_list:
+            print(f"[ERR] HTML 폴더에 처리할 파일이 없습니다: {XHTML_FILE_IN}")
+            return
 
-    print(f"\n[DONE] 총 JSON {total}개 중 {matched}개 매칭/병합 완료. 출력 루트: {OUT_DIR}")
+        html_index = _index_by_stem(html_list)
+        total = 0
+        ok_cnt = 0
+        print(f"[BATCH] JSON={len(json_list)} / HTML={len(html_list)} (pair by stem)")
+        for j in json_list:
+            total += 1
+            html_path = _choose_html_for_json(j, html_index, html_list)
+            if not html_path:
+                print(f"  [SKIP] 매칭 HTML 없음: {j}")
+                continue
+            out_path = _output_path_for_json(OUT_DIR, JSON_FILE_IN, j)
+            ok = _process_pair(j, html_path, out_path)
+            if ok: ok_cnt += 1
+        print(f"[DONE] 배치 병합 완료. 성공 {ok_cnt}/{total}, 출력 루트: {OUT_DIR}")
+        return
+
+    # ===== 케이스 C: 파일 × 폴더 =====
+    if json_is_file and html_is_dir:
+        html_list = _find_all_files(XHTML_FILE_IN, _HTML_EXTS)
+        if not html_list:
+            print(f"[ERR] HTML 폴더에 파일이 없습니다: {XHTML_FILE_IN}")
+            return
+        html_index = _index_by_stem(html_list)
+        html_path = _choose_html_for_json(JSON_FILE_IN, html_index, html_list)
+        if not html_path:
+            print(f"[ERR] 매칭 HTML을 찾지 못했습니다(파일명 stem 기준): {JSON_FILE_IN.name}")
+            return
+        out_path = OUT_DIR / f"{JSON_FILE_IN.stem}_merge.json"
+        print(f"[PAIR] {JSON_FILE_IN.name}  <->  {html_path.name}")
+        ok = _process_pair(JSON_FILE_IN, html_path, out_path)
+        if ok:
+            print(f"[DONE] 병합 완료. 출력: {out_path}")
+        return
+
+    # ===== 케이스 D: 폴더 × 파일 =====
+    if json_is_dir and html_is_file:
+        json_list = _find_all_files(JSON_FILE_IN, {".json"})
+        if not json_list:
+            print(f"[ERR] JSON 폴더에 처리할 파일이 없습니다: {JSON_FILE_IN}")
+            return
+        # html이 단일 파일이면 모두 같은 html에 매칭 (또는 stem 일치하는 것만)
+        # 우선 stem이 일치하는 json만 먼저 처리, 없으면 전체에 공통 적용
+        html_stem = _norm_stem(XHTML_FILE_IN)
+        matched = [j for j in json_list if _norm_stem(j) == html_stem]
+        targets = matched if matched else json_list
+        ok_cnt = 0
+        for j in targets:
+            out_path = _output_path_for_json(OUT_DIR, JSON_FILE_IN, j)
+            ok = _process_pair(j, XHTML_FILE_IN, out_path)
+            if ok: ok_cnt += 1
+        print(f"[DONE] 폴더×단일 병합 완료. 성공 {ok_cnt}/{len(targets)}, 출력 루트: {OUT_DIR}")
+        return
+
+    print("[ERR] 입력 경로 조합을 판별할 수 없습니다. 설정을 확인하세요.")
 
 # ===== 엔트리포인트 =====
 if __name__ == "__main__":
-    folder_main()
+    main()

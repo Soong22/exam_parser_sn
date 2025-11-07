@@ -1,81 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      91,
-      153,
-      173,
-      190
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 57,
-      "end_orig": 63,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "직업탐구 영역(성공적인 직업생활)",
-    "bbox": [
-      205,
-      143,
-      692,
-      203
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      339,
-      209,
-      597,
-      237
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a658e2a6e0680c9e3fdf049250259f43ff0428f091b3cb97d59f5288a2d33db8.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
-    "text": "제[ ] 선택",
-    "bbox": [
-      615,
-      211,
-      700,
-      236
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 86,
-      "end_orig": 93,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. 다음 사례에 나타난 직업인 A,  B 씨의 직업 가치관에 대한 설명 으로 적절한 것만을 <보기>에서 있는 대로 고른 것은?",
     "bbox": [
       86,
@@ -93,21 +18,6 @@
       "end_orig": 185,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      98,
-      304,
-      404,
-      453
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>A씨:2대째한식집을운영하신부모님을본받아가업을계승하여 자랑스럽습니다.평소 직업 선택에 있어 경제적 보상은 물론 근무 환경도 중요하다고 생각해서 직원들의 복리 후생에도 신경 쓰고 있습니다.</td></tr><tr><td>B씨: 어려서부터 새로운 것을 경험하길 좋아했습니다.저의 흥미와 적성에 맞는 직업을 찾아 상품 기획 전문가가 되었습니다.지금은 다양한 분야를 경험하며 만족스러운 직업 생활을 하고 있습니다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "f8a4ef3f6b38ba5ad75c12404760088f9115ec6e2b53053317e96102dbdcaf0f.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -191,7 +101,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② C ③ ㄱ, ㄴ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "① 7 ② C ③ ㄱ, ㄴ ④ L, ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       96,
       561,
@@ -227,26 +137,6 @@
       "start_orig": 565,
       "end_orig": 599,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\sim ( \\tau \\gamma \\circ \\mathsf { I } )",
-    "bbox": [
-      341,
-      626,
-      380,
-      640
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -390,21 +280,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      104,
-      795,
-      399,
-      905
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>주제어</td><td rowspan=1 colspan=1>정의</td><td rowspan=1 colspan=1>하위 영역</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>업무를수행함에있어원만한 직업생활을위해 필요한 태도, 매너, 올바른 직업관</td><td rowspan=1 colspan=1>근로 윤리,공동체윤리</td></tr><tr><td rowspan=1 colspan=1>(나)</td><td rowspan=1 colspan=1>업무수행 중문제상황이발생하였을경우,창조적이고 논리적인 사고를 통하여 이를올바르게 인식하고적절히해결하는 능력</td><td rowspan=1 colspan=1>사고력,문제처리능력</td></tr><tr><td rowspan=1 colspan=1>대인관계능력</td><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>갈등관리능력고객 서비스능력</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "1f75ad321ddc351d184006b140fc9bd0e40a935bc97cfd6d69383568c9853a39.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "3. 다음은 [○○회사 워라밸 포인트 산정 결과 안내]이다.  이를 통해",
     "bbox": [
@@ -485,35 +360,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      473,
-      376,
-      727,
-      454
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>구분</td><td colspan=\"2\">실적(인원)</td><td>획득 포인트</td></tr><tr><td>가육아휴직</td><td rowspan=\"3\">5 8</td><td rowspan=\"3\">명 명</td><td>1,000</td></tr><tr><td>육아기 근로시간 단축</td><td>480</td></tr><tr><td>탄력적 근로시간제 13</td><td>260</td></tr><tr><td>선택적 근로시간제</td><td>25</td><td>명 명</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "411becd0fb78f45955485324ae5f0235cf1db0279d50fed611804a3e61ddf892.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      576,
-      471,
-      622,
-      485
-    ],
-    "page_idx": 0,
-    "image_path": "d47d33d378169498bec5a9ad114e9d42b0c1bf154a62bc4099b256142b277f4c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "ㄱ. ○○회사는 ｢독점 규제 및 공정거래에 관한 법률｣에 따른 상호출자제한기업집단에 속하는 기업이다.\n",
     "bbox": [
@@ -551,26 +397,6 @@
       "start_orig": 1453,
       "end_orig": 1516,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 }",
-    "bbox": [
-      698,
-      539,
-      711,
-      552
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -614,26 +440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      574,
-      606,
-      596,
-      619
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " ○○회사가 획득한 포인트는",
     "bbox": [
@@ -651,26 +457,6 @@
       "start_orig": 1609,
       "end_orig": 1624,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "2 5 0 \\circ",
-    "bbox": [
-      705,
-      606,
-      730,
-      619
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -695,7 +481,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② C ③ ㄱ, ㄴ ④ ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② C ③ 7,L ④ L,ㄷ ⑤ ㄱ,L,ㄷ",
     "bbox": [
       443,
       634,
@@ -734,26 +520,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { { 7 } h } )",
-    "bbox": [
-      601,
-      668,
-      619,
-      681
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에 들어갈 수 있는 내용으로 적절한 것만을 <보기>",
     "bbox": [
@@ -771,26 +537,6 @@
       "start_orig": 1692,
       "end_orig": 1720,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      546,
-      686,
-      555,
-      698
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -832,36 +578,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      451,
-      712,
-      745,
-      854
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>고용보험Q&amp;A게시판</td><td>0</td></tr><tr><td>질의</td><td>등록일:2024년8월1일 저는 26세이며,2022년 1월 1일 첫 직장인 OO전자(주)에 입사하여 주 5일 40시간, 결근 없이 근무하였으나 2023년 6월 30일에 회사가 폐업하여 일을 그만두게 되었습니다. 이직* 후 직무 전문성 향상을 위해 자비 부담으로 학원에서</td></tr><tr><td colspan=\"2\">1년 넘게 공부해 왔고 현재 재취업을 준비 중입니다. 고용 보험에 대하여 처음으로알아보고있는데,구직급여 수급</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "f7fca84bc00a3c162336552425855cfc5c44b64b08d893c16435cf73fc3760bf.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      454,
-      858,
-      739,
-      903
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td colspan=\"2\">* 이직():고용보험 피보험자인 근로자와 사업주 사이의 고용관계가 끝나게 되는 것</td></tr><tr><td></td><td>등록일:2024년 8월 2일</td></tr><tr><td>답변</td><td>(가)</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "91e2bcbb64492795b7c537d40244155e4ec27a05f751d7999ad0a76eae77524b.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -945,7 +661,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ④ ⑤",
+    "text": "① 7,L ② 7,ㄷ ③ ④ ⑤",
     "bbox": [
       97,
       1050,
@@ -1045,7 +761,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ\n구분 수정 전 사업 계획서 수정 후 사업 계획서\n기업 형태 ",
+    "text": "① 7 ② ㄷ ③ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ [5~6]다음은 무인점포 창업 사례이다.물음에 답하시오.",
     "bbox": [
       85,
       155,
@@ -1055,12 +771,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.4706,
+      "replaced": false,
+      "similarity": 0.25,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2162,
-      "end_orig": 2231,
-      "reason": "option_line_enumerator_match"
+      "start_orig": 7399,
+      "end_orig": 7453,
+      "reason": "low_similarity"
     }
   },
   {
@@ -1122,21 +838,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      93,
-      275,
-      399,
-      401
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>수정전 사업계획서</td><td rowspan=1 colspan=1>수정 후사업계획서</td></tr><tr><td rowspan=1 colspan=1>기업 형태</td><td rowspan=1 colspan=1>법인기업(유한회사)</td><td rowspan=1 colspan=1>개인 기업</td></tr><tr><td rowspan=1 colspan=1>창업방법</td><td rowspan=1 colspan=1>신규기업창업</td><td rowspan=1 colspan=1>프랜차이즈창업</td></tr><tr><td rowspan=1 colspan=1>창업자본</td><td rowspan=1 colspan=1>2,000만원</td><td rowspan=1 colspan=1>2,000만원</td></tr><tr><td rowspan=1 colspan=1>자금용도</td><td rowspan=1 colspan=1>시설 구축비: 1,400만원인건비:200만원재료비:400만원</td><td rowspan=1 colspan=1>장비 구입비: 1,450만원광고비: 50만원재료비: 500만원</td></tr><tr><td rowspan=1 colspan=1>자금조달계획</td><td rowspan=1 colspan=1>무이자정책자금대출금: 1,200만원공동 창업자 출자금:800만 원</td><td rowspan=1 colspan=1>소상공인 대출금 : 1,000만 원A의 퇴직금: 1,000만 원</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a7b6325bef6afc66f7f57b0df30e3c6ea7809ac498cdb5cf9b7237270908e7b3.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1700,7 +1401,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ③ ㄱ, ㄴ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "① 7 ② ③ ㄱ, ㄴ ④ L, ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       424,
@@ -1739,26 +1440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { N C S ^ { o } } \\mathrm { \\Phi }",
-    "bbox": [
-      445,
-      475,
-      480,
-      489
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한 내용으로 옳은 것만을",
     "bbox": [
@@ -1776,26 +1457,6 @@
       "start_orig": 3306,
       "end_orig": 3320,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\angle 1 = 1 2",
-    "bbox": [
-      613,
-      475,
-      653,
-      489
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1879,26 +1540,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "> 0 2",
-    "bbox": [
-      518,
-      559,
-      540,
-      570
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "축산",
     "bbox": [
@@ -1916,26 +1557,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "> 0 1",
-    "bbox": [
-      561,
-      559,
-      583,
-      570
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1959,41 +1580,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\cdot > [ ( 7 1 ) ] > [ ( 4 )",
-    "bbox": [
-      638,
-      556,
-      721,
-      573
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      547,
-      581,
-      735,
-      615
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>2402010806_18v1 반려견 예절교육(수준3)</td></tr><tr><td></td></tr><tr><td>2402010807_18v1 보조견훈련(수준5)</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "7dc109673b49f67e470f5482c4cf1ab01ac504bbef6865e7b7617e36886ab8b9.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "<보기",
     "bbox": [
@@ -2011,26 +1597,6 @@
       "start_orig": 4469,
       "end_orig": 4472,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      614,
-      630,
-      623,
-      641
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2086,11 +1652,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9487,
+      "similarity": 0.9231,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3409,
       "end_orig": 3459,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -2106,16 +1672,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9385,
+      "similarity": 0.9231,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3459,
       "end_orig": 3536,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ㄴ, ④ ㄴ, ㄹ ⑤",
+    "text": "① 7,L ② 7,ㄷ ③ L, ④ L,2 ⑤",
     "bbox": [
       445,
       758,
@@ -2374,26 +1940,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      254,
-      177,
-      264,
-      189
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?",
     "bbox": [
@@ -2535,7 +2081,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄷ ③ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② ㄷ ③ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       431,
@@ -2571,26 +2117,6 @@
       "start_orig": 4430,
       "end_orig": 4468,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\angle 1 = 1 7 7 ^ { \\circ }",
-    "bbox": [
-      97,
-      496,
-      137,
-      510
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2735,7 +2261,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "① 7 ② ㄷ ③ ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       97,
       722,
@@ -2774,26 +2300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      164,
-      789,
-      174,
-      801
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 골라 수립 절차 순서대로 옮게 배열한 것은?",
     "bbox": [
@@ -2812,21 +2318,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      101,
-      811,
-      402,
-      907
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td</table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "4cab02f33f7ab57cb7881814b37f66d3c1035b3e0c164f996a28db54be86b1c9.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2930,7 +2421,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ-L-C-2 ②ㄱ-2-L-ㄷ ③ㄴ-7-ㄷ-2 ④ㄴ-7-2-ㄷ ⑤ㄷ-2-7-L",
+    "text": "① 7-L-C-2 ②7-2-L-ㄷ ③ㄴ-7-ㄷ-2 ④ㄴ-7-2-ㄷ ⑤ㄷ-2-7-L",
     "bbox": [
       96,
       1017,
@@ -3369,26 +2860,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      269,
-      177,
-      279,
-      189
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?  (단,  갑과 을은 통상 근로자에 해당하고,  단체 협약 및 취업 규칙은 고려하지 않는다.)  [3점] ",
     "bbox": [
@@ -3407,23 +2878,6 @@
       "end_orig": 6445,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      102,
-      256,
-      400,
-      371
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명(상시 근로자 수)</td><td rowspan=1 colspan=1>A문구(4명)</td><td rowspan=1 colspan=1>B서점(30명)</td></tr><tr><td rowspan=1 colspan=1>근로자</td><td rowspan=1 colspan=1>갑(남,22세)</td><td rowspan=1 colspan=1>을(남,28세)</td></tr><tr><td rowspan=1 colspan=1>근로계약 기간</td><td rowspan=1 colspan=1>2023.1.1.부터2023.6.30.까지</td><td rowspan=1 colspan=1>2023.1.1.부터(신입 사원으로업무 개시)</td></tr><tr><td rowspan=1 colspan=1>소정근로시간(휴게시간)</td><td rowspan=1 colspan=1>9시~18시(12시~13시)</td><td rowspan=1 colspan=1>9시~17시(12시~13시)</td></tr><tr><td rowspan=1 colspan=1>근무일/휴일</td><td rowspan=1 colspan=2>매주 월~금요일/주휴일매주일요일</td></tr><tr><td rowspan=1 colspan=1>임금</td><td rowspan=1 colspan=2>시급20,000원</td></tr></table>",
-    "table_caption": [
-      "[갑,을의 근로계약 내용]"
-    ],
-    "table_footnote": [],
-    "image_path": "5ccf63d81175d83e807bb8fce78985d1a7ad9b13fc909238fc3392666f394272.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3484,21 +2938,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      117,
-      426,
-      393,
-      479
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td>갑</td><td>·월~금요일:소정근로시간을 모두 근무 ·일요일:10시~15시까지 근무(휴게시간12시~13시)</td></tr><tr><td>을</td><td>·월~수요일:소정근로시간을 모두 근무 ·목~금요일:9시~20시까지 근무(휴게시간12시~13시,18시~19시)</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "03dc323327c9ed13365f47cf04b70a4f06deb7ac4fb3a2b045ae11bcb70fba83.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3581,26 +3020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "80 \\%",
-    "bbox": [
-      278,
-      550,
-      300,
-      563
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "이상 출근 시 을에게 2024년의 연차 유급휴가 15일을 주어야 한다.\n",
     "bbox": [
@@ -3622,7 +3041,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ. A 문구 사용자와 B 서점 사용자는 긴박한 경영상의 어려움을 이유로 근로자를 해고할 경우 해고사유와 해고시기를 서면으로 통지해야 한다.",
+    "text": "ㄹ. A 문구 사용자와 B 서점 사용자는 긴박한 경영상의 어려움을 이유로 근로자를 해고할 경우 해고사유와 해고시기를 서면으로 통지해야 한다.\n",
     "bbox": [
       106,
       582,
@@ -3633,16 +3052,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9833,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7012,
-      "end_orig": 7090,
-      "reason": "passed_threshold_no_ws"
+      "end_orig": 7091,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ④ ㄴ2 ⑤",
+    "text": "① 7,L ② 7,ㄷ ③ ④ L2 ⑤",
     "bbox": [
       97,
       645,
@@ -3719,20 +3138,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      345,
-      740,
-      398,
-      795
-    ],
-    "page_idx": 3,
-    "image_path": "30ea8eae114344e4585b0172677f056f344abe0f77e431bb31870e11334ca573.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3835,50 +3240,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      108,
-      889,
-      240,
-      923
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>학생A</td><td rowspan=1 colspan=1>학생B</td><td rowspan=1 colspan=1>학생C</td></tr><tr><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "582c11766dd32ae73b936c5227ba7773d43beb2cc6888ef1fe8f1fa0288fcaef.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      260,
-      875,
-      394,
-      923
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=3>·학생이 작성한 답지</td></tr><tr><td rowspan=1 colspan=1>학생A</td><td rowspan=1 colspan=1>학생B</td><td rowspan=1 colspan=1>학생C</td></tr><tr><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "fafc38a3bbe74a1a61535728dd40c824960d3795ece880fb53b1dfb7e79162db.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      227,
-      938,
-      274,
-      951
-    ],
-    "page_idx": 3,
-    "image_path": "c5d88ad6e42cc5e29f5dcc1f7e02b7e02310fb33288f7b7def8136759de431ea.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "ㄱ. ㉮는 학습 근로자 유형에 따라 재학생 단계와 재직자 단계로 구분하여 운영된다.\n",
     "bbox": [
@@ -3920,7 +3281,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. 최종점수의 합계가 높은 학생부터 순서대로 나열하면 학생 A,  B,  C  순이다.",
+    "text": "ㄷ. 최종점수의 합계가 높은 학생부터 순서대로 나열하면 학생 A,  B,  C  순이다.\n",
     "bbox": [
       108,
       1005,
@@ -3931,16 +3292,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9714,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7291,
-      "end_orig": 7340,
-      "reason": "passed_threshold_no_ws"
+      "end_orig": 7341,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② ㄷ ③ 7,L ④L,ㄷ ⑤ ㄱ,L,ㄷ",
     "bbox": [
       95,
       1050,
@@ -3950,32 +3311,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 8625,
-      "end_orig": 8660,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 1 9 \\sim 2 0 ]",
-    "bbox": [
-      434,
-      156,
-      482,
-      172
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -4017,21 +3358,6 @@
       "end_orig": 7421,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      454,
-      211,
-      747,
-      487
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td></td><td>A(55세, 경영자) 어려서부터 가죽 공예에 흥미가 있었고,적성 검사 결과를 고려해 디자인학과에 진학하였다.졸업 후 구두 시장 분석을 토대로 개인 고객별 맞춤 수제화 전문 업체인 OO제화(상시 근로자 6명)를 단독 출자하여 창업 후, 계속 본인이 경영하고 있다.</td></tr><tr><td></td><td>B(25세, 신입 사원) A의 아들로, 학창 시절 뚜렷한 진로 목표 없이 방황하였다.이후 어머니의 강력한 권유에 따라 구두 수선 직업 교육을 수료한 후OO제화의 신입 사원 으로입사하였으나,낮선 직원들 사이에서적응에 어려움을 겪고있다.</td></tr><tr><td></td><td>C(18세, 고등학생) 학교의 직업인 초청 특강에서 만난 A의 창업 이야기에 매료되어 그 순간 가죽 공예 디자이너가 되기로 결심하였다.이후 OO제화에서 현장실습생 으로서 주 5일,1일 7시간씩 교육·훈련을 받는 중이다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "3a40197301c9f2bf040c8ff15f1097a26221d4d56a53a68a522ba4f7525e5297.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -4114,26 +3440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      675,
-      585,
-      698,
-      599
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " ○○제화에 대해 분석한 내용으로 가장 적절한 것은?  (단,  의사 결정 유형은 하렌 (Harren,  V.  A.)의 진로 의사 결정 유형 이론에 근거한 합리적, 직관적,  의존적 유형으로만 구분한다.)",
     "bbox": [
@@ -4191,26 +3497,6 @@
       "start_orig": 8156,
       "end_orig": 8165,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      526,
-      676,
-      549,
-      690
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4395,7 +3681,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       974,
@@ -4405,12 +3691,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8625,
-      "end_orig": 8660,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -4451,6 +3737,720 @@
       "start_orig": 8670,
       "end_orig": 8710,
       "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      91,
+      153,
+      173,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 57,
+      "end_orig": 63,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "직업탐구 영역(성공적인 직업생활)",
+    "bbox": [
+      205,
+      143,
+      692,
+      203
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제[ ] 선택",
+    "bbox": [
+      615,
+      211,
+      700,
+      236
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 86,
+      "end_orig": 93,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      339,
+      209,
+      597,
+      237
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a658e2a6e0680c9e3fdf049250259f43ff0428f091b3cb97d59f5288a2d33db8.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      98,
+      304,
+      404,
+      453
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>A씨:2대째한식집을운영하신부모님을본받아가업을계승하여 자랑스럽습니다.평소 직업 선택에 있어 경제적 보상은 물론 근무 환경도 중요하다고 생각해서 직원들의 복리 후생에도 신경 쓰고 있습니다.</td></tr><tr><td>B씨: 어려서부터 새로운 것을 경험하길 좋아했습니다.저의 흥미와 적성에 맞는 직업을 찾아 상품 기획 전문가가 되었습니다.지금은 다양한 분야를 경험하며 만족스러운 직업 생활을 하고 있습니다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "f8a4ef3f6b38ba5ad75c12404760088f9115ec6e2b53053317e96102dbdcaf0f.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\sim ( \\tau \\gamma \\circ \\mathsf { I } )",
+    "bbox": [
+      341,
+      626,
+      380,
+      640
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      104,
+      795,
+      399,
+      905
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>주제어</td><td rowspan=1 colspan=1>정의</td><td rowspan=1 colspan=1>하위 영역</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>업무를수행함에있어원만한 직업생활을위해 필요한 태도, 매너, 올바른 직업관</td><td rowspan=1 colspan=1>근로 윤리,공동체윤리</td></tr><tr><td rowspan=1 colspan=1>(나)</td><td rowspan=1 colspan=1>업무수행 중문제상황이발생하였을경우,창조적이고 논리적인 사고를 통하여 이를올바르게 인식하고적절히해결하는 능력</td><td rowspan=1 colspan=1>사고력,문제처리능력</td></tr><tr><td rowspan=1 colspan=1>대인관계능력</td><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>갈등관리능력고객 서비스능력</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "1f75ad321ddc351d184006b140fc9bd0e40a935bc97cfd6d69383568c9853a39.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      473,
+      376,
+      727,
+      454
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>구분</td><td colspan=\"2\">실적(인원)</td><td>획득 포인트</td></tr><tr><td>가육아휴직</td><td rowspan=\"3\">5 8</td><td rowspan=\"3\">명 명</td><td>1,000</td></tr><tr><td>육아기 근로시간 단축</td><td>480</td></tr><tr><td>탄력적 근로시간제 13</td><td>260</td></tr><tr><td>선택적 근로시간제</td><td>25</td><td>명 명</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "411becd0fb78f45955485324ae5f0235cf1db0279d50fed611804a3e61ddf892.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      576,
+      471,
+      622,
+      485
+    ],
+    "page_idx": 0,
+    "image_path": "d47d33d378169498bec5a9ad114e9d42b0c1bf154a62bc4099b256142b277f4c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 }",
+    "bbox": [
+      698,
+      539,
+      711,
+      552
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      574,
+      606,
+      596,
+      619
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 5 0 \\circ",
+    "bbox": [
+      705,
+      606,
+      730,
+      619
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { { 7 } h } )",
+    "bbox": [
+      601,
+      668,
+      619,
+      681
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      546,
+      686,
+      555,
+      698
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      451,
+      712,
+      745,
+      854
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>고용보험Q&amp;A게시판</td><td>0</td></tr><tr><td>질의</td><td>등록일:2024년8월1일 저는 26세이며,2022년 1월 1일 첫 직장인 OO전자(주)에 입사하여 주 5일 40시간, 결근 없이 근무하였으나 2023년 6월 30일에 회사가 폐업하여 일을 그만두게 되었습니다. 이직* 후 직무 전문성 향상을 위해 자비 부담으로 학원에서</td></tr><tr><td colspan=\"2\">1년 넘게 공부해 왔고 현재 재취업을 준비 중입니다. 고용 보험에 대하여 처음으로알아보고있는데,구직급여 수급</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "f7fca84bc00a3c162336552425855cfc5c44b64b08d893c16435cf73fc3760bf.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      858,
+      739,
+      903
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td colspan=\"2\">* 이직():고용보험 피보험자인 근로자와 사업주 사이의 고용관계가 끝나게 되는 것</td></tr><tr><td></td><td>등록일:2024년 8월 2일</td></tr><tr><td>답변</td><td>(가)</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "91e2bcbb64492795b7c537d40244155e4ec27a05f751d7999ad0a76eae77524b.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      93,
+      275,
+      399,
+      401
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>수정전 사업계획서</td><td rowspan=1 colspan=1>수정 후사업계획서</td></tr><tr><td rowspan=1 colspan=1>기업 형태</td><td rowspan=1 colspan=1>법인기업(유한회사)</td><td rowspan=1 colspan=1>개인 기업</td></tr><tr><td rowspan=1 colspan=1>창업방법</td><td rowspan=1 colspan=1>신규기업창업</td><td rowspan=1 colspan=1>프랜차이즈창업</td></tr><tr><td rowspan=1 colspan=1>창업자본</td><td rowspan=1 colspan=1>2,000만원</td><td rowspan=1 colspan=1>2,000만원</td></tr><tr><td rowspan=1 colspan=1>자금용도</td><td rowspan=1 colspan=1>시설 구축비: 1,400만원인건비:200만원재료비:400만원</td><td rowspan=1 colspan=1>장비 구입비: 1,450만원광고비: 50만원재료비: 500만원</td></tr><tr><td rowspan=1 colspan=1>자금조달계획</td><td rowspan=1 colspan=1>무이자정책자금대출금: 1,200만원공동 창업자 출자금:800만 원</td><td rowspan=1 colspan=1>소상공인 대출금 : 1,000만 원A의 퇴직금: 1,000만 원</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a7b6325bef6afc66f7f57b0df30e3c6ea7809ac498cdb5cf9b7237270908e7b3.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { N C S ^ { o } } \\mathrm { \\Phi }",
+    "bbox": [
+      445,
+      475,
+      480,
+      489
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle 1 = 1 2",
+    "bbox": [
+      613,
+      475,
+      653,
+      489
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "> 0 2",
+    "bbox": [
+      518,
+      559,
+      540,
+      570
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "> 0 1",
+    "bbox": [
+      561,
+      559,
+      583,
+      570
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\cdot > [ ( 7 1 ) ] > [ ( 4 )",
+    "bbox": [
+      638,
+      556,
+      721,
+      573
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      547,
+      581,
+      735,
+      615
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>2402010806_18v1 반려견 예절교육(수준3)</td></tr><tr><td></td></tr><tr><td>2402010807_18v1 보조견훈련(수준5)</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "7dc109673b49f67e470f5482c4cf1ab01ac504bbef6865e7b7617e36886ab8b9.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      614,
+      630,
+      623,
+      641
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      254,
+      177,
+      264,
+      189
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle 1 = 1 7 7 ^ { \\circ }",
+    "bbox": [
+      97,
+      496,
+      137,
+      510
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      164,
+      789,
+      174,
+      801
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      101,
+      811,
+      402,
+      907
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td</table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "4cab02f33f7ab57cb7881814b37f66d3c1035b3e0c164f996a28db54be86b1c9.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      269,
+      177,
+      279,
+      189
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      102,
+      256,
+      400,
+      371
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명(상시 근로자 수)</td><td rowspan=1 colspan=1>A문구(4명)</td><td rowspan=1 colspan=1>B서점(30명)</td></tr><tr><td rowspan=1 colspan=1>근로자</td><td rowspan=1 colspan=1>갑(남,22세)</td><td rowspan=1 colspan=1>을(남,28세)</td></tr><tr><td rowspan=1 colspan=1>근로계약 기간</td><td rowspan=1 colspan=1>2023.1.1.부터2023.6.30.까지</td><td rowspan=1 colspan=1>2023.1.1.부터(신입 사원으로업무 개시)</td></tr><tr><td rowspan=1 colspan=1>소정근로시간(휴게시간)</td><td rowspan=1 colspan=1>9시~18시(12시~13시)</td><td rowspan=1 colspan=1>9시~17시(12시~13시)</td></tr><tr><td rowspan=1 colspan=1>근무일/휴일</td><td rowspan=1 colspan=2>매주 월~금요일/주휴일매주일요일</td></tr><tr><td rowspan=1 colspan=1>임금</td><td rowspan=1 colspan=2>시급20,000원</td></tr></table>",
+    "table_caption": [
+      "[갑,을의 근로계약 내용]"
+    ],
+    "table_footnote": [],
+    "image_path": "5ccf63d81175d83e807bb8fce78985d1a7ad9b13fc909238fc3392666f394272.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      117,
+      426,
+      393,
+      479
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td>갑</td><td>·월~금요일:소정근로시간을 모두 근무 ·일요일:10시~15시까지 근무(휴게시간12시~13시)</td></tr><tr><td>을</td><td>·월~수요일:소정근로시간을 모두 근무 ·목~금요일:9시~20시까지 근무(휴게시간12시~13시,18시~19시)</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "03dc323327c9ed13365f47cf04b70a4f06deb7ac4fb3a2b045ae11bcb70fba83.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "80 \\%",
+    "bbox": [
+      278,
+      550,
+      300,
+      563
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      345,
+      740,
+      398,
+      795
+    ],
+    "page_idx": 3,
+    "image_path": "30ea8eae114344e4585b0172677f056f344abe0f77e431bb31870e11334ca573.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      108,
+      889,
+      240,
+      923
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>학생A</td><td rowspan=1 colspan=1>학생B</td><td rowspan=1 colspan=1>학생C</td></tr><tr><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "582c11766dd32ae73b936c5227ba7773d43beb2cc6888ef1fe8f1fa0288fcaef.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      260,
+      875,
+      394,
+      923
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=3>·학생이 작성한 답지</td></tr><tr><td rowspan=1 colspan=1>학생A</td><td rowspan=1 colspan=1>학생B</td><td rowspan=1 colspan=1>학생C</td></tr><tr><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "fafc38a3bbe74a1a61535728dd40c824960d3795ece880fb53b1dfb7e79162db.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      227,
+      938,
+      274,
+      951
+    ],
+    "page_idx": 3,
+    "image_path": "c5d88ad6e42cc5e29f5dcc1f7e02b7e02310fb33288f7b7def8136759de431ea.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 1 9 \\sim 2 0 ]",
+    "bbox": [
+      434,
+      156,
+      482,
+      172
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      211,
+      747,
+      487
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td></td><td>A(55세, 경영자) 어려서부터 가죽 공예에 흥미가 있었고,적성 검사 결과를 고려해 디자인학과에 진학하였다.졸업 후 구두 시장 분석을 토대로 개인 고객별 맞춤 수제화 전문 업체인 OO제화(상시 근로자 6명)를 단독 출자하여 창업 후, 계속 본인이 경영하고 있다.</td></tr><tr><td></td><td>B(25세, 신입 사원) A의 아들로, 학창 시절 뚜렷한 진로 목표 없이 방황하였다.이후 어머니의 강력한 권유에 따라 구두 수선 직업 교육을 수료한 후OO제화의 신입 사원 으로입사하였으나,낮선 직원들 사이에서적응에 어려움을 겪고있다.</td></tr><tr><td></td><td>C(18세, 고등학생) 학교의 직업인 초청 특강에서 만난 A의 창업 이야기에 매료되어 그 순간 가죽 공예 디자이너가 되기로 결심하였다.이후 OO제화에서 현장실습생 으로서 주 5일,1일 7시간씩 교육·훈련을 받는 중이다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "3a40197301c9f2bf040c8ff15f1097a26221d4d56a53a68a522ba4f7525e5297.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      675,
+      585,
+      698,
+      599
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      526,
+      676,
+      549,
+      690
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
     }
   }
 ]

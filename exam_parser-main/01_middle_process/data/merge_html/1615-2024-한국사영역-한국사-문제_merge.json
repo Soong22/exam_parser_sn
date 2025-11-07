@@ -1,66 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제4교시",
-    "bbox": [
-      92,
-      153,
-      173,
-      190
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "한국사 영역",
-    "bbox": [
-      311,
-      144,
-      529,
-      201
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "홀수형",
-    "bbox": [
-      675,
-      167,
-      753,
-      205
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. 밑줄 친 ‘이 시대’에 대한 설명으로 옳은 것은?",
     "bbox": [
       86,
@@ -138,20 +78,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      292,
-      405,
-      424
-    ],
-    "page_idx": 0,
-    "image_path": "11bdea5c1776bfa7f0c07a61de3d7c01b43e666be012695005b781846826560b.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -255,7 +181,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ.",
+    "text": "2.",
     "bbox": [
       85,
       555,
@@ -265,32 +191,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { ^ { 7 } H } )",
-    "bbox": [
-      106,
-      558,
-      124,
-      572
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 125,
+      "end_orig": 127,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -311,26 +217,6 @@
       "start_orig": 133,
       "end_orig": 158,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\vdash ) } }",
-    "bbox": [
-      128,
-      595,
-      147,
-      609
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -774,20 +660,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      452,
-      303,
-      735,
-      451
-    ],
-    "page_idx": 0,
-    "image_path": "485372a315acfd7885c10add98188c5dafb14e32099cc40fbb17d8dbc615b444.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 훈요 10조를 남겼다.\n",
     "bbox": [
@@ -908,20 +780,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      450,
-      782,
-      751,
-      975
-    ],
-    "page_idx": 0,
-    "image_path": "30a0665828c4faec571fc378953d75025729281d0b4e1b097552e658b66c7991.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 대가야를 정복하였어.\n",
     "bbox": [
@@ -1040,20 +898,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      100,
-      186,
-      400,
-      372
-    ],
-    "page_idx": 1,
-    "image_path": "f03ae6301a29e829d605c9232cd6843927a6bd843e57ebfe0224b1aa13c8743e.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1237,7 +1081,7 @@
   },
   {
     "type": "text",
-    "text": ". (가)에 들어갈 내용으로 가장 적절한 것은?  [3점]\n",
+    "text": "7. (가)에 들어갈 내용으로 가장 적절한 것은?  [3점]\n",
     "bbox": [
       86,
       751,
@@ -1248,26 +1092,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9796,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1262,
-      "end_orig": 1295,
+      "start_orig": 5579,
+      "end_orig": 5613,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      781,
-      395,
-      977
-    ],
-    "page_idx": 1,
-    "image_path": "f42e908001d4c6d634f2d2301898877a51948c5ad469c9e42ac5037658836166.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1490,26 +1320,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { ^ { 7 } H } )",
-    "bbox": [
-      454,
-      430,
-      472,
-      443
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "운동에 대한 설명으로 옳은 것은?",
     "bbox": [
@@ -1570,26 +1380,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\underline { { \\overline { { ( 7 \\mathsf { F } ) } } } }",
-    "bbox": [
-      518,
-      489,
-      536,
-      502
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "기록물,세계 기록 유산 등재 확정 프랑스 파리에서 열린 제216차 유네스코 집행 이사회는",
     "bbox": [
@@ -1607,26 +1397,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\underline { { \\overline { { ( 7 \\mathsf { F } ) } } } }",
-    "bbox": [
-      680,
-      511,
-      698,
-      524
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1688,38 +1458,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      460,
-      594,
-      589,
-      669
-    ],
-    "page_idx": 1,
-    "image_path": "97aceddf0a031b5a05dea3a15d06f5ae8bf1ff5543c165a793584d21d3bb8b3b.jpg",
-    "alt": "",
-    "caption": [
-      "대접주임명장"
-    ],
-    "original_type": "image"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      598,
-      595,
-      738,
-      669
-    ],
-    "page_idx": 1,
-    "image_path": "2f46da10821c5ef29996e033b96cd611281b0a363c72bd9b29f7e2a9165071ea.jpg",
-    "alt": "",
-    "caption": [
-      "농민군의 편지"
-    ],
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1882,20 +1620,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      673,
-      874,
-      750,
-      979
-    ],
-    "page_idx": 1,
-    "image_path": "904be3444436bc81a55b44acc94dcf3923991846ca06f66ed57dd2136e777880.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 호포제가 실시되었다.\n",
     "bbox": [
@@ -1953,26 +1677,6 @@
       "start_orig": 6266,
       "end_orig": 6270,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "4 \\cdot 3",
-    "bbox": [
-      486,
-      1021,
-      511,
-      1034
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2054,20 +1758,6 @@
       "end_orig": 6342,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      102,
-      185,
-      398,
-      351
-    ],
-    "page_idx": 2,
-    "image_path": "d54c618cbc8a0618dbd11c93f839001270b7e76b312317979771582a35fb023b.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2390,26 +2080,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "5 \\cdot 1 8",
-    "bbox": [
-      111,
-      705,
-      142,
-      719
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "민주화 운동의 영향을 조사한다.",
     "bbox": [
@@ -2648,20 +2318,6 @@
       "end_orig": 2544,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      102,
-      781,
-      401,
-      977
-    ],
-    "page_idx": 2,
-    "image_path": "26fc22112e55855df525e46da3e2d3add613ed07649567f5dff3bb80d466bb35.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2984,26 +2640,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 7 } )",
-    "bbox": [
-      112,
-      158,
-      131,
-      172
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "군대에 대한 설명으로 옳은 것은?",
     "bbox": [
@@ -3224,26 +2860,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 7 } )",
-    "bbox": [
-      112,
-      478,
-      131,
-      492
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "선거에 대한 설명으로 옳은 것은?  [3점] ",
     "bbox": [
@@ -3281,26 +2897,6 @@
       "start_orig": 7686,
       "end_orig": 7737,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\vdash ) } }",
-    "bbox": [
-      338,
-      570,
-      357,
-      583
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3724,20 +3320,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      447,
-      244,
-      752,
-      431
-    ],
-    "page_idx": 3,
-    "image_path": "248cc97f27726d543a60f1b69f0fad9b820b9317d4e3887944818f80f7b9c56d.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 3․1  민주 구국 선언을 발표하였다.\n",
     "bbox": [
@@ -3775,26 +3357,6 @@
       "start_orig": 8400,
       "end_orig": 8401,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "4 \\cdot 1 3",
-    "bbox": [
-      460,
-      458,
-      491,
-      471
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3855,26 +3417,6 @@
       "start_orig": 8450,
       "end_orig": 8451,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "6 \\cdot 1 0",
-    "bbox": [
-      460,
-      491,
-      491,
-      504
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3976,20 +3518,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      447,
-      685,
-      752,
-      835
-    ],
-    "page_idx": 3,
-    "image_path": "01f6b13bd25e4b0a4b5b09f45174b5505dcdf170fdbe3079dda554b9d4aa9b0c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -4192,20 +3720,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      97,
-      292,
-      405,
-      424
-    ],
-    "page_idx": 4,
-    "image_path": "6cc5df0b2dfc05d01eaad5182866c2865c8e0067db17a4732de77fbc175ec60d.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 비파형 동검이 제작되었다.\n",
     "bbox": [
@@ -4307,7 +3821,7 @@
   },
   {
     "type": "text",
-    "text": ". (가)  국가에 대한 설명으로 옳은 것은?  [3점] ",
+    "text": "2. (가)  국가에 대한 설명으로 옳은 것은?  [3점] ",
     "bbox": [
       85,
       555,
@@ -4318,31 +3832,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9778,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4444,
+      "start_orig": 4443,
       "end_orig": 4476,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\vdash ) } }",
-    "bbox": [
-      128,
-      595,
-      147,
-      609
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4786,20 +4280,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      452,
-      303,
-      735,
-      451
-    ],
-    "page_idx": 4,
-    "image_path": "2bda2d7bf15e50a66a89a4cee9d7af2b1f258590438c795e7bacb00161d4f2a9.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 훈요 10조를 남겼다.\n",
     "bbox": [
@@ -4920,20 +4400,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      450,
-      782,
-      751,
-      975
-    ],
-    "page_idx": 4,
-    "image_path": "57d60c5c02cf41f9021f064468ac08719f39fd1b49e74bb3df5d7d1676c82d25.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 대가야를 정복하였어.\n",
     "bbox": [
@@ -5052,20 +4518,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      100,
-      186,
-      400,
-      372
-    ],
-    "page_idx": 5,
-    "image_path": "b330b638a7319cb9c5a5af799378a2c518782352918ec1f4fe8aa3ea8c96be5e.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -5249,7 +4701,7 @@
   },
   {
     "type": "text",
-    "text": ". (가)에 들어갈 내용으로 가장 적절한 것은?  [3점]\n",
+    "text": "7. (가)에 들어갈 내용으로 가장 적절한 것은?  [3점]\n",
     "bbox": [
       86,
       751,
@@ -5260,26 +4712,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9796,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5580,
+      "start_orig": 5579,
       "end_orig": 5613,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      781,
-      395,
-      978
-    ],
-    "page_idx": 5,
-    "image_path": "0a7485e6d59a9dce81229303b6671af18a8e4fc030018178d1a34ea1920113d7.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -5502,26 +4940,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { ^ { 7 } H } )",
-    "bbox": [
-      454,
-      430,
-      472,
-      443
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "운동에 대한 설명으로 옳은 것은?",
     "bbox": [
@@ -5582,26 +5000,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\underline { { \\overline { { ( 7 \\mathsf { F } ) } } } }",
-    "bbox": [
-      518,
-      489,
-      536,
-      502
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "기록물,세계 기록 유산 등재 확정 프랑스 파리에서 열린 제216차 유네스코 집행 이사회는",
     "bbox": [
@@ -5619,26 +5017,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\underline { { \\overline { { ( 7 \\mathsf { F } ) } } } }",
-    "bbox": [
-      680,
-      511,
-      698,
-      524
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5700,38 +5078,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      460,
-      594,
-      589,
-      669
-    ],
-    "page_idx": 5,
-    "image_path": "9fc71d92df2bd740e9eee4a0b516a5310e0cbd72caf850914a09eee3d2179e3d.jpg",
-    "alt": "",
-    "caption": [
-      "대접주임명장"
-    ],
-    "original_type": "image"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      598,
-      595,
-      738,
-      669
-    ],
-    "page_idx": 5,
-    "image_path": "b4fbb2bf263e5556b8f2eabb46d2b676820235b69c627c60df3e366a24347be2.jpg",
-    "alt": "",
-    "caption": [
-      "농민군의 편지"
-    ],
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -5894,20 +5240,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      674,
-      874,
-      750,
-      979
-    ],
-    "page_idx": 5,
-    "image_path": "ad9da73dc42a88588179077c8020750b3f51192d51c15bae4867dd54bbc7a85e.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 반민족 행위 특별 조사 위원회가 설치되었다.\n",
     "bbox": [
@@ -5965,26 +5297,6 @@
       "start_orig": 6266,
       "end_orig": 6270,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "4 \\cdot 3",
-    "bbox": [
-      486,
-      1020,
-      511,
-      1034
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -6066,20 +5378,6 @@
       "end_orig": 6342,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      102,
-      185,
-      398,
-      351
-    ],
-    "page_idx": 6,
-    "image_path": "8bc5d82e523229a4dd510738f66e993f7ef6f9e079b710b78149acb48dc0de27.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -6402,26 +5700,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "5 \\cdot 1 8",
-    "bbox": [
-      111,
-      705,
-      142,
-      719
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "민주화 운동의 영향을 조사한다.",
     "bbox": [
@@ -6660,20 +5938,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      102,
-      781,
-      401,
-      977
-    ],
-    "page_idx": 6,
-    "image_path": "e834a0a00cc82d89a803d404f26e8530a987a217186d581b58f365ac2e78025a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -6996,26 +6260,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 7 } )",
-    "bbox": [
-      112,
-      158,
-      131,
-      172
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "군대에 대한 설명으로 옳은 것은?",
     "bbox": [
@@ -7236,26 +6480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 7 } )",
-    "bbox": [
-      112,
-      478,
-      131,
-      492
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "선거에 대한 설명으로 옳은 것은?  [3점] ",
     "bbox": [
@@ -7293,26 +6517,6 @@
       "start_orig": 7686,
       "end_orig": 7737,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\vdash ) } }",
-    "bbox": [
-      338,
-      570,
-      357,
-      583
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -7736,20 +6940,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      447,
-      244,
-      752,
-      431
-    ],
-    "page_idx": 7,
-    "image_path": "d56afa51851f00f8d67dacab5174c184b9679e938e3db23cdded954a9ee7f862.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 3․1  민주 구국 선언을 발표하였다.\n",
     "bbox": [
@@ -7787,26 +6977,6 @@
       "start_orig": 8400,
       "end_orig": 8401,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "4 \\cdot 1 3",
-    "bbox": [
-      460,
-      458,
-      491,
-      471
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -7867,26 +7037,6 @@
       "start_orig": 8450,
       "end_orig": 8451,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "6 \\cdot 1 0",
-    "bbox": [
-      460,
-      491,
-      491,
-      504
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -7990,20 +7140,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      447,
-      685,
-      752,
-      835
-    ],
-    "page_idx": 7,
-    "image_path": "1f693aa0ad282154ad2b49524db62c01a0a6d74157abbf04798cc377e4dd65e8.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "(가) (나) (다) (라) (마) 8·15 6·25 5·16 유신헌법 남북한 6·15 광복 전쟁발발 군사정변 공포 유엔 남북 동시가입 공동선언",
     "bbox": [
@@ -8062,5 +7198,869 @@
       "end_orig": 8635,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제4교시",
+    "bbox": [
+      92,
+      153,
+      173,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "한국사 영역",
+    "bbox": [
+      311,
+      144,
+      529,
+      201
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "홀수형",
+    "bbox": [
+      675,
+      167,
+      753,
+      205
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      292,
+      405,
+      424
+    ],
+    "page_idx": 0,
+    "image_path": "11bdea5c1776bfa7f0c07a61de3d7c01b43e666be012695005b781846826560b.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { ^ { 7 } H } )",
+    "bbox": [
+      106,
+      558,
+      124,
+      572
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\vdash ) } }",
+    "bbox": [
+      128,
+      595,
+      147,
+      609
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      452,
+      303,
+      735,
+      451
+    ],
+    "page_idx": 0,
+    "image_path": "485372a315acfd7885c10add98188c5dafb14e32099cc40fbb17d8dbc615b444.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      450,
+      782,
+      751,
+      975
+    ],
+    "page_idx": 0,
+    "image_path": "30a0665828c4faec571fc378953d75025729281d0b4e1b097552e658b66c7991.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      100,
+      186,
+      400,
+      372
+    ],
+    "page_idx": 1,
+    "image_path": "f03ae6301a29e829d605c9232cd6843927a6bd843e57ebfe0224b1aa13c8743e.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      781,
+      395,
+      977
+    ],
+    "page_idx": 1,
+    "image_path": "f42e908001d4c6d634f2d2301898877a51948c5ad469c9e42ac5037658836166.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { ^ { 7 } H } )",
+    "bbox": [
+      454,
+      430,
+      472,
+      443
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\underline { { \\overline { { ( 7 \\mathsf { F } ) } } } }",
+    "bbox": [
+      518,
+      489,
+      536,
+      502
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\underline { { \\overline { { ( 7 \\mathsf { F } ) } } } }",
+    "bbox": [
+      680,
+      511,
+      698,
+      524
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      460,
+      594,
+      589,
+      669
+    ],
+    "page_idx": 1,
+    "image_path": "97aceddf0a031b5a05dea3a15d06f5ae8bf1ff5543c165a793584d21d3bb8b3b.jpg",
+    "alt": "",
+    "caption": [
+      "대접주임명장"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      598,
+      595,
+      738,
+      669
+    ],
+    "page_idx": 1,
+    "image_path": "2f46da10821c5ef29996e033b96cd611281b0a363c72bd9b29f7e2a9165071ea.jpg",
+    "alt": "",
+    "caption": [
+      "농민군의 편지"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      673,
+      874,
+      750,
+      979
+    ],
+    "page_idx": 1,
+    "image_path": "904be3444436bc81a55b44acc94dcf3923991846ca06f66ed57dd2136e777880.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "4 \\cdot 3",
+    "bbox": [
+      486,
+      1021,
+      511,
+      1034
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      102,
+      185,
+      398,
+      351
+    ],
+    "page_idx": 2,
+    "image_path": "d54c618cbc8a0618dbd11c93f839001270b7e76b312317979771582a35fb023b.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "5 \\cdot 1 8",
+    "bbox": [
+      111,
+      705,
+      142,
+      719
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      102,
+      781,
+      401,
+      977
+    ],
+    "page_idx": 2,
+    "image_path": "26fc22112e55855df525e46da3e2d3add613ed07649567f5dff3bb80d466bb35.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 7 } )",
+    "bbox": [
+      112,
+      158,
+      131,
+      172
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 7 } )",
+    "bbox": [
+      112,
+      478,
+      131,
+      492
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\vdash ) } }",
+    "bbox": [
+      338,
+      570,
+      357,
+      583
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      244,
+      752,
+      431
+    ],
+    "page_idx": 3,
+    "image_path": "248cc97f27726d543a60f1b69f0fad9b820b9317d4e3887944818f80f7b9c56d.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "4 \\cdot 1 3",
+    "bbox": [
+      460,
+      458,
+      491,
+      471
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "6 \\cdot 1 0",
+    "bbox": [
+      460,
+      491,
+      491,
+      504
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      685,
+      752,
+      835
+    ],
+    "page_idx": 3,
+    "image_path": "01f6b13bd25e4b0a4b5b09f45174b5505dcdf170fdbe3079dda554b9d4aa9b0c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      292,
+      405,
+      424
+    ],
+    "page_idx": 4,
+    "image_path": "6cc5df0b2dfc05d01eaad5182866c2865c8e0067db17a4732de77fbc175ec60d.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\vdash ) } }",
+    "bbox": [
+      128,
+      595,
+      147,
+      609
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      452,
+      303,
+      735,
+      451
+    ],
+    "page_idx": 4,
+    "image_path": "2bda2d7bf15e50a66a89a4cee9d7af2b1f258590438c795e7bacb00161d4f2a9.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      450,
+      782,
+      751,
+      975
+    ],
+    "page_idx": 4,
+    "image_path": "57d60c5c02cf41f9021f064468ac08719f39fd1b49e74bb3df5d7d1676c82d25.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      100,
+      186,
+      400,
+      372
+    ],
+    "page_idx": 5,
+    "image_path": "b330b638a7319cb9c5a5af799378a2c518782352918ec1f4fe8aa3ea8c96be5e.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      781,
+      395,
+      978
+    ],
+    "page_idx": 5,
+    "image_path": "0a7485e6d59a9dce81229303b6671af18a8e4fc030018178d1a34ea1920113d7.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { ^ { 7 } H } )",
+    "bbox": [
+      454,
+      430,
+      472,
+      443
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\underline { { \\overline { { ( 7 \\mathsf { F } ) } } } }",
+    "bbox": [
+      518,
+      489,
+      536,
+      502
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\underline { { \\overline { { ( 7 \\mathsf { F } ) } } } }",
+    "bbox": [
+      680,
+      511,
+      698,
+      524
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      460,
+      594,
+      589,
+      669
+    ],
+    "page_idx": 5,
+    "image_path": "9fc71d92df2bd740e9eee4a0b516a5310e0cbd72caf850914a09eee3d2179e3d.jpg",
+    "alt": "",
+    "caption": [
+      "대접주임명장"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      598,
+      595,
+      738,
+      669
+    ],
+    "page_idx": 5,
+    "image_path": "b4fbb2bf263e5556b8f2eabb46d2b676820235b69c627c60df3e366a24347be2.jpg",
+    "alt": "",
+    "caption": [
+      "농민군의 편지"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      674,
+      874,
+      750,
+      979
+    ],
+    "page_idx": 5,
+    "image_path": "ad9da73dc42a88588179077c8020750b3f51192d51c15bae4867dd54bbc7a85e.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "4 \\cdot 3",
+    "bbox": [
+      486,
+      1020,
+      511,
+      1034
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      102,
+      185,
+      398,
+      351
+    ],
+    "page_idx": 6,
+    "image_path": "8bc5d82e523229a4dd510738f66e993f7ef6f9e079b710b78149acb48dc0de27.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "5 \\cdot 1 8",
+    "bbox": [
+      111,
+      705,
+      142,
+      719
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      102,
+      781,
+      401,
+      977
+    ],
+    "page_idx": 6,
+    "image_path": "e834a0a00cc82d89a803d404f26e8530a987a217186d581b58f365ac2e78025a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 7 } )",
+    "bbox": [
+      112,
+      158,
+      131,
+      172
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 7 } )",
+    "bbox": [
+      112,
+      478,
+      131,
+      492
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\vdash ) } }",
+    "bbox": [
+      338,
+      570,
+      357,
+      583
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      244,
+      752,
+      431
+    ],
+    "page_idx": 7,
+    "image_path": "d56afa51851f00f8d67dacab5174c184b9679e938e3db23cdded954a9ee7f862.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "4 \\cdot 1 3",
+    "bbox": [
+      460,
+      458,
+      491,
+      471
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "6 \\cdot 1 0",
+    "bbox": [
+      460,
+      491,
+      491,
+      504
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      685,
+      752,
+      835
+    ],
+    "page_idx": 7,
+    "image_path": "1f693aa0ad282154ad2b49524db62c01a0a6d74157abbf04798cc377e4dd65e8.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

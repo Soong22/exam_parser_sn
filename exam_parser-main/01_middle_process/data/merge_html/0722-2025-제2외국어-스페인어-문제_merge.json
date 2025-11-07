@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제5교시",
-    "bbox": [
-      91,
-      153,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "제2외국어/한문 영역(스페인어 I)",
-    "bbox": [
-      187,
-      146,
-      706,
-      202
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      392,
-      210,
-      651,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a94fb9fc894593d306ae33180970c048d8bc6d225d53a2a263882ad85bdf8c35.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 밑줄 친 낱말과 강세의 위치가 같은 것은?  [1점] ",
     "bbox": [
       86,
@@ -73,21 +18,6 @@
       "end_orig": 36,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      96,
-      279,
-      393,
-      346
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td></td><td>iLe deseo un feliz año nuevo 2025!</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "865a3de7e8585f344204cb03ac6c5c93b1f7de3abbc3feab8e85cb7ee903c845.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -211,7 +141,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ. 밑줄 친 낱말의 철자가 옳지 않은 것은?",
+    "text": "2. 밑줄 친 낱말의 철자가 옳지 않은 것은?",
     "bbox": [
       85,
       411,
@@ -248,20 +178,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      445,
-      204,
-      567
-    ],
-    "page_idx": 0,
-    "image_path": "6b062aebbd3e33433f0542b3dc6e90414455a6939212ddca9bf7b9d6494855a0.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -365,7 +281,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄷama ② sofa ③ banco ④ ㄷuarto ⑤ jardin",
+    "text": "① cama ② sofa ③ banco ④ cuarto ⑤ jardin",
     "bbox": [
       97,
       707,
@@ -558,8 +474,8 @@
       "replaced": true,
       "similarity": 0.9474,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8133,
-      "end_orig": 8158,
+      "start_orig": 822,
+      "end_orig": 847,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -636,16 +552,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.7778,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2398,
+      "end_orig": 2407,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "① ㄷena ②ㄷocina ③ ㄷuenta ④ visita ⑤pregunta",
+    "text": "① cena ②cocina ③ cuenta ④ visita ⑤pregunta",
     "bbox": [
       97,
       1032,
@@ -656,11 +572,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.25,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1943,
+      "end_orig": 1948,
+      "reason": "low_similarity"
     }
   },
   {
@@ -676,11 +592,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.1613,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1943,
+      "end_orig": 1948,
+      "reason": "low_similarity"
     }
   },
   {
@@ -904,22 +820,8 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      454,
-      999,
-      741,
-      1065
-    ],
-    "page_idx": 0,
-    "image_path": "e1a46d70533b033a804950c643d8713e53176951b18f2c0393879d9fdcea8455.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "0. 게시문의 목적으로 알맞은 것은?  [1점] ",
+    "text": "10. 게시문의 목적으로 알맞은 것은?  [1점] ",
     "bbox": [
       86,
       157,
@@ -930,26 +832,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9756,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1673,
+      "start_orig": 1672,
       "end_orig": 1700,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      150,
-      190,
-      195,
-      241
-    ],
-    "page_idx": 1,
-    "image_path": "2ab440e26a9cdd07660e6f16a87e4c98d988862cc6510d4e4cbfa68e8b1f15df.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -963,17 +851,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1700,
+      "end_orig": 1720,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "– Horario: de 13:00 a 21:00 – Dos dias libres seguidos por semana – Buen ambiente de trabajo",
+    "text": "  Horario:  de  13:00  a  21:00\n-  Dos  días  libres  seguidos  por  semana\n-  Buen  ambiente  de  trabajo",
     "bbox": [
       149,
       252,
@@ -983,12 +871,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.953,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1722,
+      "end_orig": 1828,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1003,17 +891,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1829,
+      "end_orig": 1839,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "– Hablar español e inglés – Vivir en la ciudad de Sevilla",
+    "text": "  Hablar  español  e  inglés\n-  Vivir  en  la  ciudad  de  Sevilla",
     "bbox": [
       148,
       321,
@@ -1023,17 +911,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.967,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1841,
+      "end_orig": 1907,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "Hotel Reina (Sevilla, España) 81234567",
+    "text": "Hotel  Reina (Sevilla,  España) ☎  1234567\n①",
     "bbox": [
       174,
       359,
@@ -1043,12 +931,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9565,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1908,
+      "end_orig": 1952,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1068,7 +956,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1951,
       "end_orig": 2000,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -1089,26 +977,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "> 0 \\dot { }",
-    "bbox": [
-      317,
-      503,
-      334,
-      516
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1133,7 +1001,7 @@
   },
   {
     "type": "text",
-    "text": "A: jHola, Carlos! Perdón por llegar tarde. Es que hay mucho tráfico.",
+    "text": "A: ¡Hola,  Carlos! Perdón  por  llegar  tarde.  Es  que  hay mucho  tráfico. ",
     "bbox": [
       105,
       530,
@@ -1143,17 +1011,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9825,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2038,
+      "end_orig": 2115,
+      "reason": "anchor_rescue"
     }
   },
   {
     "type": "text",
-    "text": "B:. Yo también acabo de llegar.",
+    "text": "B: .  Yo  también  acabo  de  llegar.",
     "bbox": [
       104,
       565,
@@ -1163,12 +1031,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2115,
+      "end_orig": 2152,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1193,7 +1061,7 @@
   },
   {
     "type": "text",
-    "text": "a. No pasa nada b. No hay problema ㄷ. No es para ti d. No tengo sueño ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a.  No  pasa  nada  b.  No  hay  problema\nc.  No  es  para  ti d.  No  tengo  sueño\n① a,  b ② a,  d ③ b,  c ④ b,  d ⑤ c,  d",
     "bbox": [
       97,
       613,
@@ -1203,12 +1071,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2160,
+      "end_orig": 2283,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1223,17 +1091,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2284,
+      "end_orig": 2306,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: Esta maleta pesa mucho. iMe puede ayudar a bajarla, por favor?",
+    "text": "A: Esta  maleta  pesa  mucho.  ¿Me  puede  ayudar  a  bajarla, por  favor? B:",
     "bbox": [
       105,
       748,
@@ -1243,12 +1111,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9636,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2307,
+      "end_orig": 2384,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1273,7 +1141,7 @@
   },
   {
     "type": "text",
-    "text": "① Silencio ② Un abrazo ③ Buen provecho ④ Con mucho gusto ⑤ De ninguna manera",
+    "text": "① Silencio ② Un  abrazo\n③ Buen  provecho ④ Con  mucho  gusto\n⑤ De  ninguna  manera",
     "bbox": [
       97,
       827,
@@ -1283,12 +1151,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2408,
+      "end_orig": 2490,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1303,17 +1171,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2491,
+      "end_orig": 2526,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: Abuela, quiero más helado.",
+    "text": "A: Abuela,  quiero  más  helado.",
     "bbox": [
       106,
       954,
@@ -1323,17 +1191,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2527,
+      "end_orig": 2559,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "B: iAy, no! Si comes tanto helado, sin lugar a dudas, te va a doler el estómago.",
+    "text": "B: ¡Ay,  no!  Si  comes  tanto  helado,  sin  lugar  a  dudas,  te va  a  doler  el  estómago.\n",
     "bbox": [
       105,
       970,
@@ -1343,17 +1211,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9844,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2560,
+      "end_orig": 2655,
+      "reason": "anchor_rescue"
     }
   },
   {
     "type": "text",
-    "text": "① en seguida ② atentamente ③ ㄷiertamente ④ por un lado ⑤ de vez en cuando",
+    "text": "① en  seguida ② atentamente\n③ ciertamente ④ por  un  lado\n⑤ de  vez  en  cuando",
     "bbox": [
       97,
       1015,
@@ -1363,12 +1231,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2655,
+      "end_orig": 2734,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1383,17 +1251,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2735,
+      "end_orig": 2764,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: Disculpe. iEstá lejos de aqu el hospital San Isidro?",
+    "text": "A: Disculpe.  ¿Está  lejos  de  aquí  el  hospital  San  Isidro?\n",
     "bbox": [
       454,
       187,
@@ -1403,17 +1271,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9677,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2765,
+      "end_orig": 2830,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "B: No, no esta tan lejos. Gire a la izquierda al final de la calle. Est al lado del parque.",
+    "text": "B: No,  no  está  tan  lejos.  Gire  a  la  izquierda  al  final  de la  calle.  Está  al  lado  del  parque. ",
     "bbox": [
       453,
       205,
@@ -1423,17 +1291,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.1286,
+      "replaced": true,
+      "similarity": 0.9793,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7555,
-      "end_orig": 7650,
-      "reason": "low_similarity"
+      "start_orig": 2830,
+      "end_orig": 2940,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: Gracias, muy amable.",
+    "text": "A: Gracias,  muy  amable.",
     "bbox": [
       455,
       240,
@@ -1443,17 +1311,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2940,
+      "end_orig": 2965,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "① ② ③ ④ ⑤ \" ↑ → N ↓",
+    "text": "① ② ③ ④ ⑤\n",
     "bbox": [
       460,
       268,
@@ -1463,17 +1331,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2966,
+      "end_orig": 2976,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
     "type": "text",
-    "text": "15.빈칸에 들어갈 말로 알맞은것을<보기",
+    "text": "15. 빈칸에 들어갈 말로 알맞은 것을 <보기",
     "bbox": [
       435,
       353,
@@ -1483,32 +1351,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      651,
-      355,
-      661,
-      366
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 2976,
+      "end_orig": 3001,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1523,17 +1371,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3002,
+      "end_orig": 3024,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: Restaurante El Patio. En qué puedo servirle?",
+    "text": "A: Restaurante  El  Patio.  ¿En  qué  puedo  servirle?",
     "bbox": [
       455,
       401,
@@ -1543,12 +1391,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9877,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3025,
+      "end_orig": 3079,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1604,16 +1452,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.3529,
+      "similarity": 0.6275,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7033,
-      "end_orig": 7065,
+      "start_orig": 3144,
+      "end_orig": 3179,
       "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "B: A: De acuerdo. A esa hora si tenemos una mesa para tres. iA nombre de quién quiere la reserva?",
+    "text": "B: . A: De  acuerdo.  A  esa  hora  sí  tenemos  una  mesa  para tres.  ¿A  nombre  de  quién  quiere  la  reserva?\nB:",
     "bbox": [
       453,
       488,
@@ -1623,12 +1471,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.956,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3164,
+      "end_orig": 3282,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1653,7 +1501,7 @@
   },
   {
     "type": "text",
-    "text": "<보 기>",
+    "text": "<보  기>",
     "bbox": [
       574,
       567,
@@ -1663,17 +1511,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3303,
+      "end_orig": 3309,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "a. Para mañana, a las nueve b. Somos tres ㄷ. Quiero reservar una mesa",
+    "text": "a.  Para  mañana,  a  las  nueve\nb.  Somos  tres\nc.  Quiero  reservar  una  mesa",
     "bbox": [
       453,
       586,
@@ -1683,17 +1531,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3310,
+      "end_orig": 3390,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "① a−b-c ② b − a −c ③ b - c − a ④ ㄷ − a − b ⑤ ㄷ - b - a",
+    "text": "① a - b - c ② b - a - c ③ b - c - a\n④ c - a - b ⑤ c - b - a",
     "bbox": [
       445,
       647,
@@ -1703,12 +1551,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.8,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3391,
+      "end_orig": 3450,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -1723,17 +1571,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3451,
+      "end_orig": 3473,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: Oye, isabes que se ha cancelado el festival del café?",
+    "text": "A: Oye,  ¿sabes  que  se  ha  cancelado  el  festival  del  café?\n",
     "bbox": [
       454,
       737,
@@ -1743,17 +1591,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9783,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3474,
+      "end_orig": 3540,
+      "reason": "anchor_rescue"
     }
   },
   {
     "type": "text",
-    "text": "B: iEn serio? i ! iLo esperabamos tanto!",
+    "text": "B: ¿En  serio?  ¡ ! ¡Lo  esperábamos  tanto! ",
     "bbox": [
       453,
       754,
@@ -1763,17 +1611,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.8788,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3540,
+      "end_orig": 3585,
+      "reason": "anchor_rescue"
     }
   },
   {
     "type": "text",
-    "text": "A: Ni modo. Podemos ir el año que viene.",
+    "text": "A: Ni  modo.  Podemos  ir  el  año  que  viene.",
     "bbox": [
       454,
       771,
@@ -1783,17 +1631,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3585,
+      "end_orig": 3632,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "① Tal veZ ② Qué pena ③ Atención ④ Buena idea ⑤ Buena suerte",
+    "text": "① Tal  vez ② Qué  pena\n③  Atención ④ Buena  idea\n⑤ Buena  suerte",
     "bbox": [
       446,
       798,
@@ -1803,12 +1651,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3633,
+      "end_orig": 3697,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1823,12 +1671,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3698,
+      "end_orig": 3722,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1844,16 +1692,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.3352,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3766,
+      "end_orig": 3895,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "* alquilar: 임대하다",
+    "text": "* alquilar:  임대하다",
     "bbox": [
       665,
       1014,
@@ -1863,17 +1711,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3764,
+      "end_orig": 3781,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "① al mes ② en el mes ③ desde el mes ④ hasta el mes ⑤ antes del mes",
+    "text": "① al  mes ② en  el  mes ③ desde  el  mes\n④ hasta  el  mes ⑤ antes  del  mes",
     "bbox": [
       446,
       1032,
@@ -1883,17 +1731,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3782,
+      "end_orig": 3857,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "8. 영화표를 이해한 내용으로 알맞지 않은 것은?  [1점] ",
+    "text": "18. 영화표를 이해한 내용으로 알맞지 않은 것은?  [1점] ",
     "bbox": [
       85,
       156,
@@ -1904,9 +1752,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9804,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3859,
+      "start_orig": 3858,
       "end_orig": 3893,
       "reason": "passed_threshold_no_ws"
     }
@@ -1923,12 +1771,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3893,
+      "end_orig": 3899,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1953,7 +1801,7 @@
   },
   {
     "type": "text",
-    "text": "Personas: 2 - Adulto (G1, G2)",
+    "text": "Personas: 2 – Adulto  (G1,  G2)",
     "bbox": [
       160,
       348,
@@ -1963,17 +1811,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9583,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4040,
+      "end_orig": 4071,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "Total: 210 pesos Presentar este boleto al entrar a la sala.",
+    "text": ":  210 pesos Presentar  este  boleto  entrar  sala.\n",
     "bbox": [
       158,
       372,
@@ -1983,37 +1831,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.8864,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      342,
-      418,
-      349,
-      426
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 4077,
+      "end_orig": 4129,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "adulto: 성인",
+    "text": "adulto:  성인",
     "bbox": [
       349,
       415,
@@ -2023,12 +1851,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4131,
+      "end_orig": 4142,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2133,7 +1961,7 @@
   },
   {
     "type": "text",
-    "text": "19.빈칸에 들어갈 말로 가장 알맞은 것은?",
+    "text": "19. 빈칸에 들어갈 말로 가장 알맞은 것은?",
     "bbox": [
       86,
       570,
@@ -2143,12 +1971,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4248,
+      "end_orig": 4273,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2173,7 +2001,7 @@
   },
   {
     "type": "text",
-    "text": "B: jUf! Es una novela muy larga, ino?",
+    "text": "B: ¡Uf! Es  una  novela  muy  larga,  ¿no?\n",
     "bbox": [
       105,
       636,
@@ -2183,12 +2011,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4359,
+      "end_orig": 4402,
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -2204,16 +2032,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0855,
+      "similarity": 0.5477,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6653,
-      "end_orig": 6820,
+      "start_orig": 4476,
+      "end_orig": 4655,
       "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "① al pan, pan y al vino, vino ② voz del pueblo, voz del cielo ③ quien tiene boca, se equivoca ④ muchos pocos hacen un mucho ⑤ ojos que no ven, corazón que no siente",
+    "text": "① al  pan,  pan  y  al  vino,  vino\n② voz  del  pueblo,  voz  del  cielo\n③ quien  tiene  boca,  se  equivoca\n④ muchos  pocos  hacen  un  mucho\n⑤ ojos  que  no  ven,  corazón  que  no  siente",
     "bbox": [
       97,
       734,
@@ -2223,12 +2051,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4574,
+      "end_orig": 4764,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2293,7 +2121,7 @@
   },
   {
     "type": "text",
-    "text": "A: Yo tengo dieciséis.",
+    "text": "A: Yo  tengo  dieciséis.",
     "bbox": [
       105,
       934,
@@ -2303,12 +2131,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4835,
+      "end_orig": 4859,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2333,7 +2161,7 @@
   },
   {
     "type": "text",
-    "text": "① Te llevo un año ② Soy menor que tú ③ Tenemos la misma edad ④ Somos de la tercera edad ⑤ Tengo un año menos que tu",
+    "text": "① Te  llevo  un  año\n② Soy  menor  que  tú\n③ Tenemos  la  misma  edad\n④ Somos  de  la  tercera  edad\n⑤ Tengo  un  año  menos  que  tú",
     "bbox": [
       97,
       979,
@@ -2343,12 +2171,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9886,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4883,
+      "end_orig": 5016,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2363,31 +2191,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5017,
+      "end_orig": 5039,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      446,
-      182,
-      754,
-      367
-    ],
-    "page_idx": 2,
-    "image_path": "faf1107f54742fcd234de6a59d97ad3608eed56ee0e25be269fd7a83dfbe9fb4.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "① Qué mal ② ㄴo siento ③ Buen viaje ④ Con permiso ⑤ Por supuesto",
+    "text": "① Qué  mal ② Lo  siento ③ Buen  viaje\n④ Con  permiso ⑤ Por  supuesto",
     "bbox": [
       446,
       370,
@@ -2397,17 +2211,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5110,
+      "end_orig": 5178,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "2. 글에서 설명하고 있는 것은?  [1점]\n",
+    "text": "22. 글에서 설명하고 있는 것은?  [1점]\n",
     "bbox": [
       434,
       434,
@@ -2418,9 +2232,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.973,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5180,
+      "start_orig": 5179,
       "end_orig": 5205,
       "reason": "passed_threshold_no_ws"
     }
@@ -2467,7 +2281,7 @@
   },
   {
     "type": "text",
-    "text": "Es una de las obras maestras de Antonio Gaudi y el lugar ms visitado de Barcelona.",
+    "text": "◦ Es  una  de  las  obras  maestras  de Antonio  Gaudí  y  el  lugar  más visitado  de  Barcelona.\n",
     "bbox": [
       573,
       465,
@@ -2477,17 +2291,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9706,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5205,
+      "end_orig": 5304,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "o Se empezó a construir en 1882 y todavía está en construcción.",
+    "text": "◦ Se  empezó  a  construir  en  1882  y todavía  está  en  construcción.\n",
     "bbox": [
       573,
       518,
@@ -2497,17 +2311,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9808,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5304,
+      "end_orig": 5377,
+      "reason": "anchor_rescue"
     }
   },
   {
     "type": "text",
-    "text": "Su interior se parece a las formas de la naturaleza.",
+    "text": "◦ Su  interior  se  parece  a  las  formas de  la  naturaleza.",
     "bbox": [
       572,
       551,
@@ -2517,17 +2331,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9885,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5377,
+      "end_orig": 5439,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "* construcción:건축",
+    "text": "* construcción:  건축",
     "bbox": [
       577,
       591,
@@ -2537,37 +2351,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      677,
-      594,
-      685,
-      603
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 5440,
+      "end_orig": 5459,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "interior: 내부 ① ㄴa Giralda ② ㄴa Alhambra ③ ㄴa Sagrada Familia ④ el Museo del Prado ⑤ el Monasterio de El Escorial",
+    "text": "interior:  내부\n① la  Giralda ② la  Alhambra\n③ la  Sagrada  Familia ④ el  Museo  del  Prado\n⑤ el  Monasterio  de  El  Escorial",
     "bbox": [
       446,
       591,
@@ -2577,17 +2371,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5463,
+      "end_orig": 5587,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "23.'pan con tomate'에 관한 대화를이해한 내용으로 알맞은 것만을",
+    "text": "23. ‘pan  con  tomate’에  관한  대화를  이해한  내용으로  알맞은 것만을",
     "bbox": [
       434,
       697,
@@ -2597,32 +2391,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9444,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\angle 1 = 7 7 ^ { \\circ }",
-    "bbox": [
-      482,
-      718,
-      522,
-      732
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 5588,
+      "end_orig": 5640,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2637,17 +2411,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5645,
+      "end_orig": 5654,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "A: He probado el pan con tomate durante mi viaje por España. No puedo olvidar su sabor. iSabes cómo hacerlo?",
+    "text": "A: He  probado  el  pan  con  tomate  durante  mi  viaje  por España.  No  puedo  olvidar  su  sabor.  ¿Sabes  cómo hacerlo?\nB:",
     "bbox": [
       455,
       746,
@@ -2657,17 +2431,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9778,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5655,
+      "end_orig": 5782,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "B: jClaro que si! No es nada dificil prepararlo. Primero cortas el pan y hay que tostarlo. Después frotas medio diente de ajo en el pan.",
+    "text": "B: ¡Claro  que  sí! No  es  nada  difícil  prepararlo.  Primero cortas  el  pan  y  hay  que  tostarlo.  Después  frotas medio  diente  de  ajo  en  el  pan. ",
     "bbox": [
       454,
       798,
@@ -2677,12 +2451,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.973,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5780,
+      "end_orig": 5938,
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -2707,7 +2481,7 @@
   },
   {
     "type": "text",
-    "text": "B: Cortas un tomate en dos y lo frotas sobre el pan. Por ültimo, pones un poco de aceite de oliva y sal. iY listo!",
+    "text": "B: Cortas  un  tomate  en  dos  y  lo  frotas  sobre  el  pan.  Por último,  pones  un  poco  de  aceite  de  oliva  y  sal.  ¡Y  listo! A:",
     "bbox": [
       453,
       866,
@@ -2717,12 +2491,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.967,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5952,
+      "end_orig": 6091,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2747,7 +2521,7 @@
   },
   {
     "type": "text",
-    "text": "* tostar:굽다 * frotar: 문지르다",
+    "text": "* tostar:  굽다  * frotar:  문지르다",
     "bbox": [
       596,
       924,
@@ -2757,12 +2531,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6105,
+      "end_orig": 6135,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2847,7 +2621,7 @@
   },
   {
     "type": "text",
-    "text": "① a, b ② a, C ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "① a,  b ② a,  c ③ b,  c ④ b,  d ⑤ c,  d",
     "bbox": [
       446,
       1047,
@@ -2857,12 +2631,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6224,
+      "end_orig": 6263,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2966,26 +2740,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      243,
-      334,
-      252,
-      343
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "tropical:  열대의",
     "bbox": [
@@ -3003,26 +2757,6 @@
       "start_orig": 6815,
       "end_orig": 6829,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      329,
-      334,
-      338,
-      343
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3326,20 +3060,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      102,
-      806,
-      178,
-      903
-    ],
-    "page_idx": 3,
-    "image_path": "d754f9cefe11224ce6bba3343cd369fb07ad229831c5be0ce8fb7ba096a3bb93.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "Ángel  es  la  cascada  más  alta del  mundo.  Está  en  el  Parque  Nacional Canaima  de  Venezuela.  Hacer  un  viaje hasta  allí  no  es  simple  porque  hay  que cruzar  la  selva  para  llegar.  Algunos toman  una  avioneta  para  mirarlo  desde arriba.  Otros  prefieren  navegar  por  el  río  y  andar  varios kilómetros  para  mirarlo  desde  abajo.\n",
     "bbox": [
@@ -3380,26 +3100,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      237,
-      957,
-      246,
-      966
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "selva:  밀림",
     "bbox": [
@@ -3420,28 +3120,8 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      304,
-      957,
-      312,
-      966
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
-    "text": "avioneta:  경비행기\n① ¿De  dónde  viene  su  nombre?\n② ",
+    "text": "avioneta:  경비행기\n① ¿De  dónde  viene  su  nombre?\n",
     "bbox": [
       97,
       955,
@@ -3452,11 +3132,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9315,
+      "similarity": 0.9444,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7890,
-      "end_orig": 7941,
-      "reason": "passed_threshold_no_ws"
+      "end_orig": 7939,
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -3476,7 +3156,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7939,
       "end_orig": 7978,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3496,7 +3176,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7978,
       "end_orig": 8021,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3516,7 +3196,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8021,
       "end_orig": 8072,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3536,7 +3216,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 8072,
       "end_orig": 8122,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3600,22 +3280,8 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      446,
-      182,
-      526,
-      259
-    ],
-    "page_idx": 3,
-    "image_path": "aa00773fbeeb7adaddbae64c6444bb763b0a2ef53847ff57e50ad4f6e01eeb97.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "① ㄴava ② ㄴavar ③ ㄴavado ④ ㄴavados ⑤ ㄴavando",
+    "text": "① lava ② lavar ③ lavado\n④ lavados ⑤ lavando",
     "bbox": [
       446,
       263,
@@ -3625,12 +3291,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8212,
+      "end_orig": 8255,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3695,7 +3361,7 @@
   },
   {
     "type": "text",
-    "text": "① me ② ③ ㄴe ④ ㄴos ⑤ se",
+    "text": "① me ② ③ le ④ los ⑤ se",
     "bbox": [
       444,
       438,
@@ -4035,7 +3701,7 @@
   },
   {
     "type": "text",
-    "text": "① a ② ㄷ ③ a, b ④ b, c ⑤ a, b, c",
+    "text": "① a ② c ③ a,  b\n④ b,  c ⑤ a,  b,  c",
     "bbox": [
       446,
       914,
@@ -4045,12 +3711,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8971,
+      "end_orig": 9006,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4072,5 +3738,339 @@
       "end_orig": 9056,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제5교시",
+    "bbox": [
+      91,
+      153,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제2외국어/한문 영역(스페인어 I)",
+    "bbox": [
+      187,
+      146,
+      706,
+      202
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      392,
+      210,
+      651,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a94fb9fc894593d306ae33180970c048d8bc6d225d53a2a263882ad85bdf8c35.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      96,
+      279,
+      393,
+      346
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td></td><td>iLe deseo un feliz año nuevo 2025!</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "865a3de7e8585f344204cb03ac6c5c93b1f7de3abbc3feab8e85cb7ee903c845.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      445,
+      204,
+      567
+    ],
+    "page_idx": 0,
+    "image_path": "6b062aebbd3e33433f0542b3dc6e90414455a6939212ddca9bf7b9d6494855a0.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      454,
+      999,
+      741,
+      1065
+    ],
+    "page_idx": 0,
+    "image_path": "e1a46d70533b033a804950c643d8713e53176951b18f2c0393879d9fdcea8455.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      150,
+      190,
+      195,
+      241
+    ],
+    "page_idx": 1,
+    "image_path": "2ab440e26a9cdd07660e6f16a87e4c98d988862cc6510d4e4cbfa68e8b1f15df.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "> 0 \\dot { }",
+    "bbox": [
+      317,
+      503,
+      334,
+      516
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      651,
+      355,
+      661,
+      366
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      342,
+      418,
+      349,
+      426
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      182,
+      754,
+      367
+    ],
+    "page_idx": 2,
+    "image_path": "faf1107f54742fcd234de6a59d97ad3608eed56ee0e25be269fd7a83dfbe9fb4.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      677,
+      594,
+      685,
+      603
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle 1 = 7 7 ^ { \\circ }",
+    "bbox": [
+      482,
+      718,
+      522,
+      732
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      243,
+      334,
+      252,
+      343
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      329,
+      334,
+      338,
+      343
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      102,
+      806,
+      178,
+      903
+    ],
+    "page_idx": 3,
+    "image_path": "d754f9cefe11224ce6bba3343cd369fb07ad229831c5be0ce8fb7ba096a3bb93.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      237,
+      957,
+      246,
+      966
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      304,
+      957,
+      312,
+      966
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      182,
+      526,
+      259
+    ],
+    "page_idx": 3,
+    "image_path": "aa00773fbeeb7adaddbae64c6444bb763b0a2ef53847ff57e50ad4f6e01eeb97.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

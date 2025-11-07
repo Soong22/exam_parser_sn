@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      90,
-      153,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 56,
-      "end_orig": 62,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "과학탐구 영역(지구과학I)",
-    "bbox": [
-      226,
-      145,
-      617,
-      199
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      706,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a0fd4b7c2abea4faa020a473bd5ec1158ec036eda8e9c547af5d7b7ec75bb859.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 그림은 파도의 운동 에너지를 이용하는 어느 발전 방식을 나타낸 것이다",
     "bbox": [
       87,
@@ -75,20 +20,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      142,
-      299,
-      359,
-      359
-    ],
-    "page_idx": 0,
-    "image_path": "18687ece481e37a7921be48eb686fb29b807e312ed50ac45e09f82ea6ab713d5.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "이 발전 방식에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
@@ -106,26 +37,6 @@
       "start_orig": 142,
       "end_orig": 169,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      348,
-      370,
-      358,
-      381
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -230,7 +141,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄷ ③  ㄱ,  ㄴ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       487,
@@ -240,12 +151,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 256,
-      "end_orig": 296,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -267,20 +178,6 @@
       "end_orig": 348,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      100,
-      574,
-      404,
-      662
-    ],
-    "page_idx": 0,
-    "image_path": "1b32f6d76d2badb2d95c01b6d2cffd3f45efcecabaa6185501bb6ce332ad414a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -384,7 +281,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
     "bbox": [
       95,
       775,
@@ -394,12 +291,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 461,
-      "end_orig": 501,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -443,26 +340,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      183,
-      896,
-      193,
-      907
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -481,20 +358,6 @@
       "end_orig": 597,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      271,
-      836,
-      403,
-      965
-    ],
-    "page_idx": 0,
-    "image_path": "21d895ecf322ddfee7ae48ae8f695fe693f89f910ef576b88d4f7116ca3130e4.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -578,7 +441,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       96,
       1050,
@@ -588,12 +451,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 659,
-      "end_orig": 699,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -615,20 +478,6 @@
       "end_orig": 751,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      489,
-      298,
-      709,
-      387
-    ],
-    "page_idx": 0,
-    "image_path": "d28585f79edff2c28add2e80ea44324a3f0c0c3612fd6f51fa3b71f262c163b5.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -732,7 +581,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄷ ④  ㄱ,  ㄴ ⑤  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄷ ④ㄱ, ㄴ ⑤ㄴ, ㄷ",
     "bbox": [
       444,
       501,
@@ -742,12 +591,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 869,
-      "end_orig": 901,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -769,20 +618,6 @@
       "end_orig": 959,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      561,
-      545,
-      753,
-      642
-    ],
-    "page_idx": 0,
-    "image_path": "5e2233f9ee460d9c912ef4cdadafcefe6945c2d1cbac672052c35f846fe5371a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -946,7 +781,7 @@
   },
   {
     "type": "text",
-    "text": "①  ②  ③  ④  ⑤",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ L, ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       753,
@@ -956,12 +791,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.4545,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4078,
-      "end_orig": 4091,
-      "reason": "option_line_enumerator_match"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -983,20 +818,6 @@
       "end_orig": 1176,
       "reason": "anchor_rescue"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      480,
-      837,
-      719,
-      936
-    ],
-    "page_idx": 0,
-    "image_path": "6d208d8a27f4af477cae30ab4a821f9666a6a4b8182fa5ceaa7bdd8277c88bf5.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1100,7 +921,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       445,
       1049,
@@ -1110,17 +931,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1313,
-      "end_orig": 1353,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "7. 다음은 편광 현미경 관찰을 통해 화성암의 생성 환경을 알아보기 위한 탐구 활동의 일부이다. ",
+    "text": "7. 다음은 편광 현미경 관찰을 통해 화성암의 생성 환경을 알아보기 위한 탐구 활동의 일부이다.",
     "bbox": [
       86,
       158,
@@ -1131,11 +952,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.975,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1357,
-      "end_orig": 1411,
-      "reason": "anchor_rescue+left_extend"
+      "end_orig": 1410,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1259,21 +1080,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      116,
-      367,
-      383,
-      491
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>암석</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td></tr><tr><td rowspan=1 colspan=1>관찰한 모습</td><td rowspan=1 colspan=1>a배율: 40배</td><td rowspan=1 colspan=1>배율:40배</td></tr><tr><td rowspan=1 colspan=1>관찰한 광물</td><td rowspan=1 colspan=1>석영,장석,흑운모</td><td rowspan=1 colspan=1>석영,흑운모</td></tr><tr><td rowspan=1 colspan=1>조직</td><td rowspan=1 colspan=1>조립질 조직</td><td rowspan=1 colspan=1>반상 조직</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "1bff8b4e0027bca943187713da6acb45874ae5a89b796e0bbb315ae4fd0711a9.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "[결과 해석]",
     "bbox": [
@@ -1331,26 +1137,6 @@
       "start_orig": 1617,
       "end_orig": 1634,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "< 1 1 > 1 > 0 1 1",
-    "bbox": [
-      268,
-      556,
-      316,
-      569
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1415,7 +1201,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.광물 a는 광학적 이방체이다.",
+    "text": "ㄴ. 광물 ⓐ는 광학적 이방체이다.\n",
     "bbox": [
       107,
       630,
@@ -1425,12 +1211,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1695,
+      "end_orig": 1715,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1455,7 +1241,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       95,
       675,
@@ -1514,20 +1300,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      132,
-      830,
-      370,
-      922
-    ],
-    "page_idx": 1,
-    "image_path": "f2c623414f40bfcb2b90abeca4aebbba7f3da3f0d24048a662835ce4a1c15af2.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "이 자료에 대한 설명으로 옳은 것만을",
     "bbox": [
@@ -1545,26 +1317,6 @@
       "start_orig": 1899,
       "end_orig": 1919,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\angle 1 > 1",
-    "bbox": [
-      293,
-      931,
-      333,
-      945
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1669,7 +1421,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       1050,
@@ -1679,12 +1431,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2011,
-      "end_orig": 2051,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1728,28 +1480,8 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "S",
-    "bbox": [
-      684,
-      178,
-      695,
-      190
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
-    "text": "는 전체궤도 면적의",
+    "text": "는 전체 궤도 면적의",
     "bbox": [
       445,
       176,
@@ -1759,32 +1491,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\frac { 1 } { 8 } \\diamondsuit \\big \\vert",
-    "bbox": [
-      482,
-      195,
-      506,
-      221
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 2122,
+      "end_orig": 2133,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1808,20 +1520,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      510,
-      229,
-      688,
-      332
-    ],
-    "page_idx": 1,
-    "image_path": "e098792dcab494ddc95dd538c9e17cd067acba24fd8f0c782e797b15648af88c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "이 자료에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
@@ -1839,26 +1537,6 @@
       "start_orig": 2139,
       "end_orig": 2163,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      671,
-      341,
-      681,
-      353
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1942,26 +1620,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "d = 2 \\mathrm { A U } ^ { \\dag }",
-    "bbox": [
-      472,
-      415,
-      528,
-      428
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "다.",
     "bbox": [
@@ -2003,7 +1661,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄷ ③ ㄱ, ㄴ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② ㄷ ③ 7,L ④ L, ⑤ ㄱ,ㄴ,ㄷ",
     "bbox": [
       443,
       459,
@@ -2062,20 +1720,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      496,
-      558,
-      704,
-      650
-    ],
-    "page_idx": 1,
-    "image_path": "3fa7f30edd3e248021534687ffe3ea8074ff6f85b9f34574e7bceb93f5c22bc4.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "이에 대한 설명으로 옳은 것만을 <보",
     "bbox": [
@@ -2093,26 +1737,6 @@
       "start_orig": 2403,
       "end_orig": 2423,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      644,
-      661,
-      655,
-      673
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2157,7 +1781,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.",
+    "text": "7.",
     "bbox": [
       456,
       716,
@@ -2170,29 +1794,9 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2477,
-      "end_orig": 2479,
+      "start_orig": 4093,
+      "end_orig": 4095,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} > \\textcircled { 1 }",
-    "bbox": [
-      472,
-      717,
-      513,
-      732
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2210,8 +1814,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2484,
-      "end_orig": 2487,
+      "start_orig": 4162,
+      "end_orig": 4165,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2257,7 +1861,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ C ④ㄱ, ㄴ ⑤ㄴ, ㄷ",
+    "text": "① 7 ② L ③ C ④7,L ⑤L,ㄷ",
     "bbox": [
       444,
       779,
@@ -2316,23 +1920,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      466,
-      862,
-      732,
-      911
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>지질시대</td><td rowspan=1 colspan=4>고생대</td><td rowspan=1 colspan=5>중생대</td></tr><tr><td rowspan=1 colspan=1>지질계통</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>B</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>경상누층군</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [
-      "결층"
-    ],
-    "image_path": "299368cd3f9b300c8bf476bdcc90de3e12fc4f459a4f27e373fa0b6da8ab63e2.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "이에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
@@ -2347,29 +1934,9 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2653,
-      "end_orig": 2674,
+      "start_orig": 5223,
+      "end_orig": 5244,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      645,
-      933,
-      655,
-      945
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2407,8 +1974,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2697,
-      "end_orig": 2703,
+      "start_orig": 5288,
+      "end_orig": 5294,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2474,7 +2041,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "① 7 ② L ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       445,
       1049,
@@ -2513,26 +2080,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
-    "bbox": [
-      382,
-      159,
-      405,
-      173
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "이때 지점  A와  B에서의 지구 자기장 방향을 순서 없이 나타낸 것이다",
     "bbox": [
@@ -2553,20 +2100,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      96,
-      218,
-      403,
-      375
-    ],
-    "page_idx": 2,
-    "image_path": "366b22754a94df770096789b09fa18ac79a6bc5ae397716e841b9d3ee466f7a0.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "이 자료에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
@@ -2584,26 +2117,6 @@
       "start_orig": 2895,
       "end_orig": 2919,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      321,
-      388,
-      332,
-      399
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2667,26 +2180,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } \\textcircled { < }",
-    "bbox": [
-      266,
-      444,
-      287,
-      458
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "다.",
     "bbox": [
@@ -2701,8 +2194,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2964,
-      "end_orig": 2966,
+      "start_orig": 5303,
+      "end_orig": 5305,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2768,7 +2261,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③7,ㄷ ④ㄴ,ㄷ ⑤ ㄱ,L,ㄷ",
     "bbox": [
       94,
       540,
@@ -2778,12 +2271,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3049,
-      "end_orig": 3089,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2807,26 +2300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\rho _ { 1 }",
-    "bbox": [
-      159,
-      741,
-      172,
-      755
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ",",
     "bbox": [
@@ -2844,26 +2317,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "empty_query"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\rho _ { 2 } \\stackrel { \\circ } { \\scriptscriptstyle 2 } \\rbrack",
-    "bbox": [
-      178,
-      740,
-      203,
-      755
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2907,26 +2360,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\rho _ { \\mathrm { A } }",
-    "bbox": [
-      123,
-      776,
-      136,
-      790
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ",",
     "bbox": [
@@ -2944,26 +2377,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "empty_query"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\rho _ { \\mathrm { B } } { } ^ { \\diamond } \\mathbf { \\rceil }",
-    "bbox": [
-      143,
-      775,
-      167,
-      790
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2987,20 +2400,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      176,
-      799,
-      326,
-      918
-    ],
-    "page_idx": 2,
-    "image_path": "d28abb4571b0127c959f13cc5e2de23e38c2d505485624bd2ddf0025e4c5a26f.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "이 자료에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?  (단,  중력 가속도는 일정하고,",
     "bbox": [
@@ -3018,26 +2417,6 @@
       "start_orig": 3234,
       "end_orig": 3294,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\rho _ { 1 } < \\rho _ { 2 } ^ { \\phantom { } \\diamond } ",
-    "bbox": [
-      299,
-      945,
-      348,
-      960
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3059,20 +2438,6 @@
       "end_orig": 3307,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      227,
-      969,
-      275,
-      982
-    ],
-    "page_idx": 2,
-    "image_path": "af1d30681b2b1bccd59bc449676fc2f4d7f1e2b1a35289a08cff9f389d102ff6.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3135,26 +2500,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| \\rho _ { \\mathrm { A } } - \\rho _ { 1 } | > | \\rho _ { \\mathrm { B } } - \\rho _ { 2 } | \\circ | \\mathrm { \\varepsilon }",
-    "bbox": [
-      123,
-      1020,
-      244,
-      1036
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "(.",
     "bbox": [
@@ -3176,7 +2521,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③ 7,ㄷ ④ L, ⑤ 7,L,ㄷ",
     "bbox": [
       95,
       1051,
@@ -3213,20 +2558,6 @@
       "end_orig": 3503,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      509,
-      200,
-      693,
-      308
-    ],
-    "page_idx": 2,
-    "image_path": "f5c61f4837c0aa1075f84b2456c534e9aa52abdd14f6a7c92c72b03a87614313.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3303,8 +2634,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3561,
-      "end_orig": 3563,
+      "start_orig": 5306,
+      "end_orig": 5308,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3330,7 +2661,7 @@
   },
   {
     "type": "text",
-    "text": "C.",
+    "text": "ㄷ.",
     "bbox": [
       455,
       391,
@@ -3340,12 +2671,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3981,
-      "end_orig": 3983,
-      "reason": "low_similarity"
+      "start_orig": 5342,
+      "end_orig": 5344,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3370,7 +2701,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② C ③ ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② C ③ ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       421,
@@ -3409,26 +2740,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } \\textcircled { < } ]",
-    "bbox": [
-      519,
-      492,
-      542,
-      506
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "해역 A를,  해파",
     "bbox": [
@@ -3446,26 +2757,6 @@
       "start_orig": 3673,
       "end_orig": 3683,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigodot \\bigcirc \\big ]",
-    "bbox": [
-      619,
-      492,
-      642,
-      506
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3509,26 +2800,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
-    "bbox": [
-      471,
-      527,
-      496,
-      541
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "각각 심해파와 천해파 중 하나이다.",
     "bbox": [
@@ -3547,38 +2818,6 @@
       "end_orig": 3762,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      478,
-      549,
-      589,
-      661
-    ],
-    "page_idx": 2,
-    "image_path": "353e0c1fddbc7c0a5559cb43397737f1a3deb7271e6cbb8c41f0b0cd7fe1e700.jpg",
-    "alt": "",
-    "caption": [
-      "해역A"
-    ],
-    "original_type": "image"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      612,
-      550,
-      722,
-      660
-    ],
-    "page_idx": 2,
-    "image_path": "66c9ba350d48a564c64b30cd390fbe1ce521a72ea5ea294e450ef3ec35c45e35.jpg",
-    "alt": "",
-    "caption": [
-      "해역B"
-    ],
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3632,12 +2871,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3811,
-      "end_orig": 3813,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 5395,
+      "end_orig": 5397,
+      "reason": "low_similarity"
     }
   },
   {
@@ -3672,12 +2911,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3824,
-      "end_orig": 3826,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 5400,
+      "end_orig": 5402,
+      "reason": "low_similarity"
     }
   },
   {
@@ -3742,7 +2981,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② C ③ ㄱ, ㄴ ④ ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "① 7 ② C ③ ㄱ, ㄴ ④ ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       446,
       826,
@@ -3781,26 +3020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "V",
-    "bbox": [
-      497,
-      900,
-      509,
-      912
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "필터 파장 영역의 절대 등급",
     "bbox": [
@@ -3821,26 +3040,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( M _ { V } ) ^ { \\mathfrak { c } }",
-    "bbox": [
-      641,
-      900,
-      667,
-      914
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "이",
     "bbox": [
@@ -3855,29 +3054,9 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3940,
-      "end_orig": 3941,
+      "start_orig": 5357,
+      "end_orig": 5358,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "4 . 5  { \\stackrel { \\circ } { \\circ } }  { \\downarrow }",
-    "bbox": [
-      677,
-      899,
-      704,
-      913
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3921,26 +3100,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "1 0 0 0 \\mathrm { p c }",
-    "bbox": [
-      570,
-      949,
-      606,
-      962
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "◦ 고유한 색지수 ",
     "bbox": [
@@ -3958,26 +3117,6 @@
       "start_orig": 3983,
       "end_orig": 3993,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\left( B - V \\right) _ { 0 } = 0 . 5",
-    "bbox": [
-      545,
-      964,
-      619,
-      980
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4001,46 +3140,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "E ( B - V ) = 1 . 0",
-    "bbox": [
-      508,
-      983,
-      588,
-      997
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "B",
-    "bbox": [
-      456,
-      1015,
-      468,
-      1027
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "필터 파장 영역에서 관측한 이 별의 겉보기 등급(",
     "bbox": [
@@ -4058,26 +3157,6 @@
       "start_orig": 4003,
       "end_orig": 4030,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "B",
-    "bbox": [
-      700,
-      1015,
-      711,
-      1027
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4118,26 +3197,6 @@
       "start_orig": 4037,
       "end_orig": 4051,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "V",
-    "bbox": [
-      557,
-      1032,
-      569,
-      1044
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4201,26 +3260,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( r ) { \\mathsf { o } } \\|",
-    "bbox": [
-      379,
-      160,
-      405,
-      173
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "따른",
     "bbox": [
@@ -4238,26 +3277,6 @@
       "start_orig": 4134,
       "end_orig": 4136,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\frac { 2 } { 1 } \\geq \\frac { 7 } { 4 }",
-    "bbox": [
-      120,
-      176,
-      142,
-      191
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4281,26 +3300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( M _ { r }",
-    "bbox": [
-      167,
-      177,
-      185,
-      192
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ")을 일부 구간에 대해 나타낸 것이다.",
     "bbox": [
@@ -4321,26 +3320,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "M _ { r }",
-    "bbox": [
-      348,
-      177,
-      364,
-      192
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "는",
     "bbox": [
@@ -4355,29 +3334,9 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4167,
-      "end_orig": 4168,
+      "start_orig": 5464,
+      "end_orig": 5465,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "r ^ { \\gamma \\vert \\cdot \\vert \\cdot \\vert }",
-    "bbox": [
-      377,
-      177,
-      404,
-      191
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4401,26 +3360,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "M _ { \\odot }",
-    "bbox": [
-      276,
-      196,
-      295,
-      211
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "는 태양 질량이다.",
     "bbox": [
@@ -4441,20 +3380,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      124,
-      222,
-      378,
-      352
-    ],
-    "page_idx": 3,
-    "image_path": "89c46c16389ccd776b829ef44cea1f9b12e8a99bec9ce4bdc913e66208ab9ee8.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "이 자료에 대한 설명으로 옳은 것만을",
     "bbox": [
@@ -4472,26 +3397,6 @@
       "start_orig": 4205,
       "end_orig": 4225,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\leq 1 > 1 > 0",
-    "bbox": [
-      293,
-      361,
-      335,
-      375
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4515,26 +3420,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "r \\mathsf { o } \\mathsf { 1 }",
-    "bbox": [
-      172,
-      378,
-      190,
-      392
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "위치한 별에 작용하는 만유인력은",
     "bbox": [
@@ -4552,26 +3437,6 @@
       "start_orig": 4254,
       "end_orig": 4271,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "M _ { r }",
-    "bbox": [
-      352,
-      378,
-      369,
-      392
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4596,7 +3461,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.",
+    "text": "7.",
     "bbox": [
       107,
       437,
@@ -4606,32 +3471,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 4323,
-      "end_orig": 4325,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "2 \\sim 1 0 \\mathrm { k p c }",
-    "bbox": [
-      122,
-      438,
-      172,
-      451
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -4656,7 +3501,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.",
+    "text": "L.",
     "bbox": [
       106,
       453,
@@ -4666,32 +3511,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 4350,
-      "end_orig": 4352,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "4 \\mathrm { \\sim 6 k p c }",
-    "bbox": [
-      123,
-      455,
-      167,
-      468
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -4716,7 +3541,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③ 7,ㄷ ④ L, ⑤ ㄱ,L,ㄷ",
     "bbox": [
       95,
       533,
@@ -4775,26 +3600,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "2 2 \\mathrm { { } ^ { \\circ } C }",
-    "bbox": [
-      666,
-      177,
-      689,
-      191
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "와",
     "bbox": [
@@ -4812,26 +3617,6 @@
       "start_orig": 4778,
       "end_orig": 4779,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "2 6 ^ { \\circ } C ^ { \\circ } |",
-    "bbox": [
-      704,
-      177,
-      738,
-      191
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4855,22 +3640,8 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      485,
-      233,
-      713,
-      330
-    ],
-    "page_idx": 3,
-    "image_path": "8aa4622d8efb2f11f675e86e80a2b51493145f0e09befe84de469d1a32c9d70e.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "이 자료에 대한 설명으로 옳은 것만을 <보기",
+    "text": "이자료에대한설명으로 옳은것만을<보기",
     "bbox": [
       456,
       339,
@@ -4880,32 +3651,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 4205,
-      "end_orig": 4229,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      671,
-      342,
-      681,
-      353
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -4929,26 +3680,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "1 ^ { \\circ } \\mathrm { C } / 1 0 0 \\mathrm { m }",
-    "bbox": [
-      612,
-      358,
-      662,
-      371
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ",  습윤 단열 감률은",
     "bbox": [
@@ -4969,26 +3700,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "0 . 5 \\mathrm { ^ c / 1 0 0 m }",
-    "bbox": [
-      446,
-      374,
-      503,
-      388
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ",  이슬점 감률은",
     "bbox": [
@@ -5006,26 +3717,6 @@
       "start_orig": 4908,
       "end_orig": 4918,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "0 . 2 ^ { \\circ } \\mathrm { C } / 1 0 0 \\mathrm { m } ^ { \\circ }",
-    "bbox": [
-      577,
-      374,
-      644,
-      388
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5081,31 +3772,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.3333,
+      "similarity": 0.4,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4233,
-      "end_orig": 4235,
+      "start_orig": 4980,
+      "end_orig": 4982,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { 5 0 0 m } ^ { \\circ } |",
-    "bbox": [
-      495,
-      432,
-      532,
-      446
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5130,7 +3801,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ. 공기 덩어리의 (기온 이슬점)  값은 A가 B보다 작다.",
+    "text": "ㄴ. 공기 덩어리의 (기온 이슬점)  값은 A가 B보다 작다.\n",
     "bbox": [
       456,
       447,
@@ -5144,7 +3815,7 @@
       "similarity": 0.9804,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4988,
-      "end_orig": 5022,
+      "end_orig": 5023,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -5169,26 +3840,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "1 6 . 4 \\mathrm { ^ { \\circ } C ^ { \\circ } } |",
-    "bbox": [
-      624,
-      465,
-      666,
-      479
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "다.",
     "bbox": [
@@ -5210,7 +3861,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ C ④ ㄱ, ㄴ ⑤ ㄴ, ㄷ",
+    "text": "① 7 ② L ③ C ④ 7,L ⑤ L,ㄷ",
     "bbox": [
       445,
       493,
@@ -5230,7 +3881,7 @@
   },
   {
     "type": "text",
-    "text": "18. 그림은 지각 평형 상태인 지구 내부의 단면을 모식적으로 나타낸 것이다.  지각 A의 밀도는",
+    "text": "18.그림은 지각 평형 상태인 지구 내부의 단면을 모식적으로나타낸 것이다.지각 A의 밀도는",
     "bbox": [
       87,
       689,
@@ -5240,37 +3891,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 4488,
-      "end_orig": 4542,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\rho _ { 1 }",
-    "bbox": [
-      219,
-      709,
-      232,
-      722
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": " ,  지각 B,  C,  D의 밀도는",
+    "text": ",지각B,C,D의 밀도는",
     "bbox": [
       233,
       706,
@@ -5280,37 +3911,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 4543,
-      "end_orig": 4564,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\rho _ { 2 }",
-    "bbox": [
-      353,
-      709,
-      366,
-      722
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": " ,  맨틀의 밀도는",
+    "text": ",맨틀의 밀도는",
     "bbox": [
       97,
       706,
@@ -5320,32 +3931,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 4565,
-      "end_orig": 4576,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\rho _ { 3 } \\diamondsuit \\rceil",
-    "bbox": [
-      133,
-      726,
-      155,
-      741
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -5370,7 +3961,7 @@
   },
   {
     "type": "text",
-    "text": "20. 표는 어느 날 북반구의 지역 A,  B에서 별",
+    "text": "20.표는 어느 날 북반구의 지역 A,B에서 별",
     "bbox": [
       434,
       619,
@@ -5380,32 +3971,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 5081,
-      "end_orig": 5110,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { S } _ { 1 }",
-    "bbox": [
-      666,
-      620,
-      678,
-      636
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -5420,37 +3991,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 5113,
-      "end_orig": 5114,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { S _ { 2 } }",
-    "bbox": [
-      693,
-      620,
-      706,
-      636
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "를 관측한 결과이다.",
+    "text": "를관측한 결과이다.",
     "bbox": [
       447,
       619,
@@ -5460,32 +4011,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 5117,
-      "end_orig": 5128,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { S } _ { 1 }",
-    "bbox": [
-      495,
-      639,
-      507,
-      653
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -5509,26 +4040,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "+ 1 0 ^ { \\circ } \\circ ]",
-    "bbox": [
-      557,
-      639,
-      594,
-      652
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "고,",
     "bbox": [
@@ -5546,26 +4057,6 @@
       "start_orig": 5140,
       "end_orig": 5142,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { S _ { 2 } }",
-    "bbox": [
-      614,
-      639,
-      627,
-      653
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5589,26 +4080,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { S } _ { 1 }",
-    "bbox": [
-      677,
-      639,
-      690,
-      654
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "보다 크다.",
     "bbox": [
@@ -5629,35 +4100,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      446,
-      663,
-      753,
-      731
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>지역</td><td rowspan=1 colspan=2>S1</td><td rowspan=1 colspan=1>S2</td></tr><tr><td rowspan=1 colspan=1>방위각(°)</td><td rowspan=1 colspan=1>고도(°)</td><td rowspan=1 colspan=1>하루 중 최대H 고도(°)</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>180</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>75</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>180</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>7</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "f4281754499dab95e8edcf0cc3f863acb64ffe66a6805495f100c3d7828c28aa.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      154,
-      750,
-      344,
-      900
-    ],
-    "page_idx": 3,
-    "image_path": "4236e11ee6b859165706f2256157733c57b782c824a0ac7c0aa5a8fc7b4e3ddf.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "이에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
@@ -5675,26 +4117,6 @@
       "start_orig": 5223,
       "end_orig": 5244,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      645,
-      741,
-      654,
-      752
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5735,26 +4157,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      321,
-      910,
-      332,
-      922
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5799,7 +4201,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.",
+    "text": "7.",
     "bbox": [
       107,
       966,
@@ -5809,32 +4211,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 5295,
-      "end_orig": 5297,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\rho _ { 1 } > \\rho _ { 2 } \\diamondsuit \\vert \\tau \\vert",
-    "bbox": [
-      123,
-      966,
-      182,
-      982
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -5859,7 +4241,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.",
+    "text": "L.",
     "bbox": [
       106,
       984,
@@ -5869,32 +4251,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 5306,
-      "end_orig": 5308,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "h _ { 1 } \\times d _ { 2 } = h _ { 2 } \\times d _ { 1 } \\diamondsuit \\mid",
-    "bbox": [
-      124,
-      985,
-      218,
-      1001
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -5909,12 +4271,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5336,
-      "end_orig": 5338,
-      "reason": "low_similarity"
+      "start_orig": 5303,
+      "end_orig": 5305,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5969,17 +4331,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5241,
-      "end_orig": 5245,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "ㄱ.",
+    "text": "7.",
     "bbox": [
       456,
       796,
@@ -5990,11 +4352,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.6667,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5395,
-      "end_orig": 5397,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -6015,26 +4377,6 @@
       "start_orig": 4719,
       "end_orig": 4721,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "6 5 \\diamond",
-    "bbox": [
-      498,
-      798,
-      518,
-      810
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -6059,7 +4401,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.",
+    "text": "L.",
     "bbox": [
       455,
       812,
@@ -6070,31 +4412,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.6667,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 5400,
-      "end_orig": 5402,
-      "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { S } _ { 1 }",
-    "bbox": [
-      472,
-      814,
-      485,
-      829
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -6118,26 +4440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "2 7 0 ^ { \\circ } \\frac { \\circ ] } { \\mathbf { \\equiv } }",
-    "bbox": [
-      546,
-      813,
-      580,
-      828
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "때",
     "bbox": [
@@ -6155,26 +4457,6 @@
       "start_orig": 5321,
       "end_orig": 5322,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { S } _ { 1 } { \\overset { \\circ } { \\circ } } ]",
-    "bbox": [
-      598,
-      813,
-      622,
-      829
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -6218,26 +4500,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "9 0 ^ { \\circ }",
-    "bbox": [
-      599,
-      833,
-      617,
-      846
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "일 때",
     "bbox": [
@@ -6255,26 +4517,6 @@
       "start_orig": 5361,
       "end_orig": 5364,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { S } _ { 2 } { \\underline { { \\circ } } } ]",
-    "bbox": [
-      647,
-      832,
-      672,
-      848
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -6298,26 +4540,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "5 ^ { \\circ } \\circ",
-    "bbox": [
-      711,
-      833,
-      729,
-      846
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "1면",
     "bbox": [
@@ -6335,26 +4557,6 @@
       "start_orig": 5376,
       "end_orig": 5378,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { S _ { 2 } }",
-    "bbox": [
-      472,
-      852,
-      485,
-      868
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -6379,7 +4581,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄷ ④  ㄱ,  ㄴ ⑤  ㄱ,  ㄷ",
+    "text": "①7 ② L ③ ㄷ ④7,L ⑤ 7,ㄷ",
     "bbox": [
       444,
       881,
@@ -6389,17 +4591,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5392,
-      "end_orig": 5424,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "①ㄱ ② C ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② C ③ 7,L ④ㄴ,ㄷ ⑤7,L,ㄷ",
     "bbox": [
       95,
       1050,
@@ -6455,6 +4657,1804 @@
       "start_orig": 5434,
       "end_orig": 5474,
       "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      90,
+      153,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 56,
+      "end_orig": 62,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "과학탐구 영역(지구과학I)",
+    "bbox": [
+      226,
+      145,
+      617,
+      199
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      706,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a0fd4b7c2abea4faa020a473bd5ec1158ec036eda8e9c547af5d7b7ec75bb859.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      142,
+      299,
+      359,
+      359
+    ],
+    "page_idx": 0,
+    "image_path": "18687ece481e37a7921be48eb686fb29b807e312ed50ac45e09f82ea6ab713d5.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      348,
+      370,
+      358,
+      381
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      100,
+      574,
+      404,
+      662
+    ],
+    "page_idx": 0,
+    "image_path": "1b32f6d76d2badb2d95c01b6d2cffd3f45efcecabaa6185501bb6ce332ad414a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      183,
+      896,
+      193,
+      907
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      271,
+      836,
+      403,
+      965
+    ],
+    "page_idx": 0,
+    "image_path": "21d895ecf322ddfee7ae48ae8f695fe693f89f910ef576b88d4f7116ca3130e4.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      489,
+      298,
+      709,
+      387
+    ],
+    "page_idx": 0,
+    "image_path": "d28585f79edff2c28add2e80ea44324a3f0c0c3612fd6f51fa3b71f262c163b5.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      561,
+      545,
+      753,
+      642
+    ],
+    "page_idx": 0,
+    "image_path": "5e2233f9ee460d9c912ef4cdadafcefe6945c2d1cbac672052c35f846fe5371a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      480,
+      837,
+      719,
+      936
+    ],
+    "page_idx": 0,
+    "image_path": "6d208d8a27f4af477cae30ab4a821f9666a6a4b8182fa5ceaa7bdd8277c88bf5.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      116,
+      367,
+      383,
+      491
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>암석</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td></tr><tr><td rowspan=1 colspan=1>관찰한 모습</td><td rowspan=1 colspan=1>a배율: 40배</td><td rowspan=1 colspan=1>배율:40배</td></tr><tr><td rowspan=1 colspan=1>관찰한 광물</td><td rowspan=1 colspan=1>석영,장석,흑운모</td><td rowspan=1 colspan=1>석영,흑운모</td></tr><tr><td rowspan=1 colspan=1>조직</td><td rowspan=1 colspan=1>조립질 조직</td><td rowspan=1 colspan=1>반상 조직</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "1bff8b4e0027bca943187713da6acb45874ae5a89b796e0bbb315ae4fd0711a9.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 1 > 0 1 1",
+    "bbox": [
+      268,
+      556,
+      316,
+      569
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      132,
+      830,
+      370,
+      922
+    ],
+    "page_idx": 1,
+    "image_path": "f2c623414f40bfcb2b90abeca4aebbba7f3da3f0d24048a662835ce4a1c15af2.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle 1 > 1",
+    "bbox": [
+      293,
+      931,
+      333,
+      945
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "S",
+    "bbox": [
+      684,
+      178,
+      695,
+      190
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 1 } { 8 } \\diamondsuit \\big \\vert",
+    "bbox": [
+      482,
+      195,
+      506,
+      221
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      510,
+      229,
+      688,
+      332
+    ],
+    "page_idx": 1,
+    "image_path": "e098792dcab494ddc95dd538c9e17cd067acba24fd8f0c782e797b15648af88c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      671,
+      341,
+      681,
+      353
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "d = 2 \\mathrm { A U } ^ { \\dag }",
+    "bbox": [
+      472,
+      415,
+      528,
+      428
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      496,
+      558,
+      704,
+      650
+    ],
+    "page_idx": 1,
+    "image_path": "3fa7f30edd3e248021534687ffe3ea8074ff6f85b9f34574e7bceb93f5c22bc4.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      644,
+      661,
+      655,
+      673
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} > \\textcircled { 1 }",
+    "bbox": [
+      472,
+      717,
+      513,
+      732
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      466,
+      862,
+      732,
+      911
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>지질시대</td><td rowspan=1 colspan=4>고생대</td><td rowspan=1 colspan=5>중생대</td></tr><tr><td rowspan=1 colspan=1>지질계통</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>B</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>경상누층군</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [
+      "결층"
+    ],
+    "image_path": "299368cd3f9b300c8bf476bdcc90de3e12fc4f459a4f27e373fa0b6da8ab63e2.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      645,
+      933,
+      655,
+      945
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
+    "bbox": [
+      382,
+      159,
+      405,
+      173
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      218,
+      403,
+      375
+    ],
+    "page_idx": 2,
+    "image_path": "366b22754a94df770096789b09fa18ac79a6bc5ae397716e841b9d3ee466f7a0.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      321,
+      388,
+      332,
+      399
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { < }",
+    "bbox": [
+      266,
+      444,
+      287,
+      458
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\rho _ { 1 }",
+    "bbox": [
+      159,
+      741,
+      172,
+      755
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\rho _ { 2 } \\stackrel { \\circ } { \\scriptscriptstyle 2 } \\rbrack",
+    "bbox": [
+      178,
+      740,
+      203,
+      755
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\rho _ { \\mathrm { A } }",
+    "bbox": [
+      123,
+      776,
+      136,
+      790
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\rho _ { \\mathrm { B } } { } ^ { \\diamond } \\mathbf { \\rceil }",
+    "bbox": [
+      143,
+      775,
+      167,
+      790
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      176,
+      799,
+      326,
+      918
+    ],
+    "page_idx": 2,
+    "image_path": "d28abb4571b0127c959f13cc5e2de23e38c2d505485624bd2ddf0025e4c5a26f.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\rho _ { 1 } < \\rho _ { 2 } ^ { \\phantom { } \\diamond } ",
+    "bbox": [
+      299,
+      945,
+      348,
+      960
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      227,
+      969,
+      275,
+      982
+    ],
+    "page_idx": 2,
+    "image_path": "af1d30681b2b1bccd59bc449676fc2f4d7f1e2b1a35289a08cff9f389d102ff6.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| \\rho _ { \\mathrm { A } } - \\rho _ { 1 } | > | \\rho _ { \\mathrm { B } } - \\rho _ { 2 } | \\circ | \\mathrm { \\varepsilon }",
+    "bbox": [
+      123,
+      1020,
+      244,
+      1036
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      509,
+      200,
+      693,
+      308
+    ],
+    "page_idx": 2,
+    "image_path": "f5c61f4837c0aa1075f84b2456c534e9aa52abdd14f6a7c92c72b03a87614313.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { < } ]",
+    "bbox": [
+      519,
+      492,
+      542,
+      506
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigodot \\bigcirc \\big ]",
+    "bbox": [
+      619,
+      492,
+      642,
+      506
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
+    "bbox": [
+      471,
+      527,
+      496,
+      541
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      478,
+      549,
+      589,
+      661
+    ],
+    "page_idx": 2,
+    "image_path": "353e0c1fddbc7c0a5559cb43397737f1a3deb7271e6cbb8c41f0b0cd7fe1e700.jpg",
+    "alt": "",
+    "caption": [
+      "해역A"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      612,
+      550,
+      722,
+      660
+    ],
+    "page_idx": 2,
+    "image_path": "66c9ba350d48a564c64b30cd390fbe1ce521a72ea5ea294e450ef3ec35c45e35.jpg",
+    "alt": "",
+    "caption": [
+      "해역B"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "V",
+    "bbox": [
+      497,
+      900,
+      509,
+      912
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( M _ { V } ) ^ { \\mathfrak { c } }",
+    "bbox": [
+      641,
+      900,
+      667,
+      914
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "4 . 5  { \\stackrel { \\circ } { \\circ } }  { \\downarrow }",
+    "bbox": [
+      677,
+      899,
+      704,
+      913
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 0 0 0 \\mathrm { p c }",
+    "bbox": [
+      570,
+      949,
+      606,
+      962
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left( B - V \\right) _ { 0 } = 0 . 5",
+    "bbox": [
+      545,
+      964,
+      619,
+      980
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "E ( B - V ) = 1 . 0",
+    "bbox": [
+      508,
+      983,
+      588,
+      997
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "B",
+    "bbox": [
+      456,
+      1015,
+      468,
+      1027
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "B",
+    "bbox": [
+      700,
+      1015,
+      711,
+      1027
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "V",
+    "bbox": [
+      557,
+      1032,
+      569,
+      1044
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( r ) { \\mathsf { o } } \\|",
+    "bbox": [
+      379,
+      160,
+      405,
+      173
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 2 } { 1 } \\geq \\frac { 7 } { 4 }",
+    "bbox": [
+      120,
+      176,
+      142,
+      191
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( M _ { r }",
+    "bbox": [
+      167,
+      177,
+      185,
+      192
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "M _ { r }",
+    "bbox": [
+      348,
+      177,
+      364,
+      192
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "r ^ { \\gamma \\vert \\cdot \\vert \\cdot \\vert }",
+    "bbox": [
+      377,
+      177,
+      404,
+      191
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "M _ { \\odot }",
+    "bbox": [
+      276,
+      196,
+      295,
+      211
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      124,
+      222,
+      378,
+      352
+    ],
+    "page_idx": 3,
+    "image_path": "89c46c16389ccd776b829ef44cea1f9b12e8a99bec9ce4bdc913e66208ab9ee8.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\leq 1 > 1 > 0",
+    "bbox": [
+      293,
+      361,
+      335,
+      375
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "r \\mathsf { o } \\mathsf { 1 }",
+    "bbox": [
+      172,
+      378,
+      190,
+      392
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "M _ { r }",
+    "bbox": [
+      352,
+      378,
+      369,
+      392
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 \\sim 1 0 \\mathrm { k p c }",
+    "bbox": [
+      122,
+      438,
+      172,
+      451
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "4 \\mathrm { \\sim 6 k p c }",
+    "bbox": [
+      123,
+      455,
+      167,
+      468
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 2 \\mathrm { { } ^ { \\circ } C }",
+    "bbox": [
+      666,
+      177,
+      689,
+      191
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 6 ^ { \\circ } C ^ { \\circ } |",
+    "bbox": [
+      704,
+      177,
+      738,
+      191
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      485,
+      233,
+      713,
+      330
+    ],
+    "page_idx": 3,
+    "image_path": "8aa4622d8efb2f11f675e86e80a2b51493145f0e09befe84de469d1a32c9d70e.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      671,
+      342,
+      681,
+      353
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 ^ { \\circ } \\mathrm { C } / 1 0 0 \\mathrm { m }",
+    "bbox": [
+      612,
+      358,
+      662,
+      371
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "0 . 5 \\mathrm { ^ c / 1 0 0 m }",
+    "bbox": [
+      446,
+      374,
+      503,
+      388
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "0 . 2 ^ { \\circ } \\mathrm { C } / 1 0 0 \\mathrm { m } ^ { \\circ }",
+    "bbox": [
+      577,
+      374,
+      644,
+      388
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { 5 0 0 m } ^ { \\circ } |",
+    "bbox": [
+      495,
+      432,
+      532,
+      446
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 6 . 4 \\mathrm { ^ { \\circ } C ^ { \\circ } } |",
+    "bbox": [
+      624,
+      465,
+      666,
+      479
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\rho _ { 1 }",
+    "bbox": [
+      219,
+      709,
+      232,
+      722
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\rho _ { 2 }",
+    "bbox": [
+      353,
+      709,
+      366,
+      722
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\rho _ { 3 } \\diamondsuit \\rceil",
+    "bbox": [
+      133,
+      726,
+      155,
+      741
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { S } _ { 1 }",
+    "bbox": [
+      666,
+      620,
+      678,
+      636
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { S _ { 2 } }",
+    "bbox": [
+      693,
+      620,
+      706,
+      636
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { S } _ { 1 }",
+    "bbox": [
+      495,
+      639,
+      507,
+      653
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "+ 1 0 ^ { \\circ } \\circ ]",
+    "bbox": [
+      557,
+      639,
+      594,
+      652
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { S _ { 2 } }",
+    "bbox": [
+      614,
+      639,
+      627,
+      653
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { S } _ { 1 }",
+    "bbox": [
+      677,
+      639,
+      690,
+      654
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      446,
+      663,
+      753,
+      731
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>지역</td><td rowspan=1 colspan=2>S1</td><td rowspan=1 colspan=1>S2</td></tr><tr><td rowspan=1 colspan=1>방위각(°)</td><td rowspan=1 colspan=1>고도(°)</td><td rowspan=1 colspan=1>하루 중 최대H 고도(°)</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>180</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>75</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>180</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>7</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "f4281754499dab95e8edcf0cc3f863acb64ffe66a6805495f100c3d7828c28aa.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      154,
+      750,
+      344,
+      900
+    ],
+    "page_idx": 3,
+    "image_path": "4236e11ee6b859165706f2256157733c57b782c824a0ac7c0aa5a8fc7b4e3ddf.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      645,
+      741,
+      654,
+      752
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      321,
+      910,
+      332,
+      922
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\rho _ { 1 } > \\rho _ { 2 } \\diamondsuit \\vert \\tau \\vert",
+    "bbox": [
+      123,
+      966,
+      182,
+      982
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "h _ { 1 } \\times d _ { 2 } = h _ { 2 } \\times d _ { 1 } \\diamondsuit \\mid",
+    "bbox": [
+      124,
+      985,
+      218,
+      1001
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "6 5 \\diamond",
+    "bbox": [
+      498,
+      798,
+      518,
+      810
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { S } _ { 1 }",
+    "bbox": [
+      472,
+      814,
+      485,
+      829
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 7 0 ^ { \\circ } \\frac { \\circ ] } { \\mathbf { \\equiv } }",
+    "bbox": [
+      546,
+      813,
+      580,
+      828
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { S } _ { 1 } { \\overset { \\circ } { \\circ } } ]",
+    "bbox": [
+      598,
+      813,
+      622,
+      829
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "9 0 ^ { \\circ }",
+    "bbox": [
+      599,
+      833,
+      617,
+      846
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { S } _ { 2 } { \\underline { { \\circ } } } ]",
+    "bbox": [
+      647,
+      832,
+      672,
+      848
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "5 ^ { \\circ } \\circ",
+    "bbox": [
+      711,
+      833,
+      729,
+      846
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { S _ { 2 } }",
+    "bbox": [
+      472,
+      852,
+      485,
+      868
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
     }
   }
 ]

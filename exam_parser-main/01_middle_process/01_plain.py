@@ -10,7 +10,7 @@ import json, re, unicodedata
 # 경로/설정 (하드코딩)
 # =========================
 # 입력: 폴더 또는 단일 파일 경로
-SRC_PATH = Path(r"exam_parser-main\01_middle_process\data\cleand")
+SRC_PATH = Path(r"exam_parser-main\01_middle_process\data\cleand\0111-2023-국어영역-국어영역-문제_middle.json")
 # 출력: 폴더 또는 단일 파일 경로
 DST_PATH = Path(r"exam_parser-main\01_middle_process\data\plain")
 
@@ -21,7 +21,7 @@ RECURSIVE = True
 # 변환 동작 파라미터
 CONTAINERS = ["para_blocks"]     # 컨테이너 키
 OUT_TYPE   = "text_converted"    # 변환 후 type
-OUT_SUFFIX = "_converted"        # 출력 파일명 접미사
+OUT_SUFFIX = "_converted"        # 출력 파일명 접미사 (예: foo.json -> foo_converted.json)
 STRICT_MODE = True               # 보수적 규칙 적용
 RM_PARENS_POLICY = "forbid"      # \mathrm 내부 괄호 처리: forbid | keep | strip
 PRINT_LIMIT = 10                 # 변환 예시 출력 개수(0이면 조용히 동작)
@@ -125,14 +125,25 @@ def iter_nodes(obj: Any, path: Optional[List[Union[str,int]]] = None):
 def in_selected_containers(path: List[Union[str,int]], containers: List[str]) -> bool:
     return any(isinstance(p, str) and p in containers for p in path) if containers else True
 
-def transform_out_name(src_name: str) -> str:
+def transform_out_name(src_name: str, out_suffix: str) -> str:
+    """
+    입력 파일명에서 `_middle`, `_plain`, `_converted` 같은 중간 접미사는 제거하고
+    원하는 out_suffix를 붙여서 반환.
+    """
     p = Path(src_name)
-    stem = p.stem.removesuffix("_middle")
-    return (f"{stem}_plain{p.suffix}")
+    stem = p.stem
+    # 중간 산출물 접미사 제거
+    for tail in ("_middle", "_plain", "_converted"):
+        if stem.endswith(tail):
+            stem = stem[: -len(tail)]
+            break
+    if out_suffix:
+        stem = f"{stem}{out_suffix}"
+    return f"{stem}{p.suffix}"
 
 def compute_out_path(src_file: Path, src_root: Path, out_root: Path, out_suffix: str) -> Path:
     rel = src_file.relative_to(src_root)
-    out_rel = rel.with_name(transform_out_name(rel.name))
+    out_rel = rel.with_name(transform_out_name(rel.name, out_suffix))
     return out_root / out_rel
 
 def ensure_parent(p: Path):
@@ -215,7 +226,8 @@ def process_dir(src_dir: Path, dst_dir: Path):
 def main():
     src, dst = SRC_PATH, DST_PATH
     src_is_dir = src.is_dir()
-    dst_is_dir = dst.is_dir() or (not dst.suffix)  # 확장자 없으면 폴더로 간주
+    # 확장자 없으면 폴더 취급(예: ...\plain)
+    dst_is_dir = dst.is_dir() or (not dst.suffix)
 
     if src_is_dir:
         if not dst_is_dir:
@@ -224,9 +236,13 @@ def main():
         dst.mkdir(parents=True, exist_ok=True)
         process_dir(src, dst)
     else:
-        # 파일 -> 파일(또는 DST가 폴더면 파일명 자동결정)
+        # 파일 -> 파일(그대로) 또는 파일 -> 폴더(자동 이름 생성)
         if dst_is_dir:
+            # src.parent를 root로 하여 상대경로 유지 + OUT_SUFFIX 적용
             dst = compute_out_path(src, src_root=src.parent, out_root=dst, out_suffix=OUT_SUFFIX)
+            ensure_parent(dst)
+        else:
+            ensure_parent(dst)
         print(f"[RUN] {src} -> {dst}")
         process_file(src, dst)
 

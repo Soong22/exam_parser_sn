@@ -1,81 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      91,
-      152,
-      175,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 57,
-      "end_orig": 63,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "직업탐구 영역(성공적인 직업생활)",
-    "bbox": [
-      205,
-      143,
-      692,
-      203
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      339,
-      209,
-      597,
-      237
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "3d4197e0e2c830381dccdd7bfa5d1ec8547dee7c0de28b2eb0c41e3ff6cb3634.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
-    "text": "제[ ] 선택",
-    "bbox": [
-      615,
-      211,
-      700,
-      236
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 86,
-      "end_orig": 93,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. 다음은 [직업 가치관 검사 결과]이다.  이에 대한 분석 내용으로",
     "bbox": [
       87,
@@ -112,26 +37,6 @@
       "start_orig": 154,
       "end_orig": 165,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      198,
-      275,
-      207,
-      286
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -193,21 +98,6 @@
       "end_orig": 226,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      105,
-      346,
-      395,
-      412
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>40대</td><td rowspan=1 colspan=1>50대</td></tr><tr><td rowspan=1 colspan=1>1순위</td><td rowspan=1 colspan=1>변화지향(4.6점)</td><td rowspan=1 colspan=1>(4.8점)</td></tr><tr><td rowspan=1 colspan=1>2순위</td><td rowspan=1 colspan=1>자율성 (4.2점)</td><td rowspan=1 colspan=1>직업안정 (4.3점)</td></tr><tr><td rowspan=1 colspan=1>3순위</td><td rowspan=1 colspan=1>직업안정 (3.8점)</td><td rowspan=1 colspan=1>자율성 (3.7점)</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "de397ecaf449e8995edb87a3c9afcb16479d8a03a011ffb8f13bd38703175642.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -311,7 +201,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "① 7 ② L ③ ㄱ, ㄷ ④ ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       589,
@@ -321,12 +211,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 575,
-      "end_orig": 610,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -447,26 +337,6 @@
       "start_orig": 1480,
       "end_orig": 1481,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( 7 )",
-    "bbox": [
-      114,
-      937,
-      129,
-      950
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -911,7 +781,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       444,
       810,
@@ -921,12 +791,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1876,
-      "end_orig": 1911,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1090,26 +960,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      124,
-      177,
-      135,
-      189
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?",
     "bbox": [
@@ -1251,7 +1101,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       417,
@@ -1290,26 +1140,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { B } ^ { \\mathsf { o l l } }",
-    "bbox": [
-      384,
-      470,
-      404,
-      484
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한 설명으로 적절한 것만을 <보기>에서 있는 대로 고른 것은?",
     "bbox": [
@@ -1328,21 +1158,6 @@
       "end_orig": 2650,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      105,
-      513,
-      397,
-      646
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=2>[NCS 기반 자기소개서 사례집]</td></tr><tr><td rowspan=1 colspan=1>문항</td><td rowspan=1 colspan=1>문항본인의역량을높일수있었던 경험을 기술하시오.</td></tr><tr><td rowspan=1 colspan=1>학생A</td><td rowspan=1 colspan=1>OO기업 현장 실습과정에서영수증을 전산프로그램에 입력하는업무를수행하고이를통해정보수집·관리능력을배양하였습니다.</td></tr><tr><td rowspan=1 colspan=1>학생B</td><td rowspan=1 colspan=1>기업 현장 실습 과정에서 각 부서의 소모품 소요량을파악하고, 활용 계획을 세워 할당하는 능력을 키웠습니다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "7793562b3fd6e8f08f43aada600a755064f818a1671ff2a67ba0461b7a0e7af2.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1426,7 +1241,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "① 7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       768,
@@ -1436,17 +1251,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2981,
-      "end_orig": 3016,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": ". 다음 글을 통해 알 수 있는 첨단 기술로 적절한 것만을 <보기>에서 고른 것은?\n",
+    "text": "7. 다음 글을 통해 알 수 있는 첨단 기술로 적절한 것만을 <보기>에서 고른 것은?",
     "bbox": [
       85,
       821,
@@ -1457,10 +1272,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9851,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3018,
-      "end_orig": 3065,
+      "start_orig": 3017,
+      "end_orig": 3064,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1665,26 +1480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\times \\times",
-    "bbox": [
-      544,
-      262,
-      561,
-      273
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "씨는'노동조합에 가입하지 않는다.'라는 조건이",
     "bbox": [
@@ -1723,20 +1518,6 @@
       "end_orig": 3600,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      448,
-      235,
-      524,
-      361
-    ],
-    "page_idx": 1,
-    "image_path": "f9448295ddb16cff0d73d927fad268b689424182c8aa04acbd18e9ead1c65b01.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2079,26 +1860,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "[ 1 0 { \\sim } 1 1 ]",
-    "bbox": [
-      86,
-      156,
-      131,
-      172
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "|다음은[취업 희망 기업 조사서]이다.물음에 답하시오.",
     "bbox": [
@@ -2159,21 +1920,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      93,
-      257,
-      396,
-      336
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>직무</td><td rowspan=1 colspan=1>제품디자인</td><td rowspan=1 colspan=1>시각디자인</td><td rowspan=1 colspan=1>패션디자인</td></tr><tr><td rowspan=1 colspan=1>기업명(기업 형태)</td><td rowspan=1 colspan=1>A기업(합명회사)</td><td rowspan=1 colspan=1>B기업(비상장주식회사)</td><td rowspan=1 colspan=1>C기업(합자회사)</td></tr><tr><td rowspan=1 colspan=1>상시 근로자</td><td rowspan=1 colspan=1>3명</td><td rowspan=1 colspan=1>70명</td><td rowspan=1 colspan=1>30명</td></tr><tr><td rowspan=1 colspan=1>채용면접</td><td rowspan=1 colspan=1>상황면접</td><td rowspan=1 colspan=1>개별면접</td><td rowspan=1 colspan=1>토론면접</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "36e64ab8d6f47c04a22b20647d468550b893233f8fc84bf38d87aea1db16a503.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "10. 위  [취업 희망 기업 조사서]에 나타난",
     "bbox": [
@@ -2191,26 +1937,6 @@
       "start_orig": 4516,
       "end_orig": 4542,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C }",
-    "bbox": [
-      304,
-      359,
-      333,
-      373
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2331,26 +2057,6 @@
       "start_orig": 4751,
       "end_orig": 4752,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C }",
-    "bbox": [
-      111,
-      500,
-      141,
-      514
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2695,7 +2401,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       1051,
@@ -2732,21 +2438,6 @@
       "end_orig": 5846,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      446,
-      183,
-      753,
-      322
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명</td><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>B기업</td></tr><tr><td rowspan=1 colspan=1>사업 내용</td><td rowspan=1 colspan=1>반려동물           의류제작</td><td rowspan=1 colspan=1>대형LNG선건조</td></tr><tr><td rowspan=1 colspan=1>고객</td><td rowspan=1 colspan=1>개인소비자</td><td rowspan=1 colspan=1>대형 해운사</td></tr><tr><td rowspan=1 colspan=1>주요 특징</td><td rowspan=1 colspan=1>·온라인 주문 앱을 구축하여·원활한 원자재 확보를위한실시간 판매,배송·단일 디자인의 제품 생산·원가 절감을 위한 대량생산</td><td rowspan=1 colspan=1>·온라인 주문 앱을 구축하여·원활한 원자재 확보를위한온라인 구매 시스템 구축·고객별 맞춤 생산</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "bf50af65caf273f927acf317e2593197c9c39938e45a4ae4e3607dc088cd42f4.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2849,26 +2540,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\angle 1 = 7 7",
-    "bbox": [
-      564,
-      506,
-      603,
-      520
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?",
     "bbox": [
@@ -2887,21 +2558,6 @@
       "end_orig": 6010,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      449,
-      533,
-      743,
-      653
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td colspan=\"4\">이사회 회의록</td></tr><tr><td>일시</td><td>2023년10월 30일 14:00</td><td>장소</td><td>본사 2층 회의실</td></tr><tr><td>회의 내용</td><td colspan=\"3\">A이사:경기 위축으로 수익성이 저하되고 부채 원리금 상환 부담이 증가하고 있습니다.이를 해결할 방안이 있나요? B이사:원가 절감을 위한 생산 공정 혁신 프로그램을 실시 하고,부채를 상환해야 합니다.이를 위한 자금 확보 방안으로 자산 매각과 주식 발행이 있습니다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "f4fd247318de969d468f8f24df633a23b62a5d67362089ae9f538b2403672b18.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2936,7 +2592,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9885,
+      "similarity": 0.9655,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 6018,
       "end_orig": 6091,
@@ -2981,26 +2637,6 @@
       "start_orig": 6162,
       "end_orig": 6176,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      572,
-      822,
-      594,
-      836
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3241,26 +2877,6 @@
       "start_orig": 6657,
       "end_orig": 6702,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
-    "bbox": [
-      222,
-      223,
-      241,
-      236
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3584,23 +3200,8 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      111,
-      831,
-      393,
-      870
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>분류체계</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>중분류</td><td rowspan=1 colspan=1>소분류</td><td rowspan=1 colspan=1>세분류</td><td rowspan=1 colspan=1>(4)</td></tr><tr><td rowspan=1 colspan=1>08.문화·예술디자인·방송</td><td rowspan=1 colspan=1>03.문화콘텐츠</td><td rowspan=1 colspan=1>02.문화콘텐츠제작</td><td rowspan=1 colspan=1>01.방송콘텐츠제작</td><td rowspan=1 colspan=1>01.프로그램기획</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a031ecabdd4f2c437abe187752dce3b6b9e41179eb9502ebe9c8353888eb95f2.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
-    "text": ".  직무 수행 능력 향상 방법\n-  고용노동부의 직업능력개발 훈련 지원 프로그램 활용",
+    "text": "2.  직무 수행 능력 향상 방법\n-  고용노동부의 직업능력개발 훈련 지원 프로그램 활용",
     "bbox": [
       107,
       872,
@@ -3611,9 +3212,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9855,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7654,
+      "start_orig": 7653,
       "end_orig": 7702,
       "reason": "passed_threshold_no_ws"
     }
@@ -3759,26 +3360,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 } \\mathsf { h } )",
-    "bbox": [
-      623,
-      158,
-      642,
-      172
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "),  (나)에 참여하는 교육 대상자에 대한 설명으로 적절한 것만을  <보기",
     "bbox": [
@@ -3796,26 +3377,6 @@
       "start_orig": 7950,
       "end_orig": 7992,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      669,
-      177,
-      679,
-      189
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3837,21 +3398,6 @@
       "end_orig": 8077,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      453,
-      236,
-      745,
-      357
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td colspan=\"2\"></td></tr><tr><td>맞춤형 사내 교육 프로그램</td><td>(나) 프로그램</td></tr><tr><td>(가) 프로그램 1.교육 내용 ·경력 재평가 및 목표 재설정</td><td>1.교육 내용 ·조화와 협력을 위한 팀 빌딩</td></tr><tr><td colspan=\"2\">•직무 역량 유지를 위한 보수 교육 •비즈니스 매너 및 조직 커뮤니케이션 ㄹ.대상자:41~50세의 10년 이상 재직 사원 ㄹ.대상자: 25~30세의 1년 미만 신입 사원</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a1f20b779cba3832185be1429886a22b1137e5049f993422ee0e2280af53354a.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3935,7 +3481,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "① 7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       445,
       519,
@@ -3945,12 +3491,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8267,
-      "end_orig": 8302,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -3971,26 +3517,6 @@
       "start_orig": 8303,
       "end_orig": 8323,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C }",
-    "bbox": [
-      606,
-      579,
-      635,
-      594
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4052,20 +3578,6 @@
       "end_orig": 8490,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      635,
-      635,
-      738,
-      710
-    ],
-    "page_idx": 3,
-    "image_path": "a5d42f389fa391f6a60bbcb2a4975f5969980c5fd7bbff89b3ee9042ec35414c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -4246,5 +3758,493 @@
       "end_orig": 8902,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      91,
+      152,
+      175,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 57,
+      "end_orig": 63,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "직업탐구 영역(성공적인 직업생활)",
+    "bbox": [
+      205,
+      143,
+      692,
+      203
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제[ ] 선택",
+    "bbox": [
+      615,
+      211,
+      700,
+      236
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 86,
+      "end_orig": 93,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      339,
+      209,
+      597,
+      237
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "3d4197e0e2c830381dccdd7bfa5d1ec8547dee7c0de28b2eb0c41e3ff6cb3634.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      198,
+      275,
+      207,
+      286
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      105,
+      346,
+      395,
+      412
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>40대</td><td rowspan=1 colspan=1>50대</td></tr><tr><td rowspan=1 colspan=1>1순위</td><td rowspan=1 colspan=1>변화지향(4.6점)</td><td rowspan=1 colspan=1>(4.8점)</td></tr><tr><td rowspan=1 colspan=1>2순위</td><td rowspan=1 colspan=1>자율성 (4.2점)</td><td rowspan=1 colspan=1>직업안정 (4.3점)</td></tr><tr><td rowspan=1 colspan=1>3순위</td><td rowspan=1 colspan=1>직업안정 (3.8점)</td><td rowspan=1 colspan=1>자율성 (3.7점)</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "de397ecaf449e8995edb87a3c9afcb16479d8a03a011ffb8f13bd38703175642.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 )",
+    "bbox": [
+      114,
+      937,
+      129,
+      950
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      124,
+      177,
+      135,
+      189
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B } ^ { \\mathsf { o l l } }",
+    "bbox": [
+      384,
+      470,
+      404,
+      484
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      105,
+      513,
+      397,
+      646
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=2>[NCS 기반 자기소개서 사례집]</td></tr><tr><td rowspan=1 colspan=1>문항</td><td rowspan=1 colspan=1>문항본인의역량을높일수있었던 경험을 기술하시오.</td></tr><tr><td rowspan=1 colspan=1>학생A</td><td rowspan=1 colspan=1>OO기업 현장 실습과정에서영수증을 전산프로그램에 입력하는업무를수행하고이를통해정보수집·관리능력을배양하였습니다.</td></tr><tr><td rowspan=1 colspan=1>학생B</td><td rowspan=1 colspan=1>기업 현장 실습 과정에서 각 부서의 소모품 소요량을파악하고, 활용 계획을 세워 할당하는 능력을 키웠습니다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "7793562b3fd6e8f08f43aada600a755064f818a1671ff2a67ba0461b7a0e7af2.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\times \\times",
+    "bbox": [
+      544,
+      262,
+      561,
+      273
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      448,
+      235,
+      524,
+      361
+    ],
+    "page_idx": 1,
+    "image_path": "f9448295ddb16cff0d73d927fad268b689424182c8aa04acbd18e9ead1c65b01.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 1 0 { \\sim } 1 1 ]",
+    "bbox": [
+      86,
+      156,
+      131,
+      172
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      93,
+      257,
+      396,
+      336
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>직무</td><td rowspan=1 colspan=1>제품디자인</td><td rowspan=1 colspan=1>시각디자인</td><td rowspan=1 colspan=1>패션디자인</td></tr><tr><td rowspan=1 colspan=1>기업명(기업 형태)</td><td rowspan=1 colspan=1>A기업(합명회사)</td><td rowspan=1 colspan=1>B기업(비상장주식회사)</td><td rowspan=1 colspan=1>C기업(합자회사)</td></tr><tr><td rowspan=1 colspan=1>상시 근로자</td><td rowspan=1 colspan=1>3명</td><td rowspan=1 colspan=1>70명</td><td rowspan=1 colspan=1>30명</td></tr><tr><td rowspan=1 colspan=1>채용면접</td><td rowspan=1 colspan=1>상황면접</td><td rowspan=1 colspan=1>개별면접</td><td rowspan=1 colspan=1>토론면접</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "36e64ab8d6f47c04a22b20647d468550b893233f8fc84bf38d87aea1db16a503.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C }",
+    "bbox": [
+      304,
+      359,
+      333,
+      373
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C }",
+    "bbox": [
+      111,
+      500,
+      141,
+      514
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      446,
+      183,
+      753,
+      322
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명</td><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>B기업</td></tr><tr><td rowspan=1 colspan=1>사업 내용</td><td rowspan=1 colspan=1>반려동물           의류제작</td><td rowspan=1 colspan=1>대형LNG선건조</td></tr><tr><td rowspan=1 colspan=1>고객</td><td rowspan=1 colspan=1>개인소비자</td><td rowspan=1 colspan=1>대형 해운사</td></tr><tr><td rowspan=1 colspan=1>주요 특징</td><td rowspan=1 colspan=1>·온라인 주문 앱을 구축하여·원활한 원자재 확보를위한실시간 판매,배송·단일 디자인의 제품 생산·원가 절감을 위한 대량생산</td><td rowspan=1 colspan=1>·온라인 주문 앱을 구축하여·원활한 원자재 확보를위한온라인 구매 시스템 구축·고객별 맞춤 생산</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "bf50af65caf273f927acf317e2593197c9c39938e45a4ae4e3607dc088cd42f4.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle 1 = 7 7",
+    "bbox": [
+      564,
+      506,
+      603,
+      520
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      449,
+      533,
+      743,
+      653
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td colspan=\"4\">이사회 회의록</td></tr><tr><td>일시</td><td>2023년10월 30일 14:00</td><td>장소</td><td>본사 2층 회의실</td></tr><tr><td>회의 내용</td><td colspan=\"3\">A이사:경기 위축으로 수익성이 저하되고 부채 원리금 상환 부담이 증가하고 있습니다.이를 해결할 방안이 있나요? B이사:원가 절감을 위한 생산 공정 혁신 프로그램을 실시 하고,부채를 상환해야 합니다.이를 위한 자금 확보 방안으로 자산 매각과 주식 발행이 있습니다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "f4fd247318de969d468f8f24df633a23b62a5d67362089ae9f538b2403672b18.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      572,
+      822,
+      594,
+      836
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
+    "bbox": [
+      222,
+      223,
+      241,
+      236
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      111,
+      831,
+      393,
+      870
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>분류체계</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>중분류</td><td rowspan=1 colspan=1>소분류</td><td rowspan=1 colspan=1>세분류</td><td rowspan=1 colspan=1>(4)</td></tr><tr><td rowspan=1 colspan=1>08.문화·예술디자인·방송</td><td rowspan=1 colspan=1>03.문화콘텐츠</td><td rowspan=1 colspan=1>02.문화콘텐츠제작</td><td rowspan=1 colspan=1>01.방송콘텐츠제작</td><td rowspan=1 colspan=1>01.프로그램기획</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a031ecabdd4f2c437abe187752dce3b6b9e41179eb9502ebe9c8353888eb95f2.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 } \\mathsf { h } )",
+    "bbox": [
+      623,
+      158,
+      642,
+      172
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      669,
+      177,
+      679,
+      189
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      453,
+      236,
+      745,
+      357
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td colspan=\"2\"></td></tr><tr><td>맞춤형 사내 교육 프로그램</td><td>(나) 프로그램</td></tr><tr><td>(가) 프로그램 1.교육 내용 ·경력 재평가 및 목표 재설정</td><td>1.교육 내용 ·조화와 협력을 위한 팀 빌딩</td></tr><tr><td colspan=\"2\">•직무 역량 유지를 위한 보수 교육 •비즈니스 매너 및 조직 커뮤니케이션 2.대상자:41~50세의 10년 이상 재직 사원 2.대상자: 25~30세의 1년 미만 신입 사원</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a1f20b779cba3832185be1429886a22b1137e5049f993422ee0e2280af53354a.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C }",
+    "bbox": [
+      606,
+      579,
+      635,
+      594
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      635,
+      635,
+      738,
+      710
+    ],
+    "page_idx": 3,
+    "image_path": "a5d42f389fa391f6a60bbcb2a4975f5969980c5fd7bbff89b3ee9042ec35414c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

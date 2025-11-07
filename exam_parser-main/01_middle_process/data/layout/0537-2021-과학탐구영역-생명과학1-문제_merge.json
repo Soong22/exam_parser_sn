@@ -1,0 +1,7304 @@
+[
+  {
+    "type": "text",
+    "text": "과학탐구 영역(생명과학 I)",
+    "bbox": [
+      230,
+      146,
+      614,
+      199
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      90,
+      152,
+      174,
+      192
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 55,
+      "end_orig": 61,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      309,
+      209,
+      566,
+      237
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "4fe007ca9ac189f5b27d9e0edaea2c7b0938c52b64b2c3aaee384540848bf2b2.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "1. 그림은 사람에서 일어나는 영양소의 물질대사 과정 일부를 나타낸 것이다.",
+    "bbox": [
+      88,
+      257,
+      405,
+      289
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 97,
+      "end_orig": 139,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "과 ㉡은 암모니아와 이산화 탄소를 순서 없이 나타낸 것이다.\n",
+    "bbox": [
+      133,
+      275,
+      406,
+      289
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9412,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 142,
+      "end_orig": 176,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      146,
+      298,
+      355,
+      358
+    ],
+    "page_idx": 0,
+    "image_path": "eb43b93dc8b86eb60af14d23869a5f4ccbd776fa87cce3617c410611881d1295.jpg",
+    "alt": "",
+    "caption": [
+      "(가)"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?  [3점]\n",
+    "bbox": [
+      97,
+      366,
+      407,
+      400
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 198,
+      "end_orig": 220,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기",
+    "bbox": [
+      106,
+      366,
+      296,
+      384
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 176,
+      "end_orig": 197,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      296,
+      369,
+      306,
+      381
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보 기>",
+    "bbox": [
+      228,
+      406,
+      273,
+      424
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 220,
+      "end_orig": 225,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. 과정 (가)에서 이화 작용이 일어난다.",
+    "bbox": [
+      108,
+      425,
+      301,
+      440
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 226,
+      "end_orig": 250,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ. 호흡계를 통해 ㉠이 몸 밖으로 배출된다.\n",
+    "bbox": [
+      108,
+      443,
+      320,
+      457
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9474,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 251,
+      "end_orig": 277,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 간에서",
+    "bbox": [
+      107,
+      459,
+      159,
+      474
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 277,
+      "end_orig": 283,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "요소로 전환된다.",
+    "bbox": [
+      180,
+      459,
+      268,
+      474
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 287,
+      "end_orig": 296,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\textcircled { \\scriptsize { \\times } }",
+    "bbox": [
+      159,
+      460,
+      180,
+      473
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② ㄷ ③ 7,L ④ ⑤ ㄱ,ㄴ,ㄷ",
+    "bbox": [
+      95,
+      487,
+      407,
+      507
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "2. 표는 성인의 체질량 지수에 따른 분류를,  그림은 이 분류에 따른 고지혈증을 나타내는 사람의 비율을 나타낸 것이다.",
+    "bbox": [
+      86,
+      528,
+      406,
+      561
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 338,
+      "end_orig": 405,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      279,
+      569,
+      381,
+      663
+    ],
+    "page_idx": 0,
+    "image_path": "53f2d1988acbd4a2be94fbbd3460907d5f5d5c3ed4ca9e55f20b8bfd2df1d134.jpg",
+    "alt": "",
+    "caption": [
+      "(4)"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      125,
+      572,
+      269,
+      635
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>체질량지수*</td><td rowspan=1 colspan=1>분류</td></tr><tr><td rowspan=1 colspan=1>18.5미만</td><td rowspan=1 colspan=1>저체중</td></tr><tr><td rowspan=1 colspan=1>18.5 이상 23.0미만</td><td rowspan=1 colspan=1>정상체중</td></tr><tr><td rowspan=1 colspan=1>23.0 이상 25.0미만</td><td rowspan=1 colspan=1>과체중</td></tr><tr><td rowspan=1 colspan=1>25.0 이상</td><td rowspan=1 colspan=1>비만</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "26ca69098459a631bc1069bd3f6559ad84e756d4e7d92f9de79e2c54096aa840.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "몸무게(kg) 체질량 지수",
+    "bbox": [
+      135,
+      637,
+      249,
+      656
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 475,
+      "end_orig": 489,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "=",
+    "bbox": [
+      185,
+      644,
+      195,
+      654
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "키의 제곱(m²)",
+    "bbox": [
+      199,
+      650,
+      256,
+      663
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
+    "bbox": [
+      108,
+      672,
+      407,
+      689
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 496,
+      "end_orig": 533,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보 기>",
+    "bbox": [
+      229,
+      694,
+      273,
+      712
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 534,
+      "end_orig": 539,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. 체질량 지수가 20.0인 성인은 정상 체중으로 분류된다.\n",
+    "bbox": [
+      108,
+      715,
+      385,
+      729
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 540,
+      "end_orig": 575,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ. 고지혈증을 나타내는 사람의 비율은 비만인 사람 중에서가 정상 체중인 사람 중에서보다 높다.",
+    "bbox": [
+      108,
+      732,
+      397,
+      762
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 575,
+      "end_orig": 628,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 대사성 질환 중에는 고지혈증이 있다.",
+    "bbox": [
+      107,
+      765,
+      304,
+      779
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 629,
+      "end_orig": 652,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "bbox": [
+      94,
+      793,
+      407,
+      812
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "3. 표 (가)는 사람의 5가지 질병을 A～C로 구분하여 나타낸 것이고, (나)는 병원체의 3가지 특징을 나타낸 것이다.\n",
+    "bbox": [
+      84,
+      833,
+      407,
+      866
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 694,
+      "end_orig": 762,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      118,
+      876,
+      231,
+      926
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>질병</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>말라리아</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>독감,홍역</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>결핵,탄저병</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "6781e25439cfb417445a2a9b5c102884c1874788cc8e0aec3a5e06e286d3f2d4.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "특징\n∙유전 물질을 갖는다.",
+    "bbox": [
+      248,
+      877,
+      334,
+      902
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9167,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 794,
+      "end_orig": 809,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": " ∙세포 구조로 되어 있다.",
+    "bbox": [
+      249,
+      900,
+      346,
+      914
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9091,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 809,
+      "end_orig": 824,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": " ∙독립적으로 물질대사를 한다.",
+    "bbox": [
+      249,
+      912,
+      366,
+      925
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9286,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 824,
+      "end_orig": 841,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
+    "bbox": [
+      107,
+      946,
+      407,
+      964
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 842,
+      "end_orig": 879,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. 말라리아의 병원체는 곰팡이다.",
+    "bbox": [
+      108,
+      990,
+      273,
+      1003
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 886,
+      "end_orig": 905,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ. 독감의 병원체는 세포 구조로 되어 있다.",
+    "bbox": [
+      106,
+      1005,
+      320,
+      1020
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 906,
+      "end_orig": 931,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. C의 병원체는 (나)의 특징을 모두 갖는다.",
+    "bbox": [
+      107,
+      1023,
+      324,
+      1037
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 932,
+      "end_orig": 959,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
+    "bbox": [
+      96,
+      1050,
+      406,
+      1072
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제[ ] 선택",
+    "bbox": [
+      585,
+      212,
+      669,
+      236
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 81,
+      "end_orig": 88,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "4. 그림 (가)는 동공의 크기 조절에 관여 하는 말초 신경이 중추 신경계에 연결된 경로를,  (나)는 무릎 반사에 관여하는 말초 신경이 중추 신경계에 연결된 경로를 나타낸 것이다.",
+    "bbox": [
+      435,
+      257,
+      612,
+      338
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1008,
+      "end_orig": 1109,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(가) 계 <• < 눈 • (나) 신경계 중추> • 다리",
+    "bbox": [
+      618,
+      267,
+      752,
+      334
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
+    "bbox": [
+      456,
+      345,
+      756,
+      363
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1110,
+      "end_orig": 1147,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      580,
+      370,
+      619,
+      383
+    ],
+    "page_idx": 0,
+    "image_path": "4ab6dbf03acaf8d2d66d66bd26f330706b56882e878de81b3c70c7aadf45c1ce.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "⑦ ~ㄷ은 모두 자율 신경계에 속한다.",
+    "bbox": [
+      472,
+      388,
+      653,
+      402
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "7.",
+    "bbox": [
+      456,
+      389,
+      471,
+      402
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1951,
+      "end_orig": 1953,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "L.",
+    "bbox": [
+      455,
+      404,
+      471,
+      420
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "과 ㉡의 말단에서 분비되는 신경 전달 물질은 같다. ",
+    "bbox": [
+      472,
+      404,
+      731,
+      420
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9302,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1188,
+      "end_orig": 1217,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 무릎 반사의 중추는 척수이다.",
+    "bbox": [
+      455,
+      420,
+      618,
+      437
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1219,
+      "end_orig": 1238,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② ㄷ ③ 7,L ④ㄴ,ㄷ ⑤ 7,ㄴ,ㄷ",
+    "bbox": [
+      443,
+      450,
+      756,
+      469
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "5. 그림은  평균  기온이  서로  다른  계절 Ⅰ과 Ⅱ에 측정한 식물 A의 온도에 따른 순생산량을 나타낸 것이다.",
+    "bbox": [
+      435,
+      497,
+      639,
+      546
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1282,
+      "end_orig": 1347,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      645,
+      497,
+      754,
+      592
+    ],
+    "page_idx": 0,
+    "image_path": "ac1ec3251e6c073a14bb189088d6c94bfaabcb24d7671bdb1fbae5604d942a22.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?  [3점]",
+    "bbox": [
+      447,
+      552,
+      638,
+      585
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6206,
+      "end_orig": 6249,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보 기>",
+    "bbox": [
+      577,
+      592,
+      621,
+      609
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6250,
+      "end_orig": 6255,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. 순생산량은 총생산량에서 호흡량을 제외한 양이다.",
+    "bbox": [
+      456,
+      611,
+      716,
+      626
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1399,
+      "end_orig": 1428,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ. A의 순생산량이 최대가 되는 온도는 Ⅰ일 때가 Ⅱ일 때보다 높다.\nㄷ.",
+    "bbox": [
+      456,
+      628,
+      746,
+      660
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9524,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1429,
+      "end_orig": 1471,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 계절에 따라 A의 순생산량이 최대가 되는 온도가 달라지는 것은 비생물적 요인이 생물에 영향을 미치는 예에 해당한다.\n",
+    "bbox": [
+      455,
+      661,
+      747,
+      693
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1469,
+      "end_orig": 1537,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① 7 ② L ③ ㄱ, ㄷ ④ ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "bbox": [
+      445,
+      706,
+      756,
+      727
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "6. 그림은  서로  다른  종인  동물",
+    "bbox": [
+      435,
+      753,
+      606,
+      767
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1578,
+      "end_orig": 1600,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "의  세포 (가)～(다)  각각에 들어 있는 염색체 중 X 염색체를 제외한 나머지 염색체를 모두 나타낸 것이다.",
+    "bbox": [
+      447,
+      753,
+      755,
+      802
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1619,
+      "end_orig": 1681,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "와",
+    "bbox": [
+      652,
+      753,
+      668,
+      767
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6706,
+      "end_orig": 6707,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } ( 2 n { = } ? )",
+    "bbox": [
+      606,
+      754,
+      652,
+      767
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B } ( 2 n { = } ? )",
+    "bbox": [
+      668,
+      754,
+      713,
+      767
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "중 2개는 A의 세포이고, 나머지 1개는 B의 세포이다.  A와 B는 성이 다르고,  A와 B의",
+    "bbox": [
+      446,
+      788,
+      754,
+      819
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1692,
+      "end_orig": 1745,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\gamma \\mathsf { h } ) \\sim ( \\mathsf { r } \\mathsf { l } )",
+    "bbox": [
+      588,
+      788,
+      636,
+      802
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "성염색체는 암컷이 XX,  수컷이 XY이다.",
+    "bbox": [
+      446,
+      820,
+      641,
+      836
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1746,
+      "end_orig": 1770,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "X (가) (4) (다)",
+    "bbox": [
+      483,
+      860,
+      692,
+      924
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "서 있는 대로 고른 것은?  (단,  돌연변이는 고려하지 않는다.)",
+    "bbox": [
+      446,
+      930,
+      755,
+      963
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1794,
+      "end_orig": 1831,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을",
+    "bbox": [
+      456,
+      930,
+      616,
+      947
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6869,
+      "end_orig": 6886,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 0 1 1",
+    "bbox": [
+      616,
+      931,
+      663,
+      945
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보기>",
+    "bbox": [
+      576,
+      969,
+      622,
+      987
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6887,
+      "end_orig": 6891,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. (가)와 (다)의 핵상은 같다.",
+    "bbox": [
+      456,
+      988,
+      602,
+      1004
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1838,
+      "end_orig": 1858,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ. A는 수컷이다.",
+    "bbox": [
+      455,
+      1006,
+      543,
+      1020
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1859,
+      "end_orig": 1870,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. B의 체세포 분열 중기의 세포 1개당 염색 분체 수는 16이다.\n",
+    "bbox": [
+      455,
+      1021,
+      746,
+      1038
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1871,
+      "end_orig": 1910,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "bbox": [
+      443,
+      1051,
+      756,
+      1072
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": ". 그림은 당뇨병 환자 A와",
+    "bbox": [
+      87,
+      159,
+      227,
+      174
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9565,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1952,
+      "end_orig": 1967,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "탄수화물을 섭취한 후 인슐린을 주사하였을 때 시간에 따른 혈중 포도당 농도를,  표는 당뇨병 (가)와 (나)의 원인을 나타낸 것이다.  A와 B의 당뇨병은 각각",
+    "bbox": [
+      97,
+      159,
+      406,
+      208
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1971,
+      "end_orig": 2060,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B } 7 \\mathsf { F }",
+    "bbox": [
+      227,
+      159,
+      248,
+      173
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "와 (나) 중 하나에 해당한다.",
+    "bbox": [
+      97,
+      193,
+      406,
+      225
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2064,
+      "end_orig": 2081,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑦ 은",
+    "bbox": [
+      197,
+      210,
+      222,
+      225
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.5,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1286,
+      "end_orig": 1288,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "세포와",
+    "bbox": [
+      233,
+      210,
+      268,
+      225
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2087,
+      "end_orig": 2090,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "세포 중 하나이다.",
+    "bbox": [
+      278,
+      210,
+      365,
+      225
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2092,
+      "end_orig": 2102,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\alpha",
+    "bbox": [
+      223,
+      212,
+      232,
+      223
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\beta",
+    "bbox": [
+      268,
+      212,
+      277,
+      225
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      122,
+      236,
+      227,
+      315
+    ],
+    "page_idx": 1,
+    "image_path": "7ac744540faf4891b021b5fc77d78d624a652fb442aec9a3723b3da28f09522c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      239,
+      242,
+      379,
+      309
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>당뇨병</td><td rowspan=1 colspan=1>원인</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>이자의⑦이 파괴되어인슐린이생성되지 못함</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>인슐린의표적 세포가인슐린에 반응하지 못함</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "313607ae8cc60d382c03165853b166f43b90a67bb620b4746ed463f7ada05b6e.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?  (단,  제시된 조건 이외는 고려하지 않는다.)  [3점]\n",
+    "bbox": [
+      98,
+      325,
+      406,
+      358
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2190,
+      "end_orig": 2240,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기",
+    "bbox": [
+      107,
+      325,
+      296,
+      342
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7832,
+      "end_orig": 7853,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      296,
+      328,
+      306,
+      339
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보 기>",
+    "bbox": [
+      228,
+      365,
+      273,
+      383
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7898,
+      "end_orig": 7903,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "7.",
+    "bbox": [
+      107,
+      384,
+      123,
+      399
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8199,
+      "end_orig": 8200,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑦ 은",
+    "bbox": [
+      123,
+      384,
+      149,
+      399
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.5,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1286,
+      "end_orig": 1288,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "세포이다.",
+    "bbox": [
+      159,
+      384,
+      205,
+      399
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2253,
+      "end_orig": 2258,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\beta",
+    "bbox": [
+      149,
+      386,
+      159,
+      399
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ. B의 당뇨병은 (나)에 해당한다.",
+    "bbox": [
+      108,
+      401,
+      272,
+      416
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2259,
+      "end_orig": 2280,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 정상인에서 혈중 포도당 농도가 증가하면 인슐린의 분비가 억제된다.\n",
+    "bbox": [
+      107,
+      418,
+      398,
+      451
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9677,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2281,
+      "end_orig": 2321,
+      "reason": "anchor_rescue+left_extend"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③ ㄷ ④ 7, L ⑤ L,ㄷ",
+    "bbox": [
+      95,
+      463,
+      390,
+      483
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "8. 그림 (가)와 (나)는 정상인에서 ㉠의 변화량에 따른 혈중 항이뇨 호르몬(ADH)  농도와 갈증을 느끼는 정도를 각각 나타낸 것이다.",
+    "bbox": [
+      86,
+      504,
+      406,
+      536
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9915,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2354,
+      "end_orig": 2431,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "은 혈장 삼투압과 전체 혈액량 중 하나이다.",
+    "bbox": [
+      97,
+      537,
+      320,
+      553
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2433,
+      "end_orig": 2457,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      125,
+      561,
+      242,
+      640
+    ],
+    "page_idx": 1,
+    "image_path": "d86809c640369426ff7ebc8f678e0788c68a7816cc6b200960f760b93a2c676c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      262,
+      561,
+      388,
+      639
+    ],
+    "page_idx": 1,
+    "image_path": "de705ab507cca163692f7fa3cb16958eae7bd978622a3d5128c941ebc40b0d78.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?  (단,  제시된 자료 이외에 체내 수분량에 영향을 미치는 요인은 없다.)  [3점]\n",
+    "bbox": [
+      97,
+      663,
+      406,
+      713
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2480,
+      "end_orig": 2544,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보",
+    "bbox": [
+      108,
+      663,
+      295,
+      678
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9677,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8289,
+      "end_orig": 8309,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      296,
+      665,
+      306,
+      677
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보 기>",
+    "bbox": [
+      227,
+      719,
+      273,
+      736
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8356,
+      "end_orig": 8361,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. ㉠은 혈장 삼투압이다.",
+    "bbox": [
+      109,
+      739,
+      231,
+      753
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9565,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2550,
+      "end_orig": 2565,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ.생성되는오즘의삼투압은",
+    "bbox": [
+      107,
+      755,
+      240,
+      771
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\Delta F E",
+    "bbox": [
+      240,
+      755,
+      262,
+      770
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "상태일 때가",
+    "bbox": [
+      262,
+      755,
+      317,
+      771
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2586,
+      "end_orig": 2592,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 갈증을 느끼는 정도는 안정 상태일 때가",
+    "bbox": [
+      108,
+      772,
+      311,
+      787
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2605,
+      "end_orig": 2629,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "p _ { 1 } \\Lup _ { \\equiv } ^ { \\Lup \\Lup }",
+    "bbox": [
+      311,
+      773,
+      335,
+      786
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③ ㄷ ④7,L ⑤ 7,ㄷ",
+    "bbox": [
+      94,
+      801,
+      390,
+      821
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "9. 그림 (가)는 사람 A의 체세포를 배양한 후 세포당 DNA  양에 따른 세포 수를,  (나)는 A의 체세포 분열 과정 중 ㉠시기의 세포로부터 얻은 핵형 분석 결과의 일부를 나타낸 것이다.\n이",
+    "bbox": [
+      87,
+      842,
+      240,
+      939
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.974,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2675,
+      "end_orig": 2784,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "1 1 2 3 4 5 0 1 2 XK 세포당DNA양(상댓값) 20 21 22 XY (가) (4)",
+    "bbox": [
+      251,
+      843,
+      406,
+      925
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
+    "bbox": [
+      107,
+      946,
+      407,
+      964
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3193,
+      "end_orig": 3230,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ.구간 I에는 핵막을 갖는 세포가 있다.",
+    "bbox": [
+      108,
+      990,
+      309,
+      1004
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ.(나)에서 다운 증후군의 염색체 이상이 관찰된다.",
+    "bbox": [
+      107,
+      1006,
+      358,
+      1020
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 구간 Ⅱ에는 ㉠ 시기의 세포가 있다.\n",
+    "bbox": [
+      106,
+      1022,
+      297,
+      1037
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9444,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2883,
+      "end_orig": 2907,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① 7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "bbox": [
+      96,
+      1050,
+      407,
+      1071
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "10.사람의 유전 형질 ④ 는3쌍의 대립유전자H와h,R와r,T와 t에 의해 결정되며, ④ 의 유전자는 서로 다른 3개의 상염색체에 있다.",
+    "bbox": [
+      436,
+      159,
+      755,
+      191
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.1587,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4209,
+      "end_orig": 4302,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { ( 7 7 ) }",
+    "bbox": [
+      353,
+      194,
+      370,
+      207
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "표는 사람(가)의 세포 I~에서 h,R, t의 유무를,그림은 세포",
+    "bbox": [
+      446,
+      194,
+      755,
+      208
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "을 각각나타낸 것이다.",
+    "bbox": [
+      446,
+      210,
+      755,
+      242
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\sim \\textcircled { \\scriptsize { \\mathrm { E } } } { \\scriptsize { \\leq } }",
+    "bbox": [
+      446,
+      210,
+      484,
+      225
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "의 세포 1개당 H와 T의 DNA  상대량을 더한 값",
+    "bbox": [
+      484,
+      210,
+      708,
+      225
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3080,
+      "end_orig": 3109,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\left( \\mathrm { H } + \\mathrm { T } \\right)",
+    "bbox": [
+      708,
+      210,
+      742,
+      224
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "은I~을 순서 없이 나타낸 것이다.",
+    "bbox": [
+      578,
+      226,
+      755,
+      242
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\scriptsize { \\mathrm { E } } }",
+    "bbox": [
+      545,
+      227,
+      577,
+      241
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      615,
+      252,
+      714,
+      333
+    ],
+    "page_idx": 1,
+    "image_path": "c6d8e9569315082b86b7677cf971ec8eb463ff5461fd694656e7d39620adfc68.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      484,
+      255,
+      599,
+      318
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>세포</td><td rowspan=1 colspan=3>대립유전자</td></tr><tr><td rowspan=1 colspan=1>h</td><td rowspan=1 colspan=1>R</td><td rowspan=1 colspan=1>t</td></tr><tr><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td></tr><tr><td rowspan=1 colspan=1>ⅡI</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>?</td></tr><tr><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>?</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [
+      "(O: 있음, ×: 없음)"
+    ],
+    "image_path": "7f8908b6b306db803168150fbed68c63a6e02b529c8459450d930c7791b27341.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?(단,돌연변이는 고려하지 않으며,H,h,R, r,T, t 각각의 1개당 DNA 상대량은1이다.)[3점]",
+    "bbox": [
+      446,
+      343,
+      755,
+      392
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.2759,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3591,
+      "end_orig": 3673,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기",
+    "bbox": [
+      457,
+      343,
+      644,
+      358
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3569,
+      "end_orig": 3590,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      645,
+      345,
+      655,
+      357
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보 기>",
+    "bbox": [
+      577,
+      398,
+      621,
+      416
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3607,
+      "end_orig": 3612,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. (가)에는h, R, t를 모두 갖는 세포가 있다.",
+    "bbox": [
+      456,
+      418,
+      677,
+      433
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ. Ⅱ는",
+    "bbox": [
+      456,
+      435,
+      497,
+      450
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.2857,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3657,
+      "end_orig": 3659,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다.",
+    "bbox": [
+      518,
+      435,
+      535,
+      450
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8383,
+      "end_orig": 8385,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { < }",
+    "bbox": [
+      497,
+      436,
+      518,
+      450
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "T의 DNA상대량 ㄷ.Ⅱ의 H의 DNA상대량+r의DNA 상대량 = 1이다.",
+    "bbox": [
+      455,
+      451,
+      727,
+      482
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③ 7,ㄷ ④L,ㄷ ⑤7,L,ㄷ",
+    "bbox": [
+      443,
+      494,
+      756,
+      514
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      614,
+      533,
+      753,
+      625
+    ],
+    "page_idx": 1,
+    "image_path": "a59807b974420f721073f9bf076247181121a24182abaf300f6a6c5b1d3a93f2.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "1. 그림은 어떤 뉴런에 역치 이상의 자극을 주었을 때,  이 뉴런 세포막의 한 지점 P에서 측정한 이온 ㉠과 ㉡의  막  투과도를  시간에  따라 나타낸  것이다. ",
+    "bbox": [
+      436,
+      535,
+      609,
+      616
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3449,
+      "end_orig": 3542,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑦ 과 ① 은각각",
+    "bbox": [
+      527,
+      602,
+      609,
+      616
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.7273,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3544,
+      "end_orig": 3553,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { N a } ^ { + }",
+    "bbox": [
+      445,
+      618,
+      468,
+      633
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "과",
+    "bbox": [
+      468,
+      618,
+      481,
+      633
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3834,
+      "end_orig": 3835,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { K } ^ { + }",
+    "bbox": [
+      481,
+      618,
+      499,
+      633
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "중 하나이다.",
+    "bbox": [
+      499,
+      618,
+      565,
+      633
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6861,
+      "end_orig": 6868,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
+    "bbox": [
+      457,
+      640,
+      756,
+      657
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9643,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6869,
+      "end_orig": 6906,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      580,
+      664,
+      619,
+      677
+    ],
+    "page_idx": 1,
+    "image_path": "f5a7e460cdb8d0d879ec0891cf94812a619f6758d0fd7b45be1814c63fb598e8.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. t 일 때,  P에서 탈분극이 일어나고 있다.\n",
+    "bbox": [
+      456,
+      682,
+      664,
+      696
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9756,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3613,
+      "end_orig": 3642,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "L.",
+    "bbox": [
+      456,
+      699,
+      471,
+      713
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "일 때,  ㉡의 농도는 세포 안에서가 세포 밖에서보다 높다.\n",
+    "bbox": [
+      482,
+      699,
+      745,
+      713
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9583,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3647,
+      "end_orig": 3681,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "t _ { 2 }",
+    "bbox": [
+      472,
+      700,
+      482,
+      713
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 뉴런 세포막의 이온 통로를 통한 ㉠의 이동을 차단하고 역치 이상의 자극을 주었을 때,  활동 전위가 생성되지 않는다.\n",
+    "bbox": [
+      456,
+      716,
+      746,
+      747
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.98,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3681,
+      "end_orig": 3750,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "때보다 크다.",
+    "bbox": [
+      340,
+      755,
+      398,
+      771
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2597,
+      "end_orig": 2604,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "p _ { 1 } \\ L _ { \\hat { \\mathbf { \\tau } } } ^ { \\diamond ] }",
+    "bbox": [
+      318,
+      756,
+      340,
+      770
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③ 7,ㄷ ④ L,ㄷ ⑤ 7,L,ㄷ",
+    "bbox": [
+      443,
+      760,
+      757,
+      781
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "때보다 크다.",
+    "bbox": [
+      335,
+      772,
+      397,
+      787
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2634,
+      "end_orig": 2641,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "12.다음은 종 사이의 상호 작용에 대한 자료이다. (가)와(나)는",
+    "bbox": [
+      435,
+      800,
+      755,
+      817
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "기생과 상리 공생의 예를 순서 없이 나타낸 것이다.",
+    "bbox": [
+      446,
+      819,
+      694,
+      834
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.4091,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7349,
+      "end_orig": 7379,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(가) 겨우살이는다른식물의 줄기에 뿌리를박아물과양분을 빼앗는다.",
+    "bbox": [
+      453,
+      846,
+      748,
+      882
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(나) 뿌리혹박테리아는 콩과식물에게 질소 화합물을 제공하고, 콩과식물은 뿌리혹박테리아에게 양분을 제공한다.",
+    "bbox": [
+      454,
+      882,
+      747,
+      914
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
+    "bbox": [
+      456,
+      928,
+      755,
+      947
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7832,
+      "end_orig": 7869,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. (가)는 기생의 예이다.",
+    "bbox": [
+      456,
+      972,
+      579,
+      986
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ.(가)와 (나) 각각에는 이익을 얻는 종이 있다.",
+    "bbox": [
+      455,
+      988,
+      689,
+      1003
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ.꽃이 벌새에게 꿀을 제공하고,벌새가 꽃의 수분을 돕는 것은 상리 공생의 예에 해당한다.",
+    "bbox": [
+      454,
+      1004,
+      747,
+      1036
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② ㄷ ③ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "bbox": [
+      444,
+      1050,
+      756,
+      1070
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "13.다음은사람의 유전 형질",
+    "bbox": [
+      85,
+      158,
+      235,
+      175
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "대한 자료이다",
+    "bbox": [
+      295,
+      158,
+      371,
+      175
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8088,
+      "end_orig": 8095,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 \\mathsf { H } ) \\sim ( \\mathsf { r } \\mathsf { I } ) \\mathsf { o } \\|",
+    "bbox": [
+      236,
+      159,
+      295,
+      173
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ (가)～(다)의 유전자는 서로 다른 3개의 상염색체에 있다.\n",
+    "bbox": [
+      108,
+      190,
+      395,
+      206
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9818,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4186,
+      "end_orig": 4222,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(가)는 대립유전자 A와",
+    "bbox": [
+      108,
+      206,
+      227,
+      223
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "대해 완전 우성이다.",
+    "bbox": [
+      119,
+      206,
+      397,
+      239
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에의해결정되며,A는",
+    "bbox": [
+      242,
+      206,
+      347,
+      223
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } ^ { * }",
+    "bbox": [
+      227,
+      208,
+      242,
+      221
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(나)는 대립유전자 B와",
+    "bbox": [
+      108,
+      240,
+      219,
+      255
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "의해 결정되며,유전자형이 다르면 표현형이 다르다.",
+    "bbox": [
+      119,
+      240,
+      397,
+      271
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B } ^ { * } { \\boldsymbol { \\circ } } \\|",
+    "bbox": [
+      219,
+      241,
+      244,
+      255
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇ(다)는1쌍의 대립유전자에 의해 결정되며,대립유전자에는 D,E,F가 있고,각 대립유전자 사이의 우열 관계는 분명하다.",
+    "bbox": [
+      108,
+      273,
+      397,
+      305
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇ(나)와(다)의 유전자형이 BB*DF인 아버지와 BB*EF인 어머니 사이에서 ⑦ 이태어날 때, ⑦ 에게서 나타날 수있는",
+    "bbox": [
+      108,
+      309,
+      397,
+      341
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "표현형이 모두 아버지와같을 확률은",
+    "bbox": [
+      117,
+      343,
+      396,
+      388
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 \\mathsf { h } ) \\sim ( \\mathsf { r } \\mathsf { l } ) \\xrightarrow { \\circ }",
+    "bbox": [
+      119,
+      343,
+      174,
+      357
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "표현형은 최대",
+    "bbox": [
+      174,
+      343,
+      241,
+      357
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 2 > 1 > 1 0",
+    "bbox": [
+      241,
+      343,
+      281,
+      357
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "고,",
+    "bbox": [
+      281,
+      343,
+      298,
+      357
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8320,
+      "end_orig": 8321,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 \\mathsf { H } ) \\sim ( \\mathsf { r } \\mathsf { l } ) \\xrightarrow { \\circ }",
+    "bbox": [
+      298,
+      343,
+      353,
+      357
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 3 } { 1 6 } \\diamond \\rceil",
+    "bbox": [
+      251,
+      361,
+      281,
+      387
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다.",
+    "bbox": [
+      282,
+      361,
+      298,
+      388
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8408,
+      "end_orig": 8410,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇ유전자형이 AA*BBDE인 아버지와 A*A*BB*DF인 어머니 사이에서",
+    "bbox": [
+      109,
+      390,
+      397,
+      421
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "표현형이 모두 어머니와 같을 확률은",
+    "bbox": [
+      118,
+      406,
+      398,
+      448
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\textcircled { \\times } \\textcircled { }",
+    "bbox": [
+      164,
+      406,
+      186,
+      421
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "태어날 때,  ㉡의",
+    "bbox": [
+      187,
+      406,
+      267,
+      421
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8571,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4583,
+      "end_orig": 4593,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( 1 7 ) \\div 1",
+    "bbox": [
+      267,
+      407,
+      325,
+      421
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 1 } { 1 6 } \\diamond \\lvert \\boldsymbol { \\tau } \\rvert",
+    "bbox": [
+      225,
+      425,
+      266,
+      451
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?(단, 돌연변이는 고려하지 않는다.)",
+    "bbox": [
+      97,
+      466,
+      406,
+      500
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.7273,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8311,
+      "end_orig": 8351,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기",
+    "bbox": [
+      108,
+      466,
+      296,
+      483
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8289,
+      "end_orig": 8310,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      296,
+      469,
+      306,
+      480
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보 기>",
+    "bbox": [
+      229,
+      506,
+      273,
+      524
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8356,
+      "end_orig": 8361,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ.D는 E에 대해 완전 우성이다.",
+    "bbox": [
+      108,
+      527,
+      268,
+      541
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ.",
+    "bbox": [
+      107,
+      542,
+      123,
+      558
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8386,
+      "end_orig": 8388,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "가질 수 있는",
+    "bbox": [
+      145,
+      542,
+      212,
+      558
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "의 유전자형은 최대 3가지이다. ",
+    "bbox": [
+      230,
+      542,
+      373,
+      558
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4738,
+      "end_orig": 4756,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { < } ]",
+    "bbox": [
+      123,
+      543,
+      145,
+      557
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 } \\mathsf { H } )",
+    "bbox": [
+      212,
+      543,
+      230,
+      557
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ".",
+    "bbox": [
+      104,
+      560,
+      123,
+      587
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(가)~(다)의 표현형이 모두아버지와같을확률은",
+    "bbox": [
+      145,
+      560,
+      356,
+      587
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled { 1 } \\circledcirc { < }",
+    "bbox": [
+      123,
+      566,
+      145,
+      580
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③7,ㄷ ④ L ⑤ ㄱ,ㄴ,ㄷ",
+    "bbox": [
+      95,
+      601,
+      407,
+      622
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "4. 다음은 병원체 ㉠과",
+    "bbox": [
+      86,
+      670,
+      209,
+      687
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8571,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4841,
+      "end_orig": 4854,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "대한 생쥐의 방어 작용 실험이다.",
+    "bbox": [
+      233,
+      670,
+      397,
+      687
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled { 1 } \\circ \\forall \\vert",
+    "bbox": [
+      209,
+      671,
+      232,
+      685
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "[실험 과정 및 결과]",
+    "bbox": [
+      108,
+      703,
+      206,
+      718
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(가) 유전적으로동일하고, ⑦ 과 ① 에 노출된 적이없는생쥐 I~VI을 준비한다.",
+    "bbox": [
+      105,
+      718,
+      398,
+      751
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(나)I에는생리식염수를,ⅡI에는죽은 ⑦ 을,Ⅲ에는 죽은 ① 을 각각주사한다.ⅡI에서는",
+    "bbox": [
+      105,
+      753,
+      398,
+      784
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "대한 항체가 각각 생성되었다.",
+    "bbox": [
+      130,
+      769,
+      398,
+      801
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑦ 에 대한,에서는",
+    "bbox": [
+      248,
+      769,
+      347,
+      784
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.7778,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4990,
+      "end_orig": 5001,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(다)2주 후(나)의I~에서 각각 혈장을 분리하여 표와 같이 살아 있는 과 함께",
+    "bbox": [
+      106,
+      803,
+      397,
+      834
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "게 주사하고,  1일 후 생쥐의 생존 여부를 확인한다.",
+    "bbox": [
+      129,
+      820,
+      396,
+      852
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5076,
+      "end_orig": 5106,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { { N } } { \\sim } \\mathrm { { W } } ^ { \\mathrm { { c } } }",
+    "bbox": [
+      226,
+      820,
+      267,
+      834
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      150,
+      854,
+      351,
+      914
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>생쥐</td><td rowspan=1 colspan=1>주사액의 조성</td><td rowspan=1 colspan=1>생존여부</td></tr><tr><td rowspan=1 colspan=1>V</td><td rowspan=1 colspan=1>I의 혈장+⑦</td><td rowspan=1 colspan=1>죽는다</td></tr><tr><td rowspan=1 colspan=1>V</td><td rowspan=1 colspan=1>ⅡI의 혈장+ ⑦</td><td rowspan=1 colspan=1>산다</td></tr><tr><td rowspan=1 colspan=1>VI</td><td rowspan=1 colspan=1>a의혈장+⑦</td><td rowspan=1 colspan=1>죽는다</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "60554864cba49a5b3867435e05fe9f9fb6b17e02bdda62b66e80b3eac43f2fdf.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?  (단,  제시된 조건 이외는 고려하지 않는다.)  [3점]\n",
+    "bbox": [
+      98,
+      929,
+      406,
+      962
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5194,
+      "end_orig": 5244,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에대한 설명으로 옳은것만을<보기",
+    "bbox": [
+      108,
+      929,
+      295,
+      946
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      296,
+      932,
+      306,
+      943
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보기>",
+    "bbox": [
+      227,
+      969,
+      272,
+      986
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. (나)의 Ⅱ에서 ㉠에 대한 특이적 방어 작용이 일어났다.\n",
+    "bbox": [
+      108,
+      987,
+      390,
+      1004
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.963,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5250,
+      "end_orig": 5285,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ.(다)의 V에서 ⑦ 에 대한 2차 면역 반응이 일어났다.",
+    "bbox": [
+      107,
+      1005,
+      378,
+      1020
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ.",
+    "bbox": [
+      107,
+      1021,
+      123,
+      1038
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8414,
+      "end_orig": 8416,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에는 ㉡에 대한 형질 세포가 있다.\n",
+    "bbox": [
+      123,
+      1021,
+      300,
+      1038
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8966,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5323,
+      "end_orig": 5343,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
+    "bbox": [
+      95,
+      1050,
+      407,
+      1071
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "15.다음은어떤 집안의 유전형질",
+    "bbox": [
+      434,
+      157,
+      610,
+      176
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "대한 자료이다.",
+    "bbox": [
+      669,
+      157,
+      746,
+      176
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\mathtt { r } ] ) \\mathtt { d } \\rVert",
+    "bbox": [
+      610,
+      159,
+      669,
+      173
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇ(가)는 대립유전자 H와 h에 의해, (나)는 대립유전자 R와 r에 의해, (다)는 대립유전자 T와 t에 의해 결정된다.H는h에",
+    "bbox": [
+      457,
+      191,
+      746,
+      222
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } ^ { * } { \\circ } \\|",
+    "bbox": [
+      347,
+      208,
+      371,
+      222
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "대해,R는 r에 대해,T는 t에 대해 각각 완전 우성이다.",
+    "bbox": [
+      469,
+      224,
+      732,
+      239
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "c",
+    "bbox": [
+      456,
+      239,
+      462,
+      257
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": " 유전자 중 2개는 X 염색체에,  나머지 1개는 상염색체에 있다.",
+    "bbox": [
+      467,
+      239,
+      747,
+      273
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9818,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5556,
+      "end_orig": 5593,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( 7 7 ) \\underline { { \\diamond } }",
+    "bbox": [
+      463,
+      241,
+      522,
+      255
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇ가계도는 구성원 ② 를 제외한 구성원",
+    "bbox": [
+      457,
+      274,
+      641,
+      289
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "게서 (가)~(다) 중(가)와(나)의 발현 여부를 나타낸 것이다.",
+    "bbox": [
+      467,
+      274,
+      746,
+      306
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 \\sim 8 \\mathsf { o l l }",
+    "bbox": [
+      641,
+      274,
+      674,
+      288
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      486,
+      313,
+      709,
+      409
+    ],
+    "page_idx": 2,
+    "image_path": "f7aa8298547cc178c808fe45e208382344fb49243d8e7ac33b961677aef41629.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "7에서는 (다)가 발현되었고,  4,  5,  8에서는 (다)가 발현 되지 않았다",
+    "bbox": [
+      457,
+      420,
+      746,
+      453
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9565,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5665,
+      "end_orig": 5710,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?  (단,  돌연변이와 교차는 고려하지 않는다.)  [3점]\n",
+    "bbox": [
+      446,
+      466,
+      755,
+      500
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5734,
+      "end_orig": 5783,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에대한설명으로 옳은것만을<보기",
+    "bbox": [
+      456,
+      466,
+      644,
+      483
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      644,
+      469,
+      655,
+      481
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보기>",
+    "bbox": [
+      576,
+      506,
+      622,
+      524
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. (나)의 유전자는 X염색체에 있다.",
+    "bbox": [
+      457,
+      526,
+      635,
+      541
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ. 4의",
+    "bbox": [
+      456,
+      543,
+      493,
+      557
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5813,
+      "end_orig": 5818,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\updownarrow ) \\leq",
+    "bbox": [
+      493,
+      543,
+      545,
+      557
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "의 유전자형은 모두 이형 접합성이다.",
+    "bbox": [
+      546,
+      543,
+      720,
+      557
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ. 8의 동생이 태어날 때,  이 아이에게서",
+    "bbox": [
+      456,
+      559,
+      649,
+      574
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5847,
+      "end_orig": 5872,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "중(가)만 발현될확률은",
+    "bbox": [
+      470,
+      559,
+      747,
+      602
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\gamma \\mathsf { h } ) \\sim ( \\mathsf { r } \\mathsf { l } )",
+    "bbox": [
+      649,
+      559,
+      698,
+      573
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 1 } { 8 }",
+    "bbox": [
+      356,
+      561,
+      374,
+      586
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이다",
+    "bbox": [
+      375,
+      562,
+      398,
+      584
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8382,
+      "end_orig": 8384,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 1 } { 4 } \\diamond | \\mathfrak { r } |",
+    "bbox": [
+      543,
+      577,
+      583,
+      603
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": ".",
+    "bbox": [
+      583,
+      579,
+      587,
+      603
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① 7 ② L ③ C ④7, L ⑤ L,ㄷ",
+    "bbox": [
+      445,
+      618,
+      739,
+      639
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "16.다음은골격근의 수축 과정에 대한 자료이다.",
+    "bbox": [
+      435,
+      732,
+      678,
+      752
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      627,
+      763,
+      749,
+      828
+    ],
+    "page_idx": 2,
+    "image_path": "51bb1cb6940c14bc19fc548ad9534bdec47d574f61e341f6c5fc010046c91926.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "text",
+    "text": "ㅇ그림은 근육 원섬유 마디 X의 구조를 나타낸 것이다. X는 좌우",
+    "bbox": [
+      457,
+      766,
+      621,
+      798
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled { 1 } \\circ \\forall \\vert",
+    "bbox": [
+      348,
+      770,
+      371,
+      784
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "대칭이다.",
+    "bbox": [
+      467,
+      797,
+      514,
+      816
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ 구간 ㉠은 액틴 필라멘트만 있는 부분이고,  ㉡은 액틴 필라멘트와 마이오신 필라멘트가 겹치는 부분이며, ",
+    "bbox": [
+      456,
+      815,
+      747,
+      865
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9333,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6017,
+      "end_orig": 6077,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "은 마이오신 필라멘트만 있는 부분이다.",
+    "bbox": [
+      529,
+      849,
+      718,
+      865
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      516,
+      850,
+      528,
+      864
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇ골격근 수축 과정의 시점",
+    "bbox": [
+      457,
+      866,
+      582,
+      881
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "의 길이는 순서 없이",
+    "bbox": [
+      467,
+      866,
+      746,
+      897
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9412,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6126,
+      "end_orig": 6137,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "때",
+    "bbox": [
+      603,
+      866,
+      618,
+      881
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\textcircled { \\scriptsize { \\scriptsize { \\mathrm { E } } } } }",
+    "bbox": [
+      618,
+      866,
+      653,
+      880
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "t _ { 1 } \\ L G ]",
+    "bbox": [
+      582,
+      867,
+      603,
+      881
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "의 길이는 순서 없이 ⓐ,  2d, ",
+    "bbox": [
+      467,
+      882,
+      747,
+      915
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9231,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6167,
+      "end_orig": 6187,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": ",",
+    "bbox": [
+      499,
+      882,
+      504,
+      898
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "고,시점",
+    "bbox": [
+      529,
+      882,
+      574,
+      898
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "일때",
+    "bbox": [
+      585,
+      882,
+      612,
+      898
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "3 d",
+    "bbox": [
+      485,
+      884,
+      498,
+      897
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 0 d ^ { \\circ }",
+    "bbox": [
+      504,
+      884,
+      529,
+      897
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "t _ { 2 }",
+    "bbox": [
+      575,
+      884,
+      585,
+      897
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\textcircled { \\scriptsize { \\scriptsize { \\mathrm { E } } } } }",
+    "bbox": [
+      613,
+      884,
+      647,
+      897
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "3 d ^ { \\circ }",
+    "bbox": [
+      504,
+      900,
+      526,
+      914
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다.  d는 0보다 크다.\n",
+    "bbox": [
+      527,
+      900,
+      625,
+      915
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6191,
+      "end_orig": 6206,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "게서 있는 대로 고른 것은?[3점]",
+    "bbox": [
+      446,
+      929,
+      755,
+      963
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은것만을",
+    "bbox": [
+      456,
+      929,
+      616,
+      946
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 0",
+    "bbox": [
+      617,
+      931,
+      659,
+      945
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보기>",
+    "bbox": [
+      576,
+      969,
+      622,
+      987
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ.근육 원섬유는 근육 섬유로 구성되어 있다.",
+    "bbox": [
+      457,
+      988,
+      678,
+      1003
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ. H대의 길이는 t 일 때가",
+    "bbox": [
+      456,
+      1006,
+      590,
+      1020
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6283,
+      "end_orig": 6300,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "t _ { 2 } \\frac { \\circ ] } { \\mathbf { \\bar { z } } }",
+    "bbox": [
+      590,
+      1006,
+      611,
+      1020
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "때보다 길다.",
+    "bbox": [
+      612,
+      1006,
+      676,
+      1020
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "t _ { 2 } \\frac { \\circ ] } { \\mathbf { \\tau } }",
+    "bbox": [
+      472,
+      1022,
+      492,
+      1037
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "때 ⑦ 의 길이는",
+    "bbox": [
+      493,
+      1022,
+      571,
+      1037
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.8333,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6320,
+      "end_orig": 6328,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ.",
+    "bbox": [
+      456,
+      1023,
+      471,
+      1037
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8456,
+      "end_orig": 8458,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 d ^ { \\circ } |",
+    "bbox": [
+      571,
+      1023,
+      595,
+      1037
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "다.",
+    "bbox": [
+      595,
+      1023,
+      610,
+      1037
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8419,
+      "end_orig": 8420,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③ C ④ 7,L ⑤ L,ㄷ",
+    "bbox": [
+      443,
+      1051,
+      739,
+      1071
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "17.다음은 어떤 집안의 유전 형질 (가)에 대한 자료이다.",
+    "bbox": [
+      86,
+      158,
+      368,
+      175
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇ(가)는 상염색체에 있는1쌍의 대립유전자에 의해 결정되며, 대립유전자에는 D,E,F,",
+    "bbox": [
+      108,
+      190,
+      398,
+      223
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "}있다.",
+    "bbox": [
+      255,
+      207,
+      289,
+      223
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { G } 7",
+    "bbox": [
+      240,
+      208,
+      255,
+      221
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇD는E, F, G에 대해, E는F, G에 대해, F는G에 대해 각각 완전 우성이다.",
+    "bbox": [
+      108,
+      224,
+      398,
+      255
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇ그림은 구성원1~8의 가계도를,표는1,3,4,5의 체세포1개당 G의 DNA상대량을 나타낸 것이다.가계도에(가)의 표현형은",
+    "bbox": [
+      108,
+      258,
+      398,
+      289
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "나타내지 않았다.",
+    "bbox": [
+      119,
+      290,
+      202,
+      306
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      134,
+      310,
+      268,
+      396
+    ],
+    "page_idx": 3,
+    "image_path": "f22aba5ce61a515709ff92f1adc4609856f6fa3e8c7e507ac851403492db304c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      280,
+      317,
+      366,
+      389
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구성원</td><td rowspan=1 colspan=1>G의 DNA상대량</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>0</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "3c9e78eb412c55e724a761b3464d41ead8e9ed2335dab207dc9263db4e827a9c.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "유전자형은 각각 서로 다르다.",
+    "bbox": [
+      151,
+      399,
+      297,
+      414
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { ~ o ~ } 1 \\sim 8 \\ 9",
+    "bbox": [
+      107,
+      400,
+      150,
+      414
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㅇ3,4,5,6의 표현형은 모두 다르고,2와 8의 표현형은 같다.",
+    "bbox": [
+      108,
+      417,
+      396,
+      430
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "5와 6  중 한 명의 생식세포 형성 과정에서 ⓐ대립유전자",
+    "bbox": [
+      109,
+      433,
+      373,
+      447
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9362,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6721,
+      "end_orig": 6753,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "대립유전자ㄴ으로바뀌는돌연변이가1회일어나ㄴ을갖는 생식세포가 형성되었다.이 생식세포가 정상 생식세포와 수정",
+    "bbox": [
+      119,
+      450,
+      397,
+      480
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "되어 8이 태어났다. ",
+    "bbox": [
+      119,
+      483,
+      210,
+      497
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6824,
+      "end_orig": 6836,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑦ 과",
+    "bbox": [
+      210,
+      483,
+      234,
+      497
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6838,
+      "end_orig": 6839,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
+    "bbox": [
+      235,
+      483,
+      259,
+      497
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "각각D,E, F, G 중 하나이다.",
+    "bbox": [
+      259,
+      483,
+      397,
+      497
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?  (단,  제시된 돌연변이 이외의 돌연변이는 고려하지 않으며, D,  E,  F,  G  각각의 1개당 DNA  상대량은 1이다.)  [3점]\n",
+    "bbox": [
+      97,
+      514,
+      407,
+      563
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6891,
+      "end_orig": 6987,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을<보기",
+    "bbox": [
+      108,
+      514,
+      295,
+      529
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      296,
+      516,
+      306,
+      528
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보기>",
+    "bbox": [
+      228,
+      569,
+      273,
+      587
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. 5와 7의 표현형은 같다.\n",
+    "bbox": [
+      108,
+      590,
+      237,
+      604
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6993,
+      "end_orig": 7011,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ.",
+    "bbox": [
+      107,
+      606,
+      123,
+      621
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8447,
+      "end_orig": 8449,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "는 5에서 형성되었다.\n",
+    "bbox": [
+      123,
+      606,
+      237,
+      621
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9524,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7015,
+      "end_orig": 7028,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ.",
+    "bbox": [
+      107,
+      622,
+      122,
+      638
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8456,
+      "end_orig": 8458,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "중 1과 표현형이 같은 사람은 2명이다.\n",
+    "bbox": [
+      148,
+      622,
+      337,
+      638
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7036,
+      "end_orig": 7059,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 \\mathord { \\sim } 8",
+    "bbox": [
+      122,
+      623,
+      148,
+      637
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③ ㄷ ④7,L ⑤ 7,ㄷ",
+    "bbox": [
+      96,
+      651,
+      391,
+      672
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "18.다음은 어떤 과학자가 수행한 탐구이다.",
+    "bbox": [
+      87,
+      699,
+      303,
+      718
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(가) 딱총새우가 서식하는 산호의 주변에는 산호의 천적인 불가사리가 적게 관찰되는 것을 보고,딱총새우가 산호를 불가사리로부터 보호해 줄 것이라고 생각했다.",
+    "bbox": [
+      106,
+      732,
+      398,
+      781
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(나) 같은 지역에 있는 산호들을 집단 A와 B로나눈 후,A에서는 딱총새우를 그대로 두고,B에서는 딱총새우를 제거하였다.",
+    "bbox": [
+      106,
+      783,
+      398,
+      814
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": " (다) 일정 시간 동안 불가사리에게 잡아먹힌 산호의 비율은 ㉠에서가 ㉡에서보다 높았다. ",
+    "bbox": [
+      107,
+      817,
+      397,
+      847
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9474,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7284,
+      "end_orig": 7334,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑦ 과ㄴ은A와B를순서 없이 나타낸 것이다.",
+    "bbox": [
+      129,
+      833,
+      397,
+      864
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(라)산호에 서식하는 딱총새우가 산호를 불가사리로부터 보호해 준다는 결론을 내렸다.",
+    "bbox": [
+      106,
+      866,
+      397,
+      897
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?  [3점]\n",
+    "bbox": [
+      97,
+      912,
+      407,
+      946
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7435,
+      "end_orig": 7457,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이자료에대한 설명으로옳은것만을<보기",
+    "bbox": [
+      107,
+      912,
+      321,
+      929
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보기>",
+    "bbox": [
+      228,
+      952,
+      273,
+      970
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ.",
+    "bbox": [
+      106,
+      971,
+      123,
+      986
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.6667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8442,
+      "end_orig": 8444,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "은 A이다.\n",
+    "bbox": [
+      123,
+      971,
+      184,
+      986
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9091,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7467,
+      "end_orig": 7474,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ.(나)에서 조작 변인은 딱총새우의 제거 여부이다.",
+    "bbox": [
+      106,
+      987,
+      359,
+      1003
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ.(다)에서 불가사리와 산호 사이의 상호 작용은 포식과 피식에 해당한다.",
+    "bbox": [
+      107,
+      1006,
+      397,
+      1037
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
+    "bbox": [
+      95,
+      1050,
+      407,
+      1070
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "19.다음은 티록신의 분비 조절 과정에 대한 실험이다.",
+    "bbox": [
+      434,
+      158,
+      704,
+      176
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "O ⑦ 과 ① 은 각각 티록신과 TSH 중 하나이다.",
+    "bbox": [
+      456,
+      189,
+      681,
+      207
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "[실험 과정 및 결과]",
+    "bbox": [
+      456,
+      224,
+      554,
+      239
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(가)유전적으로 동일한 생쥐 A,B,C를 준비한다.",
+    "bbox": [
+      455,
+      241,
+      695,
+      255
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": " (나) B와 C의 갑상샘을 각각 제거한 후,  A～C에서 혈중 ㉠의 농도를 측정한다. ",
+    "bbox": [
+      455,
+      257,
+      745,
+      289
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9714,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7695,
+      "end_orig": 7744,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(다) (나)의 B와 C  중 한 생쥐에만 ㉠을 주사한 후,  A～C에서 혈중 ㉡의 농도를 측정한다.",
+    "bbox": [
+      455,
+      291,
+      745,
+      322
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.95,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7744,
+      "end_orig": 7800,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(라) (나)와(다)에서 측정한 결과는 그림과 같다.",
+    "bbox": [
+      455,
+      324,
+      682,
+      339
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      498,
+      344,
+      708,
+      432
+    ],
+    "page_idx": 3,
+    "image_path": "4c667518030c55983235247dea8f99ada3e5c8985ad1743268752835c061f5ff.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { \\scriptsize { 7 } } \\textcircled { \\scriptsize { \\circ } } |",
+    "bbox": [
+      374,
+      433,
+      397,
+      448
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?(단, 제시된 조건 이외는 고려하지 않는다.)",
+    "bbox": [
+      446,
+      449,
+      755,
+      482
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에 대한 설명으로 옳은 것만을<보기",
+    "bbox": [
+      456,
+      449,
+      644,
+      465
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      644,
+      452,
+      655,
+      463
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보기>",
+    "bbox": [
+      578,
+      488,
+      621,
+      506
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. 갑상샘은 ㉡의 표적 기관이다.",
+    "bbox": [
+      457,
+      508,
+      616,
+      522
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9333,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7904,
+      "end_orig": 7923,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ. (다)에서 ㉠을 주사한 생쥐는 B이다.",
+    "bbox": [
+      455,
+      525,
+      648,
+      540
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9474,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7924,
+      "end_orig": 7948,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ.티록신의 분비는 음성 피드백에 의해 조절된다.",
+    "bbox": [
+      456,
+      541,
+      699,
+      556
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "① 7 ② L ③ ㄱ, ㄷ ④ L, ⑤ ㄱ, ㄴ, ㄷ",
+    "bbox": [
+      445,
+      570,
+      756,
+      590
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "20.표",
+    "bbox": [
+      435,
+      637,
+      474,
+      653
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "는 면적이 동일한 서로다른 지역I과 Ⅱ의 식물 군집을 조사한 결과를 나타낸 것이고, (나)는 우점종에 대한 자료이다.",
+    "bbox": [
+      447,
+      637,
+      756,
+      671
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 } \\mathrm { 7 } )",
+    "bbox": [
+      474,
+      639,
+      492,
+      652
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      455,
+      681,
+      750,
+      786
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=7 colspan=1>가)</td><td rowspan=1 colspan=1>지역</td><td rowspan=1 colspan=1>종</td><td rowspan=1 colspan=1>상대 밀도(%)</td><td rowspan=1 colspan=1>상대 빈도(%)</td><td rowspan=1 colspan=1>상대 피도(%)</td><td rowspan=1 colspan=1>총 개체수</td></tr><tr><td rowspan=3 colspan=1>I</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>19</td><td rowspan=3 colspan=1>100</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>22</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>?</td></tr><tr><td rowspan=3 colspan=1>I</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>13</td><td rowspan=3 colspan=1>120</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>25</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1>?</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "14d2e8a58bfc0f27b25d6f3cdee7858a823a8fe5ad70a114e49a903fbf805b34.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "text",
+    "text": "(4) ㅇ어떤 군집의 우점종은 중요치가 가장 높아 그 군집을 대표할 수 있는 종을 의미하며,각 종의 중요치는 상대 밀도,상대 빈도,상대 피도를 더한 값이다.",
+    "bbox": [
+      448,
+      799,
+      750,
+      825
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에서 있는 대로 고른 것은?(단, A~C 이외의 종은 고려하지 않는다.)",
+    "bbox": [
+      447,
+      837,
+      755,
+      870
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "이에대한설명으로 옳은 것만을<보기",
+    "bbox": [
+      456,
+      837,
+      644,
+      854
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      645,
+      840,
+      655,
+      852
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보기>",
+    "bbox": [
+      576,
+      876,
+      622,
+      894
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄱ. I의 식물 군집에서 우점종은 C이다.",
+    "bbox": [
+      456,
+      896,
+      650,
+      911
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄴ.개체군 밀도는I의 A가ⅡI의 B보다 크다.",
+    "bbox": [
+      455,
+      912,
+      679,
+      928
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      321,
+      915,
+      332,
+      927
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "text",
+    "text": "ㄷ.종 다양성은I에서가ⅡI에서보다 높다.",
+    "bbox": [
+      455,
+      929,
+      664,
+      945
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "bbox": [
+      444,
+      957,
+      756,
+      979
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "*  확인 사항",
+    "bbox": [
+      445,
+      1007,
+      506,
+      1023
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8480,
+      "end_orig": 8488,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오.",
+    "bbox": [
+      447,
+      1030,
+      744,
+      1063
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9697,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8489,
+      "end_orig": 8529,
+      "reason": "passed_threshold_no_ws"
+    }
+  }
+]

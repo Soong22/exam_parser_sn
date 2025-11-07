@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      90,
-      153,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 54,
-      "end_orig": 60,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "사회탐구 영역(정치와 법)",
-    "bbox": [
-      227,
-      143,
-      615,
-      201
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      708,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "d76992ec13f2af5b4985c1e60b1505b36d8408b3bca70cd58aa9ec10a920c40b.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 정치를 바라보는 갑,  을의 관점에 대한 설명으로 옳은 것은?",
     "bbox": [
       85,
@@ -72,26 +17,6 @@
       "start_orig": 95,
       "end_orig": 132,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      151,
-      287,
-      168,
-      297
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -256,7 +181,7 @@
   },
   {
     "type": "text",
-    "text": ". 법치주의의 유형 A,  B에 대한 설명으로 옳은 것은?  [3점] ",
+    "text": "2. 법치주의의 유형 A,  B에 대한 설명으로 옳은 것은?  [3점] ",
     "bbox": [
       84,
       574,
@@ -267,9 +192,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9818,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 398,
+      "start_orig": 397,
       "end_orig": 437,
       "reason": "passed_threshold_no_ws"
     }
@@ -475,20 +400,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      101,
-      870,
-      155,
-      930
-    ],
-    "page_idx": 0,
-    "image_path": "b48d3d59d0b4c6317cf19fc67519f344d904b9a6a4b858ce045c7e1f3d7137d7.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 국가의 의사를 결정하는 주권이 국민에게 있다는 원리이다.\n",
     "bbox": [
@@ -606,26 +517,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      672,
-      257,
-      681,
-      268
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -810,7 +701,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       444,
       566,
@@ -820,12 +711,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1594,
-      "end_orig": 1629,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -929,21 +820,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      454,
-      772,
-      745,
-      844
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>시기</td><td rowspan=1 colspan=4>정당별 의회 의석률(%)</td><td rowspan=2 colspan=1>행정부 수반소속 정당</td></tr><tr><td rowspan=1 colspan=1>A당</td><td rowspan=1 colspan=1>B당</td><td rowspan=1 colspan=1>C당</td><td rowspan=1 colspan=1>D당</td></tr><tr><td rowspan=1 colspan=1>t</td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>t+1</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=1>t+2</td><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>©</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "58268d4154fb5c7b55f488516130413cb20ab96c06406288e6c6b18e9e64c421.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": " ㉢\n각 시기의 정부 형태는 해당 시기 내에서 동일하며 각 시기 내 정당별 의회 의석률 변화와 행정부 수반의 당적 변화는 없음\n",
     "bbox": [
@@ -1004,26 +880,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { t } { + } 2",
-    "bbox": [
-      461,
-      920,
-      479,
-      933
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "시기에 행정부 수반은 법률안 거부권을 통해 입법 과정에 와 관여한다.\n",
     "bbox": [
@@ -1061,26 +917,6 @@
       "start_orig": 2136,
       "end_orig": 2137,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { \\scriptsize { 7 } } { \\textcircled { \\scriptsize { < } } { \\scriptsize { } } }",
-    "bbox": [
-      461,
-      953,
-      477,
-      966
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1124,26 +960,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      488,
-      987,
-      501,
-      1000
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "이 동일하다면,",
     "bbox": [
@@ -1161,26 +977,6 @@
       "start_orig": 2201,
       "end_orig": 2209,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { t } { + } 1",
-    "bbox": [
-      575,
-      987,
-      593,
-      1000
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1224,26 +1020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\ @ \\cdot",
-    "bbox": [
-      500,
-      1020,
-      514,
-      1033
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "이 모두 동일하다면,  t 시기와 달리 t+1 시기에는 행정부와 입법부 간 대립 시 잦은 불신임 결의로 국정 불안이 초래될 가능성이 높다.\n",
     "bbox": [
@@ -1281,26 +1057,6 @@
       "start_orig": 2335,
       "end_orig": 2348,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { F o } { } \\|",
-    "bbox": [
-      202,
-      158,
-      241,
-      172
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1505,7 +1261,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 자료에 대한 설명으로 옳은 것은?  (단,  A,  B는 각각 지방 자치 단체의 장,  지방 의회 중 하나임.)\n",
+    "text": "7. 다음 자료에 대한 설명으로 옳은 것은?  (단,  A,  B는 각각 지방 자치 단체의 장,  지방 의회 중 하나임.)",
     "bbox": [
       86,
       429,
@@ -1516,10 +1272,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.989,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2850,
-      "end_orig": 2918,
+      "start_orig": 2849,
+      "end_orig": 2917,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1884,26 +1640,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      670,
-      159,
-      680,
-      171
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -2145,7 +1881,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       444,
       609,
@@ -2155,12 +1891,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4882,
-      "end_orig": 4917,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2262,21 +1998,6 @@
       "end_orig": 5253,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      457,
-      798,
-      741,
-      886
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>D</td></tr><tr><td rowspan=1 colspan=1>계약 기간</td><td rowspan=1 colspan=2>2023년 1월 2일~2023년2월 28일</td></tr><tr><td rowspan=1 colspan=1>업무의 내용</td><td rowspan=1 colspan=2>마트내물품판매</td></tr><tr><td rowspan=1 colspan=1>소정 근로 시간(휴게 시간)</td><td rowspan=1 colspan=1>9:00~18:00(13:00~14:00)</td><td rowspan=1 colspan=1>9:30~17:00(13:30~14:00)</td></tr><tr><td rowspan=1 colspan=1>근무일(주휴일)</td><td rowspan=1 colspan=1>매주 5일(화~토)(일요일)</td><td rowspan=1 colspan=1>매주 5일(월~금)(일요일)</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "19c213a037c73ca144bf1d90971753c189dbcab7727256bdb08720f14b411514.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2859,26 +2580,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C } \\frac { \\mathrm { \\Delta } } { \\mathrm { \\Delta } }",
-    "bbox": [
-      716,
-      158,
-      754,
-      172
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "각각 정당,  이익 집단,  시민 단체 중 하나임.)",
     "bbox": [
@@ -3077,20 +2778,6 @@
       "end_orig": 7599,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      450,
-      448,
-      493,
-      513
-    ],
-    "page_idx": 2,
-    "image_path": "8898e358ddb49005560a3dd22f89c3dc341940ce777f1f57d3f81609caaec714.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3293,20 +2980,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      709,
-      547,
-      749,
-      605
-    ],
-    "page_idx": 2,
-    "image_path": "f8c66bcf49feb3e9b47d0e7bc9e5972ee441639142edede5bd7c31ef7ecba24d.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "14. 위 자료에 대한 옳은 법적 판단만을 <보기",
     "bbox": [
@@ -3324,26 +2997,6 @@
       "start_orig": 7600,
       "end_orig": 7627,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      663,
-      656,
-      673,
-      668
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3468,7 +3121,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ㄴ, ④ ⑤",
+    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ L, ④ ⑤",
     "bbox": [
       445,
       843,
@@ -4327,26 +3980,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      647,
-      459,
-      656,
-      471
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -4465,21 +4098,6 @@
       "end_orig": 10780,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      454,
-      621,
-      745,
-      646
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>A당</td><td rowspan=1 colspan=1>B당</td><td rowspan=1 colspan=1>C당</td><td rowspan=1 colspan=1>D당</td><td rowspan=1 colspan=1>E당</td><td rowspan=1 colspan=1>무소속</td></tr><tr><td rowspan=1 colspan=1>지역구 의석수(석)</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "0b837f2267d8445578fdb52498af988a9f5632f183f488e2575df8e76dfd8913.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -4680,5 +4298,387 @@
       "end_orig": 11448,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      90,
+      153,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 54,
+      "end_orig": 60,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "사회탐구 영역(정치와 법)",
+    "bbox": [
+      227,
+      143,
+      615,
+      201
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      708,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "d76992ec13f2af5b4985c1e60b1505b36d8408b3bca70cd58aa9ec10a920c40b.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      151,
+      287,
+      168,
+      297
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      101,
+      870,
+      155,
+      930
+    ],
+    "page_idx": 0,
+    "image_path": "b48d3d59d0b4c6317cf19fc67519f344d904b9a6a4b858ce045c7e1f3d7137d7.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      672,
+      257,
+      681,
+      268
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      772,
+      745,
+      844
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>시기</td><td rowspan=1 colspan=4>정당별 의회 의석률(%)</td><td rowspan=2 colspan=1>행정부 수반소속 정당</td></tr><tr><td rowspan=1 colspan=1>A당</td><td rowspan=1 colspan=1>B당</td><td rowspan=1 colspan=1>C당</td><td rowspan=1 colspan=1>D당</td></tr><tr><td rowspan=1 colspan=1>t</td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>t+1</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=1>t+2</td><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>©</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "58268d4154fb5c7b55f488516130413cb20ab96c06406288e6c6b18e9e64c421.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { t } { + } 2",
+    "bbox": [
+      461,
+      920,
+      479,
+      933
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { \\scriptsize { 7 } } { \\textcircled { \\scriptsize { < } } { \\scriptsize { } } }",
+    "bbox": [
+      461,
+      953,
+      477,
+      966
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      488,
+      987,
+      501,
+      1000
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { t } { + } 1",
+    "bbox": [
+      575,
+      987,
+      593,
+      1000
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\ @ \\cdot",
+    "bbox": [
+      500,
+      1020,
+      514,
+      1033
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { F o } { } \\|",
+    "bbox": [
+      202,
+      158,
+      241,
+      172
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      670,
+      159,
+      680,
+      171
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      457,
+      798,
+      741,
+      886
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>D</td></tr><tr><td rowspan=1 colspan=1>계약 기간</td><td rowspan=1 colspan=2>2023년 1월 2일~2023년2월 28일</td></tr><tr><td rowspan=1 colspan=1>업무의 내용</td><td rowspan=1 colspan=2>마트내물품판매</td></tr><tr><td rowspan=1 colspan=1>소정 근로 시간(휴게 시간)</td><td rowspan=1 colspan=1>9:00~18:00(13:00~14:00)</td><td rowspan=1 colspan=1>9:30~17:00(13:30~14:00)</td></tr><tr><td rowspan=1 colspan=1>근무일(주휴일)</td><td rowspan=1 colspan=1>매주 5일(화~토)(일요일)</td><td rowspan=1 colspan=1>매주 5일(월~금)(일요일)</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "19c213a037c73ca144bf1d90971753c189dbcab7727256bdb08720f14b411514.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C } \\frac { \\mathrm { \\Delta } } { \\mathrm { \\Delta } }",
+    "bbox": [
+      716,
+      158,
+      754,
+      172
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      450,
+      448,
+      493,
+      513
+    ],
+    "page_idx": 2,
+    "image_path": "8898e358ddb49005560a3dd22f89c3dc341940ce777f1f57d3f81609caaec714.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      709,
+      547,
+      749,
+      605
+    ],
+    "page_idx": 2,
+    "image_path": "f8c66bcf49feb3e9b47d0e7bc9e5972ee441639142edede5bd7c31ef7ecba24d.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      663,
+      656,
+      673,
+      668
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      647,
+      459,
+      656,
+      471
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      621,
+      745,
+      646
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>A당</td><td rowspan=1 colspan=1>B당</td><td rowspan=1 colspan=1>C당</td><td rowspan=1 colspan=1>D당</td><td rowspan=1 colspan=1>E당</td><td rowspan=1 colspan=1>무소속</td></tr><tr><td rowspan=1 colspan=1>지역구 의석수(석)</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "0b837f2267d8445578fdb52498af988a9f5632f183f488e2575df8e76dfd8913.jpg",
+    "original_type": "table"
   }
 ]

@@ -8,9 +8,9 @@ from difflib import SequenceMatcher
 # =========================
 # 하드코딩 경로 설정
 # =========================
-INPUT_DIR  = Path(r"01_middle_process/data/content_list")  # 원본 JSON 폴더
-PATCH_DIR  = Path(r"mathpix/2025_sample/2025국가고시_mathpix_converted")  # 패치 JSON 폴더(유사 파일명 허용)
-OUTPUT_DIR = Path(r"01_middle_process/data/merge_mathpix")               # 결과 저장 폴더
+INPUT_DIR  = Path(r"exam_parser-main\01_middle_process\data\content_list")  # 원본 JSON 폴더
+PATCH_DIR  = Path(r"exam_parser-main\01_middle_process\data\수능기출_2025_mathpix_converted\2025_only_mathpix")  # 패치 JSON 폴더(유사 파일명 허용)
+OUTPUT_DIR = Path(r"exam_parser-main\01_middle_process\data\merge_mathpix")               # 결과 저장 폴더
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # 퍼지 매칭 임계값(이상일 때 매칭으로 인정)

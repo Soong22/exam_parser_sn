@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      91,
-      152,
-      175,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 55,
-      "end_orig": 61,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "사회탐구 영역(윤리와 사상)",
-    "bbox": [
-      214,
-      144,
-      621,
-      199
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      707,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "3f5276bcb6407bfa191301ba4bcb971bd49d0258aa3ab7954093f7ecdc67f3e1.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 다음 가상 대화의 스승이 강조하는 삶의 태도로 가장 적절한 것은?",
     "bbox": [
       87,
@@ -73,20 +18,6 @@
       "end_orig": 136,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      98,
-      282,
-      403,
-      484
-    ],
-    "page_idx": 0,
-    "image_path": "f0ae8a89f9e113f6e2055278dd2e42f5bf187e3787a287dcc8b574d7d043856f.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -550,7 +481,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ.사회사상가 갑, 을의 입장으로옮은것만을<보기>에서 고른것은?",
+    "text": "2.사회사상가 갑, 을의 입장으로옮은것만을<보기>에서 고른것은?",
     "bbox": [
       84,
       804,
@@ -949,26 +880,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
-    "bbox": [
-      126,
-      176,
-      162,
-      190
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "들어갈 적절한 질문만을 <보기>에서 고른 것은?  [3점]\n(가) 갑: 학문의 길은 사물에 나아가 이치를 궁구하는 것보다 앞서는 것이 없다. 이치를 궁구하는 핵심에는 무엇보다",
     "bbox": [
@@ -1087,20 +998,6 @@
       "end_orig": 2052,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      98,
-      348,
-      389,
-      487
-    ],
-    "page_idx": 1,
-    "image_path": "006233a1e9cebad3c27a6dfad493459bcd87e01bb75a1080d17aa84f9edd253b.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1243,26 +1140,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { B } \\circ \\Vert",
-    "bbox": [
-      384,
-      684,
-      405,
-      698
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "해당하는 내용으로 옳은 것은?  [3점]\n",
     "bbox": [
@@ -1283,21 +1160,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      97,
-      727,
-      401,
-      978
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>(가)</td><td>갑:쾌락은 행복한 삶의 시작이자 끝이다.우리는 우리의 느낌을 모든 좋은 것들을 판단하는 잣대로 사용하면서, 쾌락에서 모든 선택과 회피를 시작하고 쾌락으로 돌아온다. 을:고통과쾌락만이우리가무엇을해야하는지를명령하고 무엇을 행하게 될지를 결정한다.옳고 그름의 잣대,원인과 결과의 사슬이 고통과 쾌락이라는 두 군주의 옥좌에 매여 있다.</td></tr><tr><td>(나)</td><td>&lt;범 레) →:비판의방향 A,B:비판의내용 A 갑 을 &lt;예 시) B A A는갑이 을에게제기할 수 있는 비판임.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "e4d01a540a56710bc6a370c028ee2f36e6d46bc1a4289ae0da6ff196f1e0369f.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① A:쾌락은선이고 고통은",
     "bbox": [
@@ -1315,26 +1177,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\phi \\phi \\phi",
-    "bbox": [
-      231,
-      987,
-      248,
-      1001
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1475,26 +1317,6 @@
       "start_orig": 3021,
       "end_orig": 3031,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      536,
-      177,
-      545,
-      188
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1699,7 +1521,7 @@
   },
   {
     "type": "text",
-    "text": "① ㉠ ② ㉡ ③ ㉢ ④ ㉣ ⑤",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       444,
       399,
@@ -1709,17 +1531,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.4444,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8036,
-      "end_orig": 8053,
-      "reason": "option_line_enumerator_match"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "9. 고대 동양 사상가 갑,  을의 입장으로 옳은 것만을 <보기>에서 고른 것은?  [3점]\n",
+    "text": "근대  서양  사상가의  입장으로  옳은  것만을 <보기>에서 고른 것은?  [3점]\n",
     "bbox": [
       435,
       471,
@@ -1730,11 +1552,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.8696,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2996,
-      "end_orig": 3048,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 5525,
+      "end_orig": 5573,
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
@@ -1839,7 +1661,7 @@
   },
   {
     "type": "text",
-    "text": "<보기>",
+    "text": "<보  기>",
     "bbox": [
       574,
       668,
@@ -1849,12 +1671,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5738,
+      "end_orig": 5744,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1939,7 +1761,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ㄴ, ④ ㄴ, ㄹ ⑤",
+    "text": "① ㉠ ② ㉡ ③ ㉢ ④ ㉣ ⑤",
     "bbox": [
       445,
       767,
@@ -1949,12 +1771,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.56,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8036,
+      "end_orig": 8053,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -2039,7 +1861,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑 : 행복한 자는 공적인 인간관계를 가능하면 피하고자 한다.\n",
+    "text": "① 갑:행복한 자는 공적인 인간관계를 가능하면 피하고자 한다.",
     "bbox": [
       446,
       987,
@@ -2049,17 +1871,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3733,
-      "end_orig": 3770,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "② 갑 : 행복한 자는 사건들의 필연적 관계를 자신의 삶으로 받아들인다.\n",
+    "text": "② 갑:행복한자는사건들의필연적관계를자신의삶으로받아들인다.",
     "bbox": [
       446,
       1002,
@@ -2069,17 +1891,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3770,
-      "end_orig": 3811,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "③ 을 : 행복은 지금 이 지상의 삶에서 완전히 실현할 수 있는 것이다.\n",
+    "text": "③ 을:행복은지금이 지상의삶에서완전히 실현할수있는것이다.",
     "bbox": [
       446,
       1018,
@@ -2089,17 +1911,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3811,
-      "end_orig": 3852,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "④ 을 : 행복은 인간뿐만 아니라 다른 동물들 역시 향유하는 것이다.\n",
+    "text": "④ 을:행복은 인간뿐만 아니라 다른 동물들 역시향유하는것이다.",
     "bbox": [
       446,
       1035,
@@ -2109,17 +1931,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3852,
-      "end_orig": 3891,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 갑과 을 : 행복은 타락한 본성을 회복하여 신과 합일하는 데 있다.\n",
+    "text": "⑤ 갑과 을:행복은 타락한 본성을 회복하여 신과 합일하는 데 있다.",
     "bbox": [
       446,
       1053,
@@ -2129,12 +1951,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3891,
-      "end_orig": 3931,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2158,28 +1980,8 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\textmd { U } }",
-    "bbox": [
-      359,
-      158,
-      392,
-      172
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
-    "text": "중 옳지 않은 것은?  [3점]\n",
+    "text": "중 옳지 않은 것은?[3점]",
     "bbox": [
       96,
       157,
@@ -2189,12 +1991,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3971,
-      "end_orig": 3989,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2215,26 +2017,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\odot",
-    "bbox": [
-      107,
-      241,
-      118,
-      250
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2338,26 +2120,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\odot",
-    "bbox": [
-      108,
-      370,
-      119,
-      380
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "학생답안",
     "bbox": [
@@ -2398,26 +2160,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      349,
-      417,
-      361,
-      429
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "인간을 끊임없는 문제 상황을 해결하면서 경험을 축적해 가는 존재로 보고, ① 인간은 지성을 최대한 발휘해 사회가 성장하고 진보할 수 있도록 노력해야 한다고 본다 한편 갑, 을은 모두 ① 현대 사회에서 나타나는 다양한 문제를 극복하기 위해 보편적인 도덕규범을 따라야 한다고 본다",
     "bbox": [
@@ -2439,7 +2181,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ① ③ ㄷ ④ ② ⑤①",
+    "text": "① 7 ② ① ③ ㄷ ④ ② ⑤①",
     "bbox": [
       95,
       513,
@@ -2459,7 +2201,7 @@
   },
   {
     "type": "text",
-    "text": ". (가)의 사회사상가 갑,  을,  병의 입장에서 서로에게 제기할 수 있는 비판을 (나)  그림으로 표현할 때,  A∼F에 해당하는 내용으로 가장 적절한 것은?  [3점]\n",
+    "text": "12.(가)의 사회사상가 갑, 을, 병의 입장에서 서로에게 제기할 수 있는 비판을(나) 그림으로 표현할 때, A~F에 해당하는 내용으로 가장 적절한 것은?[3점]",
     "bbox": [
       87,
       632,
@@ -2469,28 +2211,13 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9714,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4011,
-      "end_orig": 4108,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      97,
-      693,
-      401,
-      977
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td>(가)</td><td>갑:국가는 다수의 사람이 상호 계약을 체결하여 세운 인격이다.자연 상태에는 공통의 권력이 없어 각자의 각자에 대한 전쟁 상태에 빠져든다. 을:국가는계급과 함께출현한계급 사회의 산물로 지배 계급이 그들의 공동의 이해를 관철하는 정치적 형태이다. 따라서 프롤레타리아는 이 국가를 타도해야 한다. 병: 국가는 개인의 인격이 모두 결합된 공적 인격이다. 개인은 정치 공동체 안에서 스스로가 입법권을 가진</td></tr><tr><td>(나)</td><td>범 레) 갑 →:비판의 방향 A~F:비판의 내용 A/ FLIE &lt;예 시) A→ C 을 병 A는 갑이 을에게제기할</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "f9f2931c3efec7f51b071eff9019c3ad4beec43485e45442474ecd079774e9d8.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2754,7 +2481,7 @@
   },
   {
     "type": "text",
-    "text": "① 갑 : 자기 보존은 자연적 본성의 요구일 뿐이므로 선이 될 수는 없다.\n",
+    "text": "① 갑:자기 보존은 자연적 본성의 요구일 뿐이므로 선이 될 수는 없다.",
     "bbox": [
       446,
       338,
@@ -2764,17 +2491,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4873,
-      "end_orig": 4915,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "② 갑 : 자기 보존 성향과 달리 사회적 삶의 성향은 비자연적 성향이다.\n",
+    "text": "② 갑:자기 보존성향과 달리 사회적삶의 성향은비자연적 성향이다.",
     "bbox": [
       446,
       354,
@@ -2784,17 +2511,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4915,
-      "end_orig": 4956,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "③ 을 : 자기 보존을 위한 각자의 욕망은 신이 지닌 본성을 나타낸다.\n",
+    "text": "③ 을:자기 보존을 위한 각자의 욕망은 신이 지닌 본성을 나타낸다.",
     "bbox": [
       446,
       371,
@@ -2804,17 +2531,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4956,
-      "end_orig": 4996,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "④ 을 : 자기 보존은 동물과 달리 인간의 경우 자유로운 선택일 수 있다.\n",
+    "text": "④ 을:자기보존은동물과달리 인간의경우자유로운선택일수있다.",
     "bbox": [
       446,
       388,
@@ -2824,17 +2551,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4996,
-      "end_orig": 5038,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "⑤ 갑과 을 : 자기 보존에 성공한 사례는 신의 의도적 계획에 따른 것이다.\n",
+    "text": "⑤ 갑과 을: 자기 보존에 성공한 사례는신의 의도적 계획에 따른 것이다.",
     "bbox": [
       446,
       405,
@@ -2844,12 +2571,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5038,
-      "end_orig": 5081,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2870,26 +2597,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      723,
-      476,
-      733,
-      487
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3013,26 +2720,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      614,
-      640,
-      623,
-      651
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "ㄱ.갑: 칠정 가운데 선한 감정을 키우면 사덕으로 자라난다.",
     "bbox": [
@@ -3114,7 +2801,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ④ ⑤",
+    "text": "① 7,L ② 7,ㄷ ③ ④ ⑤",
     "bbox": [
       445,
       735,
@@ -3134,7 +2821,7 @@
   },
   {
     "type": "text",
-    "text": "5. 다음을  주장한  근대  서양  사상가의  입장으로  옳은  것만을 <보기>에서 고른 것은?  [3점]\n",
+    "text": "15.다음을 주장한 근대 서양 사상가의입장으로 옳은 것만을 <보기>에서 고른 것은?[3점]",
     "bbox": [
       435,
       805,
@@ -3144,12 +2831,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9877,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5512,
-      "end_orig": 5573,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -3913,26 +3600,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } \\sim \\mathrm { C } \\hookrightarrow \\mathbb { I }",
-    "bbox": [
-      464,
-      176,
-      504,
-      190
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "해당하는 적절한 진술만을<보기",
     "bbox": [
@@ -3950,26 +3617,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      669,
-      177,
-      679,
-      189
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3991,21 +3638,6 @@
       "end_orig": 7297,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      446,
-      217,
-      752,
-      426
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td>(가)</td><td colspan=\"3\">갑: 덕이 이롭다면 덕은 앎이어야 한다.영혼에 관한 모든 것은 그 자체로 이롭지도 해롭지도 않지만,앎이나 무지가 더해져 이롭거나 해롭게 되기 때문이다. 을:자제력 없는사람은 좋음에 대해서 알고 있지만,유덕한 사람도 부덕한 사람도 아니다.그리고 유덕한 사람이 아니고서는 실천적 지혜를 가진 사람이 될 수 없다.</td></tr><tr><td>(4)</td><td></td><td>A:갑만의 입장 B: 갑,을의공통입장 C: 을만의 입장</td><td>범 레&gt;</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "5e9f76b9f751444b5ef34855d654d3778ef36f7909e6d69cf4130250d6508b84.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -4168,26 +3800,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\textmd { U } }",
-    "bbox": [
-      579,
-      638,
-      614,
-      652
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "중에서 고른 것은?",
     "bbox": [
@@ -4288,20 +3900,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      447,
-      817,
-      570,
-      925
-    ],
-    "page_idx": 3,
-    "image_path": "4cda9a6c1d972ce6f1257f2bf39fc286d59f659fc19de448a8641d2051df87da.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "·X:만인이 평등한존재임을 강조하는 정도 ·Y:후천 개벽이 도래할 것임을 강조하는 정도 ·Z:성리학적 질서를 지켜야 함을 강조하는 정도",
     "bbox": [
@@ -4380,5 +3978,407 @@
       "end_orig": 8105,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      91,
+      152,
+      175,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 55,
+      "end_orig": 61,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "사회탐구 영역(윤리와 사상)",
+    "bbox": [
+      214,
+      144,
+      621,
+      199
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      707,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "3f5276bcb6407bfa191301ba4bcb971bd49d0258aa3ab7954093f7ecdc67f3e1.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      98,
+      282,
+      403,
+      484
+    ],
+    "page_idx": 0,
+    "image_path": "f0ae8a89f9e113f6e2055278dd2e42f5bf187e3787a287dcc8b574d7d043856f.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
+    "bbox": [
+      126,
+      176,
+      162,
+      190
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      98,
+      348,
+      389,
+      487
+    ],
+    "page_idx": 1,
+    "image_path": "006233a1e9cebad3c27a6dfad493459bcd87e01bb75a1080d17aa84f9edd253b.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B } \\circ \\Vert",
+    "bbox": [
+      384,
+      684,
+      405,
+      698
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      97,
+      727,
+      401,
+      978
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>(가)</td><td>갑:쾌락은 행복한 삶의 시작이자 끝이다.우리는 우리의 느낌을 모든 좋은 것들을 판단하는 잣대로 사용하면서, 쾌락에서 모든 선택과 회피를 시작하고 쾌락으로 돌아온다. 을:고통과쾌락만이우리가무엇을해야하는지를명령하고 무엇을 행하게 될지를 결정한다.옳고 그름의 잣대,원인과 결과의 사슬이 고통과 쾌락이라는 두 군주의 옥좌에 매여 있다.</td></tr><tr><td>(나)</td><td>&lt;범 레) →:비판의방향 A,B:비판의내용 A 갑 을 &lt;예 시) B A A는갑이 을에게제기할 수 있는 비판임.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "e4d01a540a56710bc6a370c028ee2f36e6d46bc1a4289ae0da6ff196f1e0369f.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\phi \\phi \\phi",
+    "bbox": [
+      231,
+      987,
+      248,
+      1001
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      536,
+      177,
+      545,
+      188
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\textmd { U } }",
+    "bbox": [
+      359,
+      158,
+      392,
+      172
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\odot",
+    "bbox": [
+      107,
+      241,
+      118,
+      250
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\odot",
+    "bbox": [
+      108,
+      370,
+      119,
+      380
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      349,
+      417,
+      361,
+      429
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      97,
+      693,
+      401,
+      977
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td>(가)</td><td>갑:국가는 다수의 사람이 상호 계약을 체결하여 세운 인격이다.자연 상태에는 공통의 권력이 없어 각자의 각자에 대한 전쟁 상태에 빠져든다. 을:국가는계급과 함께출현한계급 사회의 산물로 지배 계급이 그들의 공동의 이해를 관철하는 정치적 형태이다. 따라서 프롤레타리아는 이 국가를 타도해야 한다. 병: 국가는 개인의 인격이 모두 결합된 공적 인격이다. 개인은 정치 공동체 안에서 스스로가 입법권을 가진</td></tr><tr><td>(나)</td><td>범 레) 갑 →:비판의 방향 A~F:비판의 내용 A/ FLIE &lt;예 시) A→ C 을 병 A는 갑이 을에게제기할</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "f9f2931c3efec7f51b071eff9019c3ad4beec43485e45442474ecd079774e9d8.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      723,
+      476,
+      733,
+      487
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      614,
+      640,
+      623,
+      651
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } \\sim \\mathrm { C } \\hookrightarrow \\mathbb { I }",
+    "bbox": [
+      464,
+      176,
+      504,
+      190
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      669,
+      177,
+      679,
+      189
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      446,
+      217,
+      752,
+      426
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td>(가)</td><td colspan=\"3\">갑: 덕이 이롭다면 덕은 앎이어야 한다.영혼에 관한 모든 것은 그 자체로 이롭지도 해롭지도 않지만,앎이나 무지가 더해져 이롭거나 해롭게 되기 때문이다. 을:자제력 없는사람은 좋음에 대해서 알고 있지만,유덕한 사람도 부덕한 사람도 아니다.그리고 유덕한 사람이 아니고서는 실천적 지혜를 가진 사람이 될 수 없다.</td></tr><tr><td>(4)</td><td></td><td>A:갑만의 입장 B: 갑,을의공통입장 C: 을만의 입장</td><td>범 레&gt;</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "5e9f76b9f751444b5ef34855d654d3778ef36f7909e6d69cf4130250d6508b84.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\textmd { U } }",
+    "bbox": [
+      579,
+      638,
+      614,
+      652
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      817,
+      570,
+      925
+    ],
+    "page_idx": 3,
+    "image_path": "4cda9a6c1d972ce6f1257f2bf39fc286d59f659fc19de448a8641d2051df87da.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

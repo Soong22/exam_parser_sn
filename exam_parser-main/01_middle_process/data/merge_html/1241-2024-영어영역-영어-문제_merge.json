@@ -1,106 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제3교시",
-    "bbox": [
-      91,
-      155,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "영어 영역",
-    "bbox": [
-      332,
-      145,
-      509,
-      203
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "홀수형",
-    "bbox": [
-      674,
-      170,
-      753,
-      208
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "1번부터  17번까지는  듣고  답하는  문제입니다.  1번부터",
-    "bbox": [
-      106,
-      237,
-      397,
-      252
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 0,
-      "end_orig": 35,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "15번까지는 한 번만 들려주고, 16번부터 17번까지는 두 번 들려줍니다. 방송을 잘 듣고 답을 하시기 바랍니다.\n",
-    "bbox": [
-      95,
-      256,
-      397,
-      291
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 36,
-      "end_orig": 100,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. 다음을  듣고,  여자가  하는  말의  목적으로  가장  적절한  것을 고르시오",
     "bbox": [
       86,
@@ -141,7 +41,7 @@
   },
   {
     "type": "text",
-    "text": ". 대화를 듣고,  남자의 의견으로 가장 적절한 것을 고르시오.\n",
+    "text": "2. 대화를 듣고,  남자의 의견으로 가장 적절한 것을 고르시오.",
     "bbox": [
       84,
       463,
@@ -152,10 +52,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9811,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 274,
-      "end_orig": 310,
+      "start_orig": 273,
+      "end_orig": 309,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -400,20 +300,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      96,
-      745,
-      405,
-      915
-    ],
-    "page_idx": 0,
-    "image_path": "936099eb68e816cb2de3e0711e51d7828794482db62eeb2e42155b0a76e9a4ec.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "5. 대화를 듣고,  여자가 할 일로 가장 적절한 것을 고르시오.",
     "bbox": [
@@ -475,7 +361,7 @@
   },
   {
     "type": "text",
-    "text": ". 대화를 듣고,  여자가 산책을 할 수 없는 이유를 고르시오.\n",
+    "text": "7. 대화를 듣고,  여자가 산책을 할 수 없는 이유를 고르시오.",
     "bbox": [
       434,
       227,
@@ -486,10 +372,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9804,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 863,
-      "end_orig": 899,
+      "start_orig": 862,
+      "end_orig": 898,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -692,23 +578,6 @@
       "end_orig": 1275,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      444,
-      653,
-      754,
-      772
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=5 colspan=1>①2③4</td><td rowspan=1 colspan=1>Model</td><td rowspan=1 colspan=1>Price</td><td rowspan=1 colspan=1>WeightLimit</td><td rowspan=1 colspan=1>Color</td><td rowspan=1 colspan=1>HandleMaterial</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>$38</td><td rowspan=1 colspan=1>30kg</td><td rowspan=1 colspan=1>Black</td><td rowspan=1 colspan=1>Silicone</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>$42</td><td rowspan=1 colspan=1>40kg</td><td rowspan=1 colspan=1>Green</td><td rowspan=1 colspan=1>Silicone</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>$44</td><td rowspan=1 colspan=1>45kg</td><td rowspan=1 colspan=1>Blue</td><td rowspan=1 colspan=1>Metal</td></tr><tr><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>$48</td><td rowspan=1 colspan=1>50kg</td><td rowspan=1 colspan=1>White</td><td rowspan=1 colspan=1>Metal</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>E</td><td rowspan=1 colspan=1>$53</td><td rowspan=1 colspan=1>45kg</td><td rowspan=1 colspan=1>Red</td><td rowspan=1 colspan=1>Rubber</td></tr></table>",
-    "table_caption": [
-      "Foldable Carts"
-    ],
-    "table_footnote": [],
-    "image_path": "5cb7a005133071b348f1e1504eca81b6611b5c6ab8b56545c9acdaa2895e320f.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1512,7 +1381,7 @@
   },
   {
     "type": "text",
-    "text": "relieved ② ㄴonely",
+    "text": "relieved ② lonely",
     "bbox": [
       522,
       682,
@@ -1522,12 +1391,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.125,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5115,
-      "end_orig": 5117,
-      "reason": "low_similarity"
+      "start_orig": 5107,
+      "end_orig": 5124,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1608,26 +1477,6 @@
       "start_orig": 5192,
       "end_orig": 5200,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 1 6 \\sim 1 7 ]",
-    "bbox": [
-      86,
-      753,
-      133,
-      768
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2051,26 +1900,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      585,
-      468,
-      592,
-      476
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "exploitation: 이용",
     "bbox": [
@@ -2088,26 +1917,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      682,
-      467,
-      695,
-      477
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2291,26 +2100,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      315,
-      966,
-      322,
-      974
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "compliment:칭찬",
     "bbox": [
@@ -2491,20 +2280,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      97,
-      184,
-      403,
-      381
-    ],
-    "page_idx": 3,
-    "image_path": "4b3e82550fc8e6715d0813e369c3e2a7d71cd827d02a0e9bc7a0922e92a390ea.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "The above graph shows the percentages of the respondents in  five  countries  who  sometimes  or  often  actively  avoided news in 2017, 2019, and 2022.",
     "bbox": [
@@ -2562,26 +2337,6 @@
       "start_orig": 43539,
       "end_orig": 43645,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "30 \\%",
-    "bbox": [
-      96,
-      514,
-      121,
-      528
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2662,26 +2417,6 @@
       "start_orig": 43998,
       "end_orig": 44111,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "1 5 \\%",
-    "bbox": [
-      284,
-      636,
-      308,
-      649
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2965,21 +2700,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      460,
-      305,
-      669,
-      357
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>Weekdays</td><td rowspan=1 colspan=1>1 p.m. – 5 p.m.</td></tr><tr><td rowspan=2 colspan=1>Weekends</td><td rowspan=1 colspan=1>9 a.m.–1 p.m.</td></tr><tr><td rowspan=1 colspan=1>1 p.m. –5 p.m.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "c4e0e01bb5a8692b6b3f223469494d1c1c4fa58f88bd96d97ce9647aa740e935.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "※ Each tour lasts four hours.",
     "bbox": [
@@ -3017,26 +2737,6 @@
       "start_orig": 45403,
       "end_orig": 45420,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\$ 50",
-    "bbox": [
-      466,
-      394,
-      487,
-      408
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3137,26 +2837,6 @@
       "start_orig": 45674,
       "end_orig": 45736,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\divideontimes",
-    "bbox": [
-      453,
-      550,
-      464,
-      561
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3480,26 +3160,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\$ 100",
-    "bbox": [
-      516,
-      903,
-      542,
-      916
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "gift card, 2nd place:",
     "bbox": [
@@ -3517,26 +3177,6 @@
       "start_orig": 46383,
       "end_orig": 46404,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\$ 50",
-    "bbox": [
-      644,
-      903,
-      664,
-      916
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3740,26 +3380,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      232,
-      485,
-      240,
-      493
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "innate: 타고난",
     "bbox": [
@@ -3777,26 +3397,6 @@
       "start_orig": 47780,
       "end_orig": 47791,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      313,
-      484,
-      327,
-      494
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3820,26 +3420,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      240,
-      501,
-      258,
-      510
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "kinaesthetically: 운동감각적으로",
     "bbox": [
@@ -3857,26 +3437,6 @@
       "start_orig": 47812,
       "end_orig": 47837,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 3 1 \\sim 3 4 ]",
-    "bbox": [
-      433,
-      158,
-      482,
-      173
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4041,7 +3601,7 @@
   },
   {
     "type": "text",
-    "text": "In the case of electronic products like video games, they are not a ③ necessity at the same level as other household purchases such as food items. So, the seller in Delhi’s bazaars is careful not  to  directly  ask  for  very ④ low  prices  for  video  games because at no point will the buyer see possession of them as an absolute necessity. Access to this type of knowledge establishes a price consensus by relating to each other’s preferences and limitations of belonging to a ⑤ similar cultural and economic universe.\n",
+    "text": "In the case of electronic products like video games, they are not a ③ necessity at the same level as other household purchases such as food items. So, the seller in Delhi’s bazaars is careful not  to  directly  ask  for  very ④ low  prices  for  video  games because at no point will the buyer see possession of them as an absolute necessity. Access to this type of knowledge establishes a price consensus by relating to each other’s preferences and limitations of belonging to a ⑤ similar cultural and economic universe.",
     "bbox": [
       96,
       890,
@@ -4052,31 +3612,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9929,
+      "similarity": 0.9953,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 48336,
-      "end_orig": 48858,
-      "reason": "anchor_rescue"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      229,
-      1056,
-      236,
-      1065
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "end_orig": 48857,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -4097,26 +3637,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      317,
-      1056,
-      330,
-      1065
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4197,26 +3717,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      624,
-      963,
-      638,
-      972
-    ],
-    "page_idx": 4,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4460,26 +3960,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "[ 3 6 \\sim 3 7 ]",
-    "bbox": [
-      434,
-      532,
-      482,
-      547
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "주어진  글  다음에  이어질  글의  순서로  가장  적절한 것을 고르시오.",
     "bbox": [
@@ -4600,26 +4080,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      524,
-      981,
-      532,
-      990
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "reconcile: 화해시키다",
     "bbox": [
@@ -4640,26 +4100,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      639,
-      981,
-      651,
-      990
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "antagonistic: 적대적인",
     "bbox": [
@@ -4677,26 +4117,6 @@
       "start_orig": 56179,
       "end_orig": 56197,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      659,
-      998,
-      678,
-      1006
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4737,26 +4157,6 @@
       "start_orig": 56214,
       "end_orig": 56231,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\begin{array} { c } { { \\textsuperscript { \\textregistered } \\left( \\mathbf { B } \\right) - \\left( \\mathbf { A } \\right) - \\mathbf { \\Sigma } ( \\mathbf { C } ) } } \\\\ { { \\textcircled { 4 } \\mathbf { \\Sigma } ( \\mathbf { C } ) - \\mathbf { \\Sigma } ( \\mathbf { A } ) - \\mathbf { \\Sigma } ( \\mathbf { B } ) } } \\end{array}",
-    "bbox": [
-      604,
-      1016,
-      709,
-      1051
-    ],
-    "page_idx": 5,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4900,26 +4300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      288,
-      532,
-      295,
-      542
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "sanction: 제재를 가하다",
     "bbox": [
@@ -5040,26 +4420,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\begin{array} { c } { { \\textsuperscript { \\textregistered } ( \\mathbf { B } ) - ( \\mathbf { A } ) - ( \\mathbf { C } ) } } \\\\ { { \\textcircled { 4 } \\ ( \\mathbf { C } ) - ( \\mathbf { A } ) - ( \\mathbf { B } ) } } \\end{array}",
-    "bbox": [
-      254,
-      550,
-      360,
-      587
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "③ (B) − (C) − (A) ⑤ (C) − (B) − (A)",
     "bbox": [
@@ -5077,26 +4437,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 3 8 \\sim 3 9 ]",
-    "bbox": [
-      86,
-      670,
-      133,
-      686
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5220,26 +4560,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      218,
-      1057,
-      226,
-      1066
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "replication:반복",
     "bbox": [
@@ -5257,26 +4577,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      311,
-      1056,
-      324,
-      1067
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5380,26 +4680,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      552,
-      880,
-      559,
-      889
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "condense: 응축하다",
     "bbox": [
@@ -5417,26 +4697,6 @@
       "start_orig": 60635,
       "end_orig": 60649,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      657,
-      879,
-      670,
-      890
-    ],
-    "page_idx": 6,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5512,7 +4772,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9211,
+      "similarity": 0.9298,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 60892,
       "end_orig": 61016,
@@ -5600,26 +4860,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      169,
-      611,
-      177,
-      619
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "overhype: 과대광고하다",
     "bbox": [
@@ -5637,26 +4877,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      294,
-      610,
-      307,
-      620
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5777,26 +4997,6 @@
       "start_orig": 61382,
       "end_orig": 61411,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 4 3 \\sim 4 5 ]",
-    "bbox": [
-      85,
-      874,
-      133,
-      890
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -6040,26 +5240,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 3 } \\ \\mathrm { ( C ) } - \\mathrm { ( D ) } - \\mathrm { ( B ) }",
-    "bbox": [
-      444,
-      752,
-      549,
-      768
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "④ (D) − (B) − (C) ⑤ (D) − (C) − (B)",
     "bbox": [
@@ -6240,26 +5420,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      447,
-      1010,
-      455,
-      1019
-    ],
-    "page_idx": 7,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "확인 사항\n◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오",
     "bbox": [
@@ -6401,7 +5561,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ.대화를 듣고, 남자의 의견으로 가장 적절한 것을고르시오.",
+    "text": "2.대화를 듣고, 남자의 의견으로 가장 적절한 것을고르시오.",
     "bbox": [
       84,
       463,
@@ -6660,20 +5820,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      96,
-      745,
-      405,
-      915
-    ],
-    "page_idx": 8,
-    "image_path": "7174235ab8b5d7a3d68f22c795d6fe72c553c9686e0ba1988c93b75a06ab0a5a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "5.대화를 듣고,여자가할일로 가장 적절한 것을고르시오.",
     "bbox": [
@@ -6735,7 +5881,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.대화를 듣고, 여자가 산책을 할 수 없는 이유를 고르시오.",
+    "text": "7.대화를 듣고, 여자가 산책을 할 수 없는 이유를 고르시오.",
     "bbox": [
       434,
       227,
@@ -6952,23 +6098,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      444,
-      653,
-      754,
-      772
-    ],
-    "page_idx": 8,
-    "table_body": "<table><tr><td rowspan=5 colspan=1>①2③4</td><td rowspan=1 colspan=1>Model</td><td rowspan=1 colspan=1>Price</td><td rowspan=1 colspan=1>WeightLimit</td><td rowspan=1 colspan=1>Color</td><td rowspan=1 colspan=1>HandleMaterial</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>$38</td><td rowspan=1 colspan=1>30kg</td><td rowspan=1 colspan=1>Black</td><td rowspan=1 colspan=1>Silicone</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>$42</td><td rowspan=1 colspan=1>40kg</td><td rowspan=1 colspan=1>Green</td><td rowspan=1 colspan=1>Silicone</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>$44</td><td rowspan=1 colspan=1>45kg</td><td rowspan=1 colspan=1>Blue</td><td rowspan=1 colspan=1>Metal</td></tr><tr><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>$48</td><td rowspan=1 colspan=1>50kg</td><td rowspan=1 colspan=1>White</td><td rowspan=1 colspan=1>Metal</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>E</td><td rowspan=1 colspan=1>$53</td><td rowspan=1 colspan=1>45kg</td><td rowspan=1 colspan=1>Red</td><td rowspan=1 colspan=1>Rubber</td></tr></table>",
-    "table_caption": [
-      "Foldable Carts"
-    ],
-    "table_footnote": [],
-    "image_path": "dee8fd756ccc999f897f618c98f6a9ba52156384fef12c5ac37d5b632b37c41f.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -7591,26 +6720,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "[ 1 6 \\sim 1 7 ]",
-    "bbox": [
-      86,
-      753,
-      133,
-      768
-    ],
-    "page_idx": 9,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "다음을 듣고, 물음에 답하시오.",
     "bbox": [
@@ -7912,7 +7021,7 @@
   },
   {
     "type": "text",
-    "text": "relieved ② ㄴonely",
+    "text": "relieved ② lonely",
     "bbox": [
       522,
       682,
@@ -8291,26 +7400,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      585,
-      468,
-      592,
-      476
-    ],
-    "page_idx": 10,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "exploitation: 이용",
     "bbox": [
@@ -8328,26 +7417,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      682,
-      467,
-      695,
-      477
-    ],
-    "page_idx": 10,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -8591,26 +7660,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      315,
-      966,
-      322,
-      974
-    ],
-    "page_idx": 10,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "compliment:칭찬 *demarcate:경계를 정하다",
     "bbox": [
@@ -8691,20 +7740,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      97,
-      184,
-      403,
-      381
-    ],
-    "page_idx": 11,
-    "image_path": "681e1bdcb32a1fd3cff1b558199fb070e7cf01db74726dfeac5f655ecf96fc0c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "The above graph shows the percentages of the respondents in five countries who sometimes or often actively avoided news in 2017, 2019, and 2022.",
     "bbox": [
@@ -8762,26 +7797,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "30 \\%",
-    "bbox": [
-      96,
-      514,
-      121,
-      528
-    ],
-    "page_idx": 11,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -8862,26 +7877,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "1 5 \\%",
-    "bbox": [
-      284,
-      636,
-      308,
-      649
-    ],
-    "page_idx": 11,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -9165,21 +8160,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      460,
-      305,
-      669,
-      357
-    ],
-    "page_idx": 11,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>Weekdays</td><td rowspan=1 colspan=1>1 p.m. – 5 p.m.</td></tr><tr><td rowspan=2 colspan=1>Weekends</td><td rowspan=1 colspan=1>9 a.m.–1 p.m.</td></tr><tr><td rowspan=1 colspan=1>1 p.m. –5 p.m.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "c1de54ea709da39ff2652a731bbd8512d5043bdfd6445b65decee38a61300ce3.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "※ Each tour lasts four hours.",
     "bbox": [
@@ -9217,26 +8197,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\$ 50",
-    "bbox": [
-      466,
-      394,
-      487,
-      408
-    ],
-    "page_idx": 11,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -9337,26 +8297,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\divideontimes",
-    "bbox": [
-      453,
-      550,
-      464,
-      561
-    ],
-    "page_idx": 11,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -9680,26 +8620,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\$ 100",
-    "bbox": [
-      516,
-      903,
-      542,
-      916
-    ],
-    "page_idx": 11,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "gift card, 2nd place:",
     "bbox": [
@@ -9717,26 +8637,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\$ 50",
-    "bbox": [
-      644,
-      903,
-      664,
-      916
-    ],
-    "page_idx": 11,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -9940,26 +8840,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      232,
-      485,
-      240,
-      493
-    ],
-    "page_idx": 12,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "innate:타고난",
     "bbox": [
@@ -9977,26 +8857,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      313,
-      484,
-      327,
-      494
-    ],
-    "page_idx": 12,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -10020,26 +8880,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      240,
-      501,
-      258,
-      510
-    ],
-    "page_idx": 12,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "kinaesthetically:운동감각적으로",
     "bbox": [
@@ -10057,26 +8897,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 3 1 \\sim 3 4 ]",
-    "bbox": [
-      433,
-      158,
-      482,
-      173
-    ],
-    "page_idx": 12,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -10241,7 +9061,7 @@
   },
   {
     "type": "text",
-    "text": "In the case of electronic products like video games, they are not a ③ necessity at the same level as other household purchases such as food items. So, the seller in Delhi's bazaars is careful not to directly ask for very ④ ㄴow prices for video games because at no point will the buyer see possession of them as an absolute necessity. Access to this type of knowledge establishes a price consensus by relating to each other's preferences and limitations of belonging to a ⑤ similar cultural and economic universe.",
+    "text": "In the case of electronic products like video games, they are not a ③ necessity at the same level as other household purchases such as food items. So, the seller in Delhi's bazaars is careful not to directly ask for very ④ low prices for video games because at no point will the buyer see possession of them as an absolute necessity. Access to this type of knowledge establishes a price consensus by relating to each other's preferences and limitations of belonging to a ⑤ similar cultural and economic universe.",
     "bbox": [
       96,
       890,
@@ -10257,26 +9077,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      229,
-      1056,
-      236,
-      1065
-    ],
-    "page_idx": 12,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -10297,26 +9097,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      317,
-      1056,
-      330,
-      1065
-    ],
-    "page_idx": 12,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -10397,26 +9177,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      624,
-      963,
-      638,
-      972
-    ],
-    "page_idx": 12,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -10660,26 +9420,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "[ 3 6 \\sim 3 7 ]",
-    "bbox": [
-      434,
-      532,
-      482,
-      547
-    ],
-    "page_idx": 13,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
     "bbox": [
@@ -10800,26 +9540,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      524,
-      981,
-      532,
-      990
-    ],
-    "page_idx": 13,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "reconcile:화해시키다",
     "bbox": [
@@ -10840,26 +9560,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      639,
-      981,
-      651,
-      990
-    ],
-    "page_idx": 13,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "antagonistic:적대적인",
     "bbox": [
@@ -10877,26 +9577,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      659,
-      998,
-      678,
-      1006
-    ],
-    "page_idx": 13,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -10937,26 +9617,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\begin{array} { c } { { \\textsuperscript { \\textregistered } \\left( \\mathbf { B } \\right) - \\left( \\mathbf { A } \\right) - \\mathbf { \\Sigma } ( \\mathbf { C } ) } } \\\\ { { \\textcircled { 4 } \\mathbf { \\Sigma } ( \\mathbf { C } ) - \\mathbf { \\Sigma } ( \\mathbf { A } ) - \\mathbf { \\Sigma } ( \\mathbf { B } ) } } \\end{array}",
-    "bbox": [
-      604,
-      1016,
-      709,
-      1051
-    ],
-    "page_idx": 13,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -11100,26 +9760,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      288,
-      532,
-      295,
-      542
-    ],
-    "page_idx": 14,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "sanction:제재를 가하다",
     "bbox": [
@@ -11240,26 +9880,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\begin{array} { c } { { \\textsuperscript { \\textregistered } ( \\mathbf { B } ) - ( \\mathbf { A } ) - ( \\mathbf { C } ) } } \\\\ { { \\textcircled { 4 } \\ ( \\mathbf { C } ) - ( \\mathbf { A } ) - ( \\mathbf { B } ) } } \\end{array}",
-    "bbox": [
-      254,
-      550,
-      360,
-      587
-    ],
-    "page_idx": 14,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "③ (B) − (C) − (A) ⑤ (C) − (B) − (A)",
     "bbox": [
@@ -11277,26 +9897,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 3 8 \\sim 3 9 ]",
-    "bbox": [
-      86,
-      670,
-      133,
-      686
-    ],
-    "page_idx": 14,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -11420,26 +10020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      218,
-      1057,
-      226,
-      1066
-    ],
-    "page_idx": 14,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "replication:반복",
     "bbox": [
@@ -11457,26 +10037,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      311,
-      1056,
-      324,
-      1067
-    ],
-    "page_idx": 14,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -11580,26 +10140,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      552,
-      880,
-      559,
-      889
-    ],
-    "page_idx": 14,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "condense:응축하다",
     "bbox": [
@@ -11617,26 +10157,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      657,
-      879,
-      670,
-      890
-    ],
-    "page_idx": 14,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -11701,7 +10221,7 @@
   },
   {
     "type": "text",
-    "text": "(A) (B) (A) (B) ① enables... leaves ② ㄷhallenges … spares ③ delays … creates ④ requires … removes ⑤ invites …· diminishes",
+    "text": "(A) (B) (A) (B) ① enables... leaves ② challenges … spares ③ delays … creates ④ requires … removes ⑤ invites …· diminishes",
     "bbox": [
       446,
       1001,
@@ -11800,26 +10320,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      169,
-      611,
-      177,
-      619
-    ],
-    "page_idx": 15,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "overhype: 과대광고하다",
     "bbox": [
@@ -11837,26 +10337,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ { * * }",
-    "bbox": [
-      294,
-      610,
-      307,
-      620
-    ],
-    "page_idx": 15,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -11977,26 +10457,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 4 3 \\sim 4 5 ]",
-    "bbox": [
-      85,
-      874,
-      133,
-      890
-    ],
-    "page_idx": 15,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -12240,26 +10700,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 3 } \\ \\mathrm { ( C ) } - \\mathrm { ( D ) } - \\mathrm { ( B ) }",
-    "bbox": [
-      444,
-      752,
-      549,
-      768
-    ],
-    "page_idx": 15,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "④ (D) − (B) − (C) ⑤ (D) − (C) − (B)",
     "bbox": [
@@ -12440,26 +10880,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      447,
-      1010,
-      455,
-      1019
-    ],
-    "page_idx": 15,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "확인 사항\n◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오",
     "bbox": [
@@ -12477,6 +10897,1586 @@
       "start_orig": 62466,
       "end_orig": 62511,
       "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제3교시",
+    "bbox": [
+      91,
+      155,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "영어 영역",
+    "bbox": [
+      332,
+      145,
+      509,
+      203
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "홀수형",
+    "bbox": [
+      674,
+      170,
+      753,
+      208
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "1번부터  17번까지는  듣고  답하는  문제입니다.  1번부터",
+    "bbox": [
+      106,
+      237,
+      397,
+      252
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 0,
+      "end_orig": 35,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "15번까지는 한 번만 들려주고, 16번부터 17번까지는 두 번 들려줍니다. 방송을 잘 듣고 답을 하시기 바랍니다.\n",
+    "bbox": [
+      95,
+      256,
+      397,
+      291
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 36,
+      "end_orig": 100,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      745,
+      405,
+      915
+    ],
+    "page_idx": 0,
+    "image_path": "936099eb68e816cb2de3e0711e51d7828794482db62eeb2e42155b0a76e9a4ec.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      444,
+      653,
+      754,
+      772
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=5 colspan=1>①2③4</td><td rowspan=1 colspan=1>Model</td><td rowspan=1 colspan=1>Price</td><td rowspan=1 colspan=1>WeightLimit</td><td rowspan=1 colspan=1>Color</td><td rowspan=1 colspan=1>HandleMaterial</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>$38</td><td rowspan=1 colspan=1>30kg</td><td rowspan=1 colspan=1>Black</td><td rowspan=1 colspan=1>Silicone</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>$42</td><td rowspan=1 colspan=1>40kg</td><td rowspan=1 colspan=1>Green</td><td rowspan=1 colspan=1>Silicone</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>$44</td><td rowspan=1 colspan=1>45kg</td><td rowspan=1 colspan=1>Blue</td><td rowspan=1 colspan=1>Metal</td></tr><tr><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>$48</td><td rowspan=1 colspan=1>50kg</td><td rowspan=1 colspan=1>White</td><td rowspan=1 colspan=1>Metal</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>E</td><td rowspan=1 colspan=1>$53</td><td rowspan=1 colspan=1>45kg</td><td rowspan=1 colspan=1>Red</td><td rowspan=1 colspan=1>Rubber</td></tr></table>",
+    "table_caption": [
+      "Foldable Carts"
+    ],
+    "table_footnote": [],
+    "image_path": "5cb7a005133071b348f1e1504eca81b6611b5c6ab8b56545c9acdaa2895e320f.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 1 6 \\sim 1 7 ]",
+    "bbox": [
+      86,
+      753,
+      133,
+      768
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      585,
+      468,
+      592,
+      476
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      682,
+      467,
+      695,
+      477
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      315,
+      966,
+      322,
+      974
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      184,
+      403,
+      381
+    ],
+    "page_idx": 3,
+    "image_path": "4b3e82550fc8e6715d0813e369c3e2a7d71cd827d02a0e9bc7a0922e92a390ea.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "30 \\%",
+    "bbox": [
+      96,
+      514,
+      121,
+      528
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 5 \\%",
+    "bbox": [
+      284,
+      636,
+      308,
+      649
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      460,
+      305,
+      669,
+      357
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Weekdays</td><td rowspan=1 colspan=1>1 p.m. – 5 p.m.</td></tr><tr><td rowspan=2 colspan=1>Weekends</td><td rowspan=1 colspan=1>9 a.m.–1 p.m.</td></tr><tr><td rowspan=1 colspan=1>1 p.m. –5 p.m.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "c4e0e01bb5a8692b6b3f223469494d1c1c4fa58f88bd96d97ce9647aa740e935.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\$ 50",
+    "bbox": [
+      466,
+      394,
+      487,
+      408
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\divideontimes",
+    "bbox": [
+      453,
+      550,
+      464,
+      561
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\$ 100",
+    "bbox": [
+      516,
+      903,
+      542,
+      916
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\$ 50",
+    "bbox": [
+      644,
+      903,
+      664,
+      916
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      232,
+      485,
+      240,
+      493
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      313,
+      484,
+      327,
+      494
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      240,
+      501,
+      258,
+      510
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 3 1 \\sim 3 4 ]",
+    "bbox": [
+      433,
+      158,
+      482,
+      173
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      229,
+      1056,
+      236,
+      1065
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      317,
+      1056,
+      330,
+      1065
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      624,
+      963,
+      638,
+      972
+    ],
+    "page_idx": 4,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 3 6 \\sim 3 7 ]",
+    "bbox": [
+      434,
+      532,
+      482,
+      547
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      524,
+      981,
+      532,
+      990
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      639,
+      981,
+      651,
+      990
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      659,
+      998,
+      678,
+      1006
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\begin{array} { c } { { \\textsuperscript { \\textregistered } \\left( \\mathbf { B } \\right) - \\left( \\mathbf { A } \\right) - \\mathbf { \\Sigma } ( \\mathbf { C } ) } } \\\\ { { \\textcircled { 4 } \\mathbf { \\Sigma } ( \\mathbf { C } ) - \\mathbf { \\Sigma } ( \\mathbf { A } ) - \\mathbf { \\Sigma } ( \\mathbf { B } ) } } \\end{array}",
+    "bbox": [
+      604,
+      1016,
+      709,
+      1051
+    ],
+    "page_idx": 5,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      288,
+      532,
+      295,
+      542
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\begin{array} { c } { { \\textsuperscript { \\textregistered } ( \\mathbf { B } ) - ( \\mathbf { A } ) - ( \\mathbf { C } ) } } \\\\ { { \\textcircled { 4 } \\ ( \\mathbf { C } ) - ( \\mathbf { A } ) - ( \\mathbf { B } ) } } \\end{array}",
+    "bbox": [
+      254,
+      550,
+      360,
+      587
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 3 8 \\sim 3 9 ]",
+    "bbox": [
+      86,
+      670,
+      133,
+      686
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      218,
+      1057,
+      226,
+      1066
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      311,
+      1056,
+      324,
+      1067
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      552,
+      880,
+      559,
+      889
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      657,
+      879,
+      670,
+      890
+    ],
+    "page_idx": 6,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      169,
+      611,
+      177,
+      619
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      294,
+      610,
+      307,
+      620
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 4 3 \\sim 4 5 ]",
+    "bbox": [
+      85,
+      874,
+      133,
+      890
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 3 } \\ \\mathrm { ( C ) } - \\mathrm { ( D ) } - \\mathrm { ( B ) }",
+    "bbox": [
+      444,
+      752,
+      549,
+      768
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      447,
+      1010,
+      455,
+      1019
+    ],
+    "page_idx": 7,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      745,
+      405,
+      915
+    ],
+    "page_idx": 8,
+    "image_path": "7174235ab8b5d7a3d68f22c795d6fe72c553c9686e0ba1988c93b75a06ab0a5a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      444,
+      653,
+      754,
+      772
+    ],
+    "page_idx": 8,
+    "table_body": "<table><tr><td rowspan=5 colspan=1>①2③4</td><td rowspan=1 colspan=1>Model</td><td rowspan=1 colspan=1>Price</td><td rowspan=1 colspan=1>WeightLimit</td><td rowspan=1 colspan=1>Color</td><td rowspan=1 colspan=1>HandleMaterial</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>$38</td><td rowspan=1 colspan=1>30kg</td><td rowspan=1 colspan=1>Black</td><td rowspan=1 colspan=1>Silicone</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>$42</td><td rowspan=1 colspan=1>40kg</td><td rowspan=1 colspan=1>Green</td><td rowspan=1 colspan=1>Silicone</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>$44</td><td rowspan=1 colspan=1>45kg</td><td rowspan=1 colspan=1>Blue</td><td rowspan=1 colspan=1>Metal</td></tr><tr><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>$48</td><td rowspan=1 colspan=1>50kg</td><td rowspan=1 colspan=1>White</td><td rowspan=1 colspan=1>Metal</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>E</td><td rowspan=1 colspan=1>$53</td><td rowspan=1 colspan=1>45kg</td><td rowspan=1 colspan=1>Red</td><td rowspan=1 colspan=1>Rubber</td></tr></table>",
+    "table_caption": [
+      "Foldable Carts"
+    ],
+    "table_footnote": [],
+    "image_path": "dee8fd756ccc999f897f618c98f6a9ba52156384fef12c5ac37d5b632b37c41f.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 1 6 \\sim 1 7 ]",
+    "bbox": [
+      86,
+      753,
+      133,
+      768
+    ],
+    "page_idx": 9,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      585,
+      468,
+      592,
+      476
+    ],
+    "page_idx": 10,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      682,
+      467,
+      695,
+      477
+    ],
+    "page_idx": 10,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      315,
+      966,
+      322,
+      974
+    ],
+    "page_idx": 10,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      184,
+      403,
+      381
+    ],
+    "page_idx": 11,
+    "image_path": "681e1bdcb32a1fd3cff1b558199fb070e7cf01db74726dfeac5f655ecf96fc0c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "30 \\%",
+    "bbox": [
+      96,
+      514,
+      121,
+      528
+    ],
+    "page_idx": 11,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 5 \\%",
+    "bbox": [
+      284,
+      636,
+      308,
+      649
+    ],
+    "page_idx": 11,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      460,
+      305,
+      669,
+      357
+    ],
+    "page_idx": 11,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Weekdays</td><td rowspan=1 colspan=1>1 p.m. – 5 p.m.</td></tr><tr><td rowspan=2 colspan=1>Weekends</td><td rowspan=1 colspan=1>9 a.m.–1 p.m.</td></tr><tr><td rowspan=1 colspan=1>1 p.m. –5 p.m.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "c1de54ea709da39ff2652a731bbd8512d5043bdfd6445b65decee38a61300ce3.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\$ 50",
+    "bbox": [
+      466,
+      394,
+      487,
+      408
+    ],
+    "page_idx": 11,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\divideontimes",
+    "bbox": [
+      453,
+      550,
+      464,
+      561
+    ],
+    "page_idx": 11,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\$ 100",
+    "bbox": [
+      516,
+      903,
+      542,
+      916
+    ],
+    "page_idx": 11,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\$ 50",
+    "bbox": [
+      644,
+      903,
+      664,
+      916
+    ],
+    "page_idx": 11,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      232,
+      485,
+      240,
+      493
+    ],
+    "page_idx": 12,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      313,
+      484,
+      327,
+      494
+    ],
+    "page_idx": 12,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      240,
+      501,
+      258,
+      510
+    ],
+    "page_idx": 12,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 3 1 \\sim 3 4 ]",
+    "bbox": [
+      433,
+      158,
+      482,
+      173
+    ],
+    "page_idx": 12,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      229,
+      1056,
+      236,
+      1065
+    ],
+    "page_idx": 12,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      317,
+      1056,
+      330,
+      1065
+    ],
+    "page_idx": 12,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      624,
+      963,
+      638,
+      972
+    ],
+    "page_idx": 12,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 3 6 \\sim 3 7 ]",
+    "bbox": [
+      434,
+      532,
+      482,
+      547
+    ],
+    "page_idx": 13,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      524,
+      981,
+      532,
+      990
+    ],
+    "page_idx": 13,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      639,
+      981,
+      651,
+      990
+    ],
+    "page_idx": 13,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      659,
+      998,
+      678,
+      1006
+    ],
+    "page_idx": 13,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\begin{array} { c } { { \\textsuperscript { \\textregistered } \\left( \\mathbf { B } \\right) - \\left( \\mathbf { A } \\right) - \\mathbf { \\Sigma } ( \\mathbf { C } ) } } \\\\ { { \\textcircled { 4 } \\mathbf { \\Sigma } ( \\mathbf { C } ) - \\mathbf { \\Sigma } ( \\mathbf { A } ) - \\mathbf { \\Sigma } ( \\mathbf { B } ) } } \\end{array}",
+    "bbox": [
+      604,
+      1016,
+      709,
+      1051
+    ],
+    "page_idx": 13,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      288,
+      532,
+      295,
+      542
+    ],
+    "page_idx": 14,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\begin{array} { c } { { \\textsuperscript { \\textregistered } ( \\mathbf { B } ) - ( \\mathbf { A } ) - ( \\mathbf { C } ) } } \\\\ { { \\textcircled { 4 } \\ ( \\mathbf { C } ) - ( \\mathbf { A } ) - ( \\mathbf { B } ) } } \\end{array}",
+    "bbox": [
+      254,
+      550,
+      360,
+      587
+    ],
+    "page_idx": 14,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 3 8 \\sim 3 9 ]",
+    "bbox": [
+      86,
+      670,
+      133,
+      686
+    ],
+    "page_idx": 14,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      218,
+      1057,
+      226,
+      1066
+    ],
+    "page_idx": 14,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      311,
+      1056,
+      324,
+      1067
+    ],
+    "page_idx": 14,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      552,
+      880,
+      559,
+      889
+    ],
+    "page_idx": 14,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      657,
+      879,
+      670,
+      890
+    ],
+    "page_idx": 14,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      169,
+      611,
+      177,
+      619
+    ],
+    "page_idx": 15,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { * * }",
+    "bbox": [
+      294,
+      610,
+      307,
+      620
+    ],
+    "page_idx": 15,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 4 3 \\sim 4 5 ]",
+    "bbox": [
+      85,
+      874,
+      133,
+      890
+    ],
+    "page_idx": 15,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 3 } \\ \\mathrm { ( C ) } - \\mathrm { ( D ) } - \\mathrm { ( B ) }",
+    "bbox": [
+      444,
+      752,
+      549,
+      768
+    ],
+    "page_idx": 15,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      447,
+      1010,
+      455,
+      1019
+    ],
+    "page_idx": 15,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
     }
   }
 ]

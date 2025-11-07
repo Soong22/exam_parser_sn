@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      91,
-      152,
-      173,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 53,
-      "end_orig": 59,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "사회탐구 영역(한국지리)",
-    "bbox": [
-      235,
-      145,
-      606,
-      201
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      707,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "1fc3d0a3cd96dba98bb7f8528611537ef1aa43355c741ee7012073a1575fdf03.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 다음 자료의",
     "bbox": [
       87,
@@ -72,26 +17,6 @@
       "start_orig": 93,
       "end_orig": 102,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\gamma \\mathsf { h } ) \\sim ( \\mathsf { r } \\mathsf { l } )",
-    "bbox": [
-      164,
-      256,
-      212,
-      270
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -115,36 +40,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      98,
-      298,
-      398,
-      433
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>(다)</td></tr><tr><td rowspan=1 colspan=1>위성영상</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>기준점(∆)위·경도</td><td rowspan=1 colspan=1>39°48&#x27;10&quot;N124° 10 47 &quot;E</td><td rowspan=1 colspan=1>37 14′ 22(′N131° 52′08′E</td><td rowspan=1 colspan=1>33°07′03“N126° 16&#x27; 10′ E</td></tr><tr><td rowspan=1 colspan=1>면적</td><td rowspan=1 colspan=1>약64.368km2</td><td rowspan=1 colspan=1>약0.187km2</td><td rowspan=1 colspan=1>약0.298km2</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "1dc430975676a0126a19b5e0d0281940a5c19bd04b8339c10a8ffbfc165a5422.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      98,
-      436,
-      398,
-      575
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>교사의질문</td><td rowspan=1 colspan=5>학생</td></tr><tr><td rowspan=1 colspan=1>갑</td><td rowspan=1 colspan=1>을</td><td rowspan=1 colspan=1>병</td><td rowspan=1 colspan=1>정</td><td rowspan=1 colspan=1>무</td></tr><tr><td rowspan=1 colspan=1>(나)의 기선으로부터 바깥쪽12해리 이내에종합 해양 과학 기지가 건설되어 있습니까?</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td></tr><tr><td rowspan=1 colspan=1>(가)는(나)보다 우리나라표준경선과의최단 거리가 맙니까?</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=1 colspan=1>(나)와(다)는 영해 설정에 직선 기선이적용됩니까?</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>(c1니요</td></tr><tr><td rowspan=1 colspan=1>(가)~(다)는 모두 우리나라 영토의 4극 중하나에 해당합니까?</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "4ed58db288964d68aa7851ab6ae5de443c1c2da5c6449193b58e6d4eed288302.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① 갑 ② 을 ③ 병 ④ 정 ⑤ 무",
     "bbox": [
@@ -166,7 +61,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 자료는 지형에 관한 다큐멘터리 촬영을 위한 방송 대본이다. ",
+    "text": "2. 다음 자료는 지형에 관한 다큐멘터리 촬영을 위한 방송 대본이다.",
     "bbox": [
       86,
       676,
@@ -177,10 +72,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9825,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 167,
-      "end_orig": 205,
+      "start_orig": 166,
+      "end_orig": 204,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -203,34 +98,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      116,
-      718,
-      385,
-      843
-    ],
-    "page_idx": 0,
-    "image_path": "a670be387696e9ac1781440742a06288b4f213ff5fea607f545cea24b6ad5dfc.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      117,
-      851,
-      386,
-      977
-    ],
-    "page_idx": 0,
-    "image_path": "29a7742d881ee1964211363d82dceea0409d8a1ca87c78afff070b1115ec09da.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -353,26 +220,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "< 3 7 |",
-    "bbox": [
-      531,
-      329,
-      551,
-      338
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "1) OR(1인당 지역 내 총생산",
     "bbox": [
@@ -390,26 +237,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "> 7",
-    "bbox": [
-      647,
-      329,
-      662,
-      338
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -473,35 +300,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      447,
-      368,
-      645,
-      475
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>면적당도로연장(km/km²)</td><td rowspan=1 colspan=1>인구밀도(명/km2)</td><td rowspan=1 colspan=1>전통시장수(개)</td><td rowspan=1 colspan=1>1인당지역내총생산(천만 원)</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>0.6</td><td rowspan=1 colspan=1>236.8</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7.7</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>1.2</td><td rowspan=1 colspan=1>238.0</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>11.1</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>0.8</td><td rowspan=1 colspan=1>222.4</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3.9</td></tr><tr><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>167.7</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>3.8</td></tr><tr><td rowspan=1 colspan=1>E</td><td rowspan=1 colspan=1>0.7</td><td rowspan=1 colspan=1>119.4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3.9</td></tr><tr><td rowspan=1 colspan=5>(2021)                                        (충청남도</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "86472be05a903f99e0c8bde4131c50abc0400f4d2ce6c5dc99ddec7261a63184.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      652,
-      368,
-      750,
-      473
-    ],
-    "page_idx": 0,
-    "image_path": "adae7560f4cb2ae4e419e053eae840fda7b31b2faf4194ff0ddef2a41e760e67.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① A ② B ③ C ④ D ⑤ E",
     "bbox": [
@@ -559,26 +357,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ ( 4 ) \\leq 1 \\leq 1 \\leq",
-    "bbox": [
-      697,
-      590,
-      741,
-      603
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -702,26 +480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\psi )",
-    "bbox": [
-      496,
-      838,
-      514,
-      851
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "보다 총부양비가 높다.",
     "bbox": [
@@ -742,35 +500,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      448,
-      664,
-      591,
-      755
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>신문(2024년 0월0일)</td></tr><tr><td>(다) 은/는탄광이폐광되면서근로자와 주민 약2천여명이떠나고그에 따라지역</td></tr><tr><td>상권이 침체돼 존립 기반이 흔들리고있다. 또한 여기에 있던 한 대학교의 폐교로</td></tr><tr><td>지역경제에 대한 우려의 목소리가 더욱 커지고 있는 상황이다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "d7a00ec7bc96598598f53aca5641806cadd9c8f813c9d470e2e014d5455380b9.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      604,
-      654,
-      738,
-      759
-    ],
-    "page_idx": 0,
-    "image_path": "ac7d282994951e8261499429eaeea2b738c1d94139363d64bfc0a9c6c5a46d7c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "5. 다음 자료에서 설명하는 지역을 지도의",
     "bbox": [
@@ -788,26 +517,6 @@
       "start_orig": 660,
       "end_orig": 683,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "A \\sim \\operatorname { E } \\circ \\ P \\ r \\lambda \\ r",
-    "bbox": [
-      630,
-      876,
-      676,
-      891
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -891,20 +600,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      485,
-      966,
-      606,
-      1068
-    ],
-    "page_idx": 0,
-    "image_path": "6b87208524b820840ee792ded2e7869ed66c17f3c0203c126e13d761a298cbdc.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① A\n② B\n③ C\n④ D\n⑤ E",
     "bbox": [
@@ -943,23 +638,6 @@
       "end_orig": 747,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      98,
-      195,
-      401,
-      328
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>지질시대</td><td rowspan=1 colspan=3>고생대</td><td rowspan=1 colspan=3>중생대</td><td rowspan=1 colspan=2>신생대</td></tr><tr><td rowspan=1 colspan=3>캄브리아기석탄기-페름기</td><td rowspan=1 colspan=1>트라이아스기</td><td rowspan=1 colspan=1>쥐라기</td><td rowspan=1 colspan=1>백악기</td><td rowspan=1 colspan=1>제3기</td><td rowspan=1 colspan=1>제4기</td></tr><tr><td rowspan=1 colspan=1>z질계통</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(결층)</td><td rowspan=1 colspan=2>평안누층군</td><td rowspan=1 colspan=1>대동누층군</td><td rowspan=1 colspan=1>경상누층군</td><td rowspan=1 colspan=1>제3계</td><td rowspan=1 colspan=1>제4계</td></tr><tr><td rowspan=1 colspan=1>주요집갈변동</td><td rowspan=1 colspan=3>4조륙운동</td><td rowspan=1 colspan=1>1(4)</td><td rowspan=1 colspan=1>↑(다)</td><td rowspan=1 colspan=1>1(라)</td><td rowspan=1 colspan=1>↑(마)</td><td rowspan=1 colspan=1>t확살활통</td></tr><tr><td rowspan=1 colspan=9>중생대동안발생하였던 세 번의 주요지각 변동중 초기에발생한(4)은/는주로한반도 북부지방에영향을미쳤으며,중기에는 (다) 이/가발생해중·남부지방을 중심으로영향을 주었다.중생대말기에는 (라)이/가 주로경상분지일대에서 일어났다.</td></tr></table>",
-    "table_caption": [
-      "<한반도 주요 지질 계통과 지각 변동>"
-    ],
-    "table_footnote": [],
-    "image_path": "8cde2b3602c69ecec4392630b234877e45076f2399a4be450f60134213f2eac2.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1063,7 +741,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음은 지도에 표시된 세 지역의 하천 지형을 나타낸 위성 영상 이다.  이에 대한 설명으로 옳은 것은?  (단,  A～C는 각각 배후 습지, ",
+    "text": "7. 다음은 지도에 표시된 세 지역의 하천 지형을 나타낸 위성 영상 이다.  이에 대한 설명으로 옳은 것은?  (단,  A～C는 각각 배후 습지,",
     "bbox": [
       86,
       436,
@@ -1074,10 +752,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9912,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 920,
-      "end_orig": 1001,
+      "start_orig": 919,
+      "end_orig": 1000,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1100,20 +778,6 @@
       "end_orig": 1027,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      497,
-      397,
-      720
-    ],
-    "page_idx": 1,
-    "image_path": "5ad4a4ea79b86824de674031c0be74913a30b3bf1583427d675587422b25f579.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1236,26 +900,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { E }",
-    "bbox": [
-      285,
-      830,
-      315,
-      844
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "지역을 여행할 때, 각 지역에서 체험할 수 있는 활동으로 옳은 것은?",
     "bbox": [
@@ -1274,20 +918,6 @@
       "end_orig": 1258,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      155,
-      871,
-      348,
-      982
-    ],
-    "page_idx": 1,
-    "image_path": "66130d1b733f726704f7b1a19bd6aeaef687f33e3dfa490091f6485bd17a3b12.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1348,20 +978,6 @@
       "end_orig": 1565,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      232,
-      753,
-      446
-    ],
-    "page_idx": 1,
-    "image_path": "3095c4dfbf03f77ee16dad0e5551e2facc73149d608473754db2283a0f1a053a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1464,26 +1080,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
-    "bbox": [
-      460,
-      522,
-      491,
-      535
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "중 호남권 내에서 출하액이 가장 많은 것은 B이다.",
     "bbox": [
@@ -1544,26 +1140,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( \\mathtt { r } ] ) \\mathtt { d } \\rVert",
-    "bbox": [
-      613,
-      664,
-      672,
-      678
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "해당하는 지역을 지도의 A～C에서 고른 것은?  [3점]\n",
     "bbox": [
@@ -1582,20 +1158,6 @@
       "end_orig": 1828,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      447,
-      705,
-      754,
-      1067
-    ],
-    "page_idx": 1,
-    "image_path": "ae141cb2a4b97d1f2536adce5b64c982244bd370b6ea858805f73aa2b79c1a68.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1758,26 +1320,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { E } ^ { \\circ \\Vert }",
-    "bbox": [
-      147,
-      484,
-      185,
-      498
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한 설명으로 옳은 것은?  [3점]\n",
     "bbox": [
@@ -1796,20 +1338,6 @@
       "end_orig": 2186,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      100,
-      507,
-      402,
-      637
-    ],
-    "page_idx": 2,
-    "image_path": "31d6f347acbe73ec369caf616d001f53a26707c693e6cf0f325324b19231a02c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1952,26 +1480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "8 \\%",
-    "bbox": [
-      189,
-      788,
-      208,
-      802
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "중 하나임.)",
     "bbox": [
@@ -1990,20 +1498,6 @@
       "end_orig": 2443,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      98,
-      811,
-      399,
-      977
-    ],
-    "page_idx": 2,
-    "image_path": "b262be800045e99e849c0f33d54765633e7fe48091aa50d9c33624a2bee567fc.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2103,26 +1597,6 @@
       "start_orig": 2552,
       "end_orig": 2553,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
-    "bbox": [
-      112,
-      1054,
-      142,
-      1067
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2226,35 +1700,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      558,
-      244,
-      734,
-      402
-    ],
-    "page_idx": 2,
-    "image_path": "e51f3e456d6d964aae2841d5fabfed21b29c41ec59d8df2b3d8c6c035f87b211.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      453,
-      409,
-      745,
-      510
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>일정</td><td rowspan=1 colspan=1>방문 지역에 대한 활동 내용</td><td rowspan=1 colspan=1>호남의 Oㅇ괴영남의고영남방문지역호남방문지역</td><td rowspan=1 colspan=1>호남의 Oㅇ괴영남의고영남방문지역호남방문지역</td></tr><tr><td rowspan=1 colspan=1>1일차</td><td rowspan=1 colspan=1>원자력발전소를건학하여 입지요인을 파악하고주변 지역 토지 이용의변화조사하기</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2일차</td><td rowspan=1 colspan=1>도청이 있는지역을 탐방하고인구 유입 현황에대해조사하기</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3일차</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "8389bae2e2a140953430f4bdd3cc7a327b225e725bd4432ecbc4e720c91e435d.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① 기업도시를 답사하여 지역 주민의 이주 요인 설문하기\n② 녹차 재배지를 방문하여 찻잎을 따서 녹차 만들어 보기\n③ 대규모 자동차 조립 공장을 견학하여 생산 과정 파악하기\n④ 염해 방지를 위해 건설된 하굿둑을 방문하여 갑문 기능 알아보기\n⑤ 석유 화학 공장을 견학하여 지역 경제에 미치는 영향 조사하기",
     "bbox": [
@@ -2315,26 +1760,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D } { \\circ } \\|",
-    "bbox": [
-      714,
-      704,
-      753,
-      718
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "들어갈  질문으로  옳은  것을  <보기",
     "bbox": [
@@ -2352,26 +1777,6 @@
       "start_orig": 2934,
       "end_orig": 2956,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      613,
-      722,
-      623,
-      734
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2395,26 +1800,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 } \\mathsf { H } )",
-    "bbox": [
-      732,
-      721,
-      750,
-      735
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ", (나)는 각각 제2차,  제4차 국토 종합 (개발)  계획 중 하나임.)  [3점]",
     "bbox": [
@@ -2433,21 +1818,6 @@
       "end_orig": 3026,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      448,
-      763,
-      750,
-      861
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td>(가)</td><td></td><td>(4)</td></tr><tr><td>경제 성장과 지역 간 균형 개발의 조화를 꿈꾸다</td><td>새로운 도약을 위한 통합 국토를 지향하다</td><td rowspan=\"3\"></td></tr><tr><td>•인구의 지방 정착 유도</td><td>·개방형 통합 국토축 형성</td></tr><tr><td>·개발 가능성의 전국적 확대 •국토의 다핵 구조형성과 지역생활권 조성</td><td>•지역별경쟁력 고도화 •건강하고 쾌적한 국토 환경 조성</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "9f16f3fbf15932d54dfea56529be36fcbe41ec62ba62e3328f32f27be11a7715.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2531,7 +1901,7 @@
   },
   {
     "type": "text",
-    "text": "B C D A B C D 7 2 ② ㄴ ㄷ 2 7 ③ ㄹ 7 ④ C 7 2 L ⑤ ㄴ 7 2",
+    "text": "B C D A B C D 7 2 ② L ㄷ 2 7 ③ 2 7 ④ C 7 2 L ⑤ L 7 2",
     "bbox": [
       446,
       997,
@@ -2570,26 +1940,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D } _ { \\mathbf { \\lambda } } ^ { \\mathbf { 1 } }",
-    "bbox": [
-      366,
-      176,
-      405,
-      190
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "각각 수력,  조력,  태양광,  풍력 중 하나임.)  [3점]\n",
     "bbox": [
@@ -2608,34 +1958,6 @@
       "end_orig": 3208,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      101,
-      218,
-      289,
-      336
-    ],
-    "page_idx": 3,
-    "image_path": "f0e7b4b21d0036c6fa1e92d6c7e0fa8e68eb5d5fb4ca356811c6a61c12de9913.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      305,
-      217,
-      400,
-      358
-    ],
-    "page_idx": 3,
-    "image_path": "fbb7dcae49f470fb2f382cc1489a0fc5c9e56ac47ac2dbe8c81e866dd4842fd8.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2798,26 +2120,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } \\sim \\textcircled { \\textcircled { \\scriptsize { \\scriptsize { \\cdot } } } } \\textcircled { \\scriptsize { \\circ } } \\textcircled { \\scriptsize { \\cdot } }",
-    "bbox": [
-      163,
-      472,
-      206,
-      486
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한 설명으로 옳은 것만을 <보기",
     "bbox": [
@@ -2835,26 +2137,6 @@
       "start_orig": 3365,
       "end_orig": 3383,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      374,
-      473,
-      384,
-      484
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2958,26 +2240,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      303,
-      622,
-      317,
-      636
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "충적토,  염류토가 대표적이다.",
     "bbox": [
@@ -3078,26 +2340,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      123,
-      704,
-      136,
-      717
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "은 주로 하천에 의해 운반된 물질이 퇴적되어 형성되었다.",
     "bbox": [
@@ -3158,26 +2400,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\circleddash",
-    "bbox": [
-      198,
-      720,
-      210,
-      734
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "은 성대 토양에 해당한다.",
     "bbox": [
@@ -3199,7 +2421,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "① 7 ② L ③ 7,L ④ ⑤ ㄱ,ㄴ,ㄷ",
     "bbox": [
       96,
       749,
@@ -3238,26 +2460,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( \\sharp )",
-    "bbox": [
-      136,
-      806,
-      184,
-      820
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "지역에 대한 설명으로 옳은 것은?  [3점]\n",
     "bbox": [
@@ -3276,20 +2478,6 @@
       "end_orig": 3870,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      95,
-      831,
-      405,
-      978
-    ],
-    "page_idx": 3,
-    "image_path": "e06d5711c2feb07924e78e7de1a3ae2f343d9f9ef171b3fa4959298834b90875.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3349,26 +2537,6 @@
       "start_orig": 3923,
       "end_orig": 3924,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( 7 4",
-    "bbox": [
-      113,
-      1020,
-      131,
-      1033
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3452,26 +2620,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      723,
-      159,
-      733,
-      171
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?",
     "bbox": [
@@ -3529,26 +2677,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "70 \\%",
-    "bbox": [
-      665,
-      234,
-      682,
-      244
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3630,20 +2758,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      458,
-      309,
-      742,
-      403
-    ],
-    "page_idx": 3,
-    "image_path": "b08e4b01b9762654acec2dd797bb781d7dc2a267eeb5d1df4e219f9e9931ebb9.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3786,26 +2900,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "A { \\sim } \\mathrm { D } \\mathscr { \\ e }",
-    "bbox": [
-      715,
-      578,
-      753,
-      592
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "내용으로 옳은 것만을 <보기",
     "bbox": [
@@ -3823,26 +2917,6 @@
       "start_orig": 4287,
       "end_orig": 4302,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      582,
-      597,
-      592,
-      609
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3866,26 +2940,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( \\overrightarrow { 4 } ) \\div",
-    "bbox": [
-      695,
-      596,
-      754,
-      610
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "각각 지도에 표시된 네 지역 중 하나임.)  [3점]\n",
     "bbox": [
@@ -3904,20 +2958,6 @@
       "end_orig": 4358,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      636,
-      750,
-      775
-    ],
-    "page_idx": 3,
-    "image_path": "9effc97bbdd813ab2ebac404bf0672bc81efca9e5f7481ad8b6ada209289ec06.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -4158,5 +3198,965 @@
       "end_orig": 4579,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      91,
+      152,
+      173,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 53,
+      "end_orig": 59,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "사회탐구 영역(한국지리)",
+    "bbox": [
+      235,
+      145,
+      606,
+      201
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      707,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "1fc3d0a3cd96dba98bb7f8528611537ef1aa43355c741ee7012073a1575fdf03.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\gamma \\mathsf { h } ) \\sim ( \\mathsf { r } \\mathsf { l } )",
+    "bbox": [
+      164,
+      256,
+      212,
+      270
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      98,
+      298,
+      398,
+      433
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>(다)</td></tr><tr><td rowspan=1 colspan=1>위성영상</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>기준점(∆)위·경도</td><td rowspan=1 colspan=1>39°48&#x27;10&quot;N124° 10 47 &quot;E</td><td rowspan=1 colspan=1>37 14′ 22(′N131° 52′08′E</td><td rowspan=1 colspan=1>33°07′03“N126° 16&#x27; 10′ E</td></tr><tr><td rowspan=1 colspan=1>면적</td><td rowspan=1 colspan=1>약64.368km2</td><td rowspan=1 colspan=1>약0.187km2</td><td rowspan=1 colspan=1>약0.298km2</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "1dc430975676a0126a19b5e0d0281940a5c19bd04b8339c10a8ffbfc165a5422.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      98,
+      436,
+      398,
+      575
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>교사의질문</td><td rowspan=1 colspan=5>학생</td></tr><tr><td rowspan=1 colspan=1>갑</td><td rowspan=1 colspan=1>을</td><td rowspan=1 colspan=1>병</td><td rowspan=1 colspan=1>정</td><td rowspan=1 colspan=1>무</td></tr><tr><td rowspan=1 colspan=1>(나)의 기선으로부터 바깥쪽12해리 이내에종합 해양 과학 기지가 건설되어 있습니까?</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td></tr><tr><td rowspan=1 colspan=1>(가)는(나)보다 우리나라표준경선과의최단 거리가 맙니까?</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=1 colspan=1>(나)와(다)는 영해 설정에 직선 기선이적용됩니까?</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>(c1니요</td></tr><tr><td rowspan=1 colspan=1>(가)~(다)는 모두 우리나라 영토의 4극 중하나에 해당합니까?</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td><td rowspan=1 colspan=1>예</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "4ed58db288964d68aa7851ab6ae5de443c1c2da5c6449193b58e6d4eed288302.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      116,
+      718,
+      385,
+      843
+    ],
+    "page_idx": 0,
+    "image_path": "a670be387696e9ac1781440742a06288b4f213ff5fea607f545cea24b6ad5dfc.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      117,
+      851,
+      386,
+      977
+    ],
+    "page_idx": 0,
+    "image_path": "29a7742d881ee1964211363d82dceea0409d8a1ca87c78afff070b1115ec09da.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 3 7 |",
+    "bbox": [
+      531,
+      329,
+      551,
+      338
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "> 7",
+    "bbox": [
+      647,
+      329,
+      662,
+      338
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      447,
+      368,
+      645,
+      475
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>면적당도로연장(km/km²)</td><td rowspan=1 colspan=1>인구밀도(명/km2)</td><td rowspan=1 colspan=1>전통시장수(개)</td><td rowspan=1 colspan=1>1인당지역내총생산(천만 원)</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>0.6</td><td rowspan=1 colspan=1>236.8</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7.7</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>1.2</td><td rowspan=1 colspan=1>238.0</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>11.1</td></tr><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>0.8</td><td rowspan=1 colspan=1>222.4</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3.9</td></tr><tr><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>167.7</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>3.8</td></tr><tr><td rowspan=1 colspan=1>E</td><td rowspan=1 colspan=1>0.7</td><td rowspan=1 colspan=1>119.4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3.9</td></tr><tr><td rowspan=1 colspan=5>(2021)                                        (충청남도</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "86472be05a903f99e0c8bde4131c50abc0400f4d2ce6c5dc99ddec7261a63184.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      652,
+      368,
+      750,
+      473
+    ],
+    "page_idx": 0,
+    "image_path": "adae7560f4cb2ae4e419e053eae840fda7b31b2faf4194ff0ddef2a41e760e67.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ ( 4 ) \\leq 1 \\leq 1 \\leq",
+    "bbox": [
+      697,
+      590,
+      741,
+      603
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\psi )",
+    "bbox": [
+      496,
+      838,
+      514,
+      851
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      448,
+      664,
+      591,
+      755
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>신문(2024년 0월0일)</td></tr><tr><td>(다) 은/는탄광이폐광되면서근로자와 주민 약2천여명이떠나고그에 따라지역</td></tr><tr><td>상권이 침체돼 존립 기반이 흔들리고있다. 또한 여기에 있던 한 대학교의 폐교로</td></tr><tr><td>지역경제에 대한 우려의 목소리가 더욱 커지고 있는 상황이다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "d7a00ec7bc96598598f53aca5641806cadd9c8f813c9d470e2e014d5455380b9.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      604,
+      654,
+      738,
+      759
+    ],
+    "page_idx": 0,
+    "image_path": "ac7d282994951e8261499429eaeea2b738c1d94139363d64bfc0a9c6c5a46d7c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "A \\sim \\operatorname { E } \\circ \\ P \\ r \\lambda \\ r",
+    "bbox": [
+      630,
+      876,
+      676,
+      891
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      485,
+      966,
+      606,
+      1068
+    ],
+    "page_idx": 0,
+    "image_path": "6b87208524b820840ee792ded2e7869ed66c17f3c0203c126e13d761a298cbdc.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      98,
+      195,
+      401,
+      328
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>지질시대</td><td rowspan=1 colspan=3>고생대</td><td rowspan=1 colspan=3>중생대</td><td rowspan=1 colspan=2>신생대</td></tr><tr><td rowspan=1 colspan=3>캄브리아기석탄기-페름기</td><td rowspan=1 colspan=1>트라이아스기</td><td rowspan=1 colspan=1>쥐라기</td><td rowspan=1 colspan=1>백악기</td><td rowspan=1 colspan=1>제3기</td><td rowspan=1 colspan=1>제4기</td></tr><tr><td rowspan=1 colspan=1>z질계통</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(결층)</td><td rowspan=1 colspan=2>평안누층군</td><td rowspan=1 colspan=1>대동누층군</td><td rowspan=1 colspan=1>경상누층군</td><td rowspan=1 colspan=1>제3계</td><td rowspan=1 colspan=1>제4계</td></tr><tr><td rowspan=1 colspan=1>주요집갈변동</td><td rowspan=1 colspan=3>4조륙운동</td><td rowspan=1 colspan=1>1(4)</td><td rowspan=1 colspan=1>↑(다)</td><td rowspan=1 colspan=1>1(라)</td><td rowspan=1 colspan=1>↑(마)</td><td rowspan=1 colspan=1>t확살활통</td></tr><tr><td rowspan=1 colspan=9>중생대동안발생하였던 세 번의 주요지각 변동중 초기에발생한(4)은/는주로한반도 북부지방에영향을미쳤으며,중기에는 (다) 이/가발생해중·남부지방을 중심으로영향을 주었다.중생대말기에는 (라)이/가 주로경상분지일대에서 일어났다.</td></tr></table>",
+    "table_caption": [
+      "<한반도 주요 지질 계통과 지각 변동>"
+    ],
+    "table_footnote": [],
+    "image_path": "8cde2b3602c69ecec4392630b234877e45076f2399a4be450f60134213f2eac2.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      497,
+      397,
+      720
+    ],
+    "page_idx": 1,
+    "image_path": "5ad4a4ea79b86824de674031c0be74913a30b3bf1583427d675587422b25f579.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { E }",
+    "bbox": [
+      285,
+      830,
+      315,
+      844
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      155,
+      871,
+      348,
+      982
+    ],
+    "page_idx": 1,
+    "image_path": "66130d1b733f726704f7b1a19bd6aeaef687f33e3dfa490091f6485bd17a3b12.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      232,
+      753,
+      446
+    ],
+    "page_idx": 1,
+    "image_path": "3095c4dfbf03f77ee16dad0e5551e2facc73149d608473754db2283a0f1a053a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
+    "bbox": [
+      460,
+      522,
+      491,
+      535
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\mathtt { r } ] ) \\mathtt { d } \\rVert",
+    "bbox": [
+      613,
+      664,
+      672,
+      678
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      705,
+      754,
+      1067
+    ],
+    "page_idx": 1,
+    "image_path": "ae141cb2a4b97d1f2536adce5b64c982244bd370b6ea858805f73aa2b79c1a68.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { E } ^ { \\circ \\Vert }",
+    "bbox": [
+      147,
+      484,
+      185,
+      498
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      100,
+      507,
+      402,
+      637
+    ],
+    "page_idx": 2,
+    "image_path": "31d6f347acbe73ec369caf616d001f53a26707c693e6cf0f325324b19231a02c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "8 \\%",
+    "bbox": [
+      189,
+      788,
+      208,
+      802
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      98,
+      811,
+      399,
+      977
+    ],
+    "page_idx": 2,
+    "image_path": "b262be800045e99e849c0f33d54765633e7fe48091aa50d9c33624a2bee567fc.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
+    "bbox": [
+      112,
+      1054,
+      142,
+      1067
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      558,
+      244,
+      734,
+      402
+    ],
+    "page_idx": 2,
+    "image_path": "e51f3e456d6d964aae2841d5fabfed21b29c41ec59d8df2b3d8c6c035f87b211.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      453,
+      409,
+      745,
+      510
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>일정</td><td rowspan=1 colspan=1>방문 지역에 대한 활동 내용</td><td rowspan=1 colspan=1>호남의 Oㅇ괴영남의고영남방문지역호남방문지역</td><td rowspan=1 colspan=1>호남의 Oㅇ괴영남의고영남방문지역호남방문지역</td></tr><tr><td rowspan=1 colspan=1>1일차</td><td rowspan=1 colspan=1>원자력발전소를건학하여 입지요인을 파악하고주변 지역 토지 이용의변화조사하기</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2일차</td><td rowspan=1 colspan=1>도청이 있는지역을 탐방하고인구 유입 현황에대해조사하기</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3일차</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "8389bae2e2a140953430f4bdd3cc7a327b225e725bd4432ecbc4e720c91e435d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D } { \\circ } \\|",
+    "bbox": [
+      714,
+      704,
+      753,
+      718
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      613,
+      722,
+      623,
+      734
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 } \\mathsf { H } )",
+    "bbox": [
+      732,
+      721,
+      750,
+      735
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      448,
+      763,
+      750,
+      861
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td>(가)</td><td></td><td>(4)</td></tr><tr><td>경제 성장과 지역 간 균형 개발의 조화를 꿈꾸다</td><td>새로운 도약을 위한 통합 국토를 지향하다</td><td rowspan=\"3\"></td></tr><tr><td>•인구의 지방 정착 유도</td><td>·개방형 통합 국토축 형성</td></tr><tr><td>·개발 가능성의 전국적 확대 •국토의 다핵 구조형성과 지역생활권 조성</td><td>•지역별경쟁력 고도화 •건강하고 쾌적한 국토 환경 조성</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "9f16f3fbf15932d54dfea56529be36fcbe41ec62ba62e3328f32f27be11a7715.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D } _ { \\mathbf { \\lambda } } ^ { \\mathbf { 1 } }",
+    "bbox": [
+      366,
+      176,
+      405,
+      190
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      101,
+      218,
+      289,
+      336
+    ],
+    "page_idx": 3,
+    "image_path": "f0e7b4b21d0036c6fa1e92d6c7e0fa8e68eb5d5fb4ca356811c6a61c12de9913.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      305,
+      217,
+      400,
+      358
+    ],
+    "page_idx": 3,
+    "image_path": "fbb7dcae49f470fb2f382cc1489a0fc5c9e56ac47ac2dbe8c81e866dd4842fd8.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\sim \\textcircled { \\textcircled { \\scriptsize { \\scriptsize { \\cdot } } } } \\textcircled { \\scriptsize { \\circ } } \\textcircled { \\scriptsize { \\cdot } }",
+    "bbox": [
+      163,
+      472,
+      206,
+      486
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      374,
+      473,
+      384,
+      484
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      303,
+      622,
+      317,
+      636
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      123,
+      704,
+      136,
+      717
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circleddash",
+    "bbox": [
+      198,
+      720,
+      210,
+      734
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\sharp )",
+    "bbox": [
+      136,
+      806,
+      184,
+      820
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      95,
+      831,
+      405,
+      978
+    ],
+    "page_idx": 3,
+    "image_path": "e06d5711c2feb07924e78e7de1a3ae2f343d9f9ef171b3fa4959298834b90875.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 4",
+    "bbox": [
+      113,
+      1020,
+      131,
+      1033
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      723,
+      159,
+      733,
+      171
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "70 \\%",
+    "bbox": [
+      665,
+      234,
+      682,
+      244
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      458,
+      309,
+      742,
+      403
+    ],
+    "page_idx": 3,
+    "image_path": "b08e4b01b9762654acec2dd797bb781d7dc2a267eeb5d1df4e219f9e9931ebb9.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "A { \\sim } \\mathrm { D } \\mathscr { \\ e }",
+    "bbox": [
+      715,
+      578,
+      753,
+      592
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      582,
+      597,
+      592,
+      609
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\overrightarrow { 4 } ) \\div",
+    "bbox": [
+      695,
+      596,
+      754,
+      610
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      636,
+      750,
+      775
+    ],
+    "page_idx": 3,
+    "image_path": "9effc97bbdd813ab2ebac404bf0672bc81efca9e5f7481ad8b6ada209289ec06.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

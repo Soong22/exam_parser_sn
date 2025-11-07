@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      91,
-      152,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 55,
-      "end_orig": 61,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "사회탐구 영역(윤리와 사상)",
-    "bbox": [
-      214,
-      145,
-      621,
-      199
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      707,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "5b368ff6131c056a26e1bfdfd559c6d6cd5ad83f56c26afe2566c7b9815e1160.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 다음 가상 대화의 스승이 강조하는 삶의 태도로 가장 적절한 것은?",
     "bbox": [
       87,
@@ -73,20 +18,6 @@
       "end_orig": 136,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      282,
-      403,
-      488
-    ],
-    "page_idx": 0,
-    "image_path": "fd91b9d5b7c895ea5e88d4bb863837bc52c6d9fe22d34aa9f42faaa036778984.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -190,7 +121,7 @@
   },
   {
     "type": "text",
-    "text": ". (가)의 사회사상가 갑,  을의 입장에서 서로에게 제기할 수 있는 비판을 (나)  그림으로 표현할 때,  A,  B에 해당하는 내용으로 가장 적절한 것은?  [3점]\n",
+    "text": "2. (가)의 사회사상가 갑,  을의 입장에서 서로에게 제기할 수 있는 비판을 (나)  그림으로 표현할 때,  A,  B에 해당하는 내용으로 가장 적절한 것은?  [3점]\n",
     "bbox": [
       85,
       684,
@@ -201,9 +132,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9926,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 326,
+      "start_orig": 325,
       "end_orig": 421,
       "reason": "passed_threshold_no_ws"
     }
@@ -287,20 +218,6 @@
       "end_orig": 613,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      98,
-      858,
-      399,
-      977
-    ],
-    "page_idx": 0,
-    "image_path": "b0509e1452ec1d26b805cc17b1c3dc22451bff93f1fd07f133815431431fad09.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1043,26 +960,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "< 1 1 > 1 > 0 1 1",
-    "bbox": [
-      97,
-      193,
-      144,
-      207
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "서 고른 것은?",
     "bbox": [
@@ -1081,21 +978,6 @@
       "end_orig": 2210,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      96,
-      219,
-      403,
-      492
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>(가)</td><td>갑:쾌락 그 자체는 나쁘지 않다.하지만 우리가 모든 쾌락을 선택하는 것도 항상 고통을 피하는 것도 아니다. 고통의 제거를 넘어서는 쾌락은 존재하지 않는다. 을:쾌락은그 자체로좋은것이며 고통은그 자체로나쁜 것이다.입법자는 쾌락과 고통의 가치를 측정할 때 그것의 강도, 지속성,범위 등을 고려해야 한다. 병:쾌락은 목적으로서 바람직한 유일한 것이다.우리는 가능한 한 고통이 없고 질적으로나 양적으로나 최대한의</td></tr><tr><td>(4)</td><td>같 &lt;범 레) A: 갑만의입장 B:갑과 을만의공통입장 C: 을과병만의공통 입장 D:갑과을과병의 공통입장 을 병</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "88bb78e9654bef6511f7956ebcbaef57e8c269380019fcd0ddace74dcfe85da0.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1199,7 +1081,7 @@
   },
   {
     "type": "text",
-    "text": "① ㉠  ② ㉡  ③ ㉢  ④ ㉣  ⑤",
+    "text": "① ㄱ,  ㄴ ② ㄱ,  ㄷ ③ ㄴ,  ㄷ ④ ㄴ,  ㄹ ⑤",
     "bbox": [
       96,
       599,
@@ -1210,11 +1092,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.5385,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8516,
-      "end_orig": 8537,
-      "reason": "option_line_enumerator_match"
+      "start_orig": 2647,
+      "end_orig": 2680,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1230,11 +1112,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9512,
+      "similarity": 0.9756,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2687,
       "end_orig": 2745,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1254,12 +1136,12 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2745,
       "end_orig": 2818,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "마치 사람이 말[馬]을 이끄는 주인이므로,  가는 것은 말이지만 말을 가게 하는 것은 사람인 것과 같다. ",
+    "text": "마치 사람이 말[馬]을 이끄는 주인이므로,  가는 것은 말이지만 말을 가게 하는 것은 사람인 것과 같다.",
     "bbox": [
       127,
       821,
@@ -1273,8 +1155,8 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2819,
-      "end_orig": 2878,
-      "reason": "anchor_rescue"
+      "end_orig": 2877,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1299,7 +1181,7 @@
   },
   {
     "type": "text",
-    "text": "성(性)이 발한 이후에 이를 위주로,  기를 위주로 말하는 것에 차이가 있더라도 이와 기가 서로 발하는 것은 아니다.\n",
+    "text": "성(性)이 발한 이후에 이를 위주로,  기를 위주로 말하는 것에 차이가 있더라도 이와 기가 서로 발하는 것은 아니다.",
     "bbox": [
       128,
       889,
@@ -1313,8 +1195,8 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2949,
-      "end_orig": 3015,
-      "reason": "anchor_rescue"
+      "end_orig": 3014,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1339,7 +1221,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.갑:정()은 그 연원[]에 따라 이나 기로만 존재한다.",
+    "text": "ㄱ. 갑 : 정(情)은 그 연원[所從來]에 따라 이나 기로만 존재한다.",
     "bbox": [
       108,
       954,
@@ -1349,12 +1231,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 3022,
+      "end_orig": 3061,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1399,7 +1281,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ. 갑과 을: 이는 기가 발하게 하는 원인과 근거[所以然]가 된다.\n",
+    "text": "ㄹ. 갑과 을: 이는 기가 발하게 하는 원인과 근거[所以然]가 된다.",
     "bbox": [
       108,
       1004,
@@ -1413,7 +1295,7 @@
       "similarity": 0.96,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3143,
-      "end_orig": 3182,
+      "end_orig": 3181,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1698,26 +1580,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      723,
-      479,
-      733,
-      491
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -1754,7 +1616,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3508,
       "end_orig": 3584,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1794,7 +1656,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 3612,
       "end_orig": 3680,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -2359,7 +2221,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ②ㄱ, ㄷ ③ㄴ, ㄷ ④ ⑤",
+    "text": "① ㉠  ② ㉡  ③ ㉢  ④ ㉣  ⑤",
     "bbox": [
       96,
       420,
@@ -2369,12 +2231,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.6087,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8516,
+      "end_orig": 8537,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -2395,26 +2257,6 @@
       "start_orig": 4770,
       "end_orig": 4803,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      350,
-      741,
-      360,
-      753
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3698,26 +3540,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 } \\mathsf { H } )",
-    "bbox": [
-      189,
-      805,
-      208,
-      819
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ",  (나)의 입장으로 가장 적절한 것은?",
     "bbox": [
@@ -3938,26 +3760,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
-    "bbox": [
-      479,
-      176,
-      518,
-      190
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "들어갈 적절한 질문만을 <보기>에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -4076,20 +3878,6 @@
       "end_orig": 7962,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      447,
-      333,
-      733,
-      469
-    ],
-    "page_idx": 3,
-    "image_path": "a145d554aaee0bab62de51a8997c7c2ef39bed5e4f7999feda26fbcd22304730.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -4232,26 +4020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\textmd { U } }",
-    "bbox": [
-      633,
-      675,
-      666,
-      689
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "중에서 고른 것은?",
     "bbox": [
@@ -4372,20 +4140,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      450,
-      843,
-      576,
-      948
-    ],
-    "page_idx": 3,
-    "image_path": "8e89b184ed4ff9ee9c0340697d375b16d19f0d723cb03c3db0a55de92002f4fc.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① ⑦ ② ㄴ ③ ㄷ ④ ② ⑤ 1",
     "bbox": [
@@ -4444,5 +4198,251 @@
       "end_orig": 8588,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      91,
+      152,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 55,
+      "end_orig": 61,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "사회탐구 영역(윤리와 사상)",
+    "bbox": [
+      214,
+      145,
+      621,
+      199
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      707,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "5b368ff6131c056a26e1bfdfd559c6d6cd5ad83f56c26afe2566c7b9815e1160.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      282,
+      403,
+      488
+    ],
+    "page_idx": 0,
+    "image_path": "fd91b9d5b7c895ea5e88d4bb863837bc52c6d9fe22d34aa9f42faaa036778984.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      98,
+      858,
+      399,
+      977
+    ],
+    "page_idx": 0,
+    "image_path": "b0509e1452ec1d26b805cc17b1c3dc22451bff93f1fd07f133815431431fad09.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 1 > 0 1 1",
+    "bbox": [
+      97,
+      193,
+      144,
+      207
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      96,
+      219,
+      403,
+      492
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>(가)</td><td>갑:쾌락 그 자체는 나쁘지 않다.하지만 우리가 모든 쾌락을 선택하는 것도 항상 고통을 피하는 것도 아니다. 고통의 제거를 넘어서는 쾌락은 존재하지 않는다. 을:쾌락은그 자체로좋은것이며 고통은그 자체로나쁜 것이다.입법자는 쾌락과 고통의 가치를 측정할 때 그것의 강도, 지속성,범위 등을 고려해야 한다. 병:쾌락은 목적으로서 바람직한 유일한 것이다.우리는 가능한 한 고통이 없고 질적으로나 양적으로나 최대한의</td></tr><tr><td>(4)</td><td>같 &lt;범 레) A: 갑만의입장 B:갑과 을만의공통입장 C: 을과병만의공통 입장 D:갑과을과병의 공통입장 을 병</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "88bb78e9654bef6511f7956ebcbaef57e8c269380019fcd0ddace74dcfe85da0.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      723,
+      479,
+      733,
+      491
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      350,
+      741,
+      360,
+      753
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 } \\mathsf { H } )",
+    "bbox": [
+      189,
+      805,
+      208,
+      819
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
+    "bbox": [
+      479,
+      176,
+      518,
+      190
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      333,
+      733,
+      469
+    ],
+    "page_idx": 3,
+    "image_path": "a145d554aaee0bab62de51a8997c7c2ef39bed5e4f7999feda26fbcd22304730.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\textmd { U } }",
+    "bbox": [
+      633,
+      675,
+      666,
+      689
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      450,
+      843,
+      576,
+      948
+    ],
+    "page_idx": 3,
+    "image_path": "8e89b184ed4ff9ee9c0340697d375b16d19f0d723cb03c3db0a55de92002f4fc.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

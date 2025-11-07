@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      90,
-      153,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 54,
-      "end_orig": 60,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "직업탐구 영역(공업 일반)",
-    "bbox": [
-      228,
-      144,
-      610,
-      200
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      131,
-      209,
-      705,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>성명</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "29a0389abf958391091c52ab663cb654ccb8ac66a67c2af157e04f25699c3028.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 다음 사례에 나타난 A 씨의 직업관과 직업의식으로 가장 적절한 것은?",
     "bbox": [
       87,
@@ -155,20 +100,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      266,
-      303,
-      399,
-      395
-    ],
-    "page_idx": 0,
-    "image_path": "31a639db3d396fc1292b864f7ee4ebdda3b88d16f5840cbee263b7cab0f01c83.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "직업관 직업의식\n① 과정 지향적 직업관 책임 의식\n② 과정 지향적 직업관 평등 의식\n③ 결과 지향적 직업관 전문 의식\n④ 결과 지향적 직업관 평등 의식\n⑤ 물질 지향적 직업관 책임 의식",
     "bbox": [
@@ -190,7 +121,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 사내 직원 안내 자료를 통해 알 수 있는 내용으로 적절한 것은? ",
+    "text": "2. 다음 사내 직원 안내 자료를 통해 알 수 있는 내용으로 적절한 것은?",
     "bbox": [
       85,
       661,
@@ -201,16 +132,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9825,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 524,
-      "end_orig": 565,
+      "start_orig": 523,
+      "end_orig": 564,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "사내 직원 안내 자료",
+    "text": "사내  직원  안내  자료",
     "bbox": [
       201,
       695,
@@ -223,8 +154,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 529,
-      "end_orig": 540,
+      "start_orig": 565,
+      "end_orig": 579,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -247,21 +178,6 @@
       "end_orig": 606,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      103,
-      734,
-      397,
-      920
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td></td><td>경영 조직의개편 경영 효율을 높이기 위해 경영 조직 체계를 냉장고, 세탁기,청소기의 제품별 조직으로 개편하여 독립적 으로 운영하고자함.</td></tr><tr><td></td><td>직무 분석을 통한 개별 성과 및 능력 평가 직무 수행자의 효율적인 행동과 비효율적인 행동을 구분하여 성과와 관련된 사례를 수집하고,이로부터 직무 성과에 효과적인 행동 패턴을 파악하고 분류하는 직무 분석 방법을 적용하고자 함.</td></tr><tr><td></td><td>적절한 보상과 근무 의욕 고취 ·임금체계:직무의중요성,난이도에따라 직무를 평가하여 임금을 차등 지급하고자 함. ·직원 복지:사내 어린이집 및 셔틀버스 운영 예정</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "b3494d32ae9b0ad275ead8baf7b6787e8ce954ceb064c81162c07b1b67a085ba.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -404,26 +320,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
-    "bbox": [
-      694,
-      256,
-      722,
-      270
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "공업에 대한 설명으로 적절한 것만을 <보기",
     "bbox": [
@@ -441,26 +337,6 @@
       "start_orig": 1188,
       "end_orig": 1211,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      617,
-      275,
-      626,
-      286
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -704,21 +580,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      448,
-      812,
-      745,
-      935
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=4>OO기업 견학 보고서</td></tr><tr><td rowspan=3 colspan=1></td><td rowspan=1 colspan=1>업종</td><td rowspan=1 colspan=1>증류기,열 교환기 및 가스 발생기 제조업</td><td rowspan=3 colspan=1>강관 재질:한국산업표준 적용</td></tr><tr><td rowspan=1 colspan=1>제품현황</td><td rowspan=1 colspan=1>·생산품:열 교환 장치 및 강관·에너지원:지하 고온층 지열 활용·국내 인증획득: KC-20××-x×××</td></tr><tr><td rowspan=1 colspan=1>수출계획</td><td rowspan=1 colspan=1>해외 시장 진출을 위해 PSE 인증을 취득함.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "865b3f14bbcf71ac85eb5ed526ecfe660bb5ebcfe5a8df4e6454c953eccec86a.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① 생산품이 활용하는 에너지원은 신에너지이다.\n",
     "bbox": [
@@ -839,35 +700,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      96,
-      200,
-      407,
-      304
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>기업(생산품)</td><td rowspan=1 colspan=1>공장입지 선정 요인 분석</td><td rowspan=1 colspan=1>제품 시장 분석</td></tr><tr><td rowspan=1 colspan=1>A(자동차)</td><td rowspan=1 colspan=1>·신규 플랫폼 사업 추진·관련 부품 업체가 밀집하여 조립이용이한 지역으로 선정 필요</td><td rowspan=1 colspan=1>·매출액과 이익이 급격히 증가하고있으며,경쟁 업체가 대거 진입함.</td></tr><tr><td rowspan=1 colspan=1>B(반도체)</td><td rowspan=1 colspan=1>·차량용 반도체의 수요 증가·고급 인력 확충이 용이한 지역으로선정필요</td><td rowspan=1 colspan=1>·매출액이 낮은 수준에서 서서히증가하고 있으나,이익은 적자상태에 있고 경쟁 업체가 적음.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "d8b86c904c39260a6cff2993c5bfde7a63aa4dd0007c3f69f6e30114fbae626d.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      228,
-      313,
-      273,
-      326
-    ],
-    "page_idx": 1,
-    "image_path": "b792632d7997b32e58bbd8f2409b997ad5365c83a61514adddc523954e24d3b8.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "ㄱ. 공장입지 선정 요인 분석에서 A 기업 공장입지로 제시된 지역은 원료 지향형 입지에 해당한다.",
     "bbox": [
@@ -929,7 +761,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ③ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② ③7, L ④ ⑤ ㄱ,ㄴ,ㄷ",
     "bbox": [
       94,
       443,
@@ -949,7 +781,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 (가),  (나) 공업과 A,  B 기업의 제품 생산 사례에 대한 설명 으로 적절하지 않은 것은?\n",
+    "text": "7. 다음 (가),  (나) 공업과 A,  B 기업의 제품 생산 사례에 대한 설명 으로 적절하지 않은 것은?",
     "bbox": [
       85,
       477,
@@ -960,27 +792,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.988,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2655,
-      "end_orig": 2715,
+      "start_orig": 2654,
+      "end_orig": 2714,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      96,
-      520,
-      404,
-      636
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>공업</td><td rowspan=1 colspan=1>제품생산 사례</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>A기업은 온실가스 감축 의무가 있는 기업으로 제조 기술 개발을 통해탄소 배출을 할당된 허용량보다 감축하여 친환경 자동차를 생산하고있다.이 자동차에는 GPS를 활용한 최단 경로 안내 시스템과 자율 주행시스템이 장착되었다.</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>B기업은 선박 설계 도면의 정확성을 높이기 위해 현실 이미지나 배경에3차원 가상 이미지를 겹쳐 하나로 보여 주는 디지털 영상 기술을 적용하여선박을 건조하고 있으며 GPS를 활용하여 자재 이동과 부품 설치의정확성을 더욱 높였다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "4081025850bc8531462aef84225596da657c273d67ecddfdb42ec7f6aa83a162.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -997,29 +814,9 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2618,
-      "end_orig": 2619,
+      "start_orig": 2992,
+      "end_orig": 2993,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 } \\mathsf { H } )",
-    "bbox": [
-      114,
-      645,
-      132,
-      658
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1283,21 +1080,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      452,
-      307,
-      743,
-      382
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>현황</td><td rowspan=1 colspan=1>|최근 품질 검사에서 부적격 제품이 발생함.</td></tr><tr><td rowspan=1 colspan=1>원인분석</td><td rowspan=1 colspan=1>생산품 전체를 품질 검사한 결과,제품 원료를 생산하는 리사이클링공정의 문제임을 파악함.</td></tr><tr><td rowspan=1 colspan=1>컨설팅</td><td rowspan=1 colspan=1>컨설팅리사이클링 공정으로 생산하던 원료의 공급 방식을 외부 전문의견업체에위탁하는방식으로 제안함.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "dd2fedece9ae193c0f2aa0899c47dcf5154e141f633935044939999d75ed633b.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "<보  기>",
     "bbox": [
@@ -1379,7 +1161,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       502,
@@ -1389,12 +1171,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3939,
-      "end_orig": 3974,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1415,26 +1197,6 @@
       "start_orig": 3975,
       "end_orig": 4027,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      561,
-      593,
-      571,
-      605
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1518,51 +1280,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      480,
-      687,
-      716,
-      788
-    ],
-    "page_idx": 1,
-    "image_path": "026023b82319259c3376c112765cb1442615fe449001c446f1caaf076ba2cd93.jpg",
-    "alt": "",
-    "caption": [
-      "부품 번호"
-    ],
-    "original_type": "image"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      453,
-      814,
-      742,
-      910
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>내용</td></tr><tr><td rowspan=1 colspan=1>A그룹</td><td rowspan=1 colspan=1>|재고량이 많은 부품을 중점 관리 항목으로 선정하여 집중 관리함.</td></tr><tr><td rowspan=1 colspan=1>B그룹</td><td rowspan=1 colspan=1>부서마다 필요한 부품을 다양한 업자로부터 직접 구매하는방식으로재고를관리함</td></tr><tr><td rowspan=1 colspan=1>C그룹</td><td rowspan=1 colspan=1>불확실한 고객의 수요 변화에 능동적으로 대응하기 위해 일정량의재고를 유지함.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "c29ebd3aa14206e7a57446402daca952e6ff269403827cc551ee716d610d239b.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      228,
-      937,
-      273,
-      950
-    ],
-    "page_idx": 1,
-    "image_path": "f5c88d8789f4c35c24602c975d5639aa13fefa088322b170cb81cec4d96ef860.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "ㄱ.A기업이 도입하려는 생산 정보 시스템은POP(Point Of Production)에해당한다.",
     "bbox": [
@@ -1624,7 +1341,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄱ,ㄷ ④ ㄴ,ㄷ ⑤ 7,ㄴ,ㄷ",
     "bbox": [
       95,
       1050,
@@ -1634,17 +1351,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6045,
-      "end_orig": 6080,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": "<보기>",
+    "text": "<보  기>",
     "bbox": [
       574,
       933,
@@ -1657,8 +1374,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6140,
-      "end_orig": 6144,
+      "start_orig": 4266,
+      "end_orig": 4272,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1743,26 +1460,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "80 \\% 0",
-    "bbox": [
-      694,
-      1002,
-      725,
-      1017
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "다.",
     "bbox": [
@@ -1774,17 +1471,17 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6333,
-      "end_orig": 6335,
-      "reason": "low_similarity"
+      "start_orig": 4399,
+      "end_orig": 4401,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "① ㄱ,  ㄴ ② ㄱ,  ㄹ ③ ㄴ,  ㄷ\n④ ㄱ,  ㄷ,  ㄹ ⑤ ㄴ,  ㄷ,  ㄹ",
+    "text": "① 7,ㄴ ② 7,ㄹ ③ ㄴ,ㄷ ④ ㄱ,ㄷㄹ ⑤ㄴ,ㄷ,ㄹ",
     "bbox": [
       445,
       1032,
@@ -1794,12 +1491,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9787,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4402,
-      "end_orig": 4449,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1820,26 +1517,6 @@
       "start_orig": 4450,
       "end_orig": 4456,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc \\bigcirc \\bigcirc",
-    "bbox": [
-      132,
-      158,
-      159,
-      172
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1877,8 +1554,8 @@
       "replaced": false,
       "similarity": 0.8333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4496,
-      "end_orig": 4516,
+      "start_orig": 4456,
+      "end_orig": 4473,
       "reason": "low_similarity"
     }
   },
@@ -1921,21 +1598,6 @@
       "end_orig": 4701,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      107,
-      330,
-      260,
-      389
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>로트 번호</td><td rowspan=1 colspan=1>로트당 제품(개)</td><td rowspan=1 colspan=1>불량품(개)</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>350,000</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>500,000</td><td rowspan=1 colspan=1>8</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>650,000</td><td rowspan=1 colspan=1>12</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>500,000</td><td rowspan=1 colspan=1>6</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "8aedd77fafca3dfce4e3537b38dcafa02110f02d7623117073923715e0215797.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2079,7 +1741,7 @@
   },
   {
     "type": "text",
-    "text": "강화를  위해  폐플라스틱을  활용한 안장을 개발하여 GR인증을 획득하였다. ",
+    "text": "강화를  위해  폐플라스틱을  활용한 안장을 개발하여 GR인증을 획득하였다.",
     "bbox": [
       107,
       632,
@@ -2093,23 +1755,9 @@
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 5130,
-      "end_orig": 5173,
-      "reason": "anchor_rescue"
+      "end_orig": 5172,
+      "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      282,
-      585,
-      397,
-      657
-    ],
-    "page_idx": 2,
-    "image_path": "69154535ca9f92c640efd49651cd89fe5509b9a0b09665e37445f30f09d761a9.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2133,7 +1781,7 @@
   },
   {
     "type": "text",
-    "text": " ✔\n<보  기>",
+    "text": "<보  기>",
     "bbox": [
       225,
       709,
@@ -2144,10 +1792,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.8889,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6560,
-      "end_orig": 6569,
+      "start_orig": 5214,
+      "end_orig": 5220,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2213,7 +1861,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "① 7 ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       95,
       808,
@@ -2223,12 +1871,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6691,
-      "end_orig": 6726,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2312,26 +1960,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "1 6 \\%",
-    "bbox": [
-      353,
-      955,
-      375,
-      969
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "자 -\n① 그래핀을 활용한 고성능 배터리\n② 초전도체를 활용한 전력 케이블\n③ 광섬유를 이용한 계측 변위 센서\n④ 형상 기억 합금을 내장한 소방복\n⑤ 압전 세라믹스를 이용한 전자레인지",
     "bbox": [
@@ -2373,7 +2001,7 @@
   },
   {
     "type": "text",
-    "text": "있는 내용으로 적절한 것만을 <보기>에서 있는 대로 고른 것은?  [3점]",
+    "text": "있는 내용으로 적절한 것만을 <보기>에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
       446,
       176,
@@ -2386,8 +2014,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7202,
-      "end_orig": 7243,
+      "start_orig": 5725,
+      "end_orig": 5767,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2432,21 +2060,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      456,
-      298,
-      743,
-      417
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>공정기호</td><td rowspan=1 colspan=2>배합작업</td><td rowspan=1 colspan=2>포장 작업</td></tr><tr><td rowspan=1 colspan=1>요소 작업(개)</td><td rowspan=1 colspan=1>총소요 시간(초)</td><td rowspan=1 colspan=1>요소 작업(개)</td><td rowspan=1 colspan=1>총소요 시간(초)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>1,000</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>80</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>800</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>60</td></tr><tr><td rowspan=1 colspan=1>c</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>450</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>60</td></tr><tr><td rowspan=1 colspan=1>□</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>250</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>45</td></tr><tr><td rowspan=1 colspan=1>(cid:)</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>600</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>30</td></tr><tr><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>40</td></tr><tr><td rowspan=1 colspan=1>계</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>3,400</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>315</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "7403942cf8846fee11900cf32a34c1e92aea1d535102fb9caa038efaadcff50c.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "<보  기>",
     "bbox": [
@@ -2461,8 +2074,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7438,
-      "end_orig": 7444,
+      "start_orig": 5901,
+      "end_orig": 5907,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2528,7 +2141,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       547,
@@ -2627,23 +2240,8 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      454,
-      733,
-      743,
-      930
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=2 colspan=2>평가 항목</td><td rowspan=2 colspan=1>평가 내용</td><td rowspan=1 colspan=2>평가 결과</td></tr><tr><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=2 colspan=1>공정통제</td><td rowspan=1 colspan=1>인력</td><td rowspan=1 colspan=1>작업별 작업자의 능력과부하를 고려했을때여유 인력이 있어 재배치가 필요한가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>작업시간</td><td rowspan=1 colspan=1>표준작업시간보다작업자의실제작업시간이더 오래 걸리는 공정이 있는가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>생산시간</td><td rowspan=1 colspan=1>제품 생산 시작 시점부터 완성 시점까지 소요되는 시간의 낭비가 없는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr><tr><td rowspan=2 colspan=2>문서관리</td><td rowspan=1 colspan=1>생산에 필요한 재료의 종류와 품질, 조립 순서,가공 방법 등과 같이 설계 도면으로 표현하기어려운 사항을 기록한 문서를 체계적으로 활용하는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr><tr><td rowspan=1 colspan=1>완제품 생산에 필요한 구성 품목의 종류와수량을 명시한 목록을 체계적으로 활용하는가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "5286e12d147a566fc86a3c8c6e2eaaf01b9f4b1cbfec7219f8672eada675bdfb.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
-    "text": "<보기",
+    "text": " ✔\n<보  기",
     "bbox": [
       574,
       950,
@@ -2654,31 +2252,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.8571,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8998,
-      "end_orig": 9001,
+      "start_orig": 6560,
+      "end_orig": 6568,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      614,
-      953,
-      623,
-      964
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2743,7 +2321,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② C ③ ㄱ, ㄴ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "① 7 ② C ③ 7, L ④ L, ⑤ 7,L,ㄷ",
     "bbox": [
       445,
       1049,
@@ -2782,23 +2360,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      96,
-      200,
-      404,
-      298
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>2023년</td><td rowspan=1 colspan=1>연평균근로자(명)</td><td rowspan=1 colspan=1>연간이재해자(명)</td><td rowspan=1 colspan=1>작업 환경 개선 대책</td></tr><tr><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>600</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>용융로 내 코크스,철광석 등의 비산으로 인한화재를 예방하고자 불에 타지 않는 콘크리트내화벽 구조물 시공 예정</td></tr><tr><td rowspan=1 colspan=1>B기업</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>작업장 기계소음이 심하여개인 보호구 착용에대한 산업 안전 보건 표지 부착 예정</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [
-      "※재해율 (\\%) :연평균 근로자 100명당 연간 재해자 수의 비율"
-    ],
-    "image_path": "36d1ac498d05d8c6cc84d78d033acb919f839aba30ec2834300cde3578b0b9e2.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "<보  기>",
     "bbox": [
@@ -2813,8 +2374,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 9018,
-      "end_orig": 9024,
+      "start_orig": 7020,
+      "end_orig": 7026,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -2880,7 +2441,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄷ ③ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② ㄷ ③ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       399,
@@ -2919,26 +2480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "< 1 1 > 0",
-    "bbox": [
-      169,
-      450,
-      213,
-      464
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]",
     "bbox": [
@@ -2953,24 +2494,10 @@
       "replaced": true,
       "similarity": 0.9333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5745,
-      "end_orig": 5766,
+      "start_orig": 3562,
+      "end_orig": 3583,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      102,
-      478,
-      118,
-      494
-    ],
-    "page_idx": 3,
-    "image_path": "85c8729c8dc9496031770a675d363b73d1e82de782ac5c19a4626a0dbf72947c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3031,21 +2558,6 @@
       "end_orig": 7325,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      102,
-      534,
-      385,
-      596
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>시간</td><td rowspan=1 colspan=1>연수 내용</td></tr><tr><td rowspan=1 colspan=1>10:00~10:50</td><td rowspan=1 colspan=1>프랑스 내 케이블 교량의 시공 성과 설명</td></tr><tr><td rowspan=1 colspan=1>11:00~11:50</td><td rowspan=1 colspan=1>[특강]특성화고 졸업 후스기업 대표까지의 여정(강사: 스스기업 대표,토목시공 기술사 보유)</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "d36c8b23b0635ede058c6cab1dba9f331594563004ed8bb5eaa4eed4c7ee0b0e.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3129,7 +2641,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ③ ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② ③ ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       95,
       723,
@@ -3204,7 +2716,7 @@
       "similarity_mode": "no_ws_hanless",
       "start_orig": 7826,
       "end_orig": 7934,
-      "reason": "anchor_rescue"
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3328,26 +2840,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "[ 1 9 \\sim 2 0 ]",
-    "bbox": [
-      434,
-      156,
-      482,
-      172
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "다음은 재해 조사 보고서의 일부이다. 물음에 답하시오",
     "bbox": [
@@ -3369,7 +2861,7 @@
   },
   {
     "type": "text",
-    "text": "재해 조사 보고서",
+    "text": "재해  조사  보고서",
     "bbox": [
       551,
       189,
@@ -3382,8 +2874,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 9244,
-      "end_orig": 9253,
+      "start_orig": 8233,
+      "end_orig": 8244,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -3406,21 +2898,6 @@
       "end_orig": 8288,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      446,
-      228,
-      740,
-      334
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>사고</td><td rowspan=1 colspan=1>·공장 폐수 처리장의 집수조* 내 노후화된 배관 교체를 위한 용접 작업 중가스 폭발 사고가 발생함개요|·폭발의 영향으로 폐수 처리용 중화제인 황산과 폐수가 누출됨.* 집수조:폐수를 모아 저장한 후 폐수 처리 시설로 이송하는 설비</td></tr><tr><td rowspan=1 colspan=1>삶곤</td><td rowspan=1 colspan=1>사고|·집수조 내부 작업 전 가스 감지기로 검침하지 않음.원인|·폐수 누출 차단막이 작동하지 않음.</td></tr><tr><td rowspan=1 colspan=1>사고결과</td><td rowspan=1 colspan=1>·작업자 2명이 2개월의 요양 치료가 필요한 부상을 입음.·누출된 황산과 폐수가 인근 하천으로 유입됨.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "2d9b33901262e288071f074e3d2ead786431019d314d09a1aa410b4deac99e88.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3481,21 +2958,6 @@
       "end_orig": 8695,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      444,
-      439,
-      740,
-      500
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>항목</td><td rowspan=1 colspan=1>황산이온(mg/L)</td><td rowspan=1 colspan=1>수은(mg/L)</td><td rowspan=1 colspan=1>카드뮴(mg/L)</td><td rowspan=1 colspan=1>벤젠(mg/L)</td><td rowspan=1 colspan=1>pH</td><td rowspan=1 colspan=1>DO(mg/L)</td><td rowspan=1 colspan=1>COD(mg/L)</td></tr><tr><td rowspan=1 colspan=1>사고전</td><td rowspan=1 colspan=1>2,010</td><td rowspan=1 colspan=1>0.001</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>6.5</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>14</td></tr><tr><td rowspan=1 colspan=1>사고후</td><td rowspan=1 colspan=1>5,794</td><td rowspan=1 colspan=1>0.001</td><td rowspan=1 colspan=1>0.03</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>4.5</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>35</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "f84b695c2cb97e0e11569e82ffded5ca301abdad7921c5613f0adcebb639f34d.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3575,26 +3037,6 @@
       "start_orig": 8966,
       "end_orig": 9001,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| > \\bullet",
-    "bbox": [
-      723,
-      612,
-      734,
-      624
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3895,6 +3337,564 @@
       "start_orig": 9457,
       "end_orig": 9497,
       "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      90,
+      153,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 54,
+      "end_orig": 60,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "직업탐구 영역(공업 일반)",
+    "bbox": [
+      228,
+      144,
+      610,
+      200
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      131,
+      209,
+      705,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>성명</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "29a0389abf958391091c52ab663cb654ccb8ac66a67c2af157e04f25699c3028.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      266,
+      303,
+      399,
+      395
+    ],
+    "page_idx": 0,
+    "image_path": "31a639db3d396fc1292b864f7ee4ebdda3b88d16f5840cbee263b7cab0f01c83.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      103,
+      734,
+      397,
+      920
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td></td><td>경영 조직의개편 경영 효율을 높이기 위해 경영 조직 체계를 냉장고, 세탁기,청소기의 제품별 조직으로 개편하여 독립적 으로 운영하고자함.</td></tr><tr><td></td><td>직무 분석을 통한 개별 성과 및 능력 평가 직무 수행자의 효율적인 행동과 비효율적인 행동을 구분하여 성과와 관련된 사례를 수집하고,이로부터 직무 성과에 효과적인 행동 패턴을 파악하고 분류하는 직무 분석 방법을 적용하고자 함.</td></tr><tr><td></td><td>적절한 보상과 근무 의욕 고취 ·임금체계:직무의중요성,난이도에따라 직무를 평가하여 임금을 차등 지급하고자 함. ·직원 복지:사내 어린이집 및 셔틀버스 운영 예정</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "b3494d32ae9b0ad275ead8baf7b6787e8ce954ceb064c81162c07b1b67a085ba.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
+    "bbox": [
+      694,
+      256,
+      722,
+      270
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      617,
+      275,
+      626,
+      286
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      448,
+      812,
+      745,
+      935
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=4>OO기업 견학 보고서</td></tr><tr><td rowspan=3 colspan=1></td><td rowspan=1 colspan=1>업종</td><td rowspan=1 colspan=1>증류기,열 교환기 및 가스 발생기 제조업</td><td rowspan=3 colspan=1>강관 재질:한국산업표준 적용</td></tr><tr><td rowspan=1 colspan=1>제품현황</td><td rowspan=1 colspan=1>·생산품:열 교환 장치 및 강관·에너지원:지하 고온층 지열 활용·국내 인증획득: KC-20××-x×××</td></tr><tr><td rowspan=1 colspan=1>수출계획</td><td rowspan=1 colspan=1>해외 시장 진출을 위해 PSE 인증을 취득함.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "865b3f14bbcf71ac85eb5ed526ecfe660bb5ebcfe5a8df4e6454c953eccec86a.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      96,
+      200,
+      407,
+      304
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>기업(생산품)</td><td rowspan=1 colspan=1>공장입지 선정 요인 분석</td><td rowspan=1 colspan=1>제품 시장 분석</td></tr><tr><td rowspan=1 colspan=1>A(자동차)</td><td rowspan=1 colspan=1>·신규 플랫폼 사업 추진·관련 부품 업체가 밀집하여 조립이용이한 지역으로 선정 필요</td><td rowspan=1 colspan=1>·매출액과 이익이 급격히 증가하고있으며,경쟁 업체가 대거 진입함.</td></tr><tr><td rowspan=1 colspan=1>B(반도체)</td><td rowspan=1 colspan=1>·차량용 반도체의 수요 증가·고급 인력 확충이 용이한 지역으로선정필요</td><td rowspan=1 colspan=1>·매출액이 낮은 수준에서 서서히증가하고 있으나,이익은 적자상태에 있고 경쟁 업체가 적음.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "d8b86c904c39260a6cff2993c5bfde7a63aa4dd0007c3f69f6e30114fbae626d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      228,
+      313,
+      273,
+      326
+    ],
+    "page_idx": 1,
+    "image_path": "b792632d7997b32e58bbd8f2409b997ad5365c83a61514adddc523954e24d3b8.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      96,
+      520,
+      404,
+      636
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>공업</td><td rowspan=1 colspan=1>제품생산 사례</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>A기업은 온실가스 감축 의무가 있는 기업으로 제조 기술 개발을 통해탄소 배출을 할당된 허용량보다 감축하여 친환경 자동차를 생산하고있다.이 자동차에는 GPS를 활용한 최단 경로 안내 시스템과 자율 주행시스템이 장착되었다.</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>B기업은 선박 설계 도면의 정확성을 높이기 위해 현실 이미지나 배경에3차원 가상 이미지를 겹쳐 하나로 보여 주는 디지털 영상 기술을 적용하여선박을 건조하고 있으며 GPS를 활용하여 자재 이동과 부품 설치의정확성을 더욱 높였다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "4081025850bc8531462aef84225596da657c273d67ecddfdb42ec7f6aa83a162.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 } \\mathsf { H } )",
+    "bbox": [
+      114,
+      645,
+      132,
+      658
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      452,
+      307,
+      743,
+      382
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>현황</td><td rowspan=1 colspan=1>|최근 품질 검사에서 부적격 제품이 발생함.</td></tr><tr><td rowspan=1 colspan=1>원인분석</td><td rowspan=1 colspan=1>생산품 전체를 품질 검사한 결과,제품 원료를 생산하는 리사이클링공정의 문제임을 파악함.</td></tr><tr><td rowspan=1 colspan=1>컨설팅</td><td rowspan=1 colspan=1>컨설팅리사이클링 공정으로 생산하던 원료의 공급 방식을 외부 전문의견업체에위탁하는방식으로 제안함.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "dd2fedece9ae193c0f2aa0899c47dcf5154e141f633935044939999d75ed633b.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      561,
+      593,
+      571,
+      605
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      480,
+      687,
+      716,
+      788
+    ],
+    "page_idx": 1,
+    "image_path": "026023b82319259c3376c112765cb1442615fe449001c446f1caaf076ba2cd93.jpg",
+    "alt": "",
+    "caption": [
+      "부품 번호"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      453,
+      814,
+      742,
+      910
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>내용</td></tr><tr><td rowspan=1 colspan=1>A그룹</td><td rowspan=1 colspan=1>|재고량이 많은 부품을 중점 관리 항목으로 선정하여 집중 관리함.</td></tr><tr><td rowspan=1 colspan=1>B그룹</td><td rowspan=1 colspan=1>부서마다 필요한 부품을 다양한 업자로부터 직접 구매하는방식으로재고를관리함</td></tr><tr><td rowspan=1 colspan=1>C그룹</td><td rowspan=1 colspan=1>불확실한 고객의 수요 변화에 능동적으로 대응하기 위해 일정량의재고를 유지함.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "c29ebd3aa14206e7a57446402daca952e6ff269403827cc551ee716d610d239b.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      228,
+      937,
+      273,
+      950
+    ],
+    "page_idx": 1,
+    "image_path": "f5c88d8789f4c35c24602c975d5639aa13fefa088322b170cb81cec4d96ef860.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "80 \\% 0",
+    "bbox": [
+      694,
+      1002,
+      725,
+      1017
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc \\bigcirc \\bigcirc",
+    "bbox": [
+      132,
+      158,
+      159,
+      172
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      107,
+      330,
+      260,
+      389
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>로트 번호</td><td rowspan=1 colspan=1>로트당 제품(개)</td><td rowspan=1 colspan=1>불량품(개)</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>350,000</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>500,000</td><td rowspan=1 colspan=1>8</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>650,000</td><td rowspan=1 colspan=1>12</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>500,000</td><td rowspan=1 colspan=1>6</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "8aedd77fafca3dfce4e3537b38dcafa02110f02d7623117073923715e0215797.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      282,
+      585,
+      397,
+      657
+    ],
+    "page_idx": 2,
+    "image_path": "69154535ca9f92c640efd49651cd89fe5509b9a0b09665e37445f30f09d761a9.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "1 6 \\%",
+    "bbox": [
+      353,
+      955,
+      375,
+      969
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      456,
+      298,
+      743,
+      417
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>공정기호</td><td rowspan=1 colspan=2>배합작업</td><td rowspan=1 colspan=2>포장 작업</td></tr><tr><td rowspan=1 colspan=1>요소 작업(개)</td><td rowspan=1 colspan=1>총소요 시간(초)</td><td rowspan=1 colspan=1>요소 작업(개)</td><td rowspan=1 colspan=1>총소요 시간(초)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>1,000</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>80</td></tr><tr><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>800</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>60</td></tr><tr><td rowspan=1 colspan=1>c</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>450</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>60</td></tr><tr><td rowspan=1 colspan=1>□</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>250</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>45</td></tr><tr><td rowspan=1 colspan=1>(cid:)</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>600</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>30</td></tr><tr><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>40</td></tr><tr><td rowspan=1 colspan=1>계</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>3,400</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>315</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "7403942cf8846fee11900cf32a34c1e92aea1d535102fb9caa038efaadcff50c.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      733,
+      743,
+      930
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=2 colspan=2>평가 항목</td><td rowspan=2 colspan=1>평가 내용</td><td rowspan=1 colspan=2>평가 결과</td></tr><tr><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=2 colspan=1>공정통제</td><td rowspan=1 colspan=1>인력</td><td rowspan=1 colspan=1>작업별 작업자의 능력과부하를 고려했을때여유 인력이 있어 재배치가 필요한가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>작업시간</td><td rowspan=1 colspan=1>표준작업시간보다작업자의실제작업시간이더 오래 걸리는 공정이 있는가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>생산시간</td><td rowspan=1 colspan=1>제품 생산 시작 시점부터 완성 시점까지 소요되는 시간의 낭비가 없는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr><tr><td rowspan=2 colspan=2>문서관리</td><td rowspan=1 colspan=1>생산에 필요한 재료의 종류와 품질, 조립 순서,가공 방법 등과 같이 설계 도면으로 표현하기어려운 사항을 기록한 문서를 체계적으로 활용하는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>√</td></tr><tr><td rowspan=1 colspan=1>완제품 생산에 필요한 구성 품목의 종류와수량을 명시한 목록을 체계적으로 활용하는가?</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1></td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "5286e12d147a566fc86a3c8c6e2eaaf01b9f4b1cbfec7219f8672eada675bdfb.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      614,
+      953,
+      623,
+      964
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      96,
+      200,
+      404,
+      298
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>2023년</td><td rowspan=1 colspan=1>연평균근로자(명)</td><td rowspan=1 colspan=1>연간이재해자(명)</td><td rowspan=1 colspan=1>작업 환경 개선 대책</td></tr><tr><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>600</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>용융로 내 코크스,철광석 등의 비산으로 인한화재를 예방하고자 불에 타지 않는 콘크리트내화벽 구조물 시공 예정</td></tr><tr><td rowspan=1 colspan=1>B기업</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>작업장 기계소음이 심하여개인 보호구 착용에대한 산업 안전 보건 표지 부착 예정</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [
+      "※재해율 (\\%) :연평균 근로자 100명당 연간 재해자 수의 비율"
+    ],
+    "image_path": "36d1ac498d05d8c6cc84d78d033acb919f839aba30ec2834300cde3578b0b9e2.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 0",
+    "bbox": [
+      169,
+      450,
+      213,
+      464
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      102,
+      478,
+      118,
+      494
+    ],
+    "page_idx": 3,
+    "image_path": "85c8729c8dc9496031770a675d363b73d1e82de782ac5c19a4626a0dbf72947c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      102,
+      534,
+      385,
+      596
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>시간</td><td rowspan=1 colspan=1>연수 내용</td></tr><tr><td rowspan=1 colspan=1>10:00~10:50</td><td rowspan=1 colspan=1>프랑스 내 케이블 교량의 시공 성과 설명</td></tr><tr><td rowspan=1 colspan=1>11:00~11:50</td><td rowspan=1 colspan=1>[특강]특성화고 졸업 후스기업 대표까지의 여정(강사: 스스기업 대표,토목시공 기술사 보유)</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "d36c8b23b0635ede058c6cab1dba9f331594563004ed8bb5eaa4eed4c7ee0b0e.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 1 9 \\sim 2 0 ]",
+    "bbox": [
+      434,
+      156,
+      482,
+      172
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      446,
+      228,
+      740,
+      334
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>사고</td><td rowspan=1 colspan=1>·공장 폐수 처리장의 집수조* 내 노후화된 배관 교체를 위한 용접 작업 중가스 폭발 사고가 발생함개요|·폭발의 영향으로 폐수 처리용 중화제인 황산과 폐수가 누출됨.* 집수조:폐수를 모아 저장한 후 폐수 처리 시설로 이송하는 설비</td></tr><tr><td rowspan=1 colspan=1>삶곤</td><td rowspan=1 colspan=1>사고|·집수조 내부 작업 전 가스 감지기로 검침하지 않음.원인|·폐수 누출 차단막이 작동하지 않음.</td></tr><tr><td rowspan=1 colspan=1>사고결과</td><td rowspan=1 colspan=1>·작업자 2명이 2개월의 요양 치료가 필요한 부상을 입음.·누출된 황산과 폐수가 인근 하천으로 유입됨.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "2d9b33901262e288071f074e3d2ead786431019d314d09a1aa410b4deac99e88.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      444,
+      439,
+      740,
+      500
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>항목</td><td rowspan=1 colspan=1>황산이온(mg/L)</td><td rowspan=1 colspan=1>수은(mg/L)</td><td rowspan=1 colspan=1>카드뮴(mg/L)</td><td rowspan=1 colspan=1>벤젠(mg/L)</td><td rowspan=1 colspan=1>pH</td><td rowspan=1 colspan=1>DO(mg/L)</td><td rowspan=1 colspan=1>COD(mg/L)</td></tr><tr><td rowspan=1 colspan=1>사고전</td><td rowspan=1 colspan=1>2,010</td><td rowspan=1 colspan=1>0.001</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>6.5</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>14</td></tr><tr><td rowspan=1 colspan=1>사고후</td><td rowspan=1 colspan=1>5,794</td><td rowspan=1 colspan=1>0.001</td><td rowspan=1 colspan=1>0.03</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>4.5</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>35</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "f84b695c2cb97e0e11569e82ffded5ca301abdad7921c5613f0adcebb639f34d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| > \\bullet",
+    "bbox": [
+      723,
+      612,
+      734,
+      624
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
     }
   }
 ]

@@ -1,46 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제5교시",
-    "bbox": [
-      92,
-      154,
-      174,
-      190
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "제2외국어/한문 영역(러시아어 I)",
-    "bbox": [
-      186,
-      145,
-      707,
-      199
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. □에 들어갈 글자를 순서대로 조합하여 만들 수 있는 낱말에 해당하는 그림은?  [1점]\n",
     "bbox": [
       87,
@@ -101,7 +61,7 @@
   },
   {
     "type": "text",
-    "text": ". 밑줄 친 부분의 발음이 나머지 넷과 다른 것은?\n",
+    "text": "2. 밑줄 친 부분의 발음이 나머지 넷과 다른 것은?",
     "bbox": [
       85,
       495,
@@ -112,10 +72,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9756,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 175,
-      "end_orig": 204,
+      "start_orig": 174,
+      "end_orig": 203,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -132,10 +92,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1333,
+      "similarity": 0.25,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 204,
-      "end_orig": 206,
+      "start_orig": 3,
+      "end_orig": 5,
       "reason": "low_similarity"
     }
   },
@@ -192,10 +152,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1176,
+      "similarity": 0.1111,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 282,
-      "end_orig": 284,
+      "start_orig": 167,
+      "end_orig": 172,
       "reason": "low_similarity"
     }
   },
@@ -212,10 +172,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0769,
+      "similarity": 0.0741,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 317,
-      "end_orig": 319,
+      "start_orig": 169,
+      "end_orig": 174,
       "reason": "low_similarity"
     }
   },
@@ -272,10 +232,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.125,
+      "similarity": 0.2353,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 204,
-      "end_orig": 206,
+      "start_orig": 3,
+      "end_orig": 5,
       "reason": "low_similarity"
     }
   },
@@ -292,10 +252,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.1818,
+      "similarity": 0.1739,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1594,
-      "end_orig": 1597,
+      "start_orig": 164,
+      "end_orig": 170,
       "reason": "low_similarity"
     }
   },
@@ -352,10 +312,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.069,
+      "similarity": 0.0667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 317,
-      "end_orig": 319,
+      "start_orig": 169,
+      "end_orig": 174,
       "reason": "low_similarity"
     }
   },
@@ -540,20 +500,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      450,
-      280,
-      522,
-      385
-    ],
-    "page_idx": 0,
-    "image_path": "db73b7d3e94745c201b0a3bba0841977fe3df81e6769f4d97bf17cc548d873e6.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "HoBb ro – caM onMb paHK B PocCHn. A erO rJIaBHbIM cHMBOIoM ABJaeTca Jka. PaHbe B Poccun HoBbi ro oTmeuaJin BecHo, noTom oceHblo. Ho B 1699 roy Irp I rpuka3aJ nepeHecrh Hauao roa c 1 ceHTs6ps Ha 1 sHBaps.",
     "bbox": [
@@ -588,8 +534,8 @@
       "replaced": false,
       "similarity": 0.0571,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 248,
-      "end_orig": 250,
+      "start_orig": 167,
+      "end_orig": 170,
       "reason": "low_similarity"
     }
   },
@@ -675,7 +621,7 @@
   },
   {
     "type": "text",
-    "text": "c.  표트르 1세는 9월 1일을 새해로 결정하였다.\n",
+    "text": ".  표트르 1세는 9월 1일을 새해로 결정하였다.\n",
     "bbox": [
       453,
       500,
@@ -686,9 +632,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9767,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1265,
+      "start_orig": 1266,
       "end_orig": 1295,
       "reason": "passed_threshold_no_ws"
     }
@@ -715,7 +661,7 @@
   },
   {
     "type": "text",
-    "text": "① ② ③ ④ ⑤",
+    "text": "① a,  b ② a,  c ③ b,  c ④ b,  d ⑤ c,  d",
     "bbox": [
       446,
       544,
@@ -726,16 +672,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.4,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6595,
-      "end_orig": 6604,
-      "reason": "option_line_enumerator_match"
+      "start_orig": 1318,
+      "end_orig": 1357,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "7. 예카테린부르크에  관한  글을  이해한  내용으로  알맞지  않은 것은?\n",
+    "text": ". 예카테린부르크에  관한  글을  이해한  내용으로  알맞지  않은 것은?\n",
     "bbox": [
       434,
       683,
@@ -746,26 +692,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9655,
+      "similarity": 0.9825,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1358,
+      "start_orig": 1359,
       "end_orig": 1402,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      451,
-      729,
-      584,
-      821
-    ],
-    "page_idx": 0,
-    "image_path": "5d7836f07a21557d753748451cb9fe3b6a6ca401a5a3c0db1ae1418d64dcb842.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -840,31 +772,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.3333,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      650,
-      945,
-      658,
-      953
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 1844,
+      "end_orig": 1849,
+      "reason": "low_similarity"
     }
   },
   {
@@ -885,26 +797,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      657,
-      958,
-      665,
-      967
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1128,26 +1020,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      320,
-      425,
-      330,
-      437
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은? ",
     "bbox": [
@@ -1200,10 +1072,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0513,
+      "similarity": 0.0526,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6605,
-      "end_orig": 6609,
+      "start_orig": 1594,
+      "end_orig": 1598,
       "reason": "low_similarity"
     }
   },
@@ -1349,7 +1221,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ.'성 삼위일체'는15세기 성상화이다.",
+    "text": "c. ‘성 삼위일체’는 15세기 성상화이다.\n",
     "bbox": [
       105,
       705,
@@ -1359,12 +1231,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2747,
+      "end_orig": 2772,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1389,7 +1261,7 @@
   },
   {
     "type": "text",
-    "text": "① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "① a,  b ② a,  c ③ b,  c ④ b,  d ⑤ c,  d",
     "bbox": [
       97,
       748,
@@ -1399,12 +1271,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2797,
+      "end_orig": 2836,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -1440,10 +1312,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0606,
+      "similarity": 0.0625,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6605,
-      "end_orig": 6608,
+      "start_orig": 1594,
+      "end_orig": 1597,
       "reason": "low_similarity"
     }
   },
@@ -1548,26 +1420,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      665,
-      160,
-      675,
-      172
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?",
     "bbox": [
@@ -1602,8 +1454,8 @@
       "replaced": false,
       "similarity": 0.1143,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7529,
-      "end_orig": 7532,
+      "start_orig": 4539,
+      "end_orig": 4542,
       "reason": "low_similarity"
     }
   },
@@ -1642,8 +1494,8 @@
       "replaced": false,
       "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6849,
-      "end_orig": 6851,
+      "start_orig": 2696,
+      "end_orig": 2698,
       "reason": "low_similarity"
     }
   },
@@ -1709,7 +1561,7 @@
   },
   {
     "type": "text",
-    "text": "a. Bo cKoIBKO b. CkoJIbkO cTonT C. CKOJIbkO c MeHA d. Ckoubko BpemeHM ① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "① ② ③ ④ ⑤",
     "bbox": [
       445,
       293,
@@ -1719,12 +1571,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.122,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6595,
+      "end_orig": 6604,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -1846,20 +1698,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      640,
-      526,
-      727
-    ],
-    "page_idx": 1,
-    "image_path": "5aa3eb0c3fd401e0b4ac50d3cb460f07c32e26692effd685177db4e1c8704d46.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2282,26 +2120,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      302,
-      357,
-      313,
-      368
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 찾아 순서대로 바르게 배열한 것은?",
     "bbox": [
@@ -2503,7 +2321,7 @@
   },
   {
     "type": "text",
-    "text": "① a-b-c ② a-c -b ③ b − a −c ④ b - c − a ⑤ ㄷ -a -b",
+    "text": "① a - b - с ② a - c - b ③ b - a - c\n④ b - c - a ⑤ c - a - b",
     "bbox": [
       96,
       627,
@@ -2513,12 +2331,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.5862,
+      "replaced": true,
+      "similarity": 0.8667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4889,
-      "end_orig": 4940,
-      "reason": "low_similarity"
+      "start_orig": 4872,
+      "end_orig": 4931,
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -2622,26 +2440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "9 0 0 \\ \\mathrm { p y } 6",
-    "bbox": [
-      270,
-      875,
-      315,
-      890
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ".",
     "bbox": [
@@ -2679,40 +2477,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      123,
-      897,
-      175,
-      928
-    ],
-    "page_idx": 2,
-    "image_path": "0d26cf895a3dc175d7d80fe88177111cabbefb56e5e3fdfc8ff0693563b61d74.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      273,
-      962,
-      281,
-      970
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2853,26 +2617,6 @@
       "start_orig": 5302,
       "end_orig": 5325,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\angle 1 = \\angle 7 7 ^ { \\circ }",
-    "bbox": [
-      640,
-      159,
-      680,
-      173
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3057,7 +2801,7 @@
   },
   {
     "type": "text",
-    "text": "① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "① a,  b ② a,  c ③ b,  c ④ b,  d ⑤ c,  d",
     "bbox": [
       445,
       370,
@@ -3067,12 +2811,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5659,
+      "end_orig": 5698,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3233,26 +2977,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathbf { \\nabla } \\mathrm { \\mathbf { { b } } : \\nabla \\mathrm { { O } \\breve { { H } } } }",
-    "bbox": [
-      454,
-      713,
-      490,
-      727
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3496,20 +3220,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      106,
-      273,
-      392,
-      333
-    ],
-    "page_idx": 3,
-    "image_path": "d1a4e43e0d95427ac9c9580a7c63d272bd88efd347f69b91580637a84e3fa86a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "23. 타냐에 관한 글에서 대답을 찾을 수 있는 질문만을 <보기>에서 고른 것은?",
     "bbox": [
@@ -3611,7 +3321,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. Kro eé pouren no ηpoqeccnn?",
+    "text": "c. Kro eé pouren no ηpoqeccnn?",
     "bbox": [
       104,
       537,
@@ -3651,7 +3361,7 @@
   },
   {
     "type": "text",
-    "text": "① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "① a,  b ② a,  c ③ b,  c ④ b,  d ⑤ c,  d",
     "bbox": [
       97,
       582,
@@ -3661,12 +3371,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6988,
+      "end_orig": 7027,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -3788,20 +3498,6 @@
       "end_orig": 7490,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      862,
-      404,
-      1008
-    ],
-    "page_idx": 3,
-    "image_path": "65b28e3421fec48e95739c972a40dd99d3315d9110ac68be09e94d230128dc9e.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -4044,26 +3740,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      665,
-      475,
-      675,
-      487
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?",
     "bbox": [
@@ -4125,7 +3801,7 @@
   },
   {
     "type": "text",
-    "text": "a. Im b. uBeToK C. epeBbeB d. KMBOTHbIX ① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a. Im b. uBeToK C. epeBbeB d. KMBOTHbIX ① a, b ② a, c ③ b, c ④ b, d ⑤ c, d",
     "bbox": [
       446,
       552,
@@ -4136,11 +3812,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.2157,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 8046,
+      "end_orig": 8124,
+      "reason": "low_similarity"
     }
   },
   {
@@ -4361,6 +4037,330 @@
       "start_orig": 8610,
       "end_orig": 8650,
       "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제5교시",
+    "bbox": [
+      92,
+      154,
+      174,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제2외국어/한문 영역(러시아어 I)",
+    "bbox": [
+      186,
+      145,
+      707,
+      199
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      450,
+      280,
+      522,
+      385
+    ],
+    "page_idx": 0,
+    "image_path": "db73b7d3e94745c201b0a3bba0841977fe3df81e6769f4d97bf17cc548d873e6.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      451,
+      729,
+      584,
+      821
+    ],
+    "page_idx": 0,
+    "image_path": "5d7836f07a21557d753748451cb9fe3b6a6ca401a5a3c0db1ae1418d64dcb842.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      650,
+      945,
+      658,
+      953
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      657,
+      958,
+      665,
+      967
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      320,
+      425,
+      330,
+      437
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      665,
+      160,
+      675,
+      172
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      640,
+      526,
+      727
+    ],
+    "page_idx": 1,
+    "image_path": "5aa3eb0c3fd401e0b4ac50d3cb460f07c32e26692effd685177db4e1c8704d46.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      302,
+      357,
+      313,
+      368
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "9 0 0 \\ \\mathrm { p y } 6",
+    "bbox": [
+      270,
+      875,
+      315,
+      890
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      123,
+      897,
+      175,
+      928
+    ],
+    "page_idx": 2,
+    "image_path": "0d26cf895a3dc175d7d80fe88177111cabbefb56e5e3fdfc8ff0693563b61d74.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      273,
+      962,
+      281,
+      970
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle 1 = \\angle 7 7 ^ { \\circ }",
+    "bbox": [
+      640,
+      159,
+      680,
+      173
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathbf { \\nabla } \\mathrm { \\mathbf { { b } } : \\nabla \\mathrm { { O } \\breve { { H } } } }",
+    "bbox": [
+      454,
+      713,
+      490,
+      727
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      106,
+      273,
+      392,
+      333
+    ],
+    "page_idx": 3,
+    "image_path": "d1a4e43e0d95427ac9c9580a7c63d272bd88efd347f69b91580637a84e3fa86a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      862,
+      404,
+      1008
+    ],
+    "page_idx": 3,
+    "image_path": "65b28e3421fec48e95739c972a40dd99d3315d9110ac68be09e94d230128dc9e.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      665,
+      475,
+      675,
+      487
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
     }
   }
 ]

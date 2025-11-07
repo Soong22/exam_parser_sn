@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제4교시",
-    "bbox": [
-      90,
-      152,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "직업탐구 영역(공업 일반)",
-    "bbox": [
-      228,
-      146,
-      610,
-      202
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      697,
-      237
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "6a381718a844f69378ece327541057a4b9385704a04714475fd478006f812553.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 다음 사례에 나타난 A 씨의 직업관으로 적절한 것만을 <보기> 에서 고른 것은?",
     "bbox": [
       86,
@@ -133,20 +78,6 @@
       "end_orig": 372,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      281,
-      307,
-      400,
-      382
-    ],
-    "page_idx": 0,
-    "image_path": "1234e87a41b11b24e45051e48096e66f0ea0fc334450b3fef1f44b49286480b5.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -349,21 +280,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      107,
-      738,
-      393,
-      857
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명</td><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>B기업</td></tr><tr><td rowspan=1 colspan=1>혁신활동</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6시그마</td></tr><tr><td rowspan=1 colspan=1>생산품불량률</td><td rowspan=1 colspan=1>생산품 100개당 1~2개의 불량품이발생함</td><td rowspan=1 colspan=1>생산품100만 개당3~4개의 불량품이발생함</td></tr><tr><td rowspan=1 colspan=1>자재관리및생산</td><td rowspan=1 colspan=1>부품재고초과로재고관리 비용증가</td><td rowspan=1 colspan=1>재고 비용 절감을 위해 필요한부품을 필요한 때에 필요한 만큼생산 라인에 공급하여 생산함</td></tr><tr><td rowspan=1 colspan=1>매출및이익 현황</td><td rowspan=1 colspan=1>생산품의 매출이 정점에 이른 후이익이 정체되고 있음</td><td rowspan=1 colspan=1>생산품의 매출 급증과 동시에 이익이급상승하고 있음.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "681f3e3c6bc898087fad407a9b4b89fc584470c3182202050c18681b0241aea1.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "발전 전략",
     "bbox": [
@@ -564,20 +480,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      447,
-      299,
-      753,
-      500
-    ],
-    "page_idx": 0,
-    "image_path": "4864537f70963621090cf166ea5eda3d18d1aa9d3352f5c36c70c62855e88950.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① (가) 공업의 주요 공정에는 제선,  제강이 있다.",
     "bbox": [
@@ -715,26 +617,6 @@
       "start_orig": 6135,
       "end_orig": 6151,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      592,
-      690,
-      603,
-      702
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1018,26 +900,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      268,
-      177,
-      277,
-      188
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?",
     "bbox": [
@@ -1056,21 +918,6 @@
       "end_orig": 1816,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      98,
-      201,
-      403,
-      285
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>공업</td><td rowspan=1 colspan=1>자재 및 부품</td><td rowspan=1 colspan=1>생산품</td><td rowspan=1 colspan=1>미래 전망</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>골재,시멘트,철근</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>·교량의 건설을 위해 로봇과 드론을접목한 새로운 유형의 기술 발전 요구</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>엔진,변속기,바퀴</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>·운전자의 안전을 위해 자율 주행 기술고도화 필요</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "9f707400009d50bc479f41437320e6ebc57fbe86cc7898291f9c1dd29b01939b.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1174,7 +1021,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄴ2 ③ㄷ, ㄹ ④ ㄱ, ㄴ, ㄷ ⑤ㄱ, ㄷ, ㄹ",
+    "text": "① ㄱ, ㄴ ② L2 ③ㄷ, ㄹ ④ ㄱ, ㄴ, ㄷ ⑤ㄱ, ㄷ, ㄹ",
     "bbox": [
       96,
       408,
@@ -1373,26 +1220,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { { 7 } h } )",
-    "bbox": [
-      113,
-      698,
-      131,
-      711
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "와 (나)에서 발생한 사고의 결과는 ‘중대재해’에 해당한다.",
     "bbox": [
@@ -1414,7 +1241,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 경영 진단 컨설팅 보고서를 통해 알 수 있는 A 기업에 대한 내용으로 옳은 것만을",
+    "text": "7. 다음 경영 진단 컨설팅 보고서를 통해 알 수 있는 A 기업에 대한 내용으로 옳은 것만을",
     "bbox": [
       87,
       737,
@@ -1425,31 +1252,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9859,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2462,
+      "start_orig": 2461,
       "end_orig": 2512,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "< 1 1 > 1 > 0 1 1",
-    "bbox": [
-      205,
-      754,
-      252,
-      768
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1513,21 +1320,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      108,
-      830,
-      392,
-      902
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>항목</td><td rowspan=1 colspan=1>분석 내용</td></tr><tr><td rowspan=1 colspan=1>보유기술</td><td rowspan=1 colspan=1>&#x27;로봇 청소기용 원격제어장치&#x27;에 관한 특허권 보유</td></tr><tr><td rowspan=1 colspan=1>설비의 특성</td><td rowspan=1 colspan=1>다목적 범용 설비</td></tr><tr><td rowspan=1 colspan=1>수요 분석</td><td rowspan=1 colspan=1>·구형 유선 청소기는 수요가 급감함.·신제품으로 출시한 무선 로봇 청소기는 수요가 급증함.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "0e68f5cacc58275dca89fad910af4176d8241458ab5cbd97d18f9493d2a83877.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "컨설팅 의견:급증하는 수요에 대응하기 위해 범용 설비에서 전용 설비로의 전환이 필요함",
     "bbox": [
@@ -1546,20 +1338,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      229,
-      937,
-      272,
-      950
-    ],
-    "page_idx": 1,
-    "image_path": "441bb64b8b50b3466fbafa8e566b1fe9c2524eac31077e10dedade26bc06743c.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1614,16 +1392,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 1.0,
+      "similarity": 0.9762,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2623,
       "end_orig": 2679,
-      "reason": "passed_threshold_no_ws"
+      "reason": "anchor_rescue+left_extend"
     }
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ 7,ㄷ ④L,ㄷ ⑤ 7,L,ㄷ",
     "bbox": [
       96,
       1049,
@@ -1633,12 +1411,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2679,
-      "end_orig": 2714,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1702,25 +1480,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      457,
-      249,
-      740,
-      337
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>일자항목</td><td rowspan=1 colspan=1>3/6</td><td rowspan=1 colspan=1>3/7</td><td rowspan=1 colspan=1>3/8</td><td rowspan=1 colspan=1>3/9</td><td rowspan=1 colspan=1>3/10</td><td rowspan=1 colspan=1>합계</td></tr><tr><td rowspan=1 colspan=1>얼룩</td><td rowspan=1 colspan=1>/l/</td><td rowspan=1 colspan=1>/l/</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1>/l/</td><td rowspan=1 colspan=1>12</td></tr><tr><td rowspan=1 colspan=1>이물질</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/l/</td><td rowspan=1 colspan=1>/l/</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>16</td></tr><tr><td rowspan=1 colspan=1>리스팅*</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1>///</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>///</td><td rowspan=1 colspan=1>10</td></tr><tr><td rowspan=1 colspan=1>원단 손상</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>14</td></tr><tr><td rowspan=1 colspan=1>기타</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1>8</td></tr></table>",
-    "table_caption": [
-      "불량건수"
-    ],
-    "table_footnote": [
-      "*리스팅(Listing):염색 후좌우의 색상 차이가 나는현상"
-    ],
-    "image_path": "b9d98dd3cc718e873d55f23d3ba53e15b7c36a9391de97ee490a09816b8a9a61.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "원인 분석 및 개선 활동",
     "bbox": [
@@ -1739,21 +1498,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      456,
-      374,
-      740,
-      438
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=2>원인 분석</td><td rowspan=1 colspan=1>작업장 주변에 불필요한 물품 방치,장비 주변에 먼지와 이물질잔존,작업 절차 미준수</td></tr><tr><td rowspan=2 colspan=1>개선활동</td><td rowspan=1 colspan=1>1단계</td><td rowspan=1 colspan=1>작업 과정과 작업장 환경에 대한 5S 교육 시행</td></tr><tr><td rowspan=1 colspan=1>2단계</td><td rowspan=1 colspan=1>직장 내에서 자발적으로 품질 개선 활동을 수행하는 소모임 구성</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "75bcd99cb102d893b3e6c358839f680cf30c98ceec71c5911e52802016cc2434.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1856,26 +1600,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "60 \\%",
-    "bbox": [
-      560,
-      556,
-      583,
-      569
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "이상이 제거된다.",
     "bbox": [
@@ -1897,7 +1621,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄴ, ㄹ ③ ④ ㄱ, ㄴ, ㄷ ⑤ㄱ, ㄷ, ㄹ",
+    "text": "① 7,L ② L,ㄹ ③ ④ ㄱ,ㄴ,ㄷ ⑤7,ㄷ,ㄹ",
     "bbox": [
       445,
       586,
@@ -1974,21 +1698,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      458,
-      769,
-      738,
-      835
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>담당 부서</td><td rowspan=1 colspan=1>교육 내용</td></tr><tr><td rowspan=1 colspan=1>개발부</td><td rowspan=1 colspan=1>·제품 개발 및 NEP 인증 절차 설명</td></tr><tr><td rowspan=1 colspan=1>복지부</td><td rowspan=1 colspan=1>·기숙사 및 통근 버스 이용 방법 안내</td></tr><tr><td rowspan=1 colspan=1>총무부</td><td rowspan=1 colspan=1>·초과 근무 수당 안내</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a424b5d0f031293968ef599eabf5c3816f223934d4d0110ab64ecc07aeb67860.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2148,26 +1857,6 @@
       "start_orig": 3423,
       "end_orig": 3439,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      254,
-      208,
-      277,
-      222
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2392,7 +2081,7 @@
   },
   {
     "type": "text",
-    "text": "1.배경: 지속 가능한 발전과 환경오염 문제 해결을 위해 등장 ㄹ.(가): 폐건전지,폐금속 및 생활 폐기물이 뒤섞인 유해 폐기물의 국가 간 이동을 규제하는 국제 협약으로서 최근 유해 물질을 함유한 플라스틱도 수출입 통제 대상 폐기물에 포함하는 개정안을 추가하였다.",
+    "text": "1.배경: 지속 가능한 발전과 환경오염 문제 해결을 위해 등장 2.(가): 폐건전지,폐금속 및 생활 폐기물이 뒤섞인 유해 폐기물의 국가 간 이동을 규제하는 국제 협약으로서 최근 유해 물질을 함유한 플라스틱도 수출입 통제 대상 폐기물에 포함하는 개정안을 추가하였다.",
     "bbox": [
       114,
       574,
@@ -2451,26 +2140,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\bigcirc \\bigcirc",
-    "bbox": [
-      137,
-      698,
-      160,
-      712
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": " ○○산업의 제품 구매 계획을 통해 알 수 있는 내용으로 적절한 것만을 <보기",
     "bbox": [
@@ -2488,26 +2157,6 @@
       "start_orig": 4044,
       "end_orig": 4087,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      197,
-      717,
-      207,
-      728
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2552,7 +2201,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ.평가 기준: 항목별 평가 점수의 총합이 가장 높은 회사의 제품을 최종 선정함.",
+    "text": "2.평가 기준: 항목별 평가 점수의 총합이 가장 높은 회사의 제품을 최종 선정함.",
     "bbox": [
       118,
       807,
@@ -2589,21 +2238,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      105,
-      834,
-      395,
-      904
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td colspan=\"2\"></td><td rowspan=\"2\">제품</td><td colspan=\"3\">평가 점수</td></tr><tr><td>항목(만점:30)</td><td></td><td>A사 제품</td><td>B사 제품</td><td>C사 제품</td></tr><tr><td>안전성</td><td>낮음(0) +</td><td>높음(10)</td><td>7</td><td>9</td><td>8</td></tr><tr><td>기능성</td><td>낮음(0)</td><td>높음(10)</td><td>6</td><td>9</td><td>7</td></tr><tr><td>구입 단가</td><td>고가(0)</td><td>H저가(10)</td><td>6</td><td>4</td><td>6</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "3ab9d2a9b521f988a5077a5ff18e0b61d4af856a6c346dd676d39fa51d4e45a0.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2743,26 +2377,6 @@
       "start_orig": 4324,
       "end_orig": 4355,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 7 } )",
-    "bbox": [
-      697,
-      158,
-      716,
-      172
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2924,36 +2538,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      472,
-      566,
-      729,
-      596
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>1단계</td><td rowspan=1 colspan=1>2단계</td><td rowspan=1 colspan=1>3단계</td><td rowspan=1 colspan=1>4단계</td><td rowspan=1 colspan=1>5단계</td></tr><tr><td rowspan=1 colspan=1>자기 이해</td><td rowspan=1 colspan=1>정보수집</td><td rowspan=1 colspan=1>조언 받기</td><td rowspan=1 colspan=1>취업준비</td><td rowspan=1 colspan=1>직업선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "db518c88e4b5d82f57e3098735c84048b362a359c03e6ed7577babb2e8b08ac0.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      471,
-      606,
-      729,
-      635
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>적성,흥미,성격검사활동</td><td rowspan=1 colspan=1>직업의 특성,직업에대한정보수집·분석</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>서류작성법과면접법 준비</td><td rowspan=1 colspan=1>자아실현을위한직업 선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "6a7eb6ec6ef25a9fc77e33733e680c5b29afa5d8fd9dca8338a7f27606a9f271.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -3276,26 +2860,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "[ 1 6 \\sim 1 7 ]",
-    "bbox": [
-      86,
-      156,
-      134,
-      172
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "다음은재해 사례 개선 활동 보고서이다.물음에 답하시오.",
     "bbox": [
@@ -3456,21 +3020,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      116,
-      349,
-      389,
-      389
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>1단계</td><td rowspan=1 colspan=1>2단계</td><td rowspan=1 colspan=1>3단계</td><td rowspan=1 colspan=1>4단계</td><td rowspan=1 colspan=1>5단계</td></tr><tr><td rowspan=1 colspan=1>안전 관리조직</td><td rowspan=1 colspan=1>사실의 발견</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>시정책의선정</td><td rowspan=1 colspan=1>시정책의적용</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "81df92d7bc99665f48d9be687823dac5f9c05d8dfb4e0ea8b2d31f91c04fa434.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "재발 방지 대책",
     "bbox": [
@@ -3568,26 +3117,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      187,
-      498,
-      196,
-      510
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3951,26 +3480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( \\mathtt { r } ] ) \\mathtt { d } \\rVert",
-    "bbox": [
-      695,
-      158,
-      753,
-      172
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한 설명으로옳은 것만을<보>",
     "bbox": [
@@ -3988,26 +3497,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      608,
-      177,
-      618,
-      189
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4031,20 +3520,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      731,
-      202,
-      747,
-      216
-    ],
-    "page_idx": 3,
-    "image_path": "1d1b7fe5764270c0266d96718b3b50d8325ef32db1ea2f24ced89af2a04b2211.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "환경오염 조사 보고서",
     "bbox": [
@@ -4063,21 +3538,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      456,
-      233,
-      742,
-      333
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>사례</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>도금 업체의 환기 장치를 점검한 결과, 배기구에서 황산화물(SOx),질소산화물(NOx)이 측정되었다.</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>축산 농장의 하수도를 조사한 결과,방류수에서 배출허용기준을 초과하는 질소(N)와 인(P)을 함유한 유기물이 검출되었다.</td></tr><tr><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>오래된 폐공장을 조사한 결과,폐수 처리 탱크의 노후한 배출 밸브에서카드뮴(Cd)이 포함된 오염수가 유출된 것으로 밝혀졌다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "d565001e24fa18a63047f05622abdbe158993d98286b3f88d7a171284452d5e5.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -4180,26 +3640,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( \\mathtt { r } ] ) \\mathtt { d } \\rVert",
-    "bbox": [
-      473,
-      447,
-      532,
-      460
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "나타난 오염원은 배출 지점에 따라 분류하면 비점 오염원에 해당한다.",
     "bbox": [
@@ -4221,7 +3661,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ, ㄴ ② ㄴ, ㄹ ③ ④ ㄱ, ㄴ, ㄷ ⑤ ㄱ, ㄷㄹ",
+    "text": "① 7,L ② ㄴ,ㄹ ③ ④ ㄱ,ㄴ,ㄷ ⑤ ㄱ,ㄷㄹ",
     "bbox": [
       446,
       493,
@@ -4280,26 +3720,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      590,
-      584,
-      600,
-      596
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -4318,21 +3738,6 @@
       "end_orig": 6174,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      449,
-      608,
-      744,
-      750
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>단계</td><td rowspan=1 colspan=1>개발절차</td><td rowspan=1 colspan=1>활동</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>다양한발상법을 통해 아이디어창출 후최적의 아이디어 선정</td><td rowspan=1 colspan=1>(가)</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>선정한 아이디어로 개념화한 제품에 대한소비자 반응 조사를 통한 적합성 검증</td><td rowspan=1 colspan=1>(4)</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>제품의 구체화 및 예비 설계</td><td rowspan=1 colspan=1>CAD 프로그램으로 화장품 용기의모양,색채,크기 등을 모델링한다.</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>실제와 비슷한 제품 제작 및 성능 검증</td><td rowspan=1 colspan=1>(다)</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>최종 설계</td><td rowspan=1 colspan=1>(라)</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "717befc0e94769443900493716cdaee8b9e26d93087084067d4dba4805f40eb7.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -4436,7 +3841,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ,  ㄴ ② ㄴ,  ㄹ ③ ㄷ,  ㄹ\n④ ㄱ,  ㄴ,  ㄷ ⑤ ㄱ,  ㄷ,  ㄹ",
+    "text": "①ㄱ, ㄴ ② Lㄹ ③ㄷ, ㄹ ④ ㄱ, ㄴ, ㄷ ⑤ ㄱ, ㄷ, ㄹ",
     "bbox": [
       445,
       934,
@@ -4446,12 +3851,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9787,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6380,
-      "end_orig": 6427,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -4493,5 +3898,600 @@
       "end_orig": 6477,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제4교시",
+    "bbox": [
+      90,
+      152,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "직업탐구 영역(공업 일반)",
+    "bbox": [
+      228,
+      146,
+      610,
+      202
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      697,
+      237
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "6a381718a844f69378ece327541057a4b9385704a04714475fd478006f812553.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      281,
+      307,
+      400,
+      382
+    ],
+    "page_idx": 0,
+    "image_path": "1234e87a41b11b24e45051e48096e66f0ea0fc334450b3fef1f44b49286480b5.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      107,
+      738,
+      393,
+      857
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>기업명</td><td rowspan=1 colspan=1>A기업</td><td rowspan=1 colspan=1>B기업</td></tr><tr><td rowspan=1 colspan=1>혁신활동</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6시그마</td></tr><tr><td rowspan=1 colspan=1>생산품불량률</td><td rowspan=1 colspan=1>생산품 100개당 1~2개의 불량품이발생함</td><td rowspan=1 colspan=1>생산품100만 개당3~4개의 불량품이발생함</td></tr><tr><td rowspan=1 colspan=1>자재관리및생산</td><td rowspan=1 colspan=1>부품재고초과로재고관리 비용증가</td><td rowspan=1 colspan=1>재고 비용 절감을 위해 필요한부품을 필요한 때에 필요한 만큼생산 라인에 공급하여 생산함</td></tr><tr><td rowspan=1 colspan=1>매출및이익 현황</td><td rowspan=1 colspan=1>생산품의 매출이 정점에 이른 후이익이 정체되고 있음</td><td rowspan=1 colspan=1>생산품의 매출 급증과 동시에 이익이급상승하고 있음.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "681f3e3c6bc898087fad407a9b4b89fc584470c3182202050c18681b0241aea1.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      299,
+      753,
+      500
+    ],
+    "page_idx": 0,
+    "image_path": "4864537f70963621090cf166ea5eda3d18d1aa9d3352f5c36c70c62855e88950.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      592,
+      690,
+      603,
+      702
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      268,
+      177,
+      277,
+      188
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      98,
+      201,
+      403,
+      285
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>공업</td><td rowspan=1 colspan=1>자재 및 부품</td><td rowspan=1 colspan=1>생산품</td><td rowspan=1 colspan=1>미래 전망</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>골재,시멘트,철근</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>·교량의 건설을 위해 로봇과 드론을접목한 새로운 유형의 기술 발전 요구</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>엔진,변속기,바퀴</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>·운전자의 안전을 위해 자율 주행 기술고도화 필요</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "9f707400009d50bc479f41437320e6ebc57fbe86cc7898291f9c1dd29b01939b.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { { 7 } h } )",
+    "bbox": [
+      113,
+      698,
+      131,
+      711
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 1 > 0 1 1",
+    "bbox": [
+      205,
+      754,
+      252,
+      768
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      108,
+      830,
+      392,
+      902
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>항목</td><td rowspan=1 colspan=1>분석 내용</td></tr><tr><td rowspan=1 colspan=1>보유기술</td><td rowspan=1 colspan=1>&#x27;로봇 청소기용 원격제어장치&#x27;에 관한 특허권 보유</td></tr><tr><td rowspan=1 colspan=1>설비의 특성</td><td rowspan=1 colspan=1>다목적 범용 설비</td></tr><tr><td rowspan=1 colspan=1>수요 분석</td><td rowspan=1 colspan=1>·구형 유선 청소기는 수요가 급감함.·신제품으로 출시한 무선 로봇 청소기는 수요가 급증함.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "0e68f5cacc58275dca89fad910af4176d8241458ab5cbd97d18f9493d2a83877.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      229,
+      937,
+      272,
+      950
+    ],
+    "page_idx": 1,
+    "image_path": "441bb64b8b50b3466fbafa8e566b1fe9c2524eac31077e10dedade26bc06743c.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      457,
+      249,
+      740,
+      337
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>일자항목</td><td rowspan=1 colspan=1>3/6</td><td rowspan=1 colspan=1>3/7</td><td rowspan=1 colspan=1>3/8</td><td rowspan=1 colspan=1>3/9</td><td rowspan=1 colspan=1>3/10</td><td rowspan=1 colspan=1>합계</td></tr><tr><td rowspan=1 colspan=1>얼룩</td><td rowspan=1 colspan=1>/l/</td><td rowspan=1 colspan=1>/l/</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1>/l/</td><td rowspan=1 colspan=1>12</td></tr><tr><td rowspan=1 colspan=1>이물질</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/l/</td><td rowspan=1 colspan=1>/l/</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>16</td></tr><tr><td rowspan=1 colspan=1>리스팅*</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1>///</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>///</td><td rowspan=1 colspan=1>10</td></tr><tr><td rowspan=1 colspan=1>원단 손상</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>14</td></tr><tr><td rowspan=1 colspan=1>기타</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>//</td><td rowspan=1 colspan=1>8</td></tr></table>",
+    "table_caption": [
+      "불량건수"
+    ],
+    "table_footnote": [
+      "*리스팅(Listing):염색 후좌우의 색상 차이가 나는현상"
+    ],
+    "image_path": "b9d98dd3cc718e873d55f23d3ba53e15b7c36a9391de97ee490a09816b8a9a61.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      456,
+      374,
+      740,
+      438
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=2>원인 분석</td><td rowspan=1 colspan=1>작업장 주변에 불필요한 물품 방치,장비 주변에 먼지와 이물질잔존,작업 절차 미준수</td></tr><tr><td rowspan=2 colspan=1>개선활동</td><td rowspan=1 colspan=1>1단계</td><td rowspan=1 colspan=1>작업 과정과 작업장 환경에 대한 5S 교육 시행</td></tr><tr><td rowspan=1 colspan=1>2단계</td><td rowspan=1 colspan=1>직장 내에서 자발적으로 품질 개선 활동을 수행하는 소모임 구성</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "75bcd99cb102d893b3e6c358839f680cf30c98ceec71c5911e52802016cc2434.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "60 \\%",
+    "bbox": [
+      560,
+      556,
+      583,
+      569
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      458,
+      769,
+      738,
+      835
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>담당 부서</td><td rowspan=1 colspan=1>교육 내용</td></tr><tr><td rowspan=1 colspan=1>개발부</td><td rowspan=1 colspan=1>·제품 개발 및 NEP 인증 절차 설명</td></tr><tr><td rowspan=1 colspan=1>복지부</td><td rowspan=1 colspan=1>·기숙사 및 통근 버스 이용 방법 안내</td></tr><tr><td rowspan=1 colspan=1>총무부</td><td rowspan=1 colspan=1>·초과 근무 수당 안내</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a424b5d0f031293968ef599eabf5c3816f223934d4d0110ab64ecc07aeb67860.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      254,
+      208,
+      277,
+      222
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\bigcirc \\bigcirc",
+    "bbox": [
+      137,
+      698,
+      160,
+      712
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      197,
+      717,
+      207,
+      728
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      105,
+      834,
+      395,
+      904
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td colspan=\"2\"></td><td rowspan=\"2\">제품</td><td colspan=\"3\">평가 점수</td></tr><tr><td>항목(만점:30)</td><td></td><td>A사 제품</td><td>B사 제품</td><td>C사 제품</td></tr><tr><td>안전성</td><td>낮음(0) +</td><td>높음(10)</td><td>7</td><td>9</td><td>8</td></tr><tr><td>기능성</td><td>낮음(0)</td><td>높음(10)</td><td>6</td><td>9</td><td>7</td></tr><tr><td>구입 단가</td><td>고가(0)</td><td>H저가(10)</td><td>6</td><td>4</td><td>6</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "3ab9d2a9b521f988a5077a5ff18e0b61d4af856a6c346dd676d39fa51d4e45a0.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 7 } )",
+    "bbox": [
+      697,
+      158,
+      716,
+      172
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      472,
+      566,
+      729,
+      596
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>1단계</td><td rowspan=1 colspan=1>2단계</td><td rowspan=1 colspan=1>3단계</td><td rowspan=1 colspan=1>4단계</td><td rowspan=1 colspan=1>5단계</td></tr><tr><td rowspan=1 colspan=1>자기 이해</td><td rowspan=1 colspan=1>정보수집</td><td rowspan=1 colspan=1>조언 받기</td><td rowspan=1 colspan=1>취업준비</td><td rowspan=1 colspan=1>직업선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "db518c88e4b5d82f57e3098735c84048b362a359c03e6ed7577babb2e8b08ac0.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      471,
+      606,
+      729,
+      635
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>적성,흥미,성격검사활동</td><td rowspan=1 colspan=1>직업의 특성,직업에대한정보수집·분석</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>서류작성법과면접법 준비</td><td rowspan=1 colspan=1>자아실현을위한직업 선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "6a7eb6ec6ef25a9fc77e33733e680c5b29afa5d8fd9dca8338a7f27606a9f271.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 1 6 \\sim 1 7 ]",
+    "bbox": [
+      86,
+      156,
+      134,
+      172
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      116,
+      349,
+      389,
+      389
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>1단계</td><td rowspan=1 colspan=1>2단계</td><td rowspan=1 colspan=1>3단계</td><td rowspan=1 colspan=1>4단계</td><td rowspan=1 colspan=1>5단계</td></tr><tr><td rowspan=1 colspan=1>안전 관리조직</td><td rowspan=1 colspan=1>사실의 발견</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>시정책의선정</td><td rowspan=1 colspan=1>시정책의적용</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "81df92d7bc99665f48d9be687823dac5f9c05d8dfb4e0ea8b2d31f91c04fa434.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      187,
+      498,
+      196,
+      510
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\mathtt { r } ] ) \\mathtt { d } \\rVert",
+    "bbox": [
+      695,
+      158,
+      753,
+      172
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      608,
+      177,
+      618,
+      189
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      731,
+      202,
+      747,
+      216
+    ],
+    "page_idx": 3,
+    "image_path": "1d1b7fe5764270c0266d96718b3b50d8325ef32db1ea2f24ced89af2a04b2211.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      456,
+      233,
+      742,
+      333
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구분</td><td rowspan=1 colspan=1>사례</td></tr><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>도금 업체의 환기 장치를 점검한 결과, 배기구에서 황산화물(SOx),질소산화물(NOx)이 측정되었다.</td></tr><tr><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>축산 농장의 하수도를 조사한 결과,방류수에서 배출허용기준을 초과하는 질소(N)와 인(P)을 함유한 유기물이 검출되었다.</td></tr><tr><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>오래된 폐공장을 조사한 결과,폐수 처리 탱크의 노후한 배출 밸브에서카드뮴(Cd)이 포함된 오염수가 유출된 것으로 밝혀졌다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "d565001e24fa18a63047f05622abdbe158993d98286b3f88d7a171284452d5e5.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\mathtt { r } ] ) \\mathtt { d } \\rVert",
+    "bbox": [
+      473,
+      447,
+      532,
+      460
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      590,
+      584,
+      600,
+      596
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      449,
+      608,
+      744,
+      750
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>단계</td><td rowspan=1 colspan=1>개발절차</td><td rowspan=1 colspan=1>활동</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>다양한발상법을 통해 아이디어창출 후최적의 아이디어 선정</td><td rowspan=1 colspan=1>(가)</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>선정한 아이디어로 개념화한 제품에 대한소비자 반응 조사를 통한 적합성 검증</td><td rowspan=1 colspan=1>(4)</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>제품의 구체화 및 예비 설계</td><td rowspan=1 colspan=1>CAD 프로그램으로 화장품 용기의모양,색채,크기 등을 모델링한다.</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>실제와 비슷한 제품 제작 및 성능 검증</td><td rowspan=1 colspan=1>(다)</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>최종 설계</td><td rowspan=1 colspan=1>(라)</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "717befc0e94769443900493716cdaee8b9e26d93087084067d4dba4805f40eb7.jpg",
+    "original_type": "table"
   }
 ]

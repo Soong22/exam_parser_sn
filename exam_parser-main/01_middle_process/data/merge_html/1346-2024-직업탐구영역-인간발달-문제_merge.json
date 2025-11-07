@@ -1,61 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      90,
-      153,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 54,
-      "end_orig": 60,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "직업탐구 영역(인간 발달)",
-    "bbox": [
-      228,
-      144,
-      609,
-      200
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      707,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "188e0df58b4653ccc4a2c566adcef98b3909f2e50a122d907d94ee895b7a7f4c.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 다음 출산 준비 교실 안내문에서 알 수 있는 분만 방법으로 가장 적절한 것은?",
     "bbox": [
       86,
@@ -92,26 +37,6 @@
       "start_orig": 3,
       "end_orig": 5,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { \\mathcal { P } }",
-    "bbox": [
-      387,
-      300,
-      398,
-      313
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -155,21 +80,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      108,
-      364,
-      392,
-      425
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>교육명</td><td>교육 내용</td></tr><tr><td>영상으로 배우는 분만방법</td><td>·동영상 시청을 통한 분만 과정 배우기 ·‘폭력 없는 탄생&#x27;이라불리며,출산 시 환경 변화로 인한 자극을 줄여주는 분만 방법</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "edcf9d17b79f074064f0a45b11386f421cc43bd4ad0b8e8e4b504a3be2544a46.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① 그네 분만 ② 수중 분만 ③ 라마즈 분만\n④ 르브아예 분만 ⑤ 소프롤로지 분만",
     "bbox": [
@@ -191,7 +101,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 대화에서 발달 전문가의 답변  (가)에 들어갈 내용으로 적절한 것만을 <보기",
+    "text": "2. 다음 대화에서 발달 전문가의 답변  (가)에 들어갈 내용으로 적절한 것만을 <보기",
     "bbox": [
       86,
       513,
@@ -202,31 +112,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9859,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 333,
+      "start_orig": 332,
       "end_orig": 380,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      198,
-      532,
-      207,
-      543
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -248,21 +138,6 @@
       "end_orig": 403,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      100,
-      559,
-      399,
-      649
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>엄</td><td>마: 우리아이가 이제 젖니가 나기 시작했고,배를 바닥에 대고 앞으로 기어갈 수 있게 되었습니다. 이 시기의 아이를 키우는 부모에게 해주실 조언이 있나요?</td></tr><tr><td>발달 전문가:</td><td>(가)</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "5443998358addf512e9a967d003ec7bcd9fdcd500c57fe2ecb2bf70a7211d5b1.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -306,7 +181,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ㄱ, ㄴ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "① 7 ② ㄷ ③ㄱ, ㄴ ④ L, ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       759,
@@ -343,21 +218,6 @@
       "end_orig": 717,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      101,
-      862,
-      402,
-      974
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>&gt;게시판</td></tr><tr><td>Q:저는 어제 처음으로 태동을 느꼈어요.제 뱃속에서 아기의 움직임이 느껴지니까 너무 신기하더라고요.출산이 기다려집니다.여러분은 지금쯤 어떠신가요?</td></tr><tr><td>A:저도 처음 태동을 느꼈을 때 너무 신기했어요.최근에는 임신선도 생기기 시작했어요.여러분 모두 건강관리 잘 하세요.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "b07923e9e4fa4cba8db2fad9e475b9160321da6ff5fe07dda1ac5b75c9ab0fd7.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -500,26 +360,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      582,
-      291,
-      592,
-      303
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -538,21 +378,6 @@
       "end_orig": 939,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      446,
-      315,
-      753,
-      429
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>(가)</td><td>이 시기의 아동은사회적 관계에 대한 기술을 습득하고, 학업에서의 성취를 얻는 것으로 근면성을 발달시킨다. 그러나 그 과정에서 실수나 실패를 지속적으로 경험하면 열등감을 갖게 된다.</td></tr><tr><td>(4)</td><td>이 시기의 아동은 양육자로부터 적절한 보살핌을 받아 긍정적인 관계를 맺을 경우 신뢰감을 갖게 된다. 그러나 그렇지 못한 경우 불신감을 형성한다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "818ee5d98b40e302d12b1e7906e1873d838a1c275eca1ce04649f5ad1c8dd0a6.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -695,26 +520,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { B } 7 \\mathsf { F }",
-    "bbox": [
-      646,
-      640,
-      667,
-      655
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "사용한 기억 전략에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?  [3점] ",
     "bbox": [
@@ -795,21 +600,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      455,
-      760,
-      746,
-      779
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=\"2\"></td><td></td></tr><tr><td>제시 단어포도,무궁화,연필,사과,장미,지우개</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "46d28ecfd286d32ffe45d356f82b115928bbebd246c2532e7ed8185b86037260.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "∙단계 2 : 일정 시간이 지난 후 아동 A,  B에게 각각 외운 단어를 말하도록 하고,  각자 어떠한 방식으로 외웠는지를 질문한다.\n",
     "bbox": [
@@ -848,21 +638,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      454,
-      856,
-      745,
-      922
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td>아동A</td><td>&quot;포도와 사과, 무궁화와 장미,연필과 지우개로각각 과일, 꽃, 학용품으로 분류하여 외웠다.&quot;라고 하였음.</td></tr><tr><td>아동B</td><td>&quot;포도,무궁화,연필,사과,장미,지우개 단어를되풀이 하며 외웠다.&quot;라고 하였음.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "d13b72f859a388aae6aa2bd3650e5b84046990ee981efbd0eb04546fc17df594.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -926,7 +701,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② ㄷ ③ 7,L ④ㄴ,ㄷ ⑤ ㄱ,ㄴ,ㄷ",
     "bbox": [
       444,
       1051,
@@ -936,32 +711,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 1844,
-      "end_orig": 1879,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 6 \\sim 7 ]",
-    "bbox": [
-      85,
-      156,
-      119,
-      172
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
+      "replaced": false,
       "similarity": null,
       "similarity_mode": "no_ws_hanless",
       "start_orig": null,
       "end_orig": null,
-      "reason": "non_text_block"
+      "reason": "not_found"
     }
   },
   {
@@ -1002,26 +757,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 }",
-    "bbox": [
-      162,
-      239,
-      175,
-      253
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1237,11 +972,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9672,
+      "similarity": 0.9836,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 2096,
       "end_orig": 2182,
-      "reason": "anchor_rescue+left_extend"
+      "reason": "anchor_rescue"
     }
   },
   {
@@ -1262,26 +997,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      644,
-      177,
-      654,
-      189
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1426,7 +1141,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄷ ③ ㄱ,  ㄴ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② ㄷ ③ 7,L ④L,ㄷ ⑤ 7,L,ㄷ",
     "bbox": [
       444,
       501,
@@ -1436,12 +1151,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2910,
-      "end_orig": 2945,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1505,26 +1220,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 4 }",
-    "bbox": [
-      123,
-      648,
-      137,
-      661
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에는  불안으로부터  벗어나  안전을  추구하려는  욕구가 나타나 있다.\nㄷ. ㉯는 ㉮에 나타난 욕구보다 위계적으로 상위에 있다.\n① ㄱ ",
     "bbox": [
@@ -1546,7 +1241,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② C ③ ㄱ, ㄴ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "① 7 ② C ③ 7,L ④ L, ⑤ ㄱ,L,ㄷ",
     "bbox": [
       96,
       708,
@@ -1585,26 +1280,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 7 ) \\sim ( \\sharp ) > \\models",
-    "bbox": [
-      247,
-      745,
-      306,
-      760
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "속한 여과망에 대한 설명으로 옳은 것은?  (단,  우드리(Udry,  R.)의 여과망 이론에 근거한다.)",
     "bbox": [
@@ -1623,21 +1298,6 @@
       "end_orig": 2416,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      102,
-      789,
-      401,
-      965
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>-  ×</td></tr><tr><td>제 목 | 저는 남자 친구와 결혼할 수 있을까요?</td></tr><tr><td>(가) 저희는 같은 동네에 사는 친구였어요. (나) 저는 그 사람의 자상한 모습이 마음에 들었고, 책임감있고 매사에 적극적인 성격에 호감을 갖게 되었습니다. (다) 그리고 살아온 가정환경과 직업이비슷해서 잘 만나고 있는 중이었습니다. (라) 하지만 고민이 생겼습니다. 저는 결혼하면 아이를 낳아 좋은 부모가 되고 싶은데,남자 친구는 저와 생각이 일치하지</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a2f42b74445b08604f25318c80647dbfeb07c135bdbffe5b0dc0fadec5c7fb02.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1758,21 +1418,6 @@
       "end_orig": 3022,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      452,
-      675,
-      748,
-      923
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=2>관찰일지</td></tr><tr><td rowspan=1 colspan=1>관찰일자</td><td rowspan=1 colspan=1>2023년 O월 O일</td></tr><tr><td rowspan=1 colspan=1>작성자</td><td rowspan=1 colspan=1>누리반교사</td></tr><tr><td rowspan=1 colspan=1>관찰 내용</td><td rowspan=1 colspan=1>혜민이는 주말에 있었던 일에대해서 친구들과 이야기를나누고 있었다.혜민이가 친구들에게&quot;엄마이가 있잖아.같이 놀러 갔는데 재미있었어.&quot;라고 말하였다.그리고“엄마? 엄.&quot;이라고 말하면서 다음과 같이 글자를끼적였다.</td></tr><tr><td rowspan=1 colspan=1>관찰 분석</td><td rowspan=1 colspan=1>혜민이의 의사소통 능력이 점차 발달하고 있으며,글자 쓰기에 대한 관심이 증가하고 있다</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "ba26ea0d1dbac39ad6ed2c6af7bbcb438dbe929a0912191a27da45af597f00a4.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1915,26 +1560,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      198,
-      177,
-      207,
-      188
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -2056,7 +1681,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄷ ③ ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       95,
       393,
@@ -2676,7 +2301,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄷ ③ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② ㄷ ③ㄱ, ㄴ ④ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       436,
@@ -2712,26 +2337,6 @@
       "start_orig": 4710,
       "end_orig": 4772,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      611,
-      573,
-      621,
-      584
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2875,21 +2480,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      454,
-      820,
-      745,
-      956
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td>아동A</td><td colspan=\"2\"></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>막대를 길이에 따라 순서대로 배열함</td><td></td><td>막대를 길이에따라 순서대로 배열하지 못함.</td><td></td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "2ad87db5b13f13b2fa153219654a092948662e130648738fd322feba40dbc713.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "ㄱ. 아동 A는 사물을 위계에 따라 분류가 가능하다.",
     "bbox": [
@@ -2951,7 +2541,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② C ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② C ③ 7,L ④ㄴ,ㄷ ⑤ ㄱ,ㄴ,ㄷ",
     "bbox": [
       443,
       1051,
@@ -3050,20 +2640,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      268,
-      185,
-      404,
-      327
-    ],
-    "page_idx": 3,
-    "image_path": "69e68b3c16e4d97a7d3de03b2547ed6e78533c72beb661382cf923c48852e516.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 가역적 사고 ② 개인적 우화 ③ 상상적 관중\n④ 탈중심적 사고 ⑤ 체계적․조합적 사고",
     "bbox": [
@@ -3101,26 +2677,6 @@
       "start_orig": 5374,
       "end_orig": 5427,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "< 1 1 > 0",
-    "bbox": [
-      230,
-      442,
-      275,
-      456
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3201,26 +2757,6 @@
       "start_orig": 5518,
       "end_orig": 5552,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "50 \\%",
-    "bbox": [
-      128,
-      524,
-      151,
-      538
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3904,26 +3440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      612,
-      597,
-      621,
-      608
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?",
     "bbox": [
@@ -3962,21 +3478,6 @@
       "end_orig": 6954,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      446,
-      636,
-      753,
-      793
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>오늘 검진 결과를 확인하러 갔더니, 의사가 말기 암이라고했다. 내가 살날이 한 달밖에 남지 않았다니. 혹시 오진으로결과가 잘못 나온 것은 아닐까?</td></tr><tr><td rowspan=1 colspan=1>(나)</td><td rowspan=1 colspan=1>다른 사람도 아니고 왜 하필 나일까? 세상이 원망스럽다.도대체 내가 무엇을 잘못했을까? 왜 나만 죽을병에 걸렸지?세상은 너무 불공평해.</td></tr><tr><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>죽음을 미룰 수만 있다면 무엇이든 할텐데. 오늘도 나는신에게 내가 하고 싶은 것을 한 가지라도 더 할 수 있는시간을 달라고 간절히 기도한다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "cf9e58dd85afe186cde21d86ec23a6a80e95c21143523d9ee261844aa6ff4a93.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -4137,5 +3638,504 @@
       "end_orig": 7462,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      90,
+      153,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 54,
+      "end_orig": 60,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "직업탐구 영역(인간 발달)",
+    "bbox": [
+      228,
+      144,
+      609,
+      200
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      707,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "188e0df58b4653ccc4a2c566adcef98b3909f2e50a122d907d94ee895b7a7f4c.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { \\mathcal { P } }",
+    "bbox": [
+      387,
+      300,
+      398,
+      313
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      108,
+      364,
+      392,
+      425
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>교육명</td><td>교육 내용</td></tr><tr><td>영상으로 배우는 분만방법</td><td>·동영상 시청을 통한 분만 과정 배우기 ·‘폭력 없는 탄생&#x27;이라불리며,출산 시 환경 변화로 인한 자극을 줄여주는 분만 방법</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "edcf9d17b79f074064f0a45b11386f421cc43bd4ad0b8e8e4b504a3be2544a46.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      198,
+      532,
+      207,
+      543
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      100,
+      559,
+      399,
+      649
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>엄</td><td>마: 우리아이가 이제 젖니가 나기 시작했고,배를 바닥에 대고 앞으로 기어갈 수 있게 되었습니다. 이 시기의 아이를 키우는 부모에게 해주실 조언이 있나요?</td></tr><tr><td>발달 전문가:</td><td>(가)</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "5443998358addf512e9a967d003ec7bcd9fdcd500c57fe2ecb2bf70a7211d5b1.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      101,
+      862,
+      402,
+      974
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>&gt;게시판</td></tr><tr><td>Q:저는 어제 처음으로 태동을 느꼈어요.제 뱃속에서 아기의 움직임이 느껴지니까 너무 신기하더라고요.출산이 기다려집니다.여러분은 지금쯤 어떠신가요?</td></tr><tr><td>A:저도 처음 태동을 느꼈을 때 너무 신기했어요.최근에는 임신선도 생기기 시작했어요.여러분 모두 건강관리 잘 하세요.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "b07923e9e4fa4cba8db2fad9e475b9160321da6ff5fe07dda1ac5b75c9ab0fd7.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      582,
+      291,
+      592,
+      303
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      446,
+      315,
+      753,
+      429
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>(가)</td><td>이 시기의 아동은사회적 관계에 대한 기술을 습득하고, 학업에서의 성취를 얻는 것으로 근면성을 발달시킨다. 그러나 그 과정에서 실수나 실패를 지속적으로 경험하면 열등감을 갖게 된다.</td></tr><tr><td>(4)</td><td>이 시기의 아동은 양육자로부터 적절한 보살핌을 받아 긍정적인 관계를 맺을 경우 신뢰감을 갖게 된다. 그러나 그렇지 못한 경우 불신감을 형성한다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "818ee5d98b40e302d12b1e7906e1873d838a1c275eca1ce04649f5ad1c8dd0a6.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B } 7 \\mathsf { F }",
+    "bbox": [
+      646,
+      640,
+      667,
+      655
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      455,
+      760,
+      746,
+      779
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td></td></tr><tr><td>제시 단어포도,무궁화,연필,사과,장미,지우개</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "46d28ecfd286d32ffe45d356f82b115928bbebd246c2532e7ed8185b86037260.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      856,
+      745,
+      922
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td>아동A</td><td>&quot;포도와 사과, 무궁화와 장미,연필과 지우개로각각 과일, 꽃, 학용품으로 분류하여 외웠다.&quot;라고 하였음.</td></tr><tr><td>아동B</td><td>&quot;포도,무궁화,연필,사과,장미,지우개 단어를되풀이 하며 외웠다.&quot;라고 하였음.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "d13b72f859a388aae6aa2bd3650e5b84046990ee981efbd0eb04546fc17df594.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 6 \\sim 7 ]",
+    "bbox": [
+      85,
+      156,
+      119,
+      172
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 }",
+    "bbox": [
+      162,
+      239,
+      175,
+      253
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      644,
+      177,
+      654,
+      189
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 4 }",
+    "bbox": [
+      123,
+      648,
+      137,
+      661
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 7 ) \\sim ( \\sharp ) > \\models",
+    "bbox": [
+      247,
+      745,
+      306,
+      760
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      102,
+      789,
+      401,
+      965
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>-  ×</td></tr><tr><td>제 목 | 저는 남자 친구와 결혼할 수 있을까요?</td></tr><tr><td>(가) 저희는 같은 동네에 사는 친구였어요. (나) 저는 그 사람의 자상한 모습이 마음에 들었고, 책임감있고 매사에 적극적인 성격에 호감을 갖게 되었습니다. (다) 그리고 살아온 가정환경과 직업이비슷해서 잘 만나고 있는 중이었습니다. (라) 하지만 고민이 생겼습니다. 저는 결혼하면 아이를 낳아 좋은 부모가 되고 싶은데,남자 친구는 저와 생각이 일치하지</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a2f42b74445b08604f25318c80647dbfeb07c135bdbffe5b0dc0fadec5c7fb02.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      452,
+      675,
+      748,
+      923
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=2>관찰일지</td></tr><tr><td rowspan=1 colspan=1>관찰일자</td><td rowspan=1 colspan=1>2023년 O월 O일</td></tr><tr><td rowspan=1 colspan=1>작성자</td><td rowspan=1 colspan=1>누리반교사</td></tr><tr><td rowspan=1 colspan=1>관찰 내용</td><td rowspan=1 colspan=1>혜민이는 주말에 있었던 일에대해서 친구들과 이야기를나누고 있었다.혜민이가 친구들에게&quot;엄마이가 있잖아.같이 놀러 갔는데 재미있었어.&quot;라고 말하였다.그리고“엄마? 엄.&quot;이라고 말하면서 다음과 같이 글자를끼적였다.</td></tr><tr><td rowspan=1 colspan=1>관찰 분석</td><td rowspan=1 colspan=1>혜민이의 의사소통 능력이 점차 발달하고 있으며,글자 쓰기에 대한 관심이 증가하고 있다</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "ba26ea0d1dbac39ad6ed2c6af7bbcb438dbe929a0912191a27da45af597f00a4.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      198,
+      177,
+      207,
+      188
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      611,
+      573,
+      621,
+      584
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      820,
+      745,
+      956
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td>아동A</td><td colspan=\"2\"></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>막대를 길이에 따라 순서대로 배열함</td><td></td><td>막대를 길이에따라 순서대로 배열하지 못함.</td><td></td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "2ad87db5b13f13b2fa153219654a092948662e130648738fd322feba40dbc713.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      268,
+      185,
+      404,
+      327
+    ],
+    "page_idx": 3,
+    "image_path": "69e68b3c16e4d97a7d3de03b2547ed6e78533c72beb661382cf923c48852e516.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 0",
+    "bbox": [
+      230,
+      442,
+      275,
+      456
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "50 \\%",
+    "bbox": [
+      128,
+      524,
+      151,
+      538
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      612,
+      597,
+      621,
+      608
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      446,
+      636,
+      753,
+      793
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>오늘 검진 결과를 확인하러 갔더니, 의사가 말기 암이라고했다. 내가 살날이 한 달밖에 남지 않았다니. 혹시 오진으로결과가 잘못 나온 것은 아닐까?</td></tr><tr><td rowspan=1 colspan=1>(나)</td><td rowspan=1 colspan=1>다른 사람도 아니고 왜 하필 나일까? 세상이 원망스럽다.도대체 내가 무엇을 잘못했을까? 왜 나만 죽을병에 걸렸지?세상은 너무 불공평해.</td></tr><tr><td rowspan=1 colspan=1>(다)</td><td rowspan=1 colspan=1>죽음을 미룰 수만 있다면 무엇이든 할텐데. 오늘도 나는신에게 내가 하고 싶은 것을 한 가지라도 더 할 수 있는시간을 달라고 간절히 기도한다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "cf9e58dd85afe186cde21d86ec23a6a80e95c21143523d9ee261844aa6ff4a93.jpg",
+    "original_type": "table"
   }
 ]

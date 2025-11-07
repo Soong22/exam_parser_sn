@@ -1,46 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제4교시",
-    "bbox": [
-      91,
-      153,
-      173,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "한국사 영역",
-    "bbox": [
-      312,
-      144,
-      528,
-      201
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. (가)  시대의 사회 모습으로 옳은 것은?",
     "bbox": [
       86,
@@ -77,26 +37,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 7 } )",
-    "bbox": [
-      294,
-      294,
-      313,
-      306
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -220,23 +160,8 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      128,
-      366,
-      374,
-      472
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>장소</td><td rowspan=1 colspan=1>프로그램</td><td rowspan=1 colspan=1>내용</td></tr><tr><td rowspan=1 colspan=1>전시관</td><td rowspan=1 colspan=1>학예사와함께하는유물관람</td><td rowspan=1 colspan=1>주먹도끼, 슴베찌르개 등의제작방법과용도해설</td></tr><tr><td rowspan=1 colspan=1>영상관</td><td rowspan=1 colspan=1>유적지VR체험</td><td rowspan=1 colspan=1>가상공간에서공주석장리 유적둘러보기</td></tr><tr><td rowspan=1 colspan=1>야외체험관</td><td rowspan=1 colspan=1>생활체험</td><td rowspan=1 colspan=1>마찰열을이용하여불피우기나못가지, 가죽등을 활용하여막집만들기</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "d44fc17ddbfb787ac31ecd99b35871b4602525edd089d675c62943b2c357fa0d.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
-    "text": "ㄹ.",
+    "text": "2.",
     "bbox": [
       84,
       693,
@@ -246,32 +171,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { ^ { 7 } H } )",
-    "bbox": [
-      105,
-      696,
-      124,
-      710
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 125,
+      "end_orig": 127,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -533,21 +438,6 @@
       "end_orig": 657,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      460,
-      547,
-      734,
-      705
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td colspan=\"3\">... 56 80%</td></tr><tr><td colspan=\"3\">OO고등학교 한국사 수업 교실 수행 과제: 고려 무신들이 100년에 걸쳐 권력을 장악했던 이 시기의 대표적인 인물과 활동을 조사해서 올려 주세요.</td></tr><tr><td>정중부 이의방과 함께 정변을 일으켜새로운왕을 옹립하였어요</td><td>최충헌 도방을더큰규모로 재건하고,교정도감 이라는 기구를 설치 하였어요</td><td>최우 정방을통해인사권을 장악하였고, 몽골의 침략에 대항하였어요.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "2dd20d6c269f3ca52e8798e94ac2fca4fa68d433a6262b7e1013f2cb722247fa.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1010,26 +900,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { ^ { 7 } H } )",
-    "bbox": [
-      105,
-      158,
-      124,
-      172
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "인물의 활동으로 옳은 것은?  [3점]\n",
     "bbox": [
@@ -1048,20 +918,6 @@
       "end_orig": 880,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      98,
-      185,
-      396,
-      356
-    ],
-    "page_idx": 1,
-    "image_path": "9a22d89b6590480c6a0d42059379ea2e057fb910b6a06b52dd3924a9eb98d956.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1145,7 +1001,7 @@
   },
   {
     "type": "text",
-    "text": ". 밑줄 친 ‘변란’의 영향으로 가장 적절한 것은?\n",
+    "text": "7. 밑줄 친 ‘변란’의 영향으로 가장 적절한 것은?",
     "bbox": [
       86,
       484,
@@ -1156,10 +1012,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.8837,
+      "similarity": 0.9091,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 956,
-      "end_orig": 985,
+      "start_orig": 955,
+      "end_orig": 984,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -1384,26 +1240,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 4 ) } }",
-    "bbox": [
-      289,
-      872,
-      308,
-      886
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "을/를  체결해서 외교를 주관하게 되었다.  이에 조선의 우국지사가 시국이 날로",
     "bbox": [
@@ -1564,21 +1400,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      452,
-      187,
-      743,
-      403
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>자료로보는한국사 조선학생 청년대중이여 궐기하라!</td></tr><tr><td>제국주의적 침략에 저항하는의지를 가지고 광주 학생을성원하자! …· (중략) … 그들은경찰을총동원하여광주조선학생동지들에게쇠고랑을걸고말았다. 그대들이여!궐기하라! 조선학생의이익과 약소민족의 승리를위한 항쟁에 공헌하라 … (중략) … 구속된 광주조선학생을 즉시 탈환하자 식민지 노예 교육에 반대하자</td></tr><tr><td>[해설]이 자료는 (가)이/가 전개되는 과정에서 서울에 유포된 격문으로, 일제에 맞서 궐기하자는 내용이 담겼다.이 운동은 한국인 학생과 일본인 학생 간의 충돌을 계기로 광주에서 시작 되었다. 일제는 진압에 나섰지만, 민족 차별 대우에 항거한 학생들의 시위는 전국 각지로 확산되었다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "7d10bc105679a3e4e89829700e07c590407888cb716720f69d2401dafd0fbf32.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① 3․1  운동에 영향을 주었다.\n",
     "bbox": [
@@ -1699,20 +1520,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      454,
-      661,
-      744,
-      860
-    ],
-    "page_idx": 1,
-    "image_path": "ba2ddd7c5e86eea98a9ac255002050ad240c1b8c3c7dfff72f4da715c8a820e5.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "자료는 경복궁에서 열린 ‘시정(始政)  5년 기념 조선 물산 공진회’ 홍보지의 삽화이다.  일제는 한국인을 무력으로 굴복시키고자",
     "bbox": [
@@ -1750,26 +1557,6 @@
       "start_orig": 1689,
       "end_orig": 1701,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\vdash ) } }",
-    "bbox": [
-      582,
-      906,
-      602,
-      920
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2133,26 +1920,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 7 } )",
-    "bbox": [
-      112,
-      485,
-      131,
-      499
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "신문에 대한 설명으로 옳은 것은?",
     "bbox": [
@@ -2190,26 +1957,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\times \\quad +",
-    "bbox": [
-      178,
-      518,
-      193,
-      526
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2393,26 +2140,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { 7 7 } )",
-    "bbox": [
-      112,
-      782,
-      132,
-      797
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "지역에서 있었던 사실로 옳은 것은?  [3점]\n",
     "bbox": [
@@ -2551,20 +2278,6 @@
       "end_orig": 2624,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      452,
-      201,
-      750,
-      346
-    ],
-    "page_idx": 2,
-    "image_path": "9f0626a581dc6e9046e1d6b1b6c14906cf974d587e07c304c5d1f71448ccae5a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2767,26 +2480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
-    "bbox": [
-      702,
-      801,
-      720,
-      815
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "의 대원 일부를 인도에 파견하였다.  연합국이 이 군대에 공작",
     "bbox": [
@@ -2864,26 +2557,6 @@
       "start_orig": 3123,
       "end_orig": 3160,
       "reason": "anchor_rescue"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
-    "bbox": [
-      480,
-      906,
-      499,
-      920
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3627,26 +3300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "6 \\cdot 1 5",
-    "bbox": [
-      111,
-      987,
-      142,
-      1000
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "남북 공동 선언이 발표되었다.",
     "bbox": [
@@ -3887,36 +3540,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      446,
-      395,
-      752,
-      416
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td></td><td>(가)</td><td>(4)</td><td>(다)</td><td>(라)</td><td>(마)</td><td></td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a9be031d3e677768abf944769355b2ccd37390f9dcf86fd7aa6a665204185c7a.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      447,
-      418,
-      750,
-      441
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td>조선건국</td><td>8·15</td><td>제헌국회</td><td>정전(휴전)</td><td>5·16</td><td>3선</td></tr><tr><td>동맹 조직</td><td>광복</td><td>출범</td><td>협정체결</td><td>군사정변</td><td>개헌</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "39cfd259675fb2f5f6f552e9354c7e5d07649b51d35f02e2bbe914568d279349.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① (가) ② (4) ③ (다) ④ (라) ⑤ (마)",
     "bbox": [
@@ -4095,5 +3718,382 @@
       "end_orig": 4497,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제4교시",
+    "bbox": [
+      91,
+      153,
+      173,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "한국사 영역",
+    "bbox": [
+      312,
+      144,
+      528,
+      201
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 7 } )",
+    "bbox": [
+      294,
+      294,
+      313,
+      306
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      128,
+      366,
+      374,
+      472
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>장소</td><td rowspan=1 colspan=1>프로그램</td><td rowspan=1 colspan=1>내용</td></tr><tr><td rowspan=1 colspan=1>전시관</td><td rowspan=1 colspan=1>학예사와함께하는유물관람</td><td rowspan=1 colspan=1>주먹도끼, 슴베찌르개 등의제작방법과용도해설</td></tr><tr><td rowspan=1 colspan=1>영상관</td><td rowspan=1 colspan=1>유적지VR체험</td><td rowspan=1 colspan=1>가상공간에서공주석장리 유적둘러보기</td></tr><tr><td rowspan=1 colspan=1>야외체험관</td><td rowspan=1 colspan=1>생활체험</td><td rowspan=1 colspan=1>마찰열을이용하여불피우기나못가지, 가죽등을 활용하여막집만들기</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "d44fc17ddbfb787ac31ecd99b35871b4602525edd089d675c62943b2c357fa0d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { ^ { 7 } H } )",
+    "bbox": [
+      105,
+      696,
+      124,
+      710
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      460,
+      547,
+      734,
+      705
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td colspan=\"3\">... 56 80%</td></tr><tr><td colspan=\"3\">OO고등학교 한국사 수업 교실 수행 과제: 고려 무신들이 100년에 걸쳐 권력을 장악했던 이 시기의 대표적인 인물과 활동을 조사해서 올려 주세요.</td></tr><tr><td>정중부 이의방과 함께 정변을 일으켜새로운왕을 옹립하였어요</td><td>최충헌 도방을더큰규모로 재건하고,교정도감 이라는 기구를 설치 하였어요</td><td>최우 정방을통해인사권을 장악하였고, 몽골의 침략에 대항하였어요.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "2dd20d6c269f3ca52e8798e94ac2fca4fa68d433a6262b7e1013f2cb722247fa.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { ^ { 7 } H } )",
+    "bbox": [
+      105,
+      158,
+      124,
+      172
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      98,
+      185,
+      396,
+      356
+    ],
+    "page_idx": 1,
+    "image_path": "9a22d89b6590480c6a0d42059379ea2e057fb910b6a06b52dd3924a9eb98d956.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 4 ) } }",
+    "bbox": [
+      289,
+      872,
+      308,
+      886
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      452,
+      187,
+      743,
+      403
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>자료로보는한국사 조선학생 청년대중이여 궐기하라!</td></tr><tr><td>제국주의적 침략에 저항하는의지를 가지고 광주 학생을성원하자! …· (중략) … 그들은경찰을총동원하여광주조선학생동지들에게쇠고랑을걸고말았다. 그대들이여!궐기하라! 조선학생의이익과 약소민족의 승리를위한 항쟁에 공헌하라 … (중략) … 구속된 광주조선학생을 즉시 탈환하자 식민지 노예 교육에 반대하자</td></tr><tr><td>[해설]이 자료는 (가)이/가 전개되는 과정에서 서울에 유포된 격문으로, 일제에 맞서 궐기하자는 내용이 담겼다.이 운동은 한국인 학생과 일본인 학생 간의 충돌을 계기로 광주에서 시작 되었다. 일제는 진압에 나섰지만, 민족 차별 대우에 항거한 학생들의 시위는 전국 각지로 확산되었다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "7d10bc105679a3e4e89829700e07c590407888cb716720f69d2401dafd0fbf32.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      454,
+      661,
+      744,
+      860
+    ],
+    "page_idx": 1,
+    "image_path": "ba2ddd7c5e86eea98a9ac255002050ad240c1b8c3c7dfff72f4da715c8a820e5.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\vdash ) } }",
+    "bbox": [
+      582,
+      906,
+      602,
+      920
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 7 } )",
+    "bbox": [
+      112,
+      485,
+      131,
+      499
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\times \\quad +",
+    "bbox": [
+      178,
+      518,
+      193,
+      526
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { 7 7 } )",
+    "bbox": [
+      112,
+      782,
+      132,
+      797
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      452,
+      201,
+      750,
+      346
+    ],
+    "page_idx": 2,
+    "image_path": "9f0626a581dc6e9046e1d6b1b6c14906cf974d587e07c304c5d1f71448ccae5a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
+    "bbox": [
+      702,
+      801,
+      720,
+      815
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 \\mathsf { H } ) } }",
+    "bbox": [
+      480,
+      906,
+      499,
+      920
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "6 \\cdot 1 5",
+    "bbox": [
+      111,
+      987,
+      142,
+      1000
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      446,
+      395,
+      752,
+      416
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td></td><td>(가)</td><td>(4)</td><td>(다)</td><td>(라)</td><td>(마)</td><td></td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a9be031d3e677768abf944769355b2ccd37390f9dcf86fd7aa6a665204185c7a.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      447,
+      418,
+      750,
+      441
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td>조선건국</td><td>8·15</td><td>제헌국회</td><td>정전(휴전)</td><td>5·16</td><td>3선</td></tr><tr><td>동맹 조직</td><td>광복</td><td>출범</td><td>협정체결</td><td>군사정변</td><td>개헌</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "39cfd259675fb2f5f6f552e9354c7e5d07649b51d35f02e2bbe914568d279349.jpg",
+    "original_type": "table"
   }
 ]

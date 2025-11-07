@@ -1,66 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제5교시",
-    "bbox": [
-      91,
-      154,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "제2외국어/한문 영역(베트남어 I)",
-    "bbox": [
-      189,
-      142,
-      707,
-      203
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "성명 수험번호",
-    "bbox": [
-      191,
-      211,
-      462,
-      239
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. 에 공통으로 들어갈 글자는?  [1점]\n",
     "bbox": [
       85,
@@ -80,22 +20,8 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      96,
-      277,
-      405,
-      378
-    ],
-    "page_idx": 0,
-    "image_path": "6d073c949558bd6967c8f61390e76e764acafeb16d3fd3b52640d20f9bdfc819.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "① ② ③ ④ ⑤",
+    "text": "①  ch ②  gh ③  kh ④  ph ⑤  th",
     "bbox": [
       97,
       383,
@@ -106,16 +32,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.5,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1853,
-      "end_orig": 1862,
-      "reason": "option_line_enumerator_match"
+      "start_orig": 32,
+      "end_orig": 61,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄹ.밑줄 친 부분과 발음이 같은 것은?[1점]",
+    "text": "2. 밑줄 친 부분과 발음이 같은 것은?  [1점] ",
     "bbox": [
       84,
       439,
@@ -125,12 +51,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 62,
+      "end_orig": 91,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -168,8 +94,8 @@
       "replaced": true,
       "similarity": 0.3704,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5536,
-      "end_orig": 5545,
+      "start_orig": 1853,
+      "end_orig": 1862,
       "reason": "option_line_enumerator_match"
     }
   },
@@ -192,20 +118,6 @@
       "end_orig": 200,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      96,
-      578,
-      309,
-      682
-    ],
-    "page_idx": 0,
-    "image_path": "99246301919b128a215a2d09033efafc631f9a8b8ec227f374a9d31256335e75.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -269,7 +181,7 @@
   },
   {
     "type": "text",
-    "text": "① di ② doi ③ ㄷhin ④ tng ⑤ trong",
+    "text": "① ② ③ ④ ⑤",
     "bbox": [
       97,
       794,
@@ -279,12 +191,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.3704,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 5536,
+      "end_orig": 5545,
+      "reason": "option_line_enumerator_match"
     }
   },
   {
@@ -308,22 +220,8 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      96,
-      873,
-      405,
-      1043
-    ],
-    "page_idx": 0,
-    "image_path": "6de9bd47f9c5e75864e1e77488c525aa35d5bf32faaddf56356a51fc900291a5.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "① ② r ③ ㄴui ④ sach ⑤ than",
+    "text": "① ② r ③ lui ④ sach ⑤ than",
     "bbox": [
       97,
       1049,
@@ -362,26 +260,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { C o n } \\colon \\mathrm { { \\vec { O } } }",
-    "bbox": [
-      454,
-      284,
-      497,
-      299
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "day có nhiéu vay dep qu!",
     "bbox": [
@@ -399,26 +277,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { M e } : \\dot { \\mathrm { U } } _ { : } ^ { \\bullet }",
-    "bbox": [
-      454,
-      302,
-      497,
-      317
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -463,7 +321,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄷi thü vay kia mc ② kia vay ci thür mc ③ mc kia thür vay ci ④ mc thür cái váy kia ⑤ thür kia cái vay mc",
+    "text": "① ci thü vay kia mc ② kia vay ci thür mc ③ mc kia thür vay ci ④ mc thür cái váy kia ⑤ thür kia cái vay mc",
     "bbox": [
       446,
       350,
@@ -483,7 +341,7 @@
   },
   {
     "type": "text",
-    "text": " 빈칸에 들어갈 말로 알맞은 것은?  [1점]",
+    "text": "7. 빈칸에 들어갈 말로 알맞은 것은?  [1점] ",
     "bbox": [
       435,
       476,
@@ -494,30 +352,16 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9474,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5549,
-      "end_orig": 5574,
+      "start_orig": 768,
+      "end_orig": 796,
       "reason": "passed_threshold_no_ws"
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      446,
-      500,
-      754,
-      682
-    ],
-    "page_idx": 0,
-    "image_path": "82ca2a63fa61ebbafb2fb1758d9ad680ee4fdb1fb0b6ee9f94bc3f7200411f24.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "① ㄴi ② ㄷhai ③ trái ④ ㄷh ⑤ quyén",
+    "text": "①  li ②  chai ③  trái ④  chiếc ⑤  quyển",
     "bbox": [
       445,
       685,
@@ -527,12 +371,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.8936,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 855,
+      "end_orig": 894,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -553,26 +397,6 @@
       "start_orig": 895,
       "end_orig": 905,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { b } ) \\mathsf { d } \\parallel",
-    "bbox": [
-      501,
-      747,
-      527,
-      761
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -613,26 +437,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { B } \\colon",
-    "bbox": [
-      453,
-      794,
-      471,
-      808
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -737,7 +541,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. Tat ca moi bai tap nao hom nay déu khá dé.",
+    "text": "c. Tat ca moi bai tap nao hom nay déu khá dé.",
     "bbox": [
       452,
       999,
@@ -777,7 +581,7 @@
   },
   {
     "type": "text",
-    "text": "① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "①  a,  b ②  a,  c ③  b,  c ④  b,  d ⑤  c,  d",
     "bbox": [
       445,
       1045,
@@ -787,17 +591,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 1298,
+      "end_orig": 1342,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "10. 빈칸에 들어갈 말로 알맞은 것은? [1점] ① ㄷ gi dau ② khöng sao ③ hy yen ¯ng ④ ㄷhao ban nhé ⑤ ㄷ binh thuong",
+    "text": "10. 빈칸에 들어갈 말로 알맞은 것은? [1점] ① c gi dau ② khöng sao ③ hy yen ¯ng ④ chao ban nhé ⑤ c binh thuong",
     "bbox": [
       87,
       156,
@@ -808,26 +612,12 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.6571,
+      "similarity": 0.6857,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 1343,
       "end_orig": 1455,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      96,
-      179,
-      405,
-      336
-    ],
-    "page_idx": 1,
-    "image_path": "f979541dab1b0567c18874d0fd1baf9d88ae69db9561330e73f6e0c23fc616ea.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -911,7 +701,7 @@
   },
   {
     "type": "text",
-    "text": "① ten la gi ② ㄴy vo chua ③ bao nhieu tuói ④ ㄴam viéc ó dau ⑤ ㄷ máy anh trai",
+    "text": "① ten la gi ② ly vo chua ③ bao nhieu tuói ④ lam viéc ó dau ⑤ c máy anh trai",
     "bbox": [
       97,
       501,
@@ -1210,26 +1000,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "< 1 2 7 7",
-    "bbox": [
-      630,
-      158,
-      668,
-      172
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 고른 것은?",
     "bbox": [
@@ -1284,8 +1054,8 @@
       "replaced": false,
       "similarity": 0.0541,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5812,
-      "end_orig": 5814,
+      "start_orig": 5571,
+      "end_orig": 5572,
       "reason": "low_similarity"
     }
   },
@@ -1331,7 +1101,7 @@
   },
   {
     "type": "text",
-    "text": "a. to qu b. khong vura ㄷ. dat tién qua d. khong thich mau ① a, b ② a, c ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a. to qu b. khong vura c. dat tién qua d. khong thich mau ① a, b ② a, c ③ b, c ④ b, d ⑤ c, d",
     "bbox": [
       445,
       288,
@@ -1342,11 +1112,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.1746,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 2648,
+      "end_orig": 2751,
+      "reason": "low_similarity"
     }
   },
   {
@@ -1591,7 +1361,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄴam ón ② ㄷó hiéu dau ③ hiéu hét röi ④ ㄷhàng biét gi ca ⑤ ㄷhura hiéu cau nay",
+    "text": "① lam ón ② có hiéu dau ③ hiéu hét röi ④ chàng biét gi ca ⑤ chura hiéu cau nay",
     "bbox": [
       445,
       728,
@@ -1611,7 +1381,7 @@
   },
   {
     "type": "text",
-    "text": "18.광고문에 언급된 것은?[1점] ① Noi khoi hanh ② Só nguoi dng ki ③ Thuc don bura sáng ④ ㄴoai phong khách san ⑤ Chuong trinh giam gi",
+    "text": "18.광고문에 언급된 것은?[1점] ① Noi khoi hanh ② Só nguoi dng ki ③ Thuc don bura sáng ④ Loai phong khách san ⑤ Chuong trinh giam gi",
     "bbox": [
       435,
       813,
@@ -1628,20 +1398,6 @@
       "end_orig": 3452,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      447,
-      837,
-      750,
-      1008
-    ],
-    "page_idx": 1,
-    "image_path": "dd545b0f94704e96160978d0cb7a34965e23f6891976eb4a84e4d46419f48a93.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1758,8 +1514,8 @@
       "replaced": false,
       "similarity": 0.1053,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5812,
-      "end_orig": 5814,
+      "start_orig": 5571,
+      "end_orig": 5572,
       "reason": "low_similarity"
     }
   },
@@ -1776,10 +1532,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.0769,
+      "similarity": 0.0741,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5823,
-      "end_orig": 5825,
+      "start_orig": 5543,
+      "end_orig": 5547,
       "reason": "low_similarity"
     }
   },
@@ -1864,26 +1620,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "< 1 1 > 1 > 0",
-    "bbox": [
-      281,
-      405,
-      325,
-      419
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "서 고른 것은?",
     "bbox": [
@@ -1902,20 +1638,6 @@
       "end_orig": 3953,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      96,
-      426,
-      405,
-      591
-    ],
-    "page_idx": 2,
-    "image_path": "16f9687f6b12e215a8d2339b9f55726820eb78aa5f7a7ec3873461e50e016f2f.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1939,7 +1661,7 @@
   },
   {
     "type": "text",
-    "text": "a. chura do lám b. khoi óm rói ㄷ. do dau nhiéu rói d. dang dau dau qua ① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "a. chura do lám b. khoi óm rói c. do dau nhiéu rói d. dang dau dau qua ① a, b ② a, d ③ b, c ④ b, d ⑤ c, d",
     "bbox": [
       97,
       615,
@@ -1950,11 +1672,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.1507,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 4099,
+      "end_orig": 4211,
+      "reason": "low_similarity"
     }
   },
   {
@@ -1975,26 +1697,6 @@
       "start_orig": 4124,
       "end_orig": 4145,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "< 1 1 > 1 > 0",
-    "bbox": [
-      272,
-      728,
-      317,
-      742
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2032,8 +1734,8 @@
       "replaced": false,
       "similarity": 0.0392,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7602,
-      "end_orig": 7605,
+      "start_orig": 5546,
+      "end_orig": 5549,
       "reason": "low_similarity"
     }
   },
@@ -2159,7 +1861,7 @@
   },
   {
     "type": "text",
-    "text": "a. mt bao lau b. muón di lüc máy gio ㄷ. sáng thür 6 thi hét vé röi",
+    "text": "a. mt bao lau b. muón di lüc máy gio c. sáng thür 6 thi hét vé röi",
     "bbox": [
       103,
       967,
@@ -2172,8 +1874,8 @@
       "replaced": false,
       "similarity": 0.0392,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7602,
-      "end_orig": 7604,
+      "start_orig": 5546,
+      "end_orig": 5548,
       "reason": "low_similarity"
     }
   },
@@ -2190,7 +1892,7 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.8667,
+      "similarity": 0.9,
       "similarity_mode": "no_ws_hanless",
       "start_orig": 4547,
       "end_orig": 4611,
@@ -2216,20 +1918,6 @@
       "end_orig": 4650,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      180,
-      532,
-      267
-    ],
-    "page_idx": 2,
-    "image_path": "2b6fa71ff0224d947f34dc4795b50fd051f5a698c5c83b734ef2ef57b6225865.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2393,7 +2081,7 @@
   },
   {
     "type": "text",
-    "text": "① an com vói ai ② ㄷan my ci ti ③ ㄷó uóng gi khong a ④ thich di núi hay bién ⑤ thay món nay thé nao",
+    "text": "① an com vói ai ② can my ci ti ③ có uóng gi khong a ④ thich di núi hay bién ⑤ thay món nay thé nao",
     "bbox": [
       446,
       501,
@@ -2473,7 +2161,7 @@
   },
   {
     "type": "text",
-    "text": "① di duroc chur ② ㄷ hen khác ri ③ phai chun bi thi ④ dinh di thm co Lam ⑤ ㄷan di du tiec sinh nhat ba",
+    "text": "① di duroc chur ② c hen khác ri ③ phai chun bi thi ④ dinh di thm co Lam ⑤ can di du tiec sinh nhat ba",
     "bbox": [
       446,
       680,
@@ -2510,20 +2198,6 @@
       "end_orig": 5446,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      787,
-      754,
-      1066
-    ],
-    "page_idx": 2,
-    "image_path": "46dbab4bbedc84add607a358b4ad1113340d5a29dca3ea932f92a7c087781d70.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2683,26 +2357,6 @@
       "start_orig": 7336,
       "end_orig": 7342,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      642,
-      298,
-      650,
-      307
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2946,26 +2600,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      338,
-      641,
-      347,
-      651
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "long : 마음",
     "bbox": [
@@ -3047,7 +2681,7 @@
   },
   {
     "type": "text",
-    "text": "ㄷ. Vao ngay nay, các thay co khong dén truong.",
+    "text": "c. Vao ngay nay, các thay co khong dén truong.",
     "bbox": [
       104,
       720,
@@ -3087,7 +2721,7 @@
   },
   {
     "type": "text",
-    "text": "① a, b ② a, d ③ b, c ④ b, d ⑤ ㄷ, d",
+    "text": "① a, b ② a, d ③ b, c ④ b, d ⑤ c, d",
     "bbox": [
       97,
       785,
@@ -3124,20 +2758,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      101,
-      875,
-      216,
-      965
-    ],
-    "page_idx": 3,
-    "image_path": "fac744632c67235f042371b0faaec52522bd41837546b6c47d6a08d7f8967ec6.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3218,20 +2838,6 @@
       "end_orig": 7522,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      508,
-      753,
-      685
-    ],
-    "page_idx": 3,
-    "image_path": "667528d8c051f90eb70d14f510e5c1a7bbc4478e3daea69f74f8e61f2fab857b.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -3315,7 +2921,7 @@
   },
   {
     "type": "text",
-    "text": "③ ㄴy Nhan Tong da cho lap Quóc Tür Giám vao nm 1076.",
+    "text": "③ Ly Nhan Tong da cho lap Quóc Tür Giám vao nm 1076.",
     "bbox": [
       446,
       879,
@@ -3392,5 +2998,399 @@
       "end_orig": 8201,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제5교시",
+    "bbox": [
+      91,
+      154,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제2외국어/한문 영역(베트남어 I)",
+    "bbox": [
+      189,
+      142,
+      707,
+      203
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "성명 수험번호",
+    "bbox": [
+      191,
+      211,
+      462,
+      239
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      277,
+      405,
+      378
+    ],
+    "page_idx": 0,
+    "image_path": "6d073c949558bd6967c8f61390e76e764acafeb16d3fd3b52640d20f9bdfc819.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      578,
+      309,
+      682
+    ],
+    "page_idx": 0,
+    "image_path": "99246301919b128a215a2d09033efafc631f9a8b8ec227f374a9d31256335e75.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      873,
+      405,
+      1043
+    ],
+    "page_idx": 0,
+    "image_path": "6de9bd47f9c5e75864e1e77488c525aa35d5bf32faaddf56356a51fc900291a5.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { C o n } \\colon \\mathrm { { \\vec { O } } }",
+    "bbox": [
+      454,
+      284,
+      497,
+      299
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { M e } : \\dot { \\mathrm { U } } _ { : } ^ { \\bullet }",
+    "bbox": [
+      454,
+      302,
+      497,
+      317
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      500,
+      754,
+      682
+    ],
+    "page_idx": 0,
+    "image_path": "82ca2a63fa61ebbafb2fb1758d9ad680ee4fdb1fb0b6ee9f94bc3f7200411f24.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { b } ) \\mathsf { d } \\parallel",
+    "bbox": [
+      501,
+      747,
+      527,
+      761
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { B } \\colon",
+    "bbox": [
+      453,
+      794,
+      471,
+      808
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      179,
+      405,
+      336
+    ],
+    "page_idx": 1,
+    "image_path": "f979541dab1b0567c18874d0fd1baf9d88ae69db9561330e73f6e0c23fc616ea.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 2 7 7",
+    "bbox": [
+      630,
+      158,
+      668,
+      172
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      837,
+      750,
+      1008
+    ],
+    "page_idx": 1,
+    "image_path": "dd545b0f94704e96160978d0cb7a34965e23f6891976eb4a84e4d46419f48a93.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 1 > 0",
+    "bbox": [
+      281,
+      405,
+      325,
+      419
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      426,
+      405,
+      591
+    ],
+    "page_idx": 2,
+    "image_path": "16f9687f6b12e215a8d2339b9f55726820eb78aa5f7a7ec3873461e50e016f2f.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 1 > 0",
+    "bbox": [
+      272,
+      728,
+      317,
+      742
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      180,
+      532,
+      267
+    ],
+    "page_idx": 2,
+    "image_path": "2b6fa71ff0224d947f34dc4795b50fd051f5a698c5c83b734ef2ef57b6225865.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      787,
+      754,
+      1066
+    ],
+    "page_idx": 2,
+    "image_path": "46dbab4bbedc84add607a358b4ad1113340d5a29dca3ea932f92a7c087781d70.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      642,
+      298,
+      650,
+      307
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      338,
+      641,
+      347,
+      651
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      101,
+      875,
+      216,
+      965
+    ],
+    "page_idx": 3,
+    "image_path": "fac744632c67235f042371b0faaec52522bd41837546b6c47d6a08d7f8967ec6.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      508,
+      753,
+      685
+    ],
+    "page_idx": 3,
+    "image_path": "667528d8c051f90eb70d14f510e5c1a7bbc4478e3daea69f74f8e61f2fab857b.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

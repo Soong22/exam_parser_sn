@@ -1,60 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제5교시",
-    "bbox": [
-      91,
-      153,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "제2외국어/한문 영역(한문I)",
-    "bbox": [
-      216,
-      146,
-      677,
-      201
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      189,
-      209,
-      654,
-      239
-    ],
-    "page_idx": 0,
-    "image_path": "49f7e61692940c397729b4268ba2493c37f388f0f38c3bd14bdb7add8a6a8647.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "text",
     "text": "1. 그림과 대화의 내용으로 보아 ㉠에 들어갈 것은?  [1점]\n교사: 조선 후기 화가 홍득구의 작품을 감상해 볼까요? ",
     "bbox": [
       86,
@@ -72,20 +18,6 @@
       "end_orig": 70,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      96,
-      280,
-      405,
-      687
-    ],
-    "page_idx": 0,
-    "image_path": "4075f3f8eea27c1734d492a0df1e6a0cdcfce374514fd614253c7eece622f8a3.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -169,7 +101,7 @@
   },
   {
     "type": "text",
-    "text": " 상반되는 뜻을 지닌 한자끼리 연결한 것만을 <보기",
+    "text": "2. 상반되는 뜻을 지닌 한자끼리 연결한 것만을 <보기",
     "bbox": [
       85,
       924,
@@ -180,31 +112,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9545,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 288,
+      "start_orig": 286,
       "end_orig": 316,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      349,
-      927,
-      358,
-      938
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -348,26 +260,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } \\textcircled { \\circ } \\textcircled { 1 }",
-    "bbox": [
-      599,
-      256,
-      622,
-      270
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "들어갈 것은?  [1점]",
     "bbox": [
@@ -386,20 +278,6 @@
       "end_orig": 466,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      279,
-      754,
-      420
-    ],
-    "page_idx": 0,
-    "image_path": "c3e0e43fe641b787438cd03da536c181a5015d600bda556c2181000a62eaa0b9.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -442,26 +320,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } { \\circ } | |",
-    "bbox": [
-      573,
-      483,
-      596,
-      497
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "들어갈 것은?  [1점]\n①  高峯 ②  土地 ③  高地 ④  平地 ⑤",
     "bbox": [
@@ -480,20 +338,6 @@
       "end_orig": 550,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      507,
-      751,
-      601
-    ],
-    "page_idx": 0,
-    "image_path": "edf6c3548bdbd5de5b39b921c1217b3559de1127bce319a935001ef90894fc6f.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -516,20 +360,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      445,
-      691,
-      754,
-      825
-    ],
-    "page_idx": 0,
-    "image_path": "0967ba697b0ebe8a14a076f6484e663f31001d777ce4faed86059afb0be94091.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "6.화살표방향으로 성어를 채울 때,",
     "bbox": [
@@ -547,26 +377,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } \\textcircled { \\circ } ]",
-    "bbox": [
-      616,
-      889,
-      640,
-      903
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -590,22 +400,8 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      443,
-      910,
-      750,
-      1068
-    ],
-    "page_idx": 0,
-    "image_path": "6b8cc2e974df18029a1aa8cadd3d82ad21ac60223dd3526ee5190e51a72384f7.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "ㄱ.",
+    "text": "7.",
     "bbox": [
       86,
       156,
@@ -615,32 +411,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3514,
-      "end_orig": 3516,
-      "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\div }",
-    "bbox": [
-      105,
-      158,
-      140,
-      172
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 717,
+      "end_orig": 719,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -664,22 +440,8 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      96,
-      181,
-      404,
-      352
-    ],
-    "page_idx": 1,
-    "image_path": "acdc568f6738d21d80cdd2537d91fea09cd01b1681eac66f8dda128eaaaff1f3.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "①⑦ ㄷ ② ㄱ,② ③ ㄴ, ㄷ ④ ⑦,①,② ⑤ ①,ㄷ,②",
+    "text": "①⑦ ㄷ ② 7,② ③ ㄴ,ㄷ ④ ⑦,①,② ⑤ ①,ㄷ,②",
     "bbox": [
       95,
       358,
@@ -716,20 +478,6 @@
       "end_orig": 850,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      462,
-      404,
-      591
-    ],
-    "page_idx": 1,
-    "image_path": "463ac350172642470ec1729447bf8d0faa0f2ba0f0faeead5639b2009dd51918.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -770,20 +518,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      97,
-      731,
-      403,
-      817
-    ],
-    "page_idx": 1,
-    "image_path": "d4f7fb9fd3245e9f4b3e00d44ebe2e12db4d9852b61484ab5cafc915737f5134.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -946,20 +680,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      446,
-      477,
-      754,
-      784
-    ],
-    "page_idx": 1,
-    "image_path": "86450fe421b02b2bc9801ec78a3a906c3c1afcd3352cb74cba85c3e895bd37e7.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "①  愚公移山 ②  指鹿爲馬 ③  刻舟求劍\n④  結草報恩 ⑤",
     "bbox": [
@@ -998,20 +718,6 @@
       "end_orig": 1869,
       "reason": "low_similarity"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      96,
-      911,
-      404,
-      1044
-    ],
-    "page_idx": 1,
-    "image_path": "011fc6df0af9e2cb6fc46f20cdabdbef10de641cafd297da1c038eb89c267f07.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1231,26 +937,6 @@
       "start_orig": 1513,
       "end_orig": 1527,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } \\textcircled { \\circ } \\textcircled { 1 }",
-    "bbox": [
-      212,
-      294,
-      235,
-      309
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1954,26 +1640,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "- \\sum \\limits _ { i = 1 } ^ { 2 } o _ { j } -",
-    "bbox": [
-      696,
-      513,
-      746,
-      528
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "0. 의미상 ㉠과 바꾸어 쓸 수 있는 것은?\n",
     "bbox": [
@@ -1995,7 +1661,7 @@
   },
   {
     "type": "text",
-    "text": "①  了 ②  又 ③  已 ④  于 ⑤",
+    "text": "① 7 ② X ③ ㄹ ④ F ⑤ T",
     "bbox": [
       445,
       568,
@@ -2005,12 +1671,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.6667,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2362,
-      "end_orig": 2383,
-      "reason": "option_line_enumerator_match"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2071,26 +1737,6 @@
       "start_orig": 2408,
       "end_orig": 2441,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 2 2 \\sim 2 3 ]",
-    "bbox": [
-      434,
-      753,
-      481,
-      769
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2234,26 +1880,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 }",
-    "bbox": [
-      570,
-      1013,
-      583,
-      1027
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에게 요구되는 태도로 옳은 것은?",
     "bbox": [
@@ -2291,26 +1917,6 @@
       "start_orig": 2659,
       "end_orig": 2693,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "[ 2 4 \\sim 2 5 ]",
-    "bbox": [
-      85,
-      158,
-      133,
-      173
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2454,26 +2060,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "[ 2 6 \\sim 2 7 ]",
-    "bbox": [
-      85,
-      529,
-      133,
-      545
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "다음 시를 읽고 물음에 답하시오.",
     "bbox": [
@@ -2591,26 +2177,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\textcircled { \\scriptsize { \\scriptsize { \\perp } } } } \\textcircled { \\scriptsize { \\circ } }",
-    "bbox": [
-      114,
-      748,
-      157,
-      762
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2734,26 +2300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "[ 2 8 \\sim 3 0 ]",
-    "bbox": [
-      434,
-      158,
-      482,
-      173
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "다음 글을 읽고 물음에 답하시오.",
     "bbox": [
@@ -2814,26 +2360,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      579,
-      268,
-      587,
-      278
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "(기): 좋아하다",
     "bbox": [
@@ -2851,26 +2377,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "^ *",
-    "bbox": [
-      678,
-      269,
-      686,
-      278
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3094,26 +2600,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 1 } \\frac { \\circ } { - }",
-    "bbox": [
-      461,
-      460,
-      485,
-      475
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "독음으로 옳은 것은?  [1점]",
     "bbox": [
@@ -3171,26 +2657,6 @@
       "start_orig": 3384,
       "end_orig": 3407,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      642,
-      566,
-      651,
-      578
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3295,7 +2761,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ\n④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "① 7 ② L ③ ㄱ, ㄷ ④ ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       445,
       689,
@@ -3305,12 +2771,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3511,
-      "end_orig": 3551,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -3351,6 +2817,540 @@
       "start_orig": 3561,
       "end_orig": 3601,
       "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제5교시",
+    "bbox": [
+      91,
+      153,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제2외국어/한문 영역(한문I)",
+    "bbox": [
+      216,
+      146,
+      677,
+      201
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      189,
+      209,
+      654,
+      239
+    ],
+    "page_idx": 0,
+    "image_path": "49f7e61692940c397729b4268ba2493c37f388f0f38c3bd14bdb7add8a6a8647.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      280,
+      405,
+      687
+    ],
+    "page_idx": 0,
+    "image_path": "4075f3f8eea27c1734d492a0df1e6a0cdcfce374514fd614253c7eece622f8a3.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      349,
+      927,
+      358,
+      938
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { \\circ } \\textcircled { 1 }",
+    "bbox": [
+      599,
+      256,
+      622,
+      270
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      279,
+      754,
+      420
+    ],
+    "page_idx": 0,
+    "image_path": "c3e0e43fe641b787438cd03da536c181a5015d600bda556c2181000a62eaa0b9.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } { \\circ } | |",
+    "bbox": [
+      573,
+      483,
+      596,
+      497
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      507,
+      751,
+      601
+    ],
+    "page_idx": 0,
+    "image_path": "edf6c3548bdbd5de5b39b921c1217b3559de1127bce319a935001ef90894fc6f.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      445,
+      691,
+      754,
+      825
+    ],
+    "page_idx": 0,
+    "image_path": "0967ba697b0ebe8a14a076f6484e663f31001d777ce4faed86059afb0be94091.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { \\circ } ]",
+    "bbox": [
+      616,
+      889,
+      640,
+      903
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      443,
+      910,
+      750,
+      1068
+    ],
+    "page_idx": 0,
+    "image_path": "6b8cc2e974df18029a1aa8cadd3d82ad21ac60223dd3526ee5190e51a72384f7.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\div }",
+    "bbox": [
+      105,
+      158,
+      140,
+      172
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      181,
+      404,
+      352
+    ],
+    "page_idx": 1,
+    "image_path": "acdc568f6738d21d80cdd2537d91fea09cd01b1681eac66f8dda128eaaaff1f3.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      462,
+      404,
+      591
+    ],
+    "page_idx": 1,
+    "image_path": "463ac350172642470ec1729447bf8d0faa0f2ba0f0faeead5639b2009dd51918.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      731,
+      403,
+      817
+    ],
+    "page_idx": 1,
+    "image_path": "d4f7fb9fd3245e9f4b3e00d44ebe2e12db4d9852b61484ab5cafc915737f5134.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      477,
+      754,
+      784
+    ],
+    "page_idx": 1,
+    "image_path": "86450fe421b02b2bc9801ec78a3a906c3c1afcd3352cb74cba85c3e895bd37e7.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      911,
+      404,
+      1044
+    ],
+    "page_idx": 1,
+    "image_path": "011fc6df0af9e2cb6fc46f20cdabdbef10de641cafd297da1c038eb89c267f07.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\textcircled { \\circ } \\textcircled { 1 }",
+    "bbox": [
+      212,
+      294,
+      235,
+      309
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "- \\sum \\limits _ { i = 1 } ^ { 2 } o _ { j } -",
+    "bbox": [
+      696,
+      513,
+      746,
+      528
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 2 2 \\sim 2 3 ]",
+    "bbox": [
+      434,
+      753,
+      481,
+      769
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 }",
+    "bbox": [
+      570,
+      1013,
+      583,
+      1027
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 2 4 \\sim 2 5 ]",
+    "bbox": [
+      85,
+      158,
+      133,
+      173
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 2 6 \\sim 2 7 ]",
+    "bbox": [
+      85,
+      529,
+      133,
+      545
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\textcircled { \\scriptsize { \\scriptsize { \\perp } } } } \\textcircled { \\scriptsize { \\circ } }",
+    "bbox": [
+      114,
+      748,
+      157,
+      762
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "[ 2 8 \\sim 3 0 ]",
+    "bbox": [
+      434,
+      158,
+      482,
+      173
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      579,
+      268,
+      587,
+      278
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      678,
+      269,
+      686,
+      278
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\frac { \\circ } { - }",
+    "bbox": [
+      461,
+      460,
+      485,
+      475
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      642,
+      566,
+      651,
+      578
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
     }
   }
 ]

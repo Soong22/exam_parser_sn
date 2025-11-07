@@ -1,81 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      91,
-      153,
-      174,
-      191
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 56,
-      "end_orig": 62,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "과학탐구 영역(생명과학II)",
-    "bbox": [
-      226,
-      145,
-      617,
-      199
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "text",
-    "text": "성명",
-    "bbox": [
-      138,
-      212,
-      173,
-      237
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 63,
-      "end_orig": 65,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      338,
-      209,
-      697,
-      238
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "cbe1b24d1af041dd0dd601d7d2cd12a8e601e306d955076a6a70296ecf5d228a.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
     "text": "1. 그림은 동물 세포의 구조를 나타낸 것이다.",
     "bbox": [
       88,
@@ -215,22 +140,8 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      312,
-      258,
-      405,
-      338
-    ],
-    "page_idx": 0,
-    "image_path": "574be5c7e964f8a2bdcdaa6e47f542382c35535be2076b46d6086166535fbe83.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄷ ④  ㄱ,  ㄴ ⑤  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄷ ④7, L ⑤ L,ㄷ",
     "bbox": [
       95,
       433,
@@ -240,17 +151,17 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 265,
-      "end_orig": 297,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
     "type": "text",
-    "text": ". 표는 식물을 구성하는 조직계의 특징을 나타낸 것이다.  A와 B는",
+    "text": "2. 표는 식물을 구성하는 조직계의 특징을 나타낸 것이다.  A와 B는",
     "bbox": [
       86,
       474,
@@ -261,9 +172,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9825,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 299,
+      "start_orig": 298,
       "end_orig": 337,
       "reason": "passed_threshold_no_ws"
     }
@@ -287,21 +198,6 @@
       "end_orig": 369,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      147,
-      515,
-      355,
-      575
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>조직계</td><td rowspan=1 colspan=1>특징</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>표면을 덮어 식물체를 보호한다.</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>?</td></tr><tr><td rowspan=1 colspan=1>기본 조직계</td><td rowspan=1 colspan=1>양분을 합성하고 저장한다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "d1956e420ba3290e02c86edbcb7da04aa3d53474a47c2069fea2f7946b3d7631.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -405,7 +301,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ㄴ,C ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       94,
       686,
@@ -464,26 +360,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { I } \\sim",
-    "bbox": [
-      366,
-      762,
-      383,
-      775
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "Ⅲ은 (가)～(다)의 결과를 순서 없이 나타낸 것이다.  물질",
     "bbox": [
@@ -524,21 +400,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      108,
-      818,
-      227,
-      877
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>실험</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>(다)</td></tr><tr><td rowspan=1 colspan=1>E의 농도(상댓값)</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>없음</td><td rowspan=1 colspan=1>없음</td><td rowspan=1 colspan=1>있음</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "07d86c4a8d76e50c20da9c7a8c77fef08ccdd36fdac050e1b8593da51bc86fdd.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "0 S1 S2 A의 농도",
     "bbox": [
@@ -576,26 +437,6 @@
       "start_orig": 794,
       "end_orig": 815,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      296,
-      900,
-      306,
-      911
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -699,26 +540,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { S _ { 2 } } \\ L _ { \\overline { { = } } } ^ { \\mathrm { o l } }",
-    "bbox": [
-      374,
-      1006,
-      396,
-      1020
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "때보다 작다.",
     "bbox": [
@@ -740,7 +561,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄷ ④  ㄱ,  ㄴ ⑤  ㄱ,  ㄷ",
+    "text": "① 7 ② L ③ ㄷ ④7,L ⑤ 7,ㄷ",
     "bbox": [
       95,
       1050,
@@ -750,12 +571,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1006,
-      "end_orig": 1038,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -776,26 +597,6 @@
       "start_orig": 1047,
       "end_orig": 1056,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } 0",
-    "bbox": [
-      511,
-      257,
-      531,
-      271
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -857,20 +658,6 @@
       "end_orig": 1185,
       "reason": "anchor_rescue"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      658,
-      256,
-      753,
-      336
-    ],
-    "page_idx": 0,
-    "image_path": "5692c6952060fcc5bd03965ed21f93bc8dad6a1bbf24f77267919781c8e4740b.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -973,26 +760,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { O _ { 2 } } { \\ni } { \\mathsf { e } }",
-    "bbox": [
-      583,
-      438,
-      618,
-      453
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "동 방식은 ㉠의 이동 방식과 같다.",
     "bbox": [
@@ -1014,7 +781,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ C ④ ㄱ, ㄷ ⑤ ㄴ, ㄷ",
+    "text": "① 7 ② L ③ C ④ 7,ㄷ ⑤ L,ㄷ",
     "bbox": [
       445,
       483,
@@ -1050,26 +817,6 @@
       "start_orig": 1356,
       "end_orig": 1455,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { { } ^ { \\dag } C O _ { 2 } }",
-    "bbox": [
-      568,
-      574,
-      591,
-      588
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1113,21 +860,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      663,
-      525,
-      754,
-      600
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>시간(초)</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0.4</td><td rowspan=1 colspan=1>1.0</td></tr><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>0.5</td><td rowspan=1 colspan=1>0.8</td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>0.8</td><td rowspan=1 colspan=1>0.6</td></tr><tr><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>1.2</td><td rowspan=1 colspan=1>0.5</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "8c30d433b63cd3825ac2daadfd9bd75afb06ce5d8e140d36a1e17443f943000c.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "이에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
@@ -1145,26 +877,6 @@
       "start_orig": 1589,
       "end_orig": 1610,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      645,
-      645,
-      655,
-      656
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1268,26 +980,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { \\mathsf { L } } { \\mathsf { \\Lambda } }",
-    "bbox": [
-      547,
-      750,
-      562,
-      765
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "이  ㉠으로  전환되는  과정에서  ATP가 사용된다",
     "bbox": [
@@ -1309,7 +1001,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ, ㄷ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "① 7 ② L ③ 7,ㄷ ④ L, ⑤ 7,L,ㄷ",
     "bbox": [
       445,
       795,
@@ -1348,26 +1040,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
-    "bbox": [
-      511,
-      835,
-      549,
-      849
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "대한 자료이다.",
     "bbox": [
@@ -1385,26 +1057,6 @@
       "start_orig": 3698,
       "end_orig": 3706,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C } \\frac { \\mathrm { \\Delta } } { \\mathrm { \\Delta } }",
-    "bbox": [
-      621,
-      836,
-      660,
-      849
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1445,26 +1097,6 @@
       "start_orig": 5756,
       "end_orig": 5757,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { C }",
-    "bbox": [
-      465,
-      901,
-      495,
-      915
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1589,7 +1221,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄷ ④  ㄱ,  ㄴ ⑤  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄷ ④ㄱ, ㄴ ⑤ ㄴ, ㄷ",
     "bbox": [
       443,
       1051,
@@ -1599,12 +1231,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2061,
-      "end_orig": 2093,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1625,26 +1257,6 @@
       "start_orig": 2094,
       "end_orig": 2150,
       "reason": "anchor_rescue+left_extend"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} \\sim \\textcircled { \\div }",
-    "bbox": [
-      222,
-      176,
-      257,
-      191
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1688,26 +1300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 } \\sim \\textcircled { \\div } \\frac { \\partial } { \\partial \\textcircled { \\times } }",
-    "bbox": [
-      272,
-      210,
-      317,
-      225
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "ADP,  ATP,",
     "bbox": [
@@ -1725,46 +1317,6 @@
       "start_orig": 2237,
       "end_orig": 2247,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { C O _ { 2 } } ,",
-    "bbox": [
-      381,
-      210,
-      403,
-      225
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { N A D } ^ { + }",
-    "bbox": [
-      96,
-      226,
-      128,
-      241
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1806,21 +1358,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      230,
-      250,
-      371,
-      326
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>과정</td><td rowspan=1 colspan=3>분자 수를 더한 값</td></tr><tr><td rowspan=1 colspan=1>7+ㄴ</td><td rowspan=1 colspan=1>7+ㄷ</td><td rowspan=1 colspan=1>ㄴ+②</td></tr><tr><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>ⅡI</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>4</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "679026c5982ed2295fb4a4d98aaddf12df1425353202afebebf9bbc6c4d6da9b.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1903,26 +1440,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "= \\frac { 3 } { 4 }",
-    "bbox": [
-      299,
-      393,
-      329,
-      419
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "이다.",
     "bbox": [
@@ -1964,7 +1481,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄷ ③  ㄱ,  ㄴ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② ㄷ ③ 7,L ④ㄴ,ㄷ ⑤ ㄱ,ㄴ,ㄷ",
     "bbox": [
       95,
       450,
@@ -1974,12 +1491,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2448,
-      "end_orig": 2488,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2000,26 +1517,6 @@
       "start_orig": 2489,
       "end_orig": 2506,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { 1 } \\textcircled { \\circ }",
-    "bbox": [
-      231,
-      489,
-      253,
-      504
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2063,26 +1560,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
-    "bbox": [
-      278,
-      524,
-      302,
-      538
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "빛과",
     "bbox": [
@@ -2100,26 +1577,6 @@
       "start_orig": 2595,
       "end_orig": 2597,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { C O _ { 2 } }",
-    "bbox": [
-      326,
-      524,
-      346,
-      538
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2143,36 +1600,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      99,
-      565,
-      259,
-      648
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=2>ⅡI</td><td rowspan=1 colspan=1>Ⅲ</td></tr><tr><td rowspan=1 colspan=1>7(</td><td rowspan=1 colspan=2>I있음없음</td><td rowspan=1 colspan=1>7없음L있음</td></tr><tr><td></td><td></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>시간t2</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "259008283cdd077ad76b471af2c06405a568d6de620ef59b62e4627f4cf12510.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      272,
-      579,
-      397,
-      632
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>(가)</td><td>H20 → 2H + + 2e− + 2</td></tr><tr><td>(4)</td><td>NADP+ +2H+ +2e− → NADPH+H+</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "2666f0a3798e7eebdf41cd29a2d95db0f48d7513791654ec7134d0fc0f13b87b.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "이에 대한 설명으로 옳은 것만을 <보",
     "bbox": [
@@ -2193,26 +1620,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      296,
-      660,
-      306,
-      672
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  (단,  빛과",
     "bbox": [
@@ -2230,26 +1637,6 @@
       "start_orig": 2640,
       "end_orig": 2664,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { C O _ { 2 } }",
-    "bbox": [
-      175,
-      676,
-      197,
-      690
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2294,7 +1681,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.",
+    "text": "7.",
     "bbox": [
       108,
       716,
@@ -2304,12 +1691,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7075,
-      "end_orig": 7077,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 8153,
+      "end_orig": 8155,
+      "reason": "low_similarity"
     }
   },
   {
@@ -2330,26 +1717,6 @@
       "start_orig": 2593,
       "end_orig": 2594,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { C O _ { 2 } ^ { \\circ } }",
-    "bbox": [
-      149,
-      717,
-      177,
-      731
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2393,26 +1760,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "t _ { 1 } \\ L _ { \\equiv } ^ { \\ L _ { \\bigcirc } ] }",
-    "bbox": [
-      245,
-      733,
-      266,
-      748
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "때가",
     "bbox": [
@@ -2430,26 +1777,6 @@
       "start_orig": 2730,
       "end_orig": 2732,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "t _ { 2 } \\hat { \\mathbf { \\Lambda } } _ { \\mathbf { r } } ^ { \\mathbf { o } ] }",
-    "bbox": [
-      294,
-      733,
-      314,
-      748
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2493,26 +1820,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( \\mathrm { ^ { 7 } H } )",
-    "bbox": [
-      186,
-      751,
-      204,
-      764
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "와 (나)가 모두 일어난다.",
     "bbox": [
@@ -2534,7 +1841,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ 7,ㄷ ④ L,ㄷ ⑤ 7,L,ㄷ",
     "bbox": [
       94,
       777,
@@ -2544,12 +1851,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7135,
-      "end_orig": 7175,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2573,26 +1880,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 )",
-    "bbox": [
-      227,
-      817,
-      244,
-      831
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ")와",
     "bbox": [
@@ -2607,29 +1894,9 @@
       "replaced": false,
       "similarity": 0.5,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7199,
-      "end_orig": 7201,
+      "start_orig": 7115,
+      "end_orig": 7117,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\psi )",
-    "bbox": [
-      262,
-      817,
-      281,
-      831
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2690,26 +1957,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\circledcirc",
-    "bbox": [
-      144,
-      912,
-      158,
-      927
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2814,7 +2061,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄴ ④  ㄱ,  ㄷ ⑤  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄴ ④ ㄱ, ㄷ ⑤ㄴ, ㄷ",
     "bbox": [
       95,
       1051,
@@ -2824,12 +2071,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3046,
-      "end_orig": 3082,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2873,26 +2120,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { H } ^ { + }",
-    "bbox": [
-      718,
-      191,
-      735,
-      205
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "을 새어 나가게 하고,  물질 Y는 ATP  합성 효소를 통한",
     "bbox": [
@@ -2910,26 +2137,6 @@
       "start_orig": 3149,
       "end_orig": 3183,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { H } ^ { + } { \\xrightarrow { \\circ } } ",
-    "bbox": [
-      718,
-      207,
-      746,
-      222
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -2993,26 +2200,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled{7} ,",
-    "bbox": [
-      515,
-      284,
-      528,
-      298
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "을 순차적으로 첨가한다. ",
     "bbox": [
@@ -3073,26 +2260,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "^ { \\cdot \\circ \\dagger }",
-    "bbox": [
-      567,
-      318,
-      579,
-      331
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "있는",
     "bbox": [
@@ -3110,26 +2277,6 @@
       "start_orig": 3320,
       "end_orig": 3322,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { O _ { 2 } }",
-    "bbox": [
-      604,
-      318,
-      618,
-      333
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3153,35 +2300,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      470,
-      369,
-      609,
-      455
-    ],
-    "page_idx": 1,
-    "image_path": "bbafbebe81a6d3e735d877fb7b73600d0e653243c59fb974045b9a00815c1b46.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      624,
-      370,
-      727,
-      430
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>구간</td><td rowspan=1 colspan=1>ATP 합성여부</td></tr><tr><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>합성됨</td></tr><tr><td rowspan=1 colspan=1>ⅡI</td><td rowspan=1 colspan=1>합성 안 됨</td></tr><tr><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>합성 안 됨</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "f8d3edbbce6f9b4c14a2a2bf441ec67d14d0444d157afcda2208940ec8c97368.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "이에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
@@ -3199,26 +2317,6 @@
       "start_orig": 3417,
       "end_orig": 3438,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      645,
-      473,
-      655,
-      484
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3243,7 +2341,7 @@
   },
   {
     "type": "text",
-    "text": ". ㉡은 Y이다.\n",
+    "text": "7. ㄴ은 Y이다.",
     "bbox": [
       456,
       528,
@@ -3253,12 +2351,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 0.9333,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 3507,
-      "end_orig": 3517,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -3303,7 +2401,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ 7,ㄷ ④L,ㄷ ⑤ 7,L,ㄷ",
     "bbox": [
       444,
       637,
@@ -3313,12 +2411,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7781,
-      "end_orig": 7821,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -3382,26 +2480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 7 }",
-    "bbox": [
-      511,
-      788,
-      524,
-      801
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "이외에는 염기 사이의 수소 결합을 표시하지 않았다.\n",
     "bbox": [
@@ -3442,20 +2520,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      655,
-      717,
-      750,
-      898
-    ],
-    "page_idx": 1,
-    "image_path": "ff3138c5801a820a148e8d10dcd281453095857811fa5bf8b924c0b92d8bcafa.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "에서",
     "bbox": [
@@ -3473,26 +2537,6 @@
       "start_orig": 8088,
       "end_orig": 8090,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\frac { \\Delta } { \\mathrm { ~ G ~ } } = 2 0 \\left| \\tau \\right| .",
-    "bbox": [
-      501,
-      855,
-      561,
-      880
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3516,26 +2560,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "3 ^ { \\prime }",
-    "bbox": [
-      640,
-      901,
-      653,
-      915
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "말단 염기는",
     "bbox": [
@@ -3553,26 +2577,6 @@
       "start_orig": 3946,
       "end_orig": 3952,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\mathrm { C } ^ { \\circ }",
-    "bbox": [
-      713,
-      901,
-      730,
-      915
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3613,26 +2617,6 @@
       "start_orig": 3958,
       "end_orig": 3979,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      645,
-      933,
-      655,
-      945
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -3757,7 +2741,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄷ ④  ㄱ,  ㄴ ⑤  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄷ ④ㄱ, ㄴ ⑤ ㄴ, ㄷ",
     "bbox": [
       443,
       1050,
@@ -3767,12 +2751,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4091,
-      "end_orig": 4123,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -3877,7 +2861,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄷ ③ ㄱ, ㄴ ④ ㄴ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ L ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       95,
       279,
@@ -3996,26 +2980,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\angle H > 1 >",
-    "bbox": [
-      252,
-      460,
-      288,
-      474
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?",
     "bbox": [
@@ -4037,7 +3001,7 @@
   },
   {
     "type": "text",
-    "text": "ㄱ.",
+    "text": "7.",
     "bbox": [
       108,
       501,
@@ -4047,12 +3011,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5161,
-      "end_orig": 5163,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 8153,
+      "end_orig": 8155,
+      "reason": "low_similarity"
     }
   },
   {
@@ -4077,7 +3041,7 @@
   },
   {
     "type": "text",
-    "text": "ㄴ.",
+    "text": "L.",
     "bbox": [
       106,
       517,
@@ -4087,12 +3051,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 5181,
-      "end_orig": 5183,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 5742,
+      "end_orig": 5743,
+      "reason": "low_similarity"
     }
   },
   {
@@ -4136,26 +3100,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
-    "bbox": [
-      123,
-      534,
-      147,
-      549
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "유전적 부동의 한 현상이다.",
     "bbox": [
@@ -4177,7 +3121,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄷ ④  ㄱ,  ㄷ ⑤  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄷ ④7,ㄷ ⑤ L,ㄷ",
     "bbox": [
       94,
       562,
@@ -4187,12 +3131,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6839,
-      "end_orig": 6871,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -4273,26 +3217,6 @@
       "start_orig": 4859,
       "end_orig": 4872,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { \\ 4 }",
-    "bbox": [
-      214,
-      713,
-      226,
-      726
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4388,10 +3312,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.3214,
+      "similarity": 0.2951,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6955,
-      "end_orig": 6990,
+      "start_orig": 6386,
+      "end_orig": 6432,
       "reason": "low_similarity"
     }
   },
@@ -4416,26 +3340,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\frac { \\mathrm { ~ C ~ } } { \\mathrm { ~ G ~ } }",
-    "bbox": [
-      340,
-      849,
-      360,
-      875
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "의 값은",
     "bbox": [
@@ -4456,26 +3360,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\frac { 1 } { 2 } \\diamond \\lvert \\boldsymbol { \\tau } \\rvert",
-    "bbox": [
-      114,
-      874,
-      157,
-      900
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "이에 대한 설명으로 옳은 것만을 <보기",
     "bbox": [
@@ -4490,29 +3374,9 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7030,
-      "end_orig": 7051,
+      "start_orig": 5460,
+      "end_orig": 5481,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      295,
-      919,
-      306,
-      931
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4528,10 +3392,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.4444,
+      "similarity": 0.4225,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7052,
-      "end_orig": 7097,
+      "start_orig": 5482,
+      "end_orig": 5535,
       "reason": "low_similarity"
     }
   },
@@ -4550,8 +3414,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7068,
-      "end_orig": 7074,
+      "start_orig": 5504,
+      "end_orig": 5510,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4610,34 +3474,14 @@
       "replaced": false,
       "similarity": 0.75,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 8086,
-      "end_orig": 8090,
+      "start_orig": 6075,
+      "end_orig": 6079,
       "reason": "low_similarity"
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\frac { C } { A + T } = \\frac { 3 } { 4 } \\circ | \\tau |",
-    "bbox": [
-      159,
-      1010,
-      248,
-      1036
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ 7,ㄷ ④L,ㄷ ⑤7,L,ㄷ",
     "bbox": [
       94,
       1051,
@@ -4647,12 +3491,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7135,
-      "end_orig": 7175,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -4676,26 +3520,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 7 )",
-    "bbox": [
-      565,
-      177,
-      582,
-      191
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "의 특징 중 각 생물이 가지는 특징의 개수를 나타낸 것이다.",
     "bbox": [
@@ -4716,38 +3540,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      561,
-      217,
-      735,
-      291
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>생물</td><td rowspan=1 colspan=1>계명</td><td rowspan=1 colspan=1>특징의 개수</td></tr><tr><td rowspan=1 colspan=1>메테인 생성균</td><td rowspan=1 colspan=1>고세균계</td><td rowspan=1 colspan=1>?</td></tr><tr><td rowspan=1 colspan=1>대장균</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>a</td></tr><tr><td rowspan=1 colspan=1>소나무</td><td rowspan=1 colspan=1>식물계</td><td rowspan=1 colspan=1>b</td></tr><tr><td rowspan=1 colspan=1>불가사리</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>1</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "18c7baa48cbeee0d550cd226a2cb44f16d6c7b1afa97112ebf182603095c15b7.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      462,
-      216,
-      547,
-      291
-    ],
-    "page_idx": 2,
-    "image_path": "155c639bb460480a4ccda7555c92c1b971acf7fade6056fcc7ae5466fa263061.jpg",
-    "alt": "",
-    "caption": [
-      "(\\mathrm { ^ { 7 } H })",
-      "(\\psi)"
-    ],
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "이에대한 설명으로 옮은것만을",
     "bbox": [
@@ -4765,26 +3557,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "< 1 1 > 1 > 0 1 1",
-    "bbox": [
-      617,
-      313,
-      664,
-      327
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4822,8 +3594,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7687,
-      "end_orig": 7691,
+      "start_orig": 6019,
+      "end_orig": 6023,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4842,8 +3614,8 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7742,
-      "end_orig": 7744,
+      "start_orig": 6046,
+      "end_orig": 6048,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -4882,29 +3654,9 @@
       "replaced": true,
       "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7755,
-      "end_orig": 7757,
+      "start_orig": 6073,
+      "end_orig": 6075,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled { \\mathrm { a } } + \\textcircled { \\mathrm { b } } = 4 \\textcircled { \\mathrm { o } } |",
-    "bbox": [
-      472,
-      387,
-      537,
-      401
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -4948,18 +3700,6 @@
     }
   },
   {
-    "type": "interline_equation",
-    "content": "\\begin{array} { r l r l r l r l r l r l } { \\mathbb { D } \\ \\dashv } & { { } } & { } & { \\emptyset \\ \\vdash } & { { } } & { } & { \\ @ \\ \\vdash } & { { } } & { } & { \\ @ \\ \\top, \\ \\vdash } & { } & { { } \\odot \\ \\top, \\ \\sqsubset } \\end{array}",
-    "bbox": [
-      446,
-      433,
-      743,
-      450
-    ],
-    "page_idx": 2,
-    "original_type": "interline_equation"
-  },
-  {
     "type": "text",
     "text": "16.다음은 이중 가닥DNAx와 제한 효소에 대한 자료이다.",
     "bbox": [
@@ -4997,26 +3737,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "x",
-    "bbox": [
-      649,
-      605,
-      659,
-      617
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5140,26 +3860,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled{ b}",
-    "bbox": [
-      545,
-      826,
-      558,
-      839
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "보다 작다.",
     "bbox": [
@@ -5180,23 +3880,8 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      457,
-      843,
-      740,
-      915
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>시험관</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>V</td></tr><tr><td rowspan=1 colspan=1>첨가한제한효소</td><td rowspan=1 colspan=1>BglⅡ</td><td rowspan=1 colspan=1>Kpn I</td><td rowspan=1 colspan=1>Xho I</td><td rowspan=1 colspan=1>BglⅡ, Kpn I</td></tr><tr><td rowspan=1 colspan=1>생성된DNA 조각수</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=1>생성된 각 DNA조각의 염기 수</td><td rowspan=1 colspan=1>12, a, b</td><td rowspan=1 colspan=1>30, 38</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>12, 18, 18, 20</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "a53eeb1af753e2089ee5e81670496735bd37b610c323598591fee439e6a96461.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
-    "text": "이에 대한설명으로 옮은 것만을<보기>에서 있는 대로 고른 것은?",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
     "bbox": [
       456,
       930,
@@ -5206,17 +3891,17 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9643,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6667,
+      "end_orig": 6704,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "<보기>",
+    "text": "<보  기>",
     "bbox": [
       573,
       953,
@@ -5226,12 +3911,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 6755,
+      "end_orig": 6761,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5246,12 +3931,12 @@
     "page_idx": 2,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": 0.6667,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7784,
-      "end_orig": 7786,
-      "reason": "low_similarity"
+      "start_orig": 6762,
+      "end_orig": 6764,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -5316,7 +4001,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② ㄷ ③ ㄱ, ㄴ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       444,
       1051,
@@ -5355,26 +4040,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "x 9 7",
-    "bbox": [
-      262,
-      160,
-      280,
-      173
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ",",
     "bbox": [
@@ -5395,26 +4060,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "x ^ { \\mathsf { o } } \\mathsf { I }",
-    "bbox": [
-      284,
-      160,
-      302,
-      173
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "서돌연변이가일어난 유전자",
     "bbox": [
@@ -5432,26 +4077,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "y { \\underline { { \\circ } } } ]",
-    "bbox": [
-      132,
-      177,
-      151,
-      191
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5495,26 +4120,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { Y } 7",
-    "bbox": [
-      294,
-      208,
-      312,
-      221
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "합성된다.",
     "bbox": [
@@ -5555,26 +4160,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "x { \\overset { \\circ } { - } } 1",
-    "bbox": [
-      241,
-      225,
-      259,
-      238
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "DNA 이중 가닥 중 전사 주형 가닥의 염기 서열은",
     "bbox": [
@@ -5595,26 +4180,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "5 ^ { \\prime } - ( 7 7 ) - ( 4 ) - 3 ^ { \\prime } \\diamond",
-    "bbox": [
-      213,
-      241,
-      313,
-      255
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "겨,표의I과 는",
     "bbox": [
@@ -5632,26 +4197,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "( \\mathrm { ^ { 7 } H } )",
-    "bbox": [
-      117,
-      258,
-      135,
-      271
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5695,26 +4240,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "5 ^ { \\prime }",
-    "bbox": [
-      318,
-      258,
-      330,
-      271
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "말단과",
     "bbox": [
@@ -5732,26 +4257,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "3 ^ { \\prime }",
-    "bbox": [
-      363,
-      258,
-      375,
-      271
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -5775,26 +4280,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled { \\scriptsize { 1 } } \\frac { \\textcircled { \\scriptsize { \\scriptsize { \\textrm { o } } } } } { \\textcircled { \\scriptsize { \\scriptsize { 1 } } } } 3",
-    "bbox": [
-      180,
-      274,
-      213,
-      288
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "개의 피리미딘 계열 염기와 2개의 퓨린 계열 염기로 구성된다.\n",
     "bbox": [
@@ -5813,21 +4298,6 @@
       "end_orig": 6464,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      160,
-      308,
-      341,
-      357
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td>구분</td><td colspan=\"2\">염기 서열</td></tr><tr><td>I</td><td colspan=\"2\">5&#x27;- CGCTACGTCACGCATGCG</td></tr><tr><td>I</td><td>@- CTTACGACTAGl</td><td>7 AT</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "3717823e10b39048bbcc70c2b9dd2a8ecf4755319f9d4acc9cb313fdf8163fc6.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -5910,23 +4380,8 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      225,
-      444,
-      395,
-      569
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>UUU페닐알라닌C</td><td rowspan=1 colspan=2>UCU세린</td><td rowspan=1 colspan=1>UAU타이로신UAC</td><td rowspan=1 colspan=1>UGU시스테인UGC</td></tr><tr><td rowspan=2 colspan=1>UUA류신UUG</td><td rowspan=2 colspan=2>UCAUCG</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>UAA종결 코돈</td></tr><tr><td rowspan=1 colspan=1>UAG종결코돈</td><td rowspan=1 colspan=1>UGG트립토판</td></tr><tr><td rowspan=2 colspan=1>CUuC류신UACUG</td><td rowspan=2 colspan=2>CCUCCC프롤린CCACCG</td><td rowspan=1 colspan=1>CAU히스티딘CAC</td><td rowspan=2 colspan=1>CGUCGC아르지닌CGACGG</td></tr><tr><td rowspan=1 colspan=1>CAACAG글루타민</td></tr><tr><td rowspan=2 colspan=1>AUUAUC 아이소류신AUA</td><td rowspan=2 colspan=2>ACU(트레오닌ACA</td><td rowspan=1 colspan=1>AAU아스파라진AAC</td><td rowspan=1 colspan=1>AGU세린AGC</td></tr><tr><td rowspan=2 colspan=2>ACAACG</td><td rowspan=2 colspan=1>AAA라이신AAG</td><td rowspan=2 colspan=1>AGA아르지닌AGG</td></tr><tr><td rowspan=1 colspan=1>AUG메싸이오닌</td></tr><tr><td rowspan=2 colspan=1>GUUGU발린GUAGUG</td><td rowspan=2 colspan=2>GCUGCCGCA알라닌GCG</td><td rowspan=1 colspan=1>GAU아스파트산GAC</td><td rowspan=2 colspan=1>GGUC글리신GGAGGG</td></tr><tr><td rowspan=1 colspan=1>GAA글루탐산GA</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "53236627846ae1ccab35e6861bc71be2a8a2e392e7a889f7f1a9933a1722fbd4.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
-    "text": "이에 대한 설명으로 옳은 것만을<보>",
+    "text": "이에 대한 설명으로 옳은 것만을 <보",
     "bbox": [
       108,
       585,
@@ -5936,37 +4391,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 0.9677,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      296,
-      587,
-      306,
-      598
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 7030,
+      "end_orig": 7050,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "에서 있는 대로 고른 것은?  (단,  제시된 돌연변이 이외의 핵산 염기 서열 변화는 고려 하지 않는다.)  [3점]\n",
+    "text": "에서 있는 대로 고른 것은?(단,제시된 돌연변이 이외의 핵산 염기 서열 변화는 고려 하지 않는다.) [3점]",
     "bbox": [
       97,
       585,
@@ -5976,17 +4411,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": 0.3011,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 6689,
-      "end_orig": 6755,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": 7052,
+      "end_orig": 7118,
+      "reason": "low_similarity"
     }
   },
   {
     "type": "text",
-    "text": "ㄱ.",
+    "text": "7.",
     "bbox": [
       108,
       660,
@@ -5999,8 +4434,8 @@
       "replaced": false,
       "similarity": 0.6667,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7784,
-      "end_orig": 7786,
+      "start_orig": 8153,
+      "end_orig": 8155,
       "reason": "low_similarity"
     }
   },
@@ -6045,26 +4480,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "3 ^ { \\prime }",
-    "bbox": [
-      262,
-      677,
-      273,
-      690
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "말단 엄기는 구아닌(G)이다.",
     "bbox": [
@@ -6106,7 +4521,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄷ ④ㄱ, ㄷ ⑤ㄴ, ㄷ",
+    "text": "①7 ② L ③ ㄷ ④7,ㄷ ⑤ㄴ,ㄷ",
     "bbox": [
       95,
       721,
@@ -6145,26 +4560,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
-    "bbox": [
-      270,
-      807,
-      301,
-      822
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "중 각 특징을 가지는 생물을 나타낸 것이다.A~D는 갯지렁이,창고기,해삼, 해파리를",
     "bbox": [
@@ -6186,7 +4581,7 @@
   },
   {
     "type": "text",
-    "text": "순서 없이 나타낸 것이다.",
+    "text": "순서  없이 나타낸 것이다.",
     "bbox": [
       97,
       840,
@@ -6196,32 +4591,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7590,
+      "end_orig": 7605,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      157,
-      865,
-      343,
-      940
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>특징</td><td rowspan=1 colspan=1>특징을 가지는 생물</td></tr><tr><td rowspan=1 colspan=1>촉수담륜동물에 속한다.</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>원구가 항문이 된다.</td><td rowspan=1 colspan=1>B, C</td></tr><tr><td rowspan=1 colspan=1>척삭을 형성한다.</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>D</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "918a4956dbe93c0112193293022a10a3e47a2a72791f7db0873902445b735121.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
-    "text": "이에 대한 설명으로옳은 것만을<보기>에서 있는 대로 고른 것은?",
+    "text": "이에 대한 설명으로 옳은 것만을 <보기>에서 있는 대로 고른 것은?",
     "bbox": [
       107,
       946,
@@ -6231,17 +4611,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7669,
+      "end_orig": 7706,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "<보기>",
+    "text": "<보  기>",
     "bbox": [
       224,
       970,
@@ -6251,12 +4631,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7735,
+      "end_orig": 7741,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6321,7 +4701,7 @@
   },
   {
     "type": "text",
-    "text": "①  ㄱ ②  ㄴ ③  ㄱ,  ㄷ ④  ㄴ,  ㄷ ⑤  ㄱ,  ㄴ,  ㄷ",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
     "bbox": [
       95,
       1051,
@@ -6331,12 +4711,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 7781,
-      "end_orig": 7821,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -6398,21 +4778,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      633,
-      259,
-      747,
-      286
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>프로모터</td><td rowspan=1 colspan=1>유전자(가)</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=2>C</td><td rowspan=1 colspan=1>프로모터</td><td rowspan=1 colspan=1>유전자(나)</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "61d06e56c2beb9fef2a0eedd55ce390a45c839793d5be4cd51071039babcf0a5.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -6515,21 +4880,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      621,
-      376,
-      746,
-      449
-    ],
-    "page_idx": 3,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>발현된전사 인자</td><td rowspan=1 colspan=3>세포</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=1 colspan=1>X, Y</td><td rowspan=1 colspan=1>a</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>×</td></tr><tr><td rowspan=1 colspan=1>X, Z</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>Y, Z</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>?</td></tr><tr><td rowspan=1 colspan=4>(O:형성됨,×:형성 안 됨)</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "525e7ec3a48cebe986cb95ed2dbb9f9f4375314d18ccf7188819c69568c5ce4e.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "이에 대한 설명으로 옳은것만을<보>",
     "bbox": [
@@ -6547,26 +4897,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      644,
-      466,
-      655,
-      477
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -6622,11 +4952,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": null,
+      "similarity": 0.7059,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7745,
+      "end_orig": 7754,
+      "reason": "low_similarity"
     }
   },
   {
@@ -6641,32 +4971,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\circled{5}",
-    "bbox": [
-      472,
-      539,
-      485,
-      552
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
+      "start_orig": 7755,
+      "end_orig": 7757,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
@@ -6681,17 +4991,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7759,
+      "end_orig": 7765,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "ㄷ.Y는 C에 결합한다.",
+    "text": "ㄷ. Y는 C에 결합한다.",
     "bbox": [
       456,
       555,
@@ -6701,17 +5011,17 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
+      "replaced": true,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
+      "start_orig": 7766,
+      "end_orig": 7780,
+      "reason": "passed_threshold_no_ws"
     }
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ㄱ, ㄷ ④ ㄴ, ⑤ ㄱ, ㄴ, ㄷ",
+    "text": "①7 ② L ③7,ㄷ ④ L, ⑤ 7,L,ㄷ",
     "bbox": [
       443,
       583,
@@ -6770,26 +5080,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "2 N",
-    "bbox": [
-      634,
-      704,
-      654,
-      718
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "과",
     "bbox": [
@@ -6807,26 +5097,6 @@
       "start_orig": 7915,
       "end_orig": 7916,
       "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "3 N",
-    "bbox": [
-      666,
-      704,
-      686,
-      718
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -6910,26 +5180,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\frac { 3 } { 8 } \\textcircled { < } \\frac { \\pi } { \\pi }",
-    "bbox": [
-      702,
-      789,
-      744,
-      814
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": ", Ⅱ서",
     "bbox": [
@@ -6947,26 +5197,6 @@
       "start_orig": 8101,
       "end_orig": 8103,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\frac { 4 } { 9 }",
-    "bbox": [
-      500,
-      819,
-      520,
-      844
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -7010,26 +5240,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "= \\frac { 7 } { 1 5 } \\diamond \\lvert \\mathfrak { r } \\rvert",
-    "bbox": [
-      587,
-      849,
-      638,
-      876
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "음에서(간)가 발혈된 개체수",
     "bbox": [
@@ -7047,26 +5257,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "= \\frac { 3 } { 8 } \\diamond ] \\eta",
-    "bbox": [
-      609,
-      879,
-      652,
-      906
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -7110,26 +5300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "( 4 ) > \\alpha",
-    "bbox": [
-      492,
-      923,
-      524,
-      937
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "발현된 개체 수는?  [3점]",
     "bbox": [
@@ -7148,18 +5318,6 @@
       "end_orig": 8254,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "interline_equation",
-    "content": "\\begin{array} { r l } { \\textcircled { 1 } \\displaystyle \\frac { 1 } { 1 6 } N } & { { } \\textcircled { 2 } \\displaystyle \\frac { 1 } { 8 } N \\quad \\textcircled { 3 } \\displaystyle \\frac { 3 } { 1 6 } N \\quad \\textcircled { 4 } \\displaystyle \\frac { 1 5 } { 1 6 } N \\quad \\textcircled { 5 } \\displaystyle \\frac { 1 5 } { 8 } N } \\end{array}",
-    "bbox": [
-      443,
-      946,
-      739,
-      973
-    ],
-    "page_idx": 3,
-    "original_type": "interline_equation"
   },
   {
     "type": "text",
@@ -7200,5 +5358,1847 @@
       "end_orig": 8354,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      91,
+      153,
+      174,
+      191
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 56,
+      "end_orig": 62,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "과학탐구 영역(생명과학II)",
+    "bbox": [
+      226,
+      145,
+      617,
+      199
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "성명",
+    "bbox": [
+      138,
+      212,
+      173,
+      237
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 63,
+      "end_orig": 65,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      338,
+      209,
+      697,
+      238
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>제[ ]선택</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "cbe1b24d1af041dd0dd601d7d2cd12a8e601e306d955076a6a70296ecf5d228a.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      312,
+      258,
+      405,
+      338
+    ],
+    "page_idx": 0,
+    "image_path": "574be5c7e964f8a2bdcdaa6e47f542382c35535be2076b46d6086166535fbe83.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      147,
+      515,
+      355,
+      575
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>조직계</td><td rowspan=1 colspan=1>특징</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>표면을 덮어 식물체를 보호한다.</td></tr><tr><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>?</td></tr><tr><td rowspan=1 colspan=1>기본 조직계</td><td rowspan=1 colspan=1>양분을 합성하고 저장한다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "d1956e420ba3290e02c86edbcb7da04aa3d53474a47c2069fea2f7946b3d7631.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { I } \\sim",
+    "bbox": [
+      366,
+      762,
+      383,
+      775
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      108,
+      818,
+      227,
+      877
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>실험</td><td rowspan=1 colspan=1>(가)</td><td rowspan=1 colspan=1>(4)</td><td rowspan=1 colspan=1>(다)</td></tr><tr><td rowspan=1 colspan=1>E의 농도(상댓값)</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>없음</td><td rowspan=1 colspan=1>없음</td><td rowspan=1 colspan=1>있음</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "07d86c4a8d76e50c20da9c7a8c77fef08ccdd36fdac050e1b8593da51bc86fdd.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      296,
+      900,
+      306,
+      911
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { S _ { 2 } } \\ L _ { \\overline { { = } } } ^ { \\mathrm { o l } }",
+    "bbox": [
+      374,
+      1006,
+      396,
+      1020
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } 0",
+    "bbox": [
+      511,
+      257,
+      531,
+      271
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      658,
+      256,
+      753,
+      336
+    ],
+    "page_idx": 0,
+    "image_path": "5692c6952060fcc5bd03965ed21f93bc8dad6a1bbf24f77267919781c8e4740b.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { O _ { 2 } } { \\ni } { \\mathsf { e } }",
+    "bbox": [
+      583,
+      438,
+      618,
+      453
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { { } ^ { \\dag } C O _ { 2 } }",
+    "bbox": [
+      568,
+      574,
+      591,
+      588
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      663,
+      525,
+      754,
+      600
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>시간(초)</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td></tr><tr><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0.4</td><td rowspan=1 colspan=1>1.0</td></tr><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>0.5</td><td rowspan=1 colspan=1>0.8</td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>0.8</td><td rowspan=1 colspan=1>0.6</td></tr><tr><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>1.2</td><td rowspan=1 colspan=1>0.5</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "8c30d433b63cd3825ac2daadfd9bd75afb06ce5d8e140d36a1e17443f943000c.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      645,
+      645,
+      655,
+      656
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { \\mathsf { L } } { \\mathsf { \\Lambda } }",
+    "bbox": [
+      547,
+      750,
+      562,
+      765
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C } { \\circ } \\|",
+    "bbox": [
+      511,
+      835,
+      549,
+      849
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C } \\frac { \\mathrm { \\Delta } } { \\mathrm { \\Delta } }",
+    "bbox": [
+      621,
+      836,
+      660,
+      849
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { C }",
+    "bbox": [
+      465,
+      901,
+      495,
+      915
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} \\sim \\textcircled { \\div }",
+    "bbox": [
+      222,
+      176,
+      257,
+      191
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 } \\sim \\textcircled { \\div } \\frac { \\partial } { \\partial \\textcircled { \\times } }",
+    "bbox": [
+      272,
+      210,
+      317,
+      225
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { C O _ { 2 } } ,",
+    "bbox": [
+      381,
+      210,
+      403,
+      225
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { N A D } ^ { + }",
+    "bbox": [
+      96,
+      226,
+      128,
+      241
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      230,
+      250,
+      371,
+      326
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>과정</td><td rowspan=1 colspan=3>분자 수를 더한 값</td></tr><tr><td rowspan=1 colspan=1>7+ㄴ</td><td rowspan=1 colspan=1>7+ㄷ</td><td rowspan=1 colspan=1>ㄴ+②</td></tr><tr><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>ⅡI</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>4</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "679026c5982ed2295fb4a4d98aaddf12df1425353202afebebf9bbc6c4d6da9b.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "= \\frac { 3 } { 4 }",
+    "bbox": [
+      299,
+      393,
+      329,
+      419
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\textcircled { \\circ }",
+    "bbox": [
+      231,
+      489,
+      253,
+      504
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
+    "bbox": [
+      278,
+      524,
+      302,
+      538
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { C O _ { 2 } }",
+    "bbox": [
+      326,
+      524,
+      346,
+      538
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      99,
+      565,
+      259,
+      648
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=2>ⅡI</td><td rowspan=1 colspan=1>Ⅲ</td></tr><tr><td rowspan=1 colspan=1>7(</td><td rowspan=1 colspan=2>I있음없음</td><td rowspan=1 colspan=1>7없음L있음</td></tr><tr><td></td><td></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>시간t2</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "259008283cdd077ad76b471af2c06405a568d6de620ef59b62e4627f4cf12510.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      272,
+      579,
+      397,
+      632
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>(가)</td><td>H20 → 2H + + 2e− + 2</td></tr><tr><td>(4)</td><td>NADP+ +2H+ +2e− → NADPH+H+</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "2666f0a3798e7eebdf41cd29a2d95db0f48d7513791654ec7134d0fc0f13b87b.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      296,
+      660,
+      306,
+      672
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { C O _ { 2 } }",
+    "bbox": [
+      175,
+      676,
+      197,
+      690
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { C O _ { 2 } ^ { \\circ } }",
+    "bbox": [
+      149,
+      717,
+      177,
+      731
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "t _ { 1 } \\ L _ { \\equiv } ^ { \\ L _ { \\bigcirc } ] }",
+    "bbox": [
+      245,
+      733,
+      266,
+      748
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "t _ { 2 } \\hat { \\mathbf { \\Lambda } } _ { \\mathbf { r } } ^ { \\mathbf { o } ] }",
+    "bbox": [
+      294,
+      733,
+      314,
+      748
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { ^ { 7 } H } )",
+    "bbox": [
+      186,
+      751,
+      204,
+      764
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 )",
+    "bbox": [
+      227,
+      817,
+      244,
+      831
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\psi )",
+    "bbox": [
+      262,
+      817,
+      281,
+      831
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circledcirc",
+    "bbox": [
+      144,
+      912,
+      158,
+      927
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { H } ^ { + }",
+    "bbox": [
+      718,
+      191,
+      735,
+      205
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { H } ^ { + } { \\xrightarrow { \\circ } } ",
+    "bbox": [
+      718,
+      207,
+      746,
+      222
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{7} ,",
+    "bbox": [
+      515,
+      284,
+      528,
+      298
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ { \\cdot \\circ \\dagger }",
+    "bbox": [
+      567,
+      318,
+      579,
+      331
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { O _ { 2 } }",
+    "bbox": [
+      604,
+      318,
+      618,
+      333
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      470,
+      369,
+      609,
+      455
+    ],
+    "page_idx": 1,
+    "image_path": "bbafbebe81a6d3e735d877fb7b73600d0e653243c59fb974045b9a00815c1b46.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      624,
+      370,
+      727,
+      430
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>구간</td><td rowspan=1 colspan=1>ATP 합성여부</td></tr><tr><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>합성됨</td></tr><tr><td rowspan=1 colspan=1>ⅡI</td><td rowspan=1 colspan=1>합성 안 됨</td></tr><tr><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>합성 안 됨</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "f8d3edbbce6f9b4c14a2a2bf441ec67d14d0444d157afcda2208940ec8c97368.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      645,
+      473,
+      655,
+      484
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 7 }",
+    "bbox": [
+      511,
+      788,
+      524,
+      801
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      655,
+      717,
+      750,
+      898
+    ],
+    "page_idx": 1,
+    "image_path": "ff3138c5801a820a148e8d10dcd281453095857811fa5bf8b924c0b92d8bcafa.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { \\Delta } { \\mathrm { ~ G ~ } } = 2 0 \\left| \\tau \\right| .",
+    "bbox": [
+      501,
+      855,
+      561,
+      880
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "3 ^ { \\prime }",
+    "bbox": [
+      640,
+      901,
+      653,
+      915
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { C } ^ { \\circ }",
+    "bbox": [
+      713,
+      901,
+      730,
+      915
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      645,
+      933,
+      655,
+      945
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle H > 1 >",
+    "bbox": [
+      252,
+      460,
+      288,
+      474
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { 1 } \\frac { \\partial } { 1 }",
+    "bbox": [
+      123,
+      534,
+      147,
+      549
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { \\ 4 }",
+    "bbox": [
+      214,
+      713,
+      226,
+      726
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { \\mathrm { ~ C ~ } } { \\mathrm { ~ G ~ } }",
+    "bbox": [
+      340,
+      849,
+      360,
+      875
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 1 } { 2 } \\diamond \\lvert \\boldsymbol { \\tau } \\rvert",
+    "bbox": [
+      114,
+      874,
+      157,
+      900
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      295,
+      919,
+      306,
+      931
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { C } { A + T } = \\frac { 3 } { 4 } \\circ | \\tau |",
+    "bbox": [
+      159,
+      1010,
+      248,
+      1036
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 7 )",
+    "bbox": [
+      565,
+      177,
+      582,
+      191
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      561,
+      217,
+      735,
+      291
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>생물</td><td rowspan=1 colspan=1>계명</td><td rowspan=1 colspan=1>특징의 개수</td></tr><tr><td rowspan=1 colspan=1>메테인 생성균</td><td rowspan=1 colspan=1>고세균계</td><td rowspan=1 colspan=1>?</td></tr><tr><td rowspan=1 colspan=1>대장균</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>a</td></tr><tr><td rowspan=1 colspan=1>소나무</td><td rowspan=1 colspan=1>식물계</td><td rowspan=1 colspan=1>b</td></tr><tr><td rowspan=1 colspan=1>불가사리</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>1</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "18c7baa48cbeee0d550cd226a2cb44f16d6c7b1afa97112ebf182603095c15b7.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      462,
+      216,
+      547,
+      291
+    ],
+    "page_idx": 2,
+    "image_path": "155c639bb460480a4ccda7555c92c1b971acf7fade6056fcc7ae5466fa263061.jpg",
+    "alt": "",
+    "caption": [
+      "(\\mathrm { ^ { 7 } H })",
+      "(\\psi)"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 1 > 0 1 1",
+    "bbox": [
+      617,
+      313,
+      664,
+      327
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { \\mathrm { a } } + \\textcircled { \\mathrm { b } } = 4 \\textcircled { \\mathrm { o } } |",
+    "bbox": [
+      472,
+      387,
+      537,
+      401
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\begin{array} { r l r l r l r l r l r l } { \\mathbb { D } \\ \\dashv } & { { } } & { } & { \\emptyset \\ \\vdash } & { { } } & { } & { \\ @ \\ \\vdash } & { { } } & { } & { \\ @ \\ \\top, \\ \\vdash } & { } & { { } \\odot \\ \\top, \\ \\sqsubset } \\end{array}",
+    "bbox": [
+      446,
+      433,
+      743,
+      450
+    ],
+    "page_idx": 2,
+    "original_type": "interline_equation"
+  },
+  {
+    "type": "inline_equation",
+    "content": "x",
+    "bbox": [
+      649,
+      605,
+      659,
+      617
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{ b}",
+    "bbox": [
+      545,
+      826,
+      558,
+      839
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      457,
+      843,
+      740,
+      915
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>시험관</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>I</td><td rowspan=1 colspan=1>Ⅲ</td><td rowspan=1 colspan=1>V</td></tr><tr><td rowspan=1 colspan=1>첨가한제한효소</td><td rowspan=1 colspan=1>BglⅡ</td><td rowspan=1 colspan=1>Kpn I</td><td rowspan=1 colspan=1>Xho I</td><td rowspan=1 colspan=1>BglⅡ, Kpn I</td></tr><tr><td rowspan=1 colspan=1>생성된DNA 조각수</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=1>생성된 각 DNA조각의 염기 수</td><td rowspan=1 colspan=1>12, a, b</td><td rowspan=1 colspan=1>30, 38</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>12, 18, 18, 20</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "a53eeb1af753e2089ee5e81670496735bd37b610c323598591fee439e6a96461.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "x 9 7",
+    "bbox": [
+      262,
+      160,
+      280,
+      173
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "x ^ { \\mathsf { o } } \\mathsf { I }",
+    "bbox": [
+      284,
+      160,
+      302,
+      173
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "y { \\underline { { \\circ } } } ]",
+    "bbox": [
+      132,
+      177,
+      151,
+      191
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { Y } 7",
+    "bbox": [
+      294,
+      208,
+      312,
+      221
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "x { \\overset { \\circ } { - } } 1",
+    "bbox": [
+      241,
+      225,
+      259,
+      238
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "5 ^ { \\prime } - ( 7 7 ) - ( 4 ) - 3 ^ { \\prime } \\diamond",
+    "bbox": [
+      213,
+      241,
+      313,
+      255
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( \\mathrm { ^ { 7 } H } )",
+    "bbox": [
+      117,
+      258,
+      135,
+      271
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "5 ^ { \\prime }",
+    "bbox": [
+      318,
+      258,
+      330,
+      271
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "3 ^ { \\prime }",
+    "bbox": [
+      363,
+      258,
+      375,
+      271
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled { \\scriptsize { 1 } } \\frac { \\textcircled { \\scriptsize { \\scriptsize { \\textrm { o } } } } } { \\textcircled { \\scriptsize { \\scriptsize { 1 } } } } 3",
+    "bbox": [
+      180,
+      274,
+      213,
+      288
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      160,
+      308,
+      341,
+      357
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td>구분</td><td colspan=\"2\">염기 서열</td></tr><tr><td>I</td><td colspan=\"2\">5&#x27;- CGCTACGTCACGCATGCG</td></tr><tr><td>I</td><td>@- CTTACGACTAGl</td><td>7 AT</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "3717823e10b39048bbcc70c2b9dd2a8ecf4755319f9d4acc9cb313fdf8163fc6.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      225,
+      444,
+      395,
+      569
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>UUU페닐알라닌C</td><td rowspan=1 colspan=2>UCU세린</td><td rowspan=1 colspan=1>UAU타이로신UAC</td><td rowspan=1 colspan=1>UGU시스테인UGC</td></tr><tr><td rowspan=2 colspan=1>UUA류신UUG</td><td rowspan=2 colspan=2>UCAUCG</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>UAA종결 코돈</td></tr><tr><td rowspan=1 colspan=1>UAG종결코돈</td><td rowspan=1 colspan=1>UGG트립토판</td></tr><tr><td rowspan=2 colspan=1>CUuC류신UACUG</td><td rowspan=2 colspan=2>CCUCCC프롤린CCACCG</td><td rowspan=1 colspan=1>CAU히스티딘CAC</td><td rowspan=2 colspan=1>CGUCGC아르지닌CGACGG</td></tr><tr><td rowspan=1 colspan=1>CAACAG글루타민</td></tr><tr><td rowspan=2 colspan=1>AUUAUC 아이소류신AUA</td><td rowspan=2 colspan=2>ACU(트레오닌ACA</td><td rowspan=1 colspan=1>AAU아스파라진AAC</td><td rowspan=1 colspan=1>AGU세린AGC</td></tr><tr><td rowspan=2 colspan=2>ACAACG</td><td rowspan=2 colspan=1>AAA라이신AAG</td><td rowspan=2 colspan=1>AGA아르지닌AGG</td></tr><tr><td rowspan=1 colspan=1>AUG메싸이오닌</td></tr><tr><td rowspan=2 colspan=1>GUUGU발린GUAGUG</td><td rowspan=2 colspan=2>GCUGCCGCA알라닌GCG</td><td rowspan=1 colspan=1>GAU아스파트산GAC</td><td rowspan=2 colspan=1>GGUC글리신GGAGGG</td></tr><tr><td rowspan=1 colspan=1>GAA글루탐산GA</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "53236627846ae1ccab35e6861bc71be2a8a2e392e7a889f7f1a9933a1722fbd4.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      296,
+      587,
+      306,
+      598
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "3 ^ { \\prime }",
+    "bbox": [
+      262,
+      677,
+      273,
+      690
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { A } { \\sim } \\mathrm { D }",
+    "bbox": [
+      270,
+      807,
+      301,
+      822
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      157,
+      865,
+      343,
+      940
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>특징</td><td rowspan=1 colspan=1>특징을 가지는 생물</td></tr><tr><td rowspan=1 colspan=1>촉수담륜동물에 속한다.</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>원구가 항문이 된다.</td><td rowspan=1 colspan=1>B, C</td></tr><tr><td rowspan=1 colspan=1>척삭을 형성한다.</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>D</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "918a4956dbe93c0112193293022a10a3e47a2a72791f7db0873902445b735121.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      633,
+      259,
+      747,
+      286
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>프로모터</td><td rowspan=1 colspan=1>유전자(가)</td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=2>C</td><td rowspan=1 colspan=1>프로모터</td><td rowspan=1 colspan=1>유전자(나)</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "61d06e56c2beb9fef2a0eedd55ce390a45c839793d5be4cd51071039babcf0a5.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      621,
+      376,
+      746,
+      449
+    ],
+    "page_idx": 3,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>발현된전사 인자</td><td rowspan=1 colspan=3>세포</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>L</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=1 colspan=1>X, Y</td><td rowspan=1 colspan=1>a</td><td rowspan=1 colspan=1>?</td><td rowspan=1 colspan=1>×</td></tr><tr><td rowspan=1 colspan=1>X, Z</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>Y, Z</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>?</td></tr><tr><td rowspan=1 colspan=4>(O:형성됨,×:형성 안 됨)</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "525e7ec3a48cebe986cb95ed2dbb9f9f4375314d18ccf7188819c69568c5ce4e.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      644,
+      466,
+      655,
+      477
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\circled{5}",
+    "bbox": [
+      472,
+      539,
+      485,
+      552
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "2 N",
+    "bbox": [
+      634,
+      704,
+      654,
+      718
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "3 N",
+    "bbox": [
+      666,
+      704,
+      686,
+      718
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 3 } { 8 } \\textcircled { < } \\frac { \\pi } { \\pi }",
+    "bbox": [
+      702,
+      789,
+      744,
+      814
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\frac { 4 } { 9 }",
+    "bbox": [
+      500,
+      819,
+      520,
+      844
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "= \\frac { 7 } { 1 5 } \\diamond \\lvert \\mathfrak { r } \\rvert",
+    "bbox": [
+      587,
+      849,
+      638,
+      876
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "= \\frac { 3 } { 8 } \\diamond ] \\eta",
+    "bbox": [
+      609,
+      879,
+      652,
+      906
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "( 4 ) > \\alpha",
+    "bbox": [
+      492,
+      923,
+      524,
+      937
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "interline_equation",
+    "content": "\\begin{array} { r l } { \\textcircled { 1 } \\displaystyle \\frac { 1 } { 1 6 } N } & { { } \\textcircled { 2 } \\displaystyle \\frac { 1 } { 8 } N \\quad \\textcircled { 3 } \\displaystyle \\frac { 3 } { 1 6 } N \\quad \\textcircled { 4 } \\displaystyle \\frac { 1 5 } { 1 6 } N \\quad \\textcircled { 5 } \\displaystyle \\frac { 1 5 } { 8 } N } \\end{array}",
+    "bbox": [
+      443,
+      946,
+      739,
+      973
+    ],
+    "page_idx": 3,
+    "original_type": "interline_equation"
   }
 ]

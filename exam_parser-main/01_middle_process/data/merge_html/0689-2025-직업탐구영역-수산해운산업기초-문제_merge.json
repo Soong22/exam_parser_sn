@@ -1,81 +1,6 @@
 [
   {
     "type": "text",
-    "text": "제 4 교시",
-    "bbox": [
-      92,
-      153,
-      173,
-      190
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 60,
-      "end_orig": 66,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
-    "text": "직업탐구 영역(수산·해운 산업 기초)",
-    "bbox": [
-      186,
-      144,
-      705,
-      200
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": false,
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "not_found"
-    }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      339,
-      209,
-      597,
-      237
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "1f9c349e2eb7c6d585dabc3900094a017e73df06a7dea4acedaa5c6193e3fc43.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "text",
-    "text": "제[ ] 선택",
-    "bbox": [
-      614,
-      211,
-      700,
-      236
-    ],
-    "page_idx": 0,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": 89,
-      "end_orig": 96,
-      "reason": "passed_threshold_no_ws"
-    }
-  },
-  {
-    "type": "text",
     "text": "1. 다음 상황에서 소개하는 해양 레저 스포츠로 옳은 것은?",
     "bbox": [
       86,
@@ -136,7 +61,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 기사에 나타난 드론의 활동과 유사한 어로 과정의 단계에 해당하는 사례로 적절한 것만을 <보기>에서 고른 것은?  [3점]\n",
+    "text": "2. 다음 기사에 나타난 드론의 활동과 유사한 어로 과정의 단계에 해당하는 사례로 적절한 것만을 <보기>에서 고른 것은?  [3점]\n",
     "bbox": [
       86,
       521,
@@ -147,9 +72,9 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9908,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 189,
+      "start_orig": 188,
       "end_orig": 262,
       "reason": "passed_threshold_no_ws"
     }
@@ -435,20 +360,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      307,
-      896,
-      402,
-      998
-    ],
-    "page_idx": 0,
-    "image_path": "25185f2cc0e46b3d6ee9c0a6463cfe201d311076d91542b58c76c536d704e1fa.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "A 씨는 아래와 같은 [위험물 점검표]의 확인 결과에 따라 컨테이너에 위험물 표찰을 부착하였다.",
     "bbox": [
@@ -467,37 +378,6 @@
       "end_orig": 974,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      463,
-      357,
-      737,
-      468
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td rowspan=2 colspan=1>점검사항</td><td rowspan=1 colspan=2>확인결과</td></tr><tr><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=1 colspan=1>폭발성 물질이 있는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>인화성 액체류가 있는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>독성 물질이 있는가?</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>방사성 핵종이 포함된 물질이 있는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>부식성 물질이 있는가?</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1></td></tr></table>",
-    "table_caption": [
-      "[위험물 점검표]"
-    ],
-    "table_footnote": [],
-    "image_path": "0e691cde41f0034294ed7af97dae91c6afe6993d5a759125336d27dc84636023.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      486,
-      754,
-      577
-    ],
-    "page_idx": 0,
-    "image_path": "31d969cec7ce1bab372a86543b806211d2a721dd7b859fe2fb54e7a84d06b7e8.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -521,7 +401,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ,  ㄴ ② ㄱ,  ㄷ ③ ㄴ,  ㄷ ④ ㄴ,  ㄹ ⑤",
+    "text": "①ㄱ,ㄴ ②7,ㄷ ③ㄴ,ㄷ ④ㄴ,ㄹ ⑤",
     "bbox": [
       445,
       583,
@@ -531,12 +411,12 @@
     "page_idx": 0,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 994,
-      "end_orig": 1027,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -600,21 +480,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      466,
-      757,
-      732,
-      1013
-    ],
-    "page_idx": 0,
-    "table_body": "<table><tr><td colspan=\"2\">[조사 보고서]</td></tr><tr><td>제목</td><td>OO섬의 선박조사하기</td></tr><tr><td>선박 사진</td><td></td></tr><tr><td>조사 내용</td><td>-선박 아래가운데가 쁨뚫려 있다 -항해시 조파저항을 줄일수 있다 -갑판공간확보가용이하다 &quot;선생님의 보충설명* 모양이같은두개의선체를상부구조물로연결하여 만들었기 때문이야</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "9017bf1e159326fe167aba121c10eceb57adfaf2450418a627019a4b2ce85b7c.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① 쇄빙선 ② 쌍동선 ③ 수중익선\n④ 외륜기선 ⑤ 에어쿠션선",
     "bbox": [
@@ -655,21 +520,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      101,
-      200,
-      397,
-      366
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>답장 전체답장 전달삭제 안읽음 … 목록 </td></tr><tr><td>컨테이너 운임 할증료 부과 안내 보낸사람OO해운</td></tr><tr><td>받는 사람(주) 안녕하세요? O해운입니다.</td></tr><tr><td>해상 운송계약 체결 시운임 표기 화폐인미국달러에 대한 원화 환율이 US$1=W1,350이었으나, 화물 운송완료후 (주)로부터 운임을받는 현 시점의 미국 달러에 대한 원화환율은US$1=W1,250이 되었습니다. 이에 따라귀사로부터 받는운임을 원화로 즉시 환전할 때당사에 발생하는 손실을 보전하기 위해 귀사에 할증료를 부과하였음을 알려 드립니다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "3e1b1c6ef86b52f7b5fa1053c7881d2e5de185af066590c81df483feec03cd7c.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "① 용적 할증료 ② 유류 할증료 ③ 장척 할증료\n④ 중량 할증료 ⑤ 통화 할증료",
     "bbox": [
@@ -691,7 +541,7 @@
   },
   {
     "type": "text",
-    "text": ". 다음 기사를 통해 알 수 있는 이동 수단을 활용한 해양 관광 상품으로 가장 적절한 것은?\n",
+    "text": "7. 다음 기사를 통해 알 수 있는 이동 수단을 활용한 해양 관광 상품으로 가장 적절한 것은?",
     "bbox": [
       86,
       475,
@@ -702,10 +552,10 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": true,
-      "similarity": 0.9863,
+      "similarity": 1.0,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 1352,
-      "end_orig": 1404,
+      "start_orig": 1351,
+      "end_orig": 1403,
       "reason": "passed_threshold_no_ws"
     }
   },
@@ -768,22 +618,6 @@
       "end_orig": 1660,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      308,
-      520,
-      401,
-      599
-    ],
-    "page_idx": 1,
-    "image_path": "f9dd291fe1bfbfc8646c5cc103dae26beffb4e20cc512227b40a179d6035b171.jpg",
-    "alt": "",
-    "caption": [
-      "<개발 모형도>"
-    ],
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1006,21 +840,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      456,
-      283,
-      743,
-      315
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>과정1</td><td>정상보다 체색이 검게 변한 넓치들이 표층에 힘없이 유영 하는 것을 발견하였다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "6b3cc5f97c6bca38cc8b033a03f388a3f6c6ceb2d6094f670a4c178c3cd8104b.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "↓",
     "bbox": [
@@ -1041,21 +860,6 @@
     }
   },
   {
-    "type": "table",
-    "bbox": [
-      456,
-      335,
-      744,
-      365
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>과정2</td><td>질병 감염이 의심되어 전염을 방지하기 위해 이상 증상이 있는 넓치들을 별도의 격리 수조로 옮겼다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "9abdd4140e49249703f2397e8b31140d9952bf33e8fbf4d98ac8749ed153558d.jpg",
-    "original_type": "table"
-  },
-  {
     "type": "text",
     "text": "↓",
     "bbox": [
@@ -1074,36 +878,6 @@
       "end_orig": null,
       "reason": "empty_query"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      455,
-      387,
-      744,
-      430
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>과정3</td><td>격리된 넘치의 이상 부위 일부를 떼어 내어 미생물 배지에배양한후 현미경으로관찰한 결과,에드워드병에 감염된 것을 확인하였다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "5c0e4721cb3c0e164a662e81121e0520f5f529bb32b58c651dd6fcbb0a3f26e3.jpg",
-    "original_type": "table"
-  },
-  {
-    "type": "table",
-    "bbox": [
-      454,
-      452,
-      743,
-      484
-    ],
-    "page_idx": 1,
-    "table_body": "<table><tr><td>과정4</td><td>수산질병관리사의 처방에 따라 항생제를 사료에 첨가 하여 감염된 넘치에 먹이면서 그 상태를 관찰하였다.</td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "04b6ca411370fed5ee87ddf4e11cea01a910c72610daa792bc8a176d62979d65.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -1186,26 +960,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      510,
-      637,
-      519,
-      649
-    ],
-    "page_idx": 1,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -1224,20 +978,6 @@
       "end_orig": 2508,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      446,
-      662,
-      752,
-      960
-    ],
-    "page_idx": 1,
-    "image_path": "1a99b37597c22325c0d88cade38baf8051c9e82e47f31919f931fe946b3c4aa4.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1321,7 +1061,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "① 7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ㄱ, ㄴ, ㄷ",
     "bbox": [
       443,
       1050,
@@ -1331,12 +1071,12 @@
     "page_idx": 1,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 2584,
-      "end_orig": 2619,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1398,20 +1138,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      94,
-      276,
-      399,
-      448
-    ],
-    "page_idx": 2,
-    "image_path": "465fddc26e171030fcd6900bb69aca8c7592796387ed0d79dd9d06d2411a0d78.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -1574,26 +1300,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": ">",
-    "bbox": [
-      667,
-      177,
-      677,
-      189
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]",
     "bbox": [
@@ -1634,26 +1340,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "\\textcircled{41 }",
-    "bbox": [
-      455,
-      251,
-      471,
-      267
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "네. [",
     "bbox": [
@@ -1671,26 +1357,6 @@
       "start_orig": 3588,
       "end_orig": 3592,
       "reason": "low_similarity"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\overline { { ( 7 4 ) } }",
-    "bbox": [
-      511,
-      255,
-      528,
-      266
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1731,26 +1397,6 @@
       "start_orig": null,
       "end_orig": null,
       "reason": "not_found"
-    }
-  },
-  {
-    "type": "inline_equation",
-    "content": "\\textcircled{41 }",
-    "bbox": [
-      455,
-      322,
-      471,
-      338
-    ],
-    "page_idx": 2,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
     }
   },
   {
@@ -1895,7 +1541,7 @@
   },
   {
     "type": "text",
-    "text": "①ㄱ ② ㄴ ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ ① ㄱ, ㄴ ② ㄱ, ㄷ ③ ④ ㄴ, ㄹ ⑤",
+    "text": "①7 ② L ③ ㄱ, ㄷ ④ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ ① ㄱ, ㄴ ② ㄱ, ㄷ ③ ④ ㄴ, ㄹ ⑤",
     "bbox": [
       97,
       555,
@@ -1906,11 +1552,11 @@
     "_xhtml_replace": {
       "function": "replace_text_blocks",
       "replaced": false,
-      "similarity": 0.5938,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4121,
-      "end_orig": 4174,
-      "reason": "low_similarity"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -1972,21 +1618,6 @@
       "end_orig": null,
       "reason": "not_found"
     }
-  },
-  {
-    "type": "table",
-    "bbox": [
-      97,
-      812,
-      403,
-      976
-    ],
-    "page_idx": 2,
-    "table_body": "<table><tr><td colspan=\"4\">O0아쿠아리움</td><td></td><td></td><td></td><td>□</td><td></td><td>×</td></tr><tr><td colspan=\"4\">← → 0</td><td></td><td>$2$</td><td></td><td></td><td>:</td><td>···</td></tr><tr><td colspan=\"4\">HOME&gt;고객게시판&gt;Q&amp;A</td><td>고객게시판</td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td colspan=\"4\">@love_fish 아쿠아리움에서건강하게관리하고있는해양생물을 보고왔습니다.그런데 그곳은 내륙 지역에 위치하고있어 사육수를 새로운 바닷물로 교체하기어려울 것</td><td></td><td></td><td></td><td>2024. 9. 22. 10:25</td><td></td><td></td></tr><tr><td colspan=\"4\">같은데요. 수질을 어떻게 관리하시는지 궁금합니다 LAOO아쿠아리움</td><td>2024. 9. 23. 11:30</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"4\">저희는LSS(Life Support System) 설비를 이용해 사육 시설 내의 오염 물질을 제거하고살균 처리단계를통해사육수를정화한 후다시사용하기때문에 해양</td><td colspan=\"3\">생물이 살아가는 데 안정적인 수질 환경을 제공합니다</td><td colspan=\"2\"></td><td></td></tr></table>",
-    "table_caption": [],
-    "table_footnote": [],
-    "image_path": "05abc1d37ea9d663e74ad739f9d55a6457b61ed2088a111a5b92d2e4ab634fcc.jpg",
-    "original_type": "table"
   },
   {
     "type": "text",
@@ -2109,20 +1740,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      447,
-      697,
-      753,
-      1028
-    ],
-    "page_idx": 2,
-    "image_path": "27f36af99003e8960063c498f711a7cc6d5e37ddf01c16d21f9b8b5a8845a509.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 명태 동건품 ② 조기 염건품 ③ 해삼 자건품\n④ 오징어 소건품 ⑤ 쥐치 조미건품",
     "bbox": [
@@ -2161,20 +1778,6 @@
       "end_orig": 3410,
       "reason": "passed_threshold_no_ws"
     }
-  },
-  {
-    "type": "image",
-    "bbox": [
-      96,
-      199,
-      400,
-      367
-    ],
-    "page_idx": 3,
-    "image_path": "a65e8fc00598cf973f12fb10b3ae86eb7e0fb53b4708cf1989259e415d296396.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
   },
   {
     "type": "text",
@@ -2418,7 +2021,7 @@
   },
   {
     "type": "text",
-    "text": "ㄹ.본교 실습선의 노후화로 인해 새로운소형 어선을건조하고자 합니다.",
+    "text": "2.본교 실습선의 노후화로 인해 새로운소형 어선을건조하고자 합니다.",
     "bbox": [
       114,
       930,
@@ -2577,26 +2180,6 @@
     }
   },
   {
-    "type": "inline_equation",
-    "content": "| >",
-    "bbox": [
-      561,
-      177,
-      571,
-      189
-    ],
-    "page_idx": 3,
-    "_xhtml_replace": {
-      "function": "replace_text_blocks",
-      "replaced": "inline_equation",
-      "similarity": null,
-      "similarity_mode": "no_ws_hanless",
-      "start_orig": null,
-      "end_orig": null,
-      "reason": "non_text_block"
-    }
-  },
-  {
     "type": "text",
     "text": "에서 있는 대로 고른 것은?  [3점]\n",
     "bbox": [
@@ -2717,20 +2300,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      467,
-      320,
-      711,
-      438
-    ],
-    "page_idx": 3,
-    "image_path": "0c5f3fc080ce5397ced3ed58baddcf99cf85833a0d68d0c6eec5213fc4fa33fc.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "<보  기>",
     "bbox": [
@@ -2812,7 +2381,7 @@
   },
   {
     "type": "text",
-    "text": "① ㄱ ② ㄴ ③ ㄱ,  ㄷ ④ ㄴ,  ㄷ ⑤ ㄱ,  ㄴ,  ㄷ",
+    "text": "① 7 ② L ③ ㄱ, ㄷ ④ ㄴ, ㄷ ⑤ ㄱ, ㄴ, ㄷ",
     "bbox": [
       445,
       536,
@@ -2822,12 +2391,12 @@
     "page_idx": 3,
     "_xhtml_replace": {
       "function": "replace_text_blocks",
-      "replaced": true,
-      "similarity": 1.0,
+      "replaced": false,
+      "similarity": null,
       "similarity_mode": "no_ws_hanless",
-      "start_orig": 4121,
-      "end_orig": 4156,
-      "reason": "passed_threshold_no_ws"
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
     }
   },
   {
@@ -2931,20 +2500,6 @@
     }
   },
   {
-    "type": "image",
-    "bbox": [
-      454,
-      759,
-      745,
-      924
-    ],
-    "page_idx": 3,
-    "image_path": "f9d1f1be61a87043c6542d47483181d37a0b810aeb5b12198f7c03bc84e5a15a.jpg",
-    "alt": "",
-    "caption": null,
-    "original_type": "image"
-  },
-  {
     "type": "text",
     "text": "① 갑문 ② 안벽 ③ 호안 ④ 방사제 ⑤ 방조제",
     "bbox": [
@@ -3003,5 +2558,450 @@
       "end_orig": 4491,
       "reason": "passed_threshold_no_ws"
     }
+  },
+  {
+    "type": "text",
+    "text": "제 4 교시",
+    "bbox": [
+      92,
+      153,
+      173,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 60,
+      "end_orig": 66,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "직업탐구 영역(수산·해운 산업 기초)",
+    "bbox": [
+      186,
+      144,
+      705,
+      200
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제[ ] 선택",
+    "bbox": [
+      614,
+      211,
+      700,
+      236
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 89,
+      "end_orig": 96,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      339,
+      209,
+      597,
+      237
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=1 colspan=1>수험번호</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "1f9c349e2eb7c6d585dabc3900094a017e73df06a7dea4acedaa5c6193e3fc43.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      307,
+      896,
+      402,
+      998
+    ],
+    "page_idx": 0,
+    "image_path": "25185f2cc0e46b3d6ee9c0a6463cfe201d311076d91542b58c76c536d704e1fa.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      463,
+      357,
+      737,
+      468
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td rowspan=2 colspan=1>점검사항</td><td rowspan=1 colspan=2>확인결과</td></tr><tr><td rowspan=1 colspan=1>예</td><td rowspan=1 colspan=1>아니요</td></tr><tr><td rowspan=1 colspan=1>폭발성 물질이 있는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>인화성 액체류가 있는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>독성 물질이 있는가?</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>방사성 핵종이 포함된 물질이 있는가?</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>부식성 물질이 있는가?</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1></td></tr></table>",
+    "table_caption": [
+      "[위험물 점검표]"
+    ],
+    "table_footnote": [],
+    "image_path": "0e691cde41f0034294ed7af97dae91c6afe6993d5a759125336d27dc84636023.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      486,
+      754,
+      577
+    ],
+    "page_idx": 0,
+    "image_path": "31d969cec7ce1bab372a86543b806211d2a721dd7b859fe2fb54e7a84d06b7e8.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      466,
+      757,
+      732,
+      1013
+    ],
+    "page_idx": 0,
+    "table_body": "<table><tr><td colspan=\"2\">[조사 보고서]</td></tr><tr><td>제목</td><td>OO섬의 선박조사하기</td></tr><tr><td>선박 사진</td><td></td></tr><tr><td>조사 내용</td><td>-선박 아래가운데가 쁨뚫려 있다 -항해시 조파저항을 줄일수 있다 -갑판공간확보가용이하다 &quot;선생님의 보충설명* 모양이같은두개의선체를상부구조물로연결하여 만들었기 때문이야</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "9017bf1e159326fe167aba121c10eceb57adfaf2450418a627019a4b2ce85b7c.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      101,
+      200,
+      397,
+      366
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>답장 전체답장 전달삭제 안읽음 … 목록 </td></tr><tr><td>컨테이너 운임 할증료 부과 안내 보낸사람OO해운</td></tr><tr><td>받는 사람(주) 안녕하세요? O해운입니다.</td></tr><tr><td>해상 운송계약 체결 시운임 표기 화폐인미국달러에 대한 원화 환율이 US$1=W1,350이었으나, 화물 운송완료후 (주)로부터 운임을받는 현 시점의 미국 달러에 대한 원화환율은US$1=W1,250이 되었습니다. 이에 따라귀사로부터 받는운임을 원화로 즉시 환전할 때당사에 발생하는 손실을 보전하기 위해 귀사에 할증료를 부과하였음을 알려 드립니다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "3e1b1c6ef86b52f7b5fa1053c7881d2e5de185af066590c81df483feec03cd7c.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      308,
+      520,
+      401,
+      599
+    ],
+    "page_idx": 1,
+    "image_path": "f9dd291fe1bfbfc8646c5cc103dae26beffb4e20cc512227b40a179d6035b171.jpg",
+    "alt": "",
+    "caption": [
+      "<개발 모형도>"
+    ],
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      456,
+      283,
+      743,
+      315
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>과정1</td><td>정상보다 체색이 검게 변한 넓치들이 표층에 힘없이 유영 하는 것을 발견하였다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "6b3cc5f97c6bca38cc8b033a03f388a3f6c6ceb2d6094f670a4c178c3cd8104b.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      456,
+      335,
+      744,
+      365
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>과정2</td><td>질병 감염이 의심되어 전염을 방지하기 위해 이상 증상이 있는 넓치들을 별도의 격리 수조로 옮겼다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "9abdd4140e49249703f2397e8b31140d9952bf33e8fbf4d98ac8749ed153558d.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      455,
+      387,
+      744,
+      430
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>과정3</td><td>격리된 넘치의 이상 부위 일부를 떼어 내어 미생물 배지에배양한후 현미경으로관찰한 결과,에드워드병에 감염된 것을 확인하였다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "5c0e4721cb3c0e164a662e81121e0520f5f529bb32b58c651dd6fcbb0a3f26e3.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      454,
+      452,
+      743,
+      484
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>과정4</td><td>수산질병관리사의 처방에 따라 항생제를 사료에 첨가 하여 감염된 넘치에 먹이면서 그 상태를 관찰하였다.</td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "04b6ca411370fed5ee87ddf4e11cea01a910c72610daa792bc8a176d62979d65.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      510,
+      637,
+      519,
+      649
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      662,
+      752,
+      960
+    ],
+    "page_idx": 1,
+    "image_path": "1a99b37597c22325c0d88cade38baf8051c9e82e47f31919f931fe946b3c4aa4.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      94,
+      276,
+      399,
+      448
+    ],
+    "page_idx": 2,
+    "image_path": "465fddc26e171030fcd6900bb69aca8c7592796387ed0d79dd9d06d2411a0d78.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": ">",
+    "bbox": [
+      667,
+      177,
+      677,
+      189
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{41 }",
+    "bbox": [
+      455,
+      251,
+      471,
+      267
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\overline { { ( 7 4 ) } }",
+    "bbox": [
+      511,
+      255,
+      528,
+      266
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\textcircled{41 }",
+    "bbox": [
+      455,
+      322,
+      471,
+      338
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "table",
+    "bbox": [
+      97,
+      812,
+      403,
+      976
+    ],
+    "page_idx": 2,
+    "table_body": "<table><tr><td colspan=\"4\">O0아쿠아리움</td><td></td><td></td><td></td><td>□</td><td></td><td>×</td></tr><tr><td colspan=\"4\">← → 0</td><td></td><td>$2$</td><td></td><td></td><td>:</td><td>···</td></tr><tr><td colspan=\"4\">HOME&gt;고객게시판&gt;Q&amp;A</td><td>고객게시판</td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td colspan=\"4\">@love_fish 아쿠아리움에서건강하게관리하고있는해양생물을 보고왔습니다.그런데 그곳은 내륙 지역에 위치하고있어 사육수를 새로운 바닷물로 교체하기어려울 것</td><td></td><td></td><td></td><td>2024. 9. 22. 10:25</td><td></td><td></td></tr><tr><td colspan=\"4\">같은데요. 수질을 어떻게 관리하시는지 궁금합니다 LAOO아쿠아리움</td><td>2024. 9. 23. 11:30</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"4\">저희는LSS(Life Support System) 설비를 이용해 사육 시설 내의 오염 물질을 제거하고살균 처리단계를통해사육수를정화한 후다시사용하기때문에 해양</td><td colspan=\"3\">생물이 살아가는 데 안정적인 수질 환경을 제공합니다</td><td colspan=\"2\"></td><td></td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "05abc1d37ea9d663e74ad739f9d55a6457b61ed2088a111a5b92d2e4ab634fcc.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      447,
+      697,
+      753,
+      1028
+    ],
+    "page_idx": 2,
+    "image_path": "27f36af99003e8960063c498f711a7cc6d5e37ddf01c16d21f9b8b5a8845a509.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      199,
+      400,
+      367
+    ],
+    "page_idx": 3,
+    "image_path": "a65e8fc00598cf973f12fb10b3ae86eb7e0fb53b4708cf1989259e415d296396.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      561,
+      177,
+      571,
+      189
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      467,
+      320,
+      711,
+      438
+    ],
+    "page_idx": 3,
+    "image_path": "0c5f3fc080ce5397ced3ed58baddcf99cf85833a0d68d0c6eec5213fc4fa33fc.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      454,
+      759,
+      745,
+      924
+    ],
+    "page_idx": 3,
+    "image_path": "f9d1f1be61a87043c6542d47483181d37a0b810aeb5b12198f7c03bc84e5a15a.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
   }
 ]

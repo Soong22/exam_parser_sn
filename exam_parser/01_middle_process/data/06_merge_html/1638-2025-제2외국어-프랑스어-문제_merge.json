@@ -1,0 +1,4351 @@
+[
+  {
+    "type": "text",
+    "text": "1. 밑줄 친 부분과 같은 발음이 들어 있는 낱말은?",
+    "bbox": [
+      86,
+      255,
+      344,
+      272
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3,
+      "end_orig": 32,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  jeu\n②  mars\n③  page\n④  douze\n⑤  histoire",
+    "bbox": [
+      287,
+      287,
+      344,
+      376
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 33,
+      "end_orig": 76,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "2. 밑줄 친 낱말의 철자가 옳지 않은 것은?",
+    "bbox": [
+      85,
+      438,
+      308,
+      457
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 99,
+      "end_orig": 124,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(a) Elle se léve a 6 heures.",
+    "bbox": [
+      121,
+      473,
+      261,
+      488
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.087,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 146,
+      "end_orig": 150,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "(b) Nous  changeons  d'avis.",
+    "bbox": [
+      121,
+      489,
+      262,
+      506
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 159,
+      "end_orig": 187,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": " (c) Je  jete  mes  vieux  vêtements. ",
+    "bbox": [
+      120,
+      506,
+      289,
+      524
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.963,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 187,
+      "end_orig": 225,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": " (d) Ils  finissent  leurs  devoirs  d'anglais. ",
+    "bbox": [
+      122,
+      525,
+      320,
+      541
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9863,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 224,
+      "end_orig": 272,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": " (e) Nous  commençons  à  chanter  ensemble.\n",
+    "bbox": [
+      122,
+      542,
+      337,
+      557
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9412,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 271,
+      "end_orig": 316,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  (a) ②  (b) ③  (c) ④  (d) ⑤  (e)",
+    "bbox": [
+      97,
+      572,
+      377,
+      592
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 316,
+      "end_orig": 350,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "3. 빈칸에 공통으로 들어갈 말로 알맞은 것은?  [1점] ",
+    "bbox": [
+      84,
+      639,
+      352,
+      657
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 351,
+      "end_orig": 384,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : La  fête  du  Travail,  ça  quel  jour ?\n",
+    "bbox": [
+      105,
+      669,
+      339,
+      687
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.931,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 384,
+      "end_orig": 429,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : C'est  un  vendredi.",
+    "bbox": [
+      105,
+      689,
+      219,
+      702
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 429,
+      "end_orig": 453,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Ça  bien.  On  a  un  week-end  de  trois  jours !\n",
+    "bbox": [
+      104,
+      704,
+      389,
+      722
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9429,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 454,
+      "end_orig": 509,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  pense ②  tombe ③  quitte ④  prépare ⑤  raconte",
+    "bbox": [
+      97,
+      730,
+      399,
+      752
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 509,
+      "end_orig": 558,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "4. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      799,
+      275,
+      816
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 559,
+      "end_orig": 580,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Comment  tu  fais  pour  rester  en  forme ?",
+    "bbox": [
+      106,
+      830,
+      327,
+      844
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 581,
+      "end_orig": 629,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Je  fais  une  heure  de  danse  tous  les  jours.",
+    "bbox": [
+      105,
+      847,
+      338,
+      862
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 630,
+      "end_orig": 684,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Je  ne  mange  pas  trop,  je  mange  . A : Ah,  c'est  pour  ça  que  tu  prends  souvent  de  la  salade.\n",
+    "bbox": [
+      106,
+      866,
+      397,
+      897
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9784,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 685,
+      "end_orig": 793,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  fort ②  haut ③  léger ④  lourd ⑤  mauvais",
+    "bbox": [
+      97,
+      907,
+      404,
+      928
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9831,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 793,
+      "end_orig": 837,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "5.빈간에 공통으로 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      974,
+      322,
+      993
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ Il  a  écrit  une  de  théâtre.\n",
+    "bbox": [
+      108,
+      1005,
+      293,
+      1022
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9091,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 865,
+      "end_orig": 899,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ Dans  la  maison,  cette  sert  de  chambre  d'amis.",
+    "bbox": [
+      108,
+      1022,
+      398,
+      1040
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9744,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 899,
+      "end_orig": 953,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  vie ②  leçon ③  pièce ④  lunette ⑤  nouvelle",
+    "bbox": [
+      97,
+      1048,
+      405,
+      1072
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9355,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 954,
+      "end_orig": 1001,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "6. 빈칸에 들어갈 말로 알맞은 것은?  [1점]\n",
+    "bbox": [
+      434,
+      255,
+      653,
+      272
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1008,
+      "end_orig": 1036,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Ça sent bon! Tu as fait du poulet. ",
+    "bbox": [
+      547,
+      286,
+      746,
+      301
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9655,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1036,
+      "end_orig": 1074,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Oui.",
+    "bbox": [
+      546,
+      303,
+      592,
+      318
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1074,
+      "end_orig": 1082,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: A toi aussi.",
+    "bbox": [
+      547,
+      319,
+      629,
+      336
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Je  regrette.",
+    "bbox": [
+      446,
+      348,
+      521,
+      366
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1099,
+      "end_orig": 1115,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  Tu  as  tort.",
+    "bbox": [
+      604,
+      349,
+      680,
+      365
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1116,
+      "end_orig": 1132,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  Toi  non  plus.",
+    "bbox": [
+      446,
+      366,
+      532,
+      383
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1133,
+      "end_orig": 1151,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  Bon  appétit !\n",
+    "bbox": [
+      604,
+      366,
+      687,
+      383
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1152,
+      "end_orig": 1170,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  C'est  dommage !\n",
+    "bbox": [
+      446,
+      383,
+      549,
+      400
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1170,
+      "end_orig": 1190,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "7.빈간에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      435,
+      457,
+      623,
+      475
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Tu  peux  me  prêter  ton  cahier  d'exercices ?\n",
+    "bbox": [
+      454,
+      489,
+      694,
+      504
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.973,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1212,
+      "end_orig": 1265,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Bien sür. Le voila!",
+    "bbox": [
+      453,
+      506,
+      573,
+      521
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : .  Je  te  le  rends  le  plus  tôt possible.\n",
+    "bbox": [
+      453,
+      523,
+      748,
+      556
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9524,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1293,
+      "end_orig": 1343,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Je  suis  contre ②  Ce  n'est  pas  moi\n③  C'est  gentil  à  toi ④  Je  ne  suis  pas  d'accord\n⑤  Je  ne  peux  pas  accepter",
+    "bbox": [
+      446,
+      569,
+      743,
+      621
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.988,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1343,
+      "end_orig": 1472,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "8. 빈칸에 들어갈 말로 알맞은 것은?  [1점]\n",
+    "bbox": [
+      435,
+      677,
+      652,
+      695
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1473,
+      "end_orig": 1501,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Regarde ces pulls. Ils ne sont pas mal. Tu préfères quelle couleur? ",
+    "bbox": [
+      542,
+      713,
+      747,
+      745
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9828,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1501,
+      "end_orig": 1572,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B:. Ca me va bien.",
+    "bbox": [
+      541,
+      748,
+      746,
+      762
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: C'est vrai.",
+    "bbox": [
+      542,
+      765,
+      616,
+      780
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1593,
+      "end_orig": 1607,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  J'adore  le  rouge ②  Il  fait  très  froid\n③  Il  est  trop  grand ④  Je  déteste  les  pulls\n⑤  J'ai  mal  aux  jambes",
+    "bbox": [
+      446,
+      797,
+      719,
+      848
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9877,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1608,
+      "end_orig": 1731,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "9.빈간에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      434,
+      905,
+      624,
+      924
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Hugo: Tu  es  occupé ?",
+    "bbox": [
+      454,
+      937,
+      570,
+      952
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1754,
+      "end_orig": 1776,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Théo : Non,  je  suis  libre.",
+    "bbox": [
+      455,
+      954,
+      582,
+      969
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1777,
+      "end_orig": 1806,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Hugo: ?",
+    "bbox": [
+      453,
+      970,
+      626,
+      987
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1807,
+      "end_orig": 1814,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Théo : Volontiers !\n",
+    "bbox": [
+      455,
+      990,
+      549,
+      1002
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1815,
+      "end_orig": 1835,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  C'est  à  toi ②  Tu  es  d'où\n③  Pourquoi  faire ④  Tu  es  fatigué\n⑤  Si  on  allait  se  promener",
+    "bbox": [
+      446,
+      1016,
+      693,
+      1068
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9697,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1835,
+      "end_orig": 1937,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "10. 게시문을 이해한 내용으로 알맞은 것은?  [1점] ",
+    "bbox": [
+      86,
+      156,
+      345,
+      174
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1938,
+      "end_orig": 1970,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Cours  de  coréen",
+    "bbox": [
+      207,
+      201,
+      302,
+      219
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1970,
+      "end_orig": 1987,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "tudiant  coréen  donne  des  cours  de  coréen.",
+    "bbox": [
+      115,
+      228,
+      337,
+      245
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 1989,
+      "end_orig": 2036,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Seulement  mardi  et  jeudi,  à  partir  de  19  heures. ",
+    "bbox": [
+      115,
+      247,
+      358,
+      262
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.975,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2037,
+      "end_orig": 2094,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "20  euros / heure.",
+    "bbox": [
+      115,
+      264,
+      199,
+      279
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2094,
+      "end_orig": 2112,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Pour  plus  d'informations,  téléphonez  au  06  45  X  X  65.",
+    "bbox": [
+      114,
+      293,
+      392,
+      308
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2113,
+      "end_orig": 2175,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  수업은 저녁 7시에 끝난다.\n",
+    "bbox": [
+      97,
+      330,
+      245,
+      344
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2176,
+      "end_orig": 2195,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  수업료는 시간당 20유로이다.\n",
+    "bbox": [
+      97,
+      347,
+      256,
+      361
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2195,
+      "end_orig": 2215,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  화요일과 목요일에는 수업이 없다.\n",
+    "bbox": [
+      97,
+      364,
+      282,
+      378
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2215,
+      "end_orig": 2237,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  추가 정보는 메일로 문의 가능하다.\n",
+    "bbox": [
+      97,
+      381,
+      287,
+      395
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2237,
+      "end_orig": 2260,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  수업을 도와줄 수 있는 학생을 찾고 있다.\n",
+    "bbox": [
+      97,
+      399,
+      319,
+      413
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2260,
+      "end_orig": 2287,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "11. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      448,
+      284,
+      465
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2287,
+      "end_orig": 2309,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Vous  désirez ?\n",
+    "bbox": [
+      105,
+      479,
+      200,
+      493
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2310,
+      "end_orig": 2330,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Je  vais  prendre  des  fraises.",
+    "bbox": [
+      105,
+      497,
+      264,
+      511
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2330,
+      "end_orig": 2366,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: ?",
+    "bbox": [
+      104,
+      513,
+      278,
+      528
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.8,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2367,
+      "end_orig": 2371,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Je  voudrais  2  kilos  de  fraises,  s'il  vous  plaît.\n",
+    "bbox": [
+      105,
+      531,
+      353,
+      546
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9762,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2373,
+      "end_orig": 2434,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Ça  coûte  combien ②  Je  vous  dois  combien\n③  Vous  faites  du  combien ④  Je  vous  en  mets  combien\n⑤  Vous",
+    "bbox": [
+      97,
+      558,
+      402,
+      609
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9744,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2434,
+      "end_orig": 2550,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "donnez  combien",
+    "bbox": [
+      170,
+      593,
+      254,
+      609
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2558,
+      "end_orig": 2573,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "12. 빈간에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      642,
+      284,
+      660
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: Excuse-moi. Demain, ?",
+    "bbox": [
+      171,
+      675,
+      393,
+      691
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2597,
+      "end_orig": 2621,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "J'ai oublié.",
+    "bbox": [
+      189,
+      693,
+      247,
+      708
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2622,
+      "end_orig": 2634,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Devant le cinéma Gaumont.",
+    "bbox": [
+      170,
+      710,
+      330,
+      725
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2635,
+      "end_orig": 2664,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  on  se  voit  où ②  tu  as  l'heure\n③  il  est  comment ④  on  rentre  quand\n⑤  comment  tu  vas",
+    "bbox": [
+      97,
+      739,
+      355,
+      790
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9841,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2665,
+      "end_orig": 2764,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "13. 식당 방문 후기에서 불만을 표시하고 있는 사람은?",
+    "bbox": [
+      85,
+      822,
+      368,
+      840
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2765,
+      "end_orig": 2796,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Jade ②  Maël ③  Rose ④  Léna ⑤  Clara",
+    "bbox": [
+      97,
+      1050,
+      389,
+      1070
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 2999,
+      "end_orig": 3039,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "14. 빈칸에 들어갈 말로 알맞은 것은?  [1점]\n",
+    "bbox": [
+      435,
+      156,
+      662,
+      174
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3040,
+      "end_orig": 3069,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: C'est combien? ",
+    "bbox": [
+      528,
+      194,
+      629,
+      208
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3069,
+      "end_orig": 3087,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : 50 euros. Vous payez comment? ",
+    "bbox": [
+      527,
+      211,
+      714,
+      227
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3087,
+      "end_orig": 3121,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A: s'il vous plait.",
+    "bbox": [
+      527,
+      228,
+      699,
+      243
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  De  rien ②  Par  carte\n③  À  tout  prix ④  Avec  plaisir\n⑤  Pour  la  santé",
+    "bbox": [
+      446,
+      261,
+      684,
+      312
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.98,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3143,
+      "end_orig": 3221,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "15. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      435,
+      343,
+      632,
+      361
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3222,
+      "end_orig": 3244,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : On  est  le  combien  aujourd'hui ?",
+    "bbox": [
+      454,
+      374,
+      636,
+      389
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3245,
+      "end_orig": 3284,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : . A : Ah !  Je  dois  aller  chez  le  dentiste  cet  après-midi.\n",
+    "bbox": [
+      453,
+      393,
+      723,
+      424
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9462,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3285,
+      "end_orig": 3355,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  On  est  cinq ②  C'est  mercredi\n③  On  est  en  hiver ④  On  est  le  vingt\n⑤  Il  est  deux  heures",
+    "bbox": [
+      446,
+      437,
+      702,
+      488
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3355,
+      "end_orig": 3459,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "16. 빈간에 들어갈 말로 알맞은 것은? [1점]",
+    "bbox": [
+      434,
+      519,
+      662,
+      536
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Vous  parlez  bien  français. ",
+    "bbox": [
+      453,
+      550,
+      601,
+      566
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3489,
+      "end_orig": 3523,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "?",
+    "bbox": [
+      736,
+      551,
+      748,
+      566
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Je  suis  belge.  Et  vous ?",
+    "bbox": [
+      472,
+      568,
+      597,
+      583
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3530,
+      "end_orig": 3558,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Moi,  je  suis  suisse.",
+    "bbox": [
+      454,
+      585,
+      573,
+      600
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3559,
+      "end_orig": 3586,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Quel  temps  fait-il ②  Quel  âge  avez-vous\n③  Quel  est  votre  prénom ④  Quelle  est  votre  profession\n⑤  Quelle  est  votre  nationalité",
+    "bbox": [
+      446,
+      613,
+      755,
+      664
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9904,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3587,
+      "end_orig": 3731,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "17. 기차  승강장  안내  방송을  이해한  내용으로  알맞지  않은 것은?  [1점]\n",
+    "bbox": [
+      434,
+      693,
+      757,
+      732
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3732,
+      "end_orig": 3783,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Le  train  564  pour  Lyon  entre  en  gare,  au  quai numéro  7.  Il  s'arrête  cinq  minutes.  Il  va  partir à  15  heures  30.\n",
+    "bbox": [
+      457,
+      748,
+      694,
+      798
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9773,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3783,
+      "end_orig": 3914,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  기차는 Lyon행이다.\n",
+    "bbox": [
+      445,
+      982,
+      559,
+      997
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3914,
+      "end_orig": 3930,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  기차가 늦게 도착했다.\n",
+    "bbox": [
+      446,
+      999,
+      573,
+      1015
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3930,
+      "end_orig": 3946,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  기차는 5분 동안 정차한다.\n",
+    "bbox": [
+      446,
+      1016,
+      595,
+      1032
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3946,
+      "end_orig": 3965,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  기차는 오후 3시 30분에 출발한다.\n",
+    "bbox": [
+      446,
+      1034,
+      631,
+      1049
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3965,
+      "end_orig": 3989,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  기차는 7번 승강장에 들어오고 있다.\n",
+    "bbox": [
+      446,
+      1051,
+      642,
+      1067
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 3989,
+      "end_orig": 4013,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "18. 빈칸에 들어갈 말로 알맞지 않은 것은?",
+    "bbox": [
+      85,
+      156,
+      311,
+      176
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4013,
+      "end_orig": 4038,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Luc : Je  m'inquiète  pour  l'examen  de  maths. ",
+    "bbox": [
+      105,
+      188,
+      335,
+      204
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9722,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4039,
+      "end_orig": 4088,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Léo : .  Je  suis  sûr  que  tu  vas  réussir.\n",
+    "bbox": [
+      104,
+      205,
+      392,
+      221
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9492,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4088,
+      "end_orig": 4135,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Ça  va  aller ②  N'aie  pas  peur\n③  Je  crois  en  toi ④  Ne  t'inquiète  pas\n⑤  C'est  bon  marché",
+    "bbox": [
+      97,
+      233,
+      361,
+      284
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9701,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4135,
+      "end_orig": 4238,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "19. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      86,
+      317,
+      283,
+      334
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4239,
+      "end_orig": 4261,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Tu  peux  garder  mon  chien  jusqu'à  lundi ?\n",
+    "bbox": [
+      105,
+      349,
+      340,
+      364
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9714,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4262,
+      "end_orig": 4313,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : D'accord.  Mais  .  Mardi,  je  dois  partir en  vacances. ",
+    "bbox": [
+      105,
+      366,
+      397,
+      398
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.989,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4313,
+      "end_orig": 4376,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Je  te  remercie.",
+    "bbox": [
+      105,
+      401,
+      200,
+      416
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4376,
+      "end_orig": 4397,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  pas  plus ②  surtout  pas\n③  pas  possible ④  rien  du  tout\n⑤  pas  de  problème",
+    "bbox": [
+      97,
+      428,
+      336,
+      479
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9821,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4398,
+      "end_orig": 4482,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "20. 빈칸에 들어갈 말로 알맞은 것을 <보기",
+    "bbox": [
+      87,
+      512,
+      302,
+      528
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4483,
+      "end_orig": 4508,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에서 찾아 순서대로 바르게 배열한 것은?",
+    "bbox": [
+      97,
+      512,
+      407,
+      549
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4509,
+      "end_orig": 4531,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Je  visite  la  maison  de  Monet.  Tu  viens  avec  moi ?",
+    "bbox": [
+      106,
+      561,
+      384,
+      576
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4532,
+      "end_orig": 4594,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : O.K.",
+    "bbox": [
+      105,
+      578,
+      151,
+      594
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4595,
+      "end_orig": 4603,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "?",
+    "bbox": [
+      278,
+      579,
+      291,
+      593
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "empty_query"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Ce n'est pas a coté.",
+    "bbox": [
+      105,
+      596,
+      229,
+      610
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B: ?",
+    "bbox": [
+      104,
+      613,
+      264,
+      628
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.8,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4636,
+      "end_orig": 4640,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : On  prend  ma  voiture.",
+    "bbox": [
+      105,
+      630,
+      235,
+      646
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4642,
+      "end_orig": 4669,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B: ?",
+    "bbox": [
+      104,
+      648,
+      263,
+      662
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.8,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4670,
+      "end_orig": 4674,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : À  peu  près  trente  minutes.\n",
+    "bbox": [
+      105,
+      663,
+      263,
+      681
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9167,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4676,
+      "end_orig": 4711,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보  기>",
+    "bbox": [
+      225,
+      693,
+      277,
+      712
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4711,
+      "end_orig": 4717,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a. C'est  loin b. On  y  va  comment\nc. Il  faut  combien  de  temps",
+    "bbox": [
+      103,
+      711,
+      374,
+      745
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9787,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4718,
+      "end_orig": 4786,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  a - b - c ②  a - c - b ③  b - a - c\n④  b - c - a ⑤  c - a - b",
+    "bbox": [
+      96,
+      756,
+      361,
+      792
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.8667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4787,
+      "end_orig": 4851,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "21. 안내문을 이해한 내용으로 알맞지 않은 것은?",
+    "bbox": [
+      85,
+      822,
+      342,
+      842
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4852,
+      "end_orig": 4880,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Comment  faire  quand  il  fait  très  chaud  l'été ?\n",
+    "bbox": [
+      135,
+      887,
+      369,
+      902
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9737,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4881,
+      "end_orig": 4935,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ Boire  beaucoup  d'eau\n◦ Ouvrir  les  fenêtres  la  nuit\n◦ Ne  pas  faire  trop  de  sport\n◦ Ne  pas  sortir  entre  12  et  14  heures\n◦ Prendre  des  douches  plusieurs  fois  par  jour",
+    "bbox": [
+      137,
+      907,
+      369,
+      992
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9692,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 4935,
+      "end_orig": 5124,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  물을 많이 마시기 ②  밤에 창문 열어 놓기\n③  지나친 운동 하지 않기 ④  오전에는 외출하지 않기\n⑤  하루에 여러 번 샤워하기",
+    "bbox": [
+      97,
+      1015,
+      391,
+      1067
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5125,
+      "end_orig": 5201,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "22. 글에서 설명하고 있는 것은?  [1점]\n",
+    "bbox": [
+      434,
+      156,
+      635,
+      174
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5202,
+      "end_orig": 5228,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ C'est  l'un  des  musées les  plus  célèbres  en France.\n",
+    "bbox": [
+      457,
+      188,
+      579,
+      238
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9535,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5228,
+      "end_orig": 5287,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦ Avant,  c'était  une  gare de  Paris.\n",
+    "bbox": [
+      456,
+      240,
+      580,
+      272
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9655,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5287,
+      "end_orig": 5327,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "o Dans ce musée, il y a",
+    "bbox": [
+      456,
+      274,
+      581,
+      290
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "des  tableaux  impressionnistes  de  Manet,  Renoir  et  d'autres.",
+    "bbox": [
+      467,
+      291,
+      747,
+      309
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5356,
+      "end_orig": 5422,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "\n* célèbre : 유명한  * tableau : 그림  * impressionniste : 인상주의의\n①  Le  musée  d'Orsay ②  Le  musée  Grévin\n③  Le  musée  de  l'Orangerie ④  Le  musée  du  Luxembourg\n⑤  Le  musée  du  Quai  Branly",
+    "bbox": [
+      446,
+      313,
+      754,
+      392
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9926,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5422,
+      "end_orig": 5614,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "23. 대화의 내용으로 보아 밑줄 친 부분의 의미로 알맞은 것은?",
+    "bbox": [
+      434,
+      444,
+      756,
+      463
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5615,
+      "end_orig": 5651,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Tu  as  vu  le  match  de  tennis  de  Noah ?",
+    "bbox": [
+      455,
+      477,
+      675,
+      490
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5652,
+      "end_orig": 5701,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Oui.  Il  a  gagné  les  doigts  dans  le  nez.",
+    "bbox": [
+      453,
+      493,
+      670,
+      509
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5702,
+      "end_orig": 5753,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Qu'est-ce  que  ça  veut  dire ?\n",
+    "bbox": [
+      453,
+      510,
+      621,
+      527
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5754,
+      "end_orig": 5791,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Ça  veut  dire  qu'il  a  gagné  sans  difficulté. ",
+    "bbox": [
+      453,
+      529,
+      687,
+      543
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9737,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5791,
+      "end_orig": 5846,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Ah,  j'ai  compris.",
+    "bbox": [
+      454,
+      545,
+      559,
+      561
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5846,
+      "end_orig": 5869,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "* doigt : 손가락  * nez : 코",
+    "bbox": [
+      529,
+      568,
+      658,
+      582
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5870,
+      "end_orig": 5894,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "difficulté : 어려움",
+    "bbox": [
+      667,
+      568,
+      746,
+      582
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5898,
+      "end_orig": 5914,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Il  a  travaillé  dur\n②  Il  a  perdu  le  match\n③  Il  est  arrivé  à  minuit\n④  Il  est  descendu  très  bas\n⑤  Il  a  gagné  le  match  facilement",
+    "bbox": [
+      446,
+      595,
+      618,
+      680
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9796,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 5915,
+      "end_orig": 6067,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "24. Pierre  Soulages에  관한  글을  이해한  내용으로  알맞은 것만을",
+    "bbox": [
+      435,
+      734,
+      755,
+      770
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6068,
+      "end_orig": 6117,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "게서 고른 것은?",
+    "bbox": [
+      527,
+      753,
+      602,
+      770
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Pierre  Soulages  est  un  peintre français  très  important  dans l'art  moderne.  Dans  ses  œuvres, il  s'est  beaucoup  servi  du  noir. ",
+    "bbox": [
+      453,
+      783,
+      609,
+      850
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9714,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6132,
+      "end_orig": 6273,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Il est né a Rodez en 1919.",
+    "bbox": [
+      453,
+      852,
+      609,
+      867
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.4,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6299,
+      "end_orig": 6305,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Dans  cette  ville,  on  trouve  un musée  à  son  nom.  En  2019,  une  exposition  au  musée  du Louvre  a  fêté  les  100  ans  du  peintre.\n",
+    "bbox": [
+      453,
+      869,
+      747,
+      920
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9794,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6306,
+      "end_orig": 6450,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "* peintre: 화가 * ceuvre:작품",
+    "bbox": [
+      503,
+      924,
+      651,
+      941
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "exposition : 전시회",
+    "bbox": [
+      661,
+      924,
+      746,
+      941
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6482,
+      "end_orig": 6498,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보  기>",
+    "bbox": [
+      574,
+      954,
+      624,
+      970
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6499,
+      "end_orig": 6505,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a. Il  est  devenu  peintre  en  1919.",
+    "bbox": [
+      453,
+      972,
+      619,
+      987
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6506,
+      "end_orig": 6544,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "b. Un  musée  à  Rodez  porte  son  nom.\n",
+    "bbox": [
+      452,
+      989,
+      645,
+      1005
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.963,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6545,
+      "end_orig": 6586,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "c. Il  a  utilisé  le  noir  dans  ses  œuvres.\n",
+    "bbox": [
+      453,
+      1006,
+      649,
+      1022
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9688,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6586,
+      "end_orig": 6634,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "d. Le  musée  du  Louvre  a  refusé  son  exposition  en  2019.",
+    "bbox": [
+      453,
+      1024,
+      740,
+      1038
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6634,
+      "end_orig": 6697,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  a,  b ②  a,  c ③  b,  c ④  b,  d ⑤  c,  d",
+    "bbox": [
+      446,
+      1050,
+      732,
+      1071
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6698,
+      "end_orig": 6742,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "25. Fête  de  la  Musique에 관한 글을 이해한 내용으로 알맞은 것은?  [1점]\n",
+    "bbox": [
+      85,
+      156,
+      407,
+      194
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.975,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6743,
+      "end_orig": 6799,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "La fête de la Musique a vu le jour en 1982, en France. ",
+    "bbox": [
+      105,
+      312,
+      398,
+      327
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9762,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6799,
+      "end_orig": 6854,
+      "reason": "anchor_rescue"
+    }
+  },
+  {
+    "type": "text",
+    "text": "le 21 juin, suivant son slogan, \"Faites de la musique!\", les gens sortent dans la rue pour jouer ou écouter de la musique. La musique est partout, et la fête est gratuite. Aujourd'hui, cette fête s'étend à plusieurs pays d'Europe. ",
+    "bbox": [
+      105,
+      330,
+      398,
+      414
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9567,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 6867,
+      "end_orig": 7098,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "*slogan: 슬로건 *s'étendre: 확대되다\n①",
+    "bbox": [
+      213,
+      419,
+      398,
+      434
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9259,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7098,
+      "end_orig": 7129,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  참가비를 내야 한다.\n",
+    "bbox": [
+      97,
+      448,
+      213,
+      462
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7128,
+      "end_orig": 7143,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "②  1982년에 시작되었다.\n",
+    "bbox": [
+      97,
+      464,
+      219,
+      479
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7143,
+      "end_orig": 7160,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "③  2년에 한 번씩 열린다.\n",
+    "bbox": [
+      97,
+      482,
+      225,
+      496
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7160,
+      "end_orig": 7177,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "④  Europe의 모든 나라가 참여한다.",
+    "bbox": [
+      97,
+      500,
+      273,
+      515
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7177,
+      "end_orig": 7200,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "⑤  슬로건이 “모두 춤을 춥시다”이다.\n",
+    "bbox": [
+      97,
+      517,
+      282,
+      531
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7201,
+      "end_orig": 7224,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "26. Corse에 관한 대화를 이해한 내용으로 알맞은 것만을 <보기> 에서 고른 것은?",
+    "bbox": [
+      86,
+      609,
+      406,
+      646
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7224,
+      "end_orig": 7273,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Mia : Tu as voyagé où pour les vacances? ",
+    "bbox": [
+      105,
+      796,
+      328,
+      811
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9688,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7274,
+      "end_orig": 7315,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Noé : Je suis allé en Corse, au sud-est de la France.",
+    "bbox": [
+      105,
+      814,
+      375,
+      828
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7315,
+      "end_orig": 7368,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Mia : Tu sais que Napoléon Bonaparte est né dans cette île? ",
+    "bbox": [
+      105,
+      831,
+      398,
+      846
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9792,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7369,
+      "end_orig": 7429,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Noé : Oui, j'ai visité sa maison à Ajaccio. La Corse est aussi connue pour la randonnée. Regarde ces photos! ",
+    "bbox": [
+      105,
+      848,
+      398,
+      880
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9888,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7429,
+      "end_orig": 7538,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Mia",
+    "bbox": [
+      105,
+      883,
+      127,
+      898
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7538,
+      "end_orig": 7541,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "Elles sont vraiment magnifiques! C'est pourquoi on appelle la Corse 1^le de Beaute´",
+    "bbox": [
+      136,
+      883,
+      398,
+      916
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9504,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7544,
+      "end_orig": 7627,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": " *randonnée: 도보 여행",
+    "bbox": [
+      194,
+      924,
+      309,
+      940
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7628,
+      "end_orig": 7646,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "beaute: 아름다움",
+    "bbox": [
+      318,
+      924,
+      398,
+      940
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.5333,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7655,
+      "end_orig": 7660,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보  기>",
+    "bbox": [
+      225,
+      952,
+      276,
+      970
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7661,
+      "end_orig": 7667,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a. France의 북서쪽에 있다.",
+    "bbox": [
+      104,
+      972,
+      241,
+      985
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7668,
+      "end_orig": 7687,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "b. Ile de Beauté로 불린다.",
+    "bbox": [
+      105,
+      987,
+      242,
+      1004
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": 0.4348,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7708,
+      "end_orig": 7714,
+      "reason": "low_similarity"
+    }
+  },
+  {
+    "type": "text",
+    "text": "c. 도보 여행지로 유명하다.",
+    "bbox": [
+      105,
+      1006,
+      242,
+      1019
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7715,
+      "end_orig": 7731,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "d. Napoléon  Bonaparte가 발견한 섬이다.",
+    "bbox": [
+      105,
+      1024,
+      307,
+      1037
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7732,
+      "end_orig": 7764,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  a,  b ②  a,  c ③  b,  c ④  b,  d ⑤  c,  d",
+    "bbox": [
+      97,
+      1049,
+      383,
+      1070
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7765,
+      "end_orig": 7809,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "27. 빈칸에 들어갈 말로 알맞은 것은?",
+    "bbox": [
+      434,
+      156,
+      633,
+      174
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7810,
+      "end_orig": 7832,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : rencontres-tu  ce  soir ?",
+    "bbox": [
+      452,
+      188,
+      630,
+      203
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9545,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7833,
+      "end_orig": 7862,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Mes  amis  du  lycée.",
+    "bbox": [
+      454,
+      205,
+      574,
+      221
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7863,
+      "end_orig": 7888,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  Que ②  Qui ③  Quoi ④  À  quoi ⑤  De  qui",
+    "bbox": [
+      444,
+      231,
+      745,
+      252
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.96,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7889,
+      "end_orig": 7932,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "28. 빈칸에 들어갈 말로 알맞은 것만을",
+    "bbox": [
+      435,
+      305,
+      636,
+      324
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7933,
+      "end_orig": 7955,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "에서 고른 것은?",
+    "bbox": [
+      677,
+      305,
+      756,
+      324
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 7960,
+      "end_orig": 7969,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : Robert n'est plus la ?",
+    "bbox": [
+      455,
+      337,
+      584,
+      351
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "B : Non,  il  est  parti  .  Mais  pourquoi ?\n",
+    "bbox": [
+      453,
+      354,
+      748,
+      370
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8000,
+      "end_orig": 8046,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "A : J'avais  quelque  chose  à  lui  dire.\n",
+    "bbox": [
+      454,
+      372,
+      639,
+      387
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9667,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8046,
+      "end_orig": 8089,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "<보  기>",
+    "bbox": [
+      573,
+      399,
+      627,
+      419
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8089,
+      "end_orig": 8095,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a.  depuis  peu b.  tout  à  l'heure\nc.  à  tout  moment d.  dans  quelque  temps\n①  a,  b ②  a,  c ③  b,  c ④  b,  d ⑤  c,  d",
+    "bbox": [
+      446,
+      418,
+      732,
+      483
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9605,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8096,
+      "end_orig": 8222,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "29. 밑줄 친 부분의 쓰임이 옳은 것만을 고른 것은?",
+    "bbox": [
+      434,
+      537,
+      701,
+      553
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8223,
+      "end_orig": 8253,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a. Elle  s'est  mise  à  sourire.\n",
+    "bbox": [
+      452,
+      567,
+      596,
+      583
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9583,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8254,
+      "end_orig": 8288,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "b. Ma  fille  s'est  blessée  au  bras.",
+    "bbox": [
+      453,
+      585,
+      623,
+      601
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8288,
+      "end_orig": 8327,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": ". Ils  se  sont  rappelé  l'un  l'autre.\n",
+    "bbox": [
+      453,
+      603,
+      626,
+      618
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9831,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8329,
+      "end_orig": 8370,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "d. Elle  s'est  souvenu  des  jours  heureux.",
+    "bbox": [
+      453,
+      619,
+      659,
+      635
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8370,
+      "end_orig": 8415,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  a,  b ②  a,  c ③  b,  c ④  b,  d ⑤  c,  d",
+    "bbox": [
+      446,
+      646,
+      732,
+      666
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8416,
+      "end_orig": 8460,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "30. 밑줄 친 부분의 쓰임이 옳은 것만을 있는 대로 고른 것은?",
+    "bbox": [
+      435,
+      720,
+      753,
+      736
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8461,
+      "end_orig": 8497,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "[1점]",
+    "bbox": [
+      726,
+      740,
+      757,
+      759
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8498,
+      "end_orig": 8502,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "a. Tu  veux  ce  chocolat ?  -  Oui,  je  le  prends  une  boîte.\n",
+    "bbox": [
+      453,
+      769,
+      734,
+      784
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9535,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8503,
+      "end_orig": 8569,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "b.  Tu  peux  faire  du  foot ?  -  Non,  je  ne  sais  pas  y  jouer.",
+    "bbox": [
+      453,
+      786,
+      745,
+      802
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9767,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8569,
+      "end_orig": 8639,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": " Il  est  toujours  dans  son  bureau ?  -  Non,  il  en  est  sorti.",
+    "bbox": [
+      454,
+      805,
+      746,
+      819
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9565,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8642,
+      "end_orig": 8711,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "①  a ②  b ③  a,  c ④  b,  c ⑤  a,  b,  c",
+    "bbox": [
+      444,
+      830,
+      744,
+      850
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8712,
+      "end_orig": 8752,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "*  확인 사항",
+    "bbox": [
+      445,
+      1006,
+      507,
+      1023
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 1.0,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8753,
+      "end_orig": 8761,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오",
+    "bbox": [
+      447,
+      1031,
+      744,
+      1064
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": true,
+      "similarity": 0.9688,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": 8762,
+      "end_orig": 8801,
+      "reason": "passed_threshold_no_ws"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제5교시",
+    "bbox": [
+      92,
+      154,
+      174,
+      190
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "text",
+    "text": "제2외국어/한문 영역(프랑스어I)",
+    "bbox": [
+      188,
+      146,
+      705,
+      205
+    ],
+    "page_idx": 0,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": false,
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "not_found"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      280,
+      246,
+      385
+    ],
+    "page_idx": 0,
+    "image_path": "bd5c3220ee9b1b261ba64421d7f3e59238ae35405bf1d4d4e118d8a7e20243c8.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      445,
+      280,
+      541,
+      344
+    ],
+    "page_idx": 0,
+    "image_path": "5e2a908a4365c88c5f86dd93cd08cf7e92432223660f0bd529d758dbb4f8d8b8.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      703,
+      535,
+      792
+    ],
+    "page_idx": 0,
+    "image_path": "eba61b8d23c02efd4e6bb37a23b255bcb48b5cb5471f4bf3289579f3a60610b3.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { m ^ { \\prime } e n }",
+    "bbox": [
+      142,
+      595,
+      170,
+      608
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      668,
+      165,
+      734
+    ],
+    "page_idx": 1,
+    "image_path": "6d1c0e02e3d87ecf7cb093144a0e04c47e3bc826a63c06d9f252abaa0d033baf.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "table",
+    "bbox": [
+      97,
+      847,
+      403,
+      1047
+    ],
+    "page_idx": 1,
+    "table_body": "<table><tr><td>← → ㅇ</td><td>···</td></tr><tr><td>La Normandíe 00000 53 avis 13 rue des Lys, Paris</td><td>Restaurant La Non</td></tr><tr><td>Jade : Génial! On va revenir !</td><td></td></tr><tr><td>Maél : Sympa et bonne cuisine!</td><td></td></tr><tr><td>Rose : Plats délicieux!</td><td></td></tr><tr><td>Léna : Tout est super, de l&#x27;entrée au dessert!</td><td></td></tr><tr><td>Clara : Aucun goüt ! Le chef n&#x27;est pas poli!</td><td></td></tr></table>",
+    "table_caption": [],
+    "table_footnote": [],
+    "image_path": "5966e8a0cee90f04c45a26a7e0f58ab7ecd0f019191c94d89150a0d7c51b1cf0.jpg",
+    "original_type": "table"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      182,
+      522,
+      257
+    ],
+    "page_idx": 1,
+    "image_path": "6dcaddbced0eedfab4a022990afdbfa760a6625daabfe4e062d95bd275041b5f.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\mathrm { ~ B ~ : ~ }",
+    "bbox": [
+      454,
+      568,
+      472,
+      582
+    ],
+    "page_idx": 1,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      446,
+      801,
+      754,
+      977
+    ],
+    "page_idx": 1,
+    "image_path": "4a07d9486795034d7279c91126702b8e06d98109be785a4351eff0557c060862.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "| >",
+    "bbox": [
+      303,
+      514,
+      312,
+      525
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      342,
+      871,
+      361,
+      886
+    ],
+    "page_idx": 2,
+    "image_path": "56506107dcc2f3c0c0c89835d1d96c6cf89003788352e9ceb0d94112cacb8fc9.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      589,
+      189,
+      747,
+      284
+    ],
+    "page_idx": 2,
+    "image_path": "def68f380dd2dd3d415b2bb6f6780ac3c85defbb37623abea0efd9be420b48ea.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      658,
+      570,
+      666,
+      579
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "< 1 1 > 0",
+    "bbox": [
+      482,
+      754,
+      526,
+      768
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      618,
+      785,
+      746,
+      877
+    ],
+    "page_idx": 2,
+    "image_path": "6eccaa377ca8a0778206088ccf956f04a682a01368339103c60e92d90e87df16.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      652,
+      927,
+      660,
+      937
+    ],
+    "page_idx": 2,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "image",
+    "bbox": [
+      96,
+      200,
+      403,
+      306
+    ],
+    "page_idx": 3,
+    "image_path": "3098dec71c36933593e929d64c13eb242b50651b9e462ab193cdf82e1c676998.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "image",
+    "bbox": [
+      97,
+      653,
+      402,
+      790
+    ],
+    "page_idx": 3,
+    "image_path": "47ce5f83da3baaf5d4e426f0f84bf6732a2e89f7dea5c1e83d12da324457dc21.jpg",
+    "alt": "",
+    "caption": null,
+    "original_type": "image"
+  },
+  {
+    "type": "inline_equation",
+    "content": ":",
+    "bbox": [
+      127,
+      885,
+      135,
+      894
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "^ *",
+    "bbox": [
+      309,
+      927,
+      317,
+      936
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  },
+  {
+    "type": "inline_equation",
+    "content": "\\angle 1 = 1 2 7 7 >",
+    "bbox": [
+      636,
+      307,
+      677,
+      321
+    ],
+    "page_idx": 3,
+    "_xhtml_replace": {
+      "function": "replace_text_blocks",
+      "replaced": "inline_equation",
+      "similarity": null,
+      "similarity_mode": "no_ws_hanless",
+      "start_orig": null,
+      "end_orig": null,
+      "reason": "non_text_block"
+    }
+  }
+]
